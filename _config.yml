@@ -28,6 +28,8 @@ collections:
     output: true
   careers:
     output: true
+  e-services:
+    output: true
 resources_name: press-room
 
 description: An Isomer site of the Singapore Government
