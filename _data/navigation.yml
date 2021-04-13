@@ -4,11 +4,9 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/cpib-logo.png
 
 links:
-  - title: Contact Us
-    url: /contact-us/
   - title: Who We Are
     collection: who-we-are
   - title: About Corruption
@@ -21,4 +19,5 @@ links:
     collection: careers
   - title: e-Services
     collection: e-services
-
+  - title: Contact Us
+    url: /contact-us/
