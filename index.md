@@ -19,10 +19,6 @@ sections:
             - title: e-Booking for Learning Journey
               description: 
               url: https://www.cpib.gov.sg/learning-journey
-    - resources:
-        title: Highlights
-        subtitle: 
-        button: VIEW ALL
     - infopic:
         title: The Corruption Casebook – Stories From Under The Table
         subtitle: 
@@ -43,5 +39,9 @@ sections:
         description: About a sentence worth of description here
         button: Button text
         url: /faq/
+    - resources:
+        title: Highlights
+        subtitle: 
+        button: VIEW ALL
 ---
 
