@@ -4,7 +4,7 @@ title: Corrupt Practices Investigation Bureau Website
 description: Brief site description here
 image: /images/cpib_logo.png
 permalink: /
-notification: 
+notification: Maintenance on 1 Jan 2021, 0000 - 0800 hrs
 sections:
     - hero:
         title: Seen or Suspect Something?
