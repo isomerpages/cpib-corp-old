@@ -19,12 +19,5 @@ sections:
             - title: e-Booking for Learning Journey
               description: 
               url: https://www.cpib.gov.sg/learning-journey
-    - infopic:
-        title: The Corruption Casebook – Stories From Under The Table
-        subtitle: 
-        image: /images/img_corruption_handbk.jpg
-        description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "**The Corruption Casebook - Stories From Under The Table**" featuring stories on past cases of corruption.
-        button: LEARN MORE
-        url: /faq/
 ---
 
