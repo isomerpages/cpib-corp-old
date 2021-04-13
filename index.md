@@ -30,5 +30,6 @@ sections:
         button: LEARN MORE
         url: /faq/
         image: /images/img_corruption_handbk.jpg
+        alt: The Corruption Casebook – Stories From Under The Table
 ---
 
