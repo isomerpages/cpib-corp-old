@@ -4,7 +4,7 @@ title: Corrupt Practices Investigation Bureau Website
 description: Brief site description here
 image: /images/cpib_logo.png
 permalink: /
-notification: Due to the elevated COVID-19 safe distancing measures, the Corruption Reporting & Heritage Centre (CRHC) @ 247 Whitley Road will remain closed till further notice. The CPIB will still operate as usual. However, members of the public are strongly advised against visiting the CPIB headquarters during this time of elevated safe distancing measures.<br>a) Call the Duty Officer at 1800-376-0000; or
+notification: Announcement<br>Due to the elevated COVID-19 safe distancing measures, the Corruption Reporting & Heritage Centre (CRHC) @ 247 Whitley Road will remain closed till further notice. The CPIB will still operate as usual. However, members of the public are strongly advised against visiting the CPIB headquarters during this time of elevated safe distancing measures.<br>a) Call the Duty Officer at 1800-376-0000; or<br>b) Lodge an e-Complaint at www.cpib.gov.sg/e-complaint; or<br>c) Email us at report@cpib.gov.sg; or<br>d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047
 
 sections:
     - hero:
