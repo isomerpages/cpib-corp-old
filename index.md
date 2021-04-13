@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Corrupt Practices Investigation Bureau Website
-description: Brief site description here
+description: The Corrupt Practices Investigation Bureau (CPIB), an independent agency, is responsible for the investigation and prevention of corruption in Singapore.
 image: /images/cpib_logo.png
 permalink: /
 notification: <B>Announcement</b><br>Due to the elevated COVID-19 safe distancing measures, the Corruption Reporting & Heritage Centre (CRHC) @ 247 Whitley Road will remain closed till further notice. The CPIB will still operate as usual. However, members of the public are strongly advised against visiting the CPIB headquarters during this time of elevated safe distancing measures.
