@@ -19,5 +19,9 @@ sections:
             - title: e-Booking for Learning Journey
               description: 
               url: https://www.cpib.gov.sg/learning-journey
+    - resources:
+        title: Highlights
+        subtitle: 
+        button: VIEW ALL
 ---
 
