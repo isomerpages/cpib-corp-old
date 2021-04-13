@@ -19,15 +19,15 @@ sections:
             - title: e-booking for Learning Journey
               description: 
               url: https://www.cpib.gov.sg/learning-journey
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
+        - resources:
         title: Highlights
         subtitle: 
         button: VIEW ALL
+        - infobar:
+        title: Resources
+        subtitle: 
+        description: About a sentence worth of description here
+        button: Button text
+        url: /faq/
 ---
 
