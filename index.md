@@ -4,7 +4,7 @@ title: Corrupt Practices Investigation Bureau Website
 description: Brief site description here
 image: /images/cpib_logo.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
         title: Seen or Suspect Something?
