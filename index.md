@@ -13,10 +13,10 @@ sections:
         button: Report Corruption
         url: https://www.cpib.gov.sg/e-complaint
         key_highlights:
-            - title: e-booking for Public Education Talk
+            - title: e-Booking for Public Education Talk
               description: 
-              url: https://www.cpib.gov.sg/public-education-talk
-            - title: e-booking for Learning Journey
+              url: /e-services/e-booking-for-public-education-talk
+            - title: e-Booking for Learning Journey
               description: 
               url: https://www.cpib.gov.sg/learning-journey
     - resources:
