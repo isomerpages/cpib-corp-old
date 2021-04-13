@@ -26,22 +26,5 @@ sections:
         description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "**The Corruption Casebook - Stories From Under The Table**" featuring stories on past cases of corruption.
         button: LEARN MORE
         url: /faq/
-    - infopic:
-        title: PACT: A Practical Anti-Corruption Guide for Businesses in Singapore
-        subtitle: 
-        image: /images/img_pact.jpg
-        description: A clean business protects a company and employees from being caught in thorny and compromising situations. As part of the CPIB’s commitment to combat corruption in the private sector, we have developed **PACT: A Practical Anti-Corruption Guide for Businesses in Singapore** to help domestic business owners prevent corruption in their companies.
-        button: LEARN MORE
-        url: /faq/
-    - infobar:
-        title: Resources
-        subtitle: 
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
-    - resources:
-        title: Highlights
-        subtitle: 
-        button: VIEW ALL
 ---
 
