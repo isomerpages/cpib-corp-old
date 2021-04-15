@@ -17,7 +17,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 ### PRIVACY STATEMENT
 
-4\. Please <A HREF="/pages/privacy">click here</A> to review this Site’s Privacy Statement.
+4\. Please <A HREF="/privacy">click here</A> to review this Site’s Privacy Statement.
 
 ### RESTRICTIONS ON USE OF CONTENTS
 
@@ -25,11 +25,11 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 6\. Subject to Clause 4.3, to use any parts of the Contents of this Site, the user must seek permission in writing, stating the:
 
-Contents for use;
-Intent of use;
-Manner of use;
-Time frame of use; and
-Identity of the user.
+ * Contents for use;
+ * Intent of use;
+ * Manner of use;
+ * Time frame of use; and
+ * Identity of the user.
 
 7\. CPIB reserves the right to refuse permission without declaring reason(s) and/or if the information submitted by the user is deemed insufficient.
 
