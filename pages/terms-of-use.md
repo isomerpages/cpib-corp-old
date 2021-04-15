@@ -3,17 +3,15 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
-## General Terms and Conditions on the Use of the Isomer Pages Website
-
 Thank you for visiting the Corrupt Practices Investigation Bureau’s website (the “Site”). By accessing and using any part of this Site, you unconditionally accept to be legally bound by these Terms of Use. If you do not agree to these Terms of Use, please do not use this Site.
 
-1. ### GENERAL
+### GENERAL
 
-These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit the Site.
+1\. These Terms of Use may be changed from time to time. All changes will be posted on this page, and your use of this Site after such changes have been posted will constitute your unconditional agreement to the modified Terms of Use and all of the changes. You should therefore read this page carefully each time you visit the Site.
 
-2. ### PROPRIETARY RIGHTS
+### PROPRIETARY RIGHTS
 
-This website was created by the Corrupt Practices Investigation Bureau as a public service. 
+2\. This website was created by the Corrupt Practices Investigation Bureau as a public service. 
 
 The Corrupt Practices Investigation Bureau does not warrant the accuracy of the information contained herein nor it is responsible for any errors or omissions and assumes no liability for its use.
 
