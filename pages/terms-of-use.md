@@ -17,10 +17,26 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 ### PRIVACY STATEMENT
 
-4\. Please <A HREF=/pages/privacy>click here</A> to review this Site’s Privacy Statement.
+4\. Please <A HREF="/pages/privacy">click here</A> to review this Site’s Privacy Statement.
 
 ### RESTRICTIONS ON USE OF CONTENTS
 
 5\. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CPIB.
+
+6\. Subject to Clause 4.3, to use any parts of the Contents of this Site, the user must seek permission in writing, stating the:
+
+Contents for use;
+Intent of use;
+Manner of use;
+Time frame of use; and
+Identity of the user.
+
+7\. CPIB reserves the right to refuse permission without declaring reason(s) and/or if the information submitted by the user is deemed insufficient.
+
+8\. You may use, hyperlink, copy and distribute the Contents solely for personal, internal, non-commercial or informational purposes only. You may download one copy of any information provided in this Site onto a single computer for your own personal, non-commercial use provided that you keep intact all accompanying copyright and other proprietary notices. You may not display, distribute or otherwise use any of the Content for any commercial purpose unless you receive specific written consent from CPIB.
+
+9\. Modification of any of the Contents or use of the Contents without MSE’s written permission or for any other purpose outside the scope of MSE’s permission will be a violation of MSE’s copyright and other intellectual property rights. Graphics and images on this Site are protected by copyright and may not be reproduced or appropriated in any manner without the prior written permission of MSE.
+
+10\. The design and layout of this website is protected by intellectual property and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, image or search engine from this website may be copied or transmitted unless expressly permitted by CPIB.
 
 ### RESTRICTIONS ON USE OF CONTENTS
