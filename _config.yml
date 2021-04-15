@@ -21,7 +21,7 @@ colors:
 
 collections:
   who-we-are:
-    output: false
+    output: true
   about-corruption:
     output: true
   research-room:
