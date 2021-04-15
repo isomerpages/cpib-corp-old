@@ -42,9 +42,7 @@ sections:
     - infobar:
         title: Social
         subtitle: 
-        description: <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U-dn5e_h2XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+        description: <div class="bp-youtube"><iframe width="560" height="315" src="https://www.youtube.com/embed/U-dn5e_h2XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
         button: More Videos
         url: http://www.youtube.com/channel/UCpvRQUO1IcQcCJyVwl3sqjg
 ---
