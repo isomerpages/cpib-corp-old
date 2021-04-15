@@ -1,4 +1,4 @@
-title: Title
+title: Corrupt Practices Investigation Bureau Website
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: /images/favicon-isomer.ico
 
@@ -21,7 +21,7 @@ colors:
 
 collections:
   who-we-are:
-    output: true
+    output: false
   about-corruption:
     output: true
   research-room:
