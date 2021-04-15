@@ -43,7 +43,7 @@ sections:
         title: Social
         subtitle: 
         description: <iframe width="560" height="315" src="https://www.youtube.com/embed/U-dn5e_h2XM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        button: Visit our YouTube channel
+        button: More Videos
         url: http://www.youtube.com/channel/UCpvRQUO1IcQcCJyVwl3sqjg
 ---
 
