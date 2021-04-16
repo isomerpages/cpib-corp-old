@@ -18,6 +18,6 @@ We will continuously improve our systems, processes and services to achieve orga
 
 We aim to:
 
-Attend to 80% of visitors calling at the Bureau within 10 minutes from their appointment time.
-Answer 100% of calls to the Duty Officer line within 20 seconds. 
-Respond to enquiries made to the Quality Service Manager (QSM) within 3 working days for simple, clear-cut feedback and within 3 weeks for complex feedback*.
+* Attend to 80% of visitors calling at the Bureau within 10 minutes from their appointment time.
+* Answer 100% of calls to the Duty Officer line within 20 seconds. 
+* Respond to enquiries made to the Quality Service Manager (QSM) within 3 working days for simple, clear-cut feedback and within 3 weeks for complex feedback*.
