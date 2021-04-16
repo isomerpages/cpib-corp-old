@@ -4,7 +4,7 @@ permalink: /who-we-are/our-corporate-philosophy/mission-vision-core-values/
 third_nav_title: Our Corporate Philosophy
 ---
 
-<img src="/images/mission-vision-values_0.jpg" alt="mission vision core values" width="500" height="600">
+<img src="/images/mission-vision-values_0.jpg" alt="mission vision core values">
 
 The Corrupt Practices Investigation Bureau (CPIB), an independent agency, is responsible for the investigation and prevention of corruption in Singapore. It is the world’s oldest anti-corruption agency established in 1952 by the British colonial government.
 
