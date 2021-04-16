@@ -65,4 +65,14 @@ On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that
 
 Website: <a href=/files/IACCC Leaflet.pdf target="_blank">IACCC Leaflet</a>
 
+<img src="/images/sea-pac.png" alt="sea pac">
+
+**South East Asia - Parties Against Corruption (SEA-PAC)**
+
+SEA-PAC was established through the Memorandum of Understanding (MOU) on Cooperation for Preventing and Combating Corruption, which was initially signed by anti-corruption agencies from Brunei, Indonesia, Malaysia and Singapore on 15 December 2004. 
+
+The SEA-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of SEA-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of SEA-PAC, CPIB attends regular SEA-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
+
+Website link: <a href="http://www.sea-pac.org/" target="_blank">http://www.sea-pac.org/</a>
+
 
