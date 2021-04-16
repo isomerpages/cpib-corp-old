@@ -18,4 +18,6 @@ In 1999, the Asian Development Bank (ADB) and Organisation for Economic Co-opera
 
 There are currently 31 countries and jurisdictions of the Asia-Pacific which are party to the Initiative, including Singapore (represented by CPIB) which endorsed the Initiative’s Action Plan in November 2001. The Initiative supports member governments’ efforts to implement goals and standards for sustainable safeguards against corruption in the economic, political and social spheres through fostering policy dialogue, policy analysis and capacity building. As a member of the Initiative, CPIB attends Annual Steering Group Meetings held to discuss countries’ efforts to implement the Action Plan as well as the Initiative’s periodic Regional Conferences which gather policymakers, civil society and business sector representatives to assess progress and exchange ideas.
 
-Website link: http://www.oecd.org/site/adboecdanti-corruptioninitiative/
+Website: <a href="http://www.oecd.org/site/adboecdanti-corruptioninitiative/" target="_blank">http://www.oecd.org/site/adboecdanti-corruptioninitiative/</a>
+
+
