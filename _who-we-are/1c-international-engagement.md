@@ -75,4 +75,19 @@ The SEA-PAC MOU has subsequently been signed by anti-corruption agencies from Ca
 
 Website link: <a href="http://www.sea-pac.org/" target="_blank">http://www.sea-pac.org/</a>
 
+<img src="/images/uncac-logo.jpg" alt="uncac">
 
+**United Nations Convention against Corruption (UNCAC)**
+
+UNCAC is an international legal instrument against corruption which is regarded as the universal standard for anti-corruption measures. It currently comprises 175 States Parties and its objectives are:  
+
+To promote and strengthen measures to prevent and combat corruption more efficiently and effectively; 
+To promote, facilitate and support international cooperation and technical assistance in the prevention of and fight against corruption, including in asset recovery;
+To promote integrity, accountability and proper management of public affairs and public property.
+States Parties to the Convention are obliged to implement and adhere to its provisions which cover five main areas of prevention, criminalization and law enforcement, international cooperation, asset recovery, and technical assistance and information exchange. Singapore signed the UNCAC on 11 November 2005 and ratified it on 6 November 2009.
+
+To review States Parties’ implementation of their obligations under the UNCAC, a country review process was established in 2009, whereby each State Party will be reviewed by two other States Parties. Singapore had been a reviewing State Party for Argentina in 2010 and El Salvador in 2012. Singapore underwent its own review of its implementation of UNCAC chapters III (Criminalisation and Law Enforcement) and IV (International Cooperation), in the fourth year of the current review cycle (2013/2014), with Lebanon and Swaziland as its reviewers. The next cycle of the review concerning States Parties’ implementation of UNCAC chapters II (Preventive Measures) and V (Asset Recovery), is expected to commence in end-2015 and is likely to end in 2020.
+
+Meetings relating to the UNCAC that CPIB attends include the biennially-held Conference of States Parties (COSP), the biannual sessions of the Implementation Review Group and the annually convened Open-Ended Intergovernmental Working Group on Prevention of Corruption, Open-Ended Intergovernmental Working Group on Asset Recovery and the Open-Ended Intergovernmental Expert Meeting to enhance International Cooperation under the UNCAC.
+
+Website Link: <a href="https://www.unodc.org/unodc/en/treaties/CAC/" target="_blank">https://www.unodc.org/unodc/en/treaties/CAC/</a>
