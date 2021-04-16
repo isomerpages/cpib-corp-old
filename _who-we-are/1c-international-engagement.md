@@ -63,7 +63,7 @@ CPIB has seconded a senior officer to the IACCC since September 2017, who works 
 
 On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that allows law enforcement agencies from smaller financial centres to join the IACCC as Associate Members. 8 new law enforcement agency members has signed the MOU and joined the IACCC via the AMS. They are the Cayman Islands Anti-Corruption Commission, Gibraltar Financial Intelligence Unit, Guernsey Financial Intelligence Unit, Isle of Man Financial Intelligence Unit, Jersey Financial Intelligence Unit, Mauritius Independent Commission Against Corruption, Seychelles Anti-Corruption Commission, Turks and Caicos Islands Integrity Commission.
 
-Website: <a href=/files/IACCC Leaflet.pdf target="_blank">IACCC Leaflet</a>
+Website: <a href="/files/IACCC Leaflet.pdf" target="_blank">IACCC Leaflet</a>
 
 <img src="/images/sea-pac.png" alt="sea pac">
 
