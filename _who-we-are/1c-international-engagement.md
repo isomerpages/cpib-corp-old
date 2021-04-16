@@ -48,4 +48,17 @@ The IAACA typically has three events on its calendar per year – an Executive C
 
 Website link: <a href="http://www.iaaca.net/" target="_blank">http://www.iaaca.net/</a>
 
+<img src="/images/IACCC.jpg" alt="IACCC" width="150" height="46">
 
+**International Anti-Corruption Coordination Centre (IACCC)**
+
+In July 2017, CPIB joined the UK National Crime Agency (NCA) and law enforcement agencies from other countries [i.e. US (Federal Bureau of Investigations & Department of Homeland Security, Immigration and Customs Enforcement, Homeland Security Investigations), Australia (Australian Federal Police), New Zealand (Serious Fraud Office & New Zealand Police) and Canada (Royal Canadian Mounted Police)] to launch the UK-led International Anti-Corruption Coordination Centre (IACCC) in London. The IACCC will enhance timely sharing of information relating to grand corruption. Acts that might fall into the category of grand corruption include: 
+
+* Bribery of public officials
+* Embezzlement
+* Abuse of function
+* The laundering of the proceeds of crime
+
+CPIB has seconded a senior officer to the IACCC since September 2017, who works closely with representatives from the other foreign agencies on board the IACCC to coordinate global law enforcement responses to allegations of grand corruption.
+
+On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that allows law enforcement agencies from smaller financial centres to join the IACCC as Associate Members. 8 new law enforcement agency members has signed the MOU and joined the IACCC via the AMS. They are the Cayman Islands Anti-Corruption Commission, Gibraltar Financial Intelligence Unit, Guernsey Financial Intelligence Unit, Isle of Man Financial Intelligence Unit, Jersey Financial Intelligence Unit, Mauritius Independent Commission Against Corruption, Seychelles Anti-Corruption Commission, Turks and Caicos Islands Integrity Commission.
