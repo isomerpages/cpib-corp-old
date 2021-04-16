@@ -38,4 +38,14 @@ Established in February 2013, ECAN is a formal network of law enforcement organi
 
 The Group of Twenty or G20 is an international forum comprising of countries from 20 major economies. In 2010, G20 Leaders established the ACWG at the Toronto Summit in 2010 in recognition of the significant negative impact of corruption on economic growth, trade and development. Since 2010, the work of the ACWG has been guided by two-year action plans that include commitments by G20 countries to ratify and implement the United Nations Convention against Corruption, criminalise and prosecute foreign bribery, and cooperate with other countries to investigate, prosecute and return the proceeds of corruption. Singapore has been attending G20 meetings as a guest country since 2011 and in this regard, CPIB attends the G20 ACWG meetings which are usually held thrice a year.
 
+<img src="/images/iaaca.jpg" alt="IAACA" width="150" height="46">
+
+**International Association of Anti-Corruption Authorities (IAACA)**
+
+IAACA was established in October 2006 with the aim of facilitating the implementation of UNCAC and advancing the agenda of international cooperation against corruption. Spearheaded by the People’s Republic of China (PRC) with support from the United Nations Office on Drugs and Crime (UNODC), the IAACA currently has more than 300 organizational members comprising of law enforcement institutions tasked with fighting corruption, and more than 2000 individual members including prosecutors, investigators and experts with experience in anti-corruption research or practice.
+
+The IAACA typically has three events on its calendar per year – an Executive Committee meeting, an Annual Conference and General Meeting and a seminar. CPIB participates in the IAACA as an Executive Committee member.
+
+Website link: <a href="http://www.iaaca.net/" target="_blank">http://www.iaaca.net/</a>
+
 
