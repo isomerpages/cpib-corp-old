@@ -25,6 +25,13 @@ third_nav_title: Our Work
       PS21 ExCEL Innovation Champion (Certificate of Merit)
     </td>
   </tr>
-    
+
+  <tr>
+    <td>2015</td>
+    <td>PS21 Star Service Award<br>
+      Re-certification of Singapore Quality Class (SQC); People Developer (PD); Service Class (S-Class); and Innovation Class (I-Class)<br>
+      Eco-office re-certification
+    </td>
+  </tr>
   
 </table>
