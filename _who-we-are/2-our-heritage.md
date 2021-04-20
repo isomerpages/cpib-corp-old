@@ -84,7 +84,27 @@ input:checked + label + .accordion-content {
 		<p><b>1960</b></p>
 		<p>The Prevention of Corruption Act, introduced by then-Minister for Home Affairs Ong Pang Boon, was enacted on 17 June 1960. This new legislative order incorporated significant provisions to eliminate the deficiencies of the Prevention of Corruption Ordinance (POCO) and to empower the CPIB to conduct its investigations and law enforcement duties. The PCA has since been revised several times to ensure its relevance and effectiveness, forming one of the key pillars in Singapore’s fight against corruption.</p>
 	</div>
-	
+
+	<input type="checkbox" id="title3"  /><label for="title3">1961 - 1970</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-1961.jpg" alt="heritage 1961"></p>
+		<p><b>1961</b></p>
+		<p>CPIB was given its own office space in 1961, when it shifted to a 3-storey building at Stamford Road. This building was sited right next to the former National Library building and it remained CPIB's office for the next 23 years.</p>
+		<P><img src="/images/heritage-1963.jpg" alt="heritage 1963"></p>
+		<p><b>1963</b></p>
+		<p>In 1963, the Bureau was placed under the purview of the Prime Minister’s Office, but was later transferred to the Attorney-General’s Chamber in 1965. The CPIB returned to the Prime Minister’s Office in 1969 and has since remained under the PMO.</p>
+		<P><img src="/images/heritage-1968.jpg" alt="heritage 1968"></p>
+		<p><b>1968</b></p>
+		<p>Illegal gambling was ubiquitous in Singapore in the 1960s. Apart from the problem of gambling, some law enforcement officers received bribes in exchange for protection not just to gambling syndicates but also to brothels, opium dens and traffickers. In a bid to bring these corrupt officers to justice, the CPIB carried out a joint operation, known as Operation Chap Ji Kee, with the Criminal Investigation Department. The term Chap Ji Kee means ’12 units’ in Hokkien, and was a local lottery popular among housewives. There were three main chap ji kee syndicates and CPIB had in 1968 targeted to first take down the biggest one, called Siu Poh Shanghai Tai Tong. This operation remained as one of the major operations CPIB has carried out to date, seeing a total of 67 police officers being implicated.</p>
+	</div>
+
+	<input type="checkbox" id="title4"  /><label for="title4">1971 - 1980</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-1975.jpg" alt="heritage 1975">
+		<I>Source:The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</I></p>
+		<p><b>1975</b></p>
+		<p>A shocking case rocked the nation. It involved a senior political figure, the then-Minister of State for Environment, Wee Toon Boon. He was charged with corruption involving a sum of over $800,000. Wee was convicted and sentenced to four years and six months in jail. Upon appeal, the convictions were upheld but the sentence was reduced to 18 months. Wee’s conviction had much symbolic significance for the public; as it underscored the Government’s political will in eradicating corruption and CPIB’s resolute in executing this political will in an impartial manner.</p>
+	</div>
 
 </div>
 </div>
