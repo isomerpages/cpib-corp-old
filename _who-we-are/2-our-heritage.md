@@ -62,7 +62,7 @@ input:checked + label + .accordion-content {
 		<p><img src="/images/heritage-1937.jpg" alt="heritage 1937"></p>
 		<p><b>1937</b></p>
 		<p>In December 1937, the first anti-corruption legislation was introduced with the enactment of the Prevention of Corruption Ordinance (POCO). The rationale for POCO was ‘the prevention of bribery and secret commissions in public and private business’. However, the British colonial government failed to curb corruption as POCO and the Anti-Corruption Branch (ACB) under the Criminal Investigation Department (CID) were relatively ineffective. The POCO specified only three instances of corrupt behaviour and was a short document of 12 sections that were limited in scope. Moreover, corruption under the POCO was a non-seizable offence. Limited powers of investigation afforded by the POCO to investigation officers stifled their ability to effectively tackle corruption.</p>
-		<hr color="#f0f4f6" size="1" width="50%">
+		<hr color="#f0f4f6" size="1" width="100%">
 		<p><img src="/images/heritage-1946.jpg" alt="heritage 1946"></p>
 		<p><b>1946</b></p>
 		<p>The Prevention of Corruption Ordinance (POCO) was revised in 1946, making corrupt offences seizable, and giving police officers much wider powers of arrest, search and investigation to combat corruption. Nonetheless, the revised legislation could not make up for the fact that the Anti-Corruption Branch (ACB) remained largely ineffective. The ACB’s responsibility to combat corruption was hampered by its limited manpower. Moreover, the ACB had to contend with other branches of the Criminal Investigation Department (CID) for resources. The principal reason for ACB’s inadequacies was its inability to curtail the prevalence of police corruption in colonial Singapore.</p>
