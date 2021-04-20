@@ -101,7 +101,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title4"  /><label for="title4">1971 - 1980</label>
 	<div class="accordion-content">
 		<P><img src="/images/heritage-1975.jpg" alt="heritage 1975">
-		<I>Source:The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</I></p>
+		<I>Source: The Straits Times © Singapore Press Holdings Limited. Permission required for reproduction</I></p>
 		<p><b>1975</b></p>
 		<p>A shocking case rocked the nation. It involved a senior political figure, the then-Minister of State for Environment, Wee Toon Boon. He was charged with corruption involving a sum of over $800,000. Wee was convicted and sentenced to four years and six months in jail. Upon appeal, the convictions were upheld but the sentence was reduced to 18 months. Wee’s conviction had much symbolic significance for the public; as it underscored the Government’s political will in eradicating corruption and CPIB’s resolute in executing this political will in an impartial manner.</p>
 	</div>
