@@ -138,5 +138,50 @@ third_nav_title: Our Work
     </td>
   </tr>
 
+  <tr>
+    <td><p>2002</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>Re-certification of PD</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2001</p></td>
+    <td>
+      <p>ISO 9002:1994</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2000</p></td>
+    <td>
+      <p>Re-certification of SQC</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1999</p></td>
+    <td>
+      <p>PD certification</p>
+      <p>Singapore HEALTH Award (Bronze)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1998</p></td>
+    <td>
+      <p>SQC certification</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1997</p></td>
+    <td>
+      <p>ISO 9002:1994</p>
+    </td>
+  </tr>
 
 </table>
