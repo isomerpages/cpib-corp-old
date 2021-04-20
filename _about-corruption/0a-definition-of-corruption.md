@@ -34,6 +34,4 @@ It creates unfair competition and increases the cost of doing business. Every fo
 
 More information on corruption can be found in the [FAQs](/faq).
 
-<a HREF="/faq">FAQs</a>.
-
 
