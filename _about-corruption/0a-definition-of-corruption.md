@@ -32,4 +32,8 @@ Corruption has serious repercussions. If allowed to take root in society, it can
 
 It creates unfair competition and increases the cost of doing business. Every form of it is bad for economic growth and the reputation of an entire country can be tarnished. 
 
-More information on corruption can be found in the <a HREF="/faq">FAQs</a>.
+More information on corruption can be found in the [FAQs](/faq).
+
+<a HREF="/faq">FAQs</a>.
+
+
