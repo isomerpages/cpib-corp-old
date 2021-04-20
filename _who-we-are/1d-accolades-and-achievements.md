@@ -14,41 +14,46 @@ third_nav_title: Our Work
 
   <tr>
     <td>2017</td>
-    <td>PS21 Star Service Award<br>
-      ISO 9001:2015
+    <td>
+      * PS21 Star Service Award<br>
+      * ISO 9001:2015
     </td>
   </tr>
 
   <tr>
     <td>2016</td>
-    <td>PS21 Star Service Award<br>
-      PS21 ExCEL Innovation Champion (Certificate of Merit)
+    <td>
+      * PS21 Star Service Award<br>
+      * PS21 ExCEL Innovation Champion (Certificate of Merit)
     </td>
   </tr>
 
   <tr>
     <td>2015</td>
-    <td>PS21 Star Service Award<br>
-      Re-certification of Singapore Quality Class (SQC); People Developer (PD); Service Class (S-Class); and Innovation Class (I-Class)<br>
-      Eco-office re-certification
+    <td>
+      * PS21 Star Service Award<br>
+      * Re-certification of Singapore Quality Class (SQC); People Developer (PD); Service Class (S-Class); and Innovation Class (I-Class)<br>
+      * Eco-office re-certification
     </td>
   </tr>
 
   <tr>
     <td>2014</td>
-    <td>ISO 9001:2008<br>
-      PS21 Star Service Award<br>
-      Singapore HEALTH Award (Silver)
+    <td>
+      * ISO 9001:2008<br>
+      * PS21 Star Service Award<br>
+      * Singapore HEALTH Award (Silver)
     </td>
   </tr>
 
   <tr>
     <td>2013</td>
-    <td>Public Service Achievement Award<br>
-      PS21 Star Service Award<br>
-      Excellent Service Award (EXSA) – Silver<br>
-      Eco-office re-certification<br>
-      Longstanding Eco Action Award
+    <td>
+      * Public Service Achievement Award<br>
+      * PS21 Star Service Award<br>
+      * Excellent Service Award (EXSA) – Silver<br>
+      * Eco-office re-certification<br>
+      * Longstanding Eco Action Award
     </td>
   </tr>
   
