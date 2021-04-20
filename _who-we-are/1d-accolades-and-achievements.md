@@ -21,7 +21,7 @@ third_nav_title: Our Work
   </tr>
 
   <tr>
-    <td>2016</td>
+    <td><p>2016</p></td>
     <td>
       <p>PS21 Star Service Award</p>
       <p>PS21 ExCEL Innovation Champion (Certificate of Merit)</p>
@@ -29,7 +29,7 @@ third_nav_title: Our Work
   </tr>
 
   <tr>
-    <td>2015</td>
+    <td><p>2015</p></td>
     <td>
       <p>PS21 Star Service Award</p>
       <p>Re-certification of Singapore Quality Class (SQC); People Developer (PD); Service Class (S-Class); and Innovation Class (I-Class)</p>
@@ -38,7 +38,7 @@ third_nav_title: Our Work
   </tr>
 
   <tr>
-    <td>2014</td>
+    <td><p>2014</p></td>
     <td>
       <p>ISO 9001:2008</p>
       <p>PS21 Star Service Award</p>
@@ -47,7 +47,7 @@ third_nav_title: Our Work
   </tr>
 
   <tr>
-    <td>2013</td>
+    <td><p>2013</p></td>
     <td>
       <p>Public Service Achievement Award</p>
       <p>PS21 Star Service Award</p>
@@ -58,7 +58,7 @@ third_nav_title: Our Work
   </tr>
   
   <tr>
-    <td>2012</td>
+    <td><p>2012</p></td>
     <td>
       <p>PS21 Star Service Award</p>
     </td>
