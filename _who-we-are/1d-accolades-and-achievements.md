@@ -14,17 +14,15 @@ third_nav_title: Our Work
 
   <tr>
     <td>2017</td>
-    <td>
-      <p>PS21 Star Service Award</p>
-      <p>ISO 9001:2015</p>
+    <td>PS21 Star Service Award<br>
+      ISO 9001:2015
     </td>
   </tr>
 
   <tr>
     <td>2016</td>
-    <td>
-      <p>PS21 Star Service Award</p>
-      <p>PS21 ExCEL Innovation Champion (Certificate of Merit)</p>
+    <td>PS21 Star Service Award<br>
+      PS21 ExCEL Innovation Champion (Certificate of Merit)
     </td>
   </tr>
 
