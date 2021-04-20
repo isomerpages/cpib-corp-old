@@ -14,8 +14,8 @@ third_nav_title: Our Work
 
   <tr>
     <td>2017</td>
-    <td>PS21 Star Service Award<br>
-      ISO 9001:2015
+    <td>* PS21 Star Service Award<br>
+      * ISO 9001:2015
     </td>
   </tr>
   
