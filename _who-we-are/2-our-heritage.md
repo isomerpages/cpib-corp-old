@@ -151,6 +151,16 @@ input:checked + label + .accordion-content {
 		<p>The CPIB had investigated cases involving illegal ‘industry practices’ which were wrongly perceived to be acceptable norms. In the gourmet world, investigations revealed that renowned chefs accepted gratifications in return for using products from preferred suppliers. In another case, car workshops were found to have bribed vehicle inspectors to allow illegally modified vehicles to pass inspections. These cases have served as reminders to the public that such industry practices can be an offence and have fostered a more vigilant citizenry subsequently.</p>
 	</div>
 
+	<input type="checkbox" id="title7"  /><label for="title7">2011 - Present</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-2012.jpg" alt="heritage 2012"></p>
+		<p><b>2012</b></p>
+		<p>The CPIB held its 60th Anniversary Celebration at the Istana on 18 September 2012 to commemorate the founding of the Bureau. The event was graced by Guest-of-Honour Prime Minister Mr Lee Hsien Loong, along with the late Founding Prime Minister Mr Lee Kuan Yew, Emeritus Senior Minister Mr Goh Chok Tong and former Directors of the CPIB. As part of the Bureau’s 60th Anniversary efforts, CPIB’s coffee table book, titled <I>The Journey - 60 Years of Fighting Corruption in Singapore</I> was launched. The book captures many of the Bureau’s successes and milestones, as well as 18 note-worthy cases in its 60 years of graft-busting. Television viewers also gained an exclusive insight into the work of CPIB when a first-ever documentary on the Bureau <I>Corruption Crackdown – Inside the CPIB</I> was broadcast on national television.</p>
+		<P><img src="/images/heritage-2015.jpg" alt="heritage 2015"></p>
+		<p><b>2015</b></p>
+		<p>On 9 January 2015, the CPIB organised its inaugural Commendation Ceremony to recognise individuals who had exemplified integrity and rejected bribes. The CPIB and the Civil Service College (CSC) also jointly organised the <I>Integrity in Action Public Service Values Conference</I> which was held on 13 January. More than 600 public officers from across the Public Service attended the half-day event which was graced by Guest-of-Honour, Prime Minister Mr Lee Hsien Loong. He emphasised the importance of maintaining zero tolerance towards corruption. That year, the CPIB released its inaugural corruption statistics report which showed that the number of complaints received by the CPIB and the cases registered for corruption were at its lowest in 30 years.</p>
+	</div>
+
 </div>
 </div>
 
