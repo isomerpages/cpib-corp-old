@@ -151,7 +151,7 @@ input:checked + label + .accordion-content {
 		<p>The CPIB had investigated cases involving illegal ‘industry practices’ which were wrongly perceived to be acceptable norms. In the gourmet world, investigations revealed that renowned chefs accepted gratifications in return for using products from preferred suppliers. In another case, car workshops were found to have bribed vehicle inspectors to allow illegally modified vehicles to pass inspections. These cases have served as reminders to the public that such industry practices can be an offence and have fostered a more vigilant citizenry subsequently.</p>
 	</div>
 
-	<input type="checkbox" id="title7"  /><label for="title7">2011 - Present</label>
+	<input type="checkbox" id="title8"  /><label for="title8">2011 - Present</label>
 	<div class="accordion-content">
 		<P><img src="/images/heritage-2012.jpg" alt="heritage 2012"></p>
 		<p><b>2012</b></p>
