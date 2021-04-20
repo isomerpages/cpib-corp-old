@@ -106,6 +106,19 @@ input:checked + label + .accordion-content {
 		<p>A shocking case rocked the nation. It involved a senior political figure, the then-Minister of State for Environment, Wee Toon Boon. He was charged with corruption involving a sum of over $800,000. Wee was convicted and sentenced to four years and six months in jail. Upon appeal, the convictions were upheld but the sentence was reduced to 18 months. Wee’s conviction had much symbolic significance for the public; as it underscored the Government’s political will in eradicating corruption and CPIB’s resolute in executing this political will in an impartial manner.</p>
 	</div>
 
+	<input type="checkbox" id="title5"  /><label for="title5">1981 - 1990</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-1984.jpg" alt="heritage 1984"></p>
+		<p><b>1984</b></p>
+		<p>On 6 August 1984, the Bureau moved to Hill Street. Despite the relatively low headcount during this period, CPIB managed well because of rigorous case management regimes that made officers work towards stretched performance norms. Few significant changes were also introduced which helped improve the Bureau’s operations.</p>
+		<P><img src="/images/heritage-1986.jpg" alt="heritage 1986"></p>
+		<p><b>1986</b></p>
+		<p>In late-1986, another shocking corruption case rocked the nation. This time, it involved then-Minister for National Development, Teh Cheang Wan where he was investigated for accepting bribes totalling $1 million from two private companies for helping them retain and buy over a piece of state land for private development. He committed suicide on 14 December 1986, before he could be formally charged in court. Teh left behind a letter addressed to then-Prime Minister Lee Kuan Yew expressing his remorse at what had happened and his view that he should “accept full responsibility” and “pay the highest price for his mistake”. Public interest in the case was high as it involved a public figure of ministerial rank, and the public was satisfied with CPIB’s impartiality. The CPIB’s formidable reputation has been enhanced through its thorough and fearless investigations against all corrupt offenders regardless of ranks and affiliations.</p>
+		<P><img src="/images/heritage-1989.jpg" alt="heritage 1989"></p>
+		<p><b>1989</b></p>
+		<p>A Complaints Evaluation Committee was set up in 1989 to evaluate complaints of alleged corruption received by the Bureau and to decide on follow-up actions. The committee is chaired by Director CPIB and comprises the Head of the investigation units. In the same year, a new Act, the Corruption (Confiscation of Benefits) Act was enacted. Under this legislation, the Government could seize benefits derived through corrupt means, thus depriving corrupt offenders of the proceeds of corruption. This Act was replaced by the Corruption, Drug Trafficking and Other Serious Crimes, (Confiscation of Benefits Act), Chapter 65(A) in 1999.</p>
+	</div>
+
 </div>
 </div>
 
