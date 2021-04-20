@@ -17,7 +17,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 ### PRIVACY STATEMENT
 
-4\. Please <A HREF="/privacy">click here</A> to review this Site’s Privacy Statement.
+4\. Please <a HREF="/privacy">click here</a> to review this Site’s Privacy Statement.
 
 ### RESTRICTIONS ON USE OF CONTENTS
 
