@@ -63,5 +63,80 @@ third_nav_title: Our Work
       <p>PS21 Star Service Award</p>
     </td>
   </tr>
-  
+
+  <tr>
+    <td><p>2011</p></td>
+    <td>
+      <p>ISO 9001:2008</p>
+      <p>PS21 Star Service Award</p>
+      <p>Re-certification of SQC; PD; S-Class; and I-Class</p>
+      <p>Eco-office certification</p>
+      <p>International Anti-Corruption Public Service Announcement (Gold Award) – “CPIB's Three Parter Series on Anti-Corruption Messages (2011)”</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2010</p></td>
+    <td>
+      <p>Public Service Achievement Award</p>
+      <p>PS21 Star Service Award</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2009</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>PS21 Star Service Award</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2008</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+      <p>Re-certification of People Excellence Award</p>
+      <p>Re-certification of SQC; PD; S-Class; and I-Class</p>
+      <p>Water Efficient Building Award</p>
+      <p>EcoFriend Award</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+      </td>
+  </tr>
+
+  <tr>
+    <td><p>2006</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2005</p></td>
+    <td>
+      <p>Public Service Distinguished Award</p>
+      <p>Re-certification of PD</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2004</p></td>
+    <td>
+      <p>S-Class certification</p>
+      <p>I-Class certification</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2003</p></td>
+    <td>
+      <p>People Excellence Award</p>
+      <p>Re-certification of SQC</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+
 </table>
