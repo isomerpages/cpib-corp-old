@@ -24,8 +24,8 @@ third_nav_title: Our Work
   
   <tr>
     <td>2016</td>
-    <td>PS21 Star Service Award<br>
-      PS21 ExCEL Innovation Champion (Certificate of Merit)
+    <td>PS21 Star Service Award
+      <p>PS21 ExCEL Innovation Champion (Certificate of Merit)</p>
     </td>
   </tr>
 
