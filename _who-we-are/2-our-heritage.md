@@ -54,14 +54,17 @@ input:checked + label + .accordion-content {
 
 	<input type="checkbox" id="title1"  /><label for="title1">Before 1952</label>
 	<div class="accordion-content">
-	
 		<P><img src="/images/heritage-1871.jpg" alt="heritage 1871">
 		<p><b>1871</b></p>
 		<p>Corruption thrived in Singapore during the colonial period as it was perceived that corrupt offenders were unlikely to be detected and punished. In 1871, corruption was made illegal. However, nothing concrete was done.</p>
-
 	</div>
 	
-
+	<input type="checkbox" id="title2"  /><label for="title2">1952 - 1960</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-1871.jpg" alt="heritage 1871">
+		<p><b>1871</b></p>
+		<p>Corruption thrived in Singapore during the colonial period as it was perceived that corrupt offenders were unlikely to be detected and punished. In 1871, corruption was made illegal. However, nothing concrete was done.</p>
+	</div>
 	
 
 </div>
