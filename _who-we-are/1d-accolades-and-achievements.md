@@ -8,8 +8,8 @@ third_nav_title: Our Work
 
 <table>
   <tr>
-    <th><span style="font-weight:bold">Year</span></th>
-    <th>Title/Name of Award</th>
+    <th><span style="font-weight:bold"><p>Year</p></span></th>
+    <th><p>Title/Name of Award</p></th>
   </tr>
 
   <tr>
