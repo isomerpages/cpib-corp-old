@@ -80,6 +80,9 @@ input:checked + label + .accordion-content {
 		<I>Ministry of Information and the Arts Collection, Image Courtesy of National  Archives of Singapore</I></p>
 		<p><b>1959</b></p>
 		<p>The turning point came in 1959 when Singapore attained internal self-government. When founding Prime Minister Lee Kuan Yew led his People’s Action Party (PAP) to take oath of office in June 1959, they wore the party uniforms of white-on-white which symbolise the purity and the incorruptibility of its members. The PAP-led government was committed to putting an end to corrupt practices in Singapore. The government was set to toughen existing legislation and to revamp CPIB into an agency devoted entirely to the investigation of corrupt practices and preparation of evidence to be used for prosecution. That year, the CPIB was transferred to the Ministry of Home Affairs.</p>
+		<P><img src="/images/heritage-1960.jpg" alt="heritage 1960"></p>
+		<p><b>1960</b></p>
+		<p>The Prevention of Corruption Act, introduced by then-Minister for Home Affairs Ong Pang Boon, was enacted on 17 June 1960. This new legislative order incorporated significant provisions to eliminate the deficiencies of the Prevention of Corruption Ordinance (POCO) and to empower the CPIB to conduct its investigations and law enforcement duties. The PCA has since been revised several times to ensure its relevance and effectiveness, forming one of the key pillars in Singapore’s fight against corruption.</p>
 	</div>
 	
 
