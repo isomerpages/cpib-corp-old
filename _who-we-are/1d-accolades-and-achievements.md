@@ -33,5 +33,23 @@ third_nav_title: Our Work
       Eco-office re-certification
     </td>
   </tr>
+
+  <tr>
+    <td>2014</td>
+    <td>ISO 9001:2008<br>
+      PS21 Star Service Award<br>
+      Singapore HEALTH Award (Silver)
+    </td>
+  </tr>
+
+  <tr>
+    <td>2013</td>
+    <td>Public Service Achievement Award<br>
+      PS21 Star Service Award<br>
+      Excellent Service Award (EXSA) – Silver<br>
+      Eco-office re-certification<br>
+      Longstanding Eco Action Award
+    </td>
+  </tr>
   
 </table>
