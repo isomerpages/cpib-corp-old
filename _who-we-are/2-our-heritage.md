@@ -119,6 +119,22 @@ input:checked + label + .accordion-content {
 		<p>A Complaints Evaluation Committee was set up in 1989 to evaluate complaints of alleged corruption received by the Bureau and to decide on follow-up actions. The committee is chaired by Director CPIB and comprises the Head of the investigation units. In the same year, a new Act, the Corruption (Confiscation of Benefits) Act was enacted. Under this legislation, the Government could seize benefits derived through corrupt means, thus depriving corrupt offenders of the proceeds of corruption. This Act was replaced by the Corruption, Drug Trafficking and Other Serious Crimes, (Confiscation of Benefits Act), Chapter 65(A) in 1999.</p>
 	</div>
 
+	<input type="checkbox" id="title6"  /><label for="title6">1991 - 2000</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-1994.jpg" alt="heritage 1994"></p>
+		<p><b>1994</b></p>
+		<p>That year, the CPIB investigated another high-profile case that created much conversation among the public. Then-Deputy Chief Executive (Operations) of the Public Utilities Board (PUB) Choy Hon Tim was investigated for criminal conspiracy and accepting bribes totalling around $13.85 million. He was charged and sentenced to prison for 14 years. To date, the total amount of bribes he had received remains the largest total amount of bribe monies involved in Singapore’s history. The CPIB proved itself once again to the people that no matter how influential or senior a person’s rank or position may be, corrupt offenders would be investigated and punished accordingly.</p>
+		<P><img src="/images/heritage-1995.jpg" alt="heritage 1995"></p>
+		<p><b>1995</b></p>
+		<p>Polygraph Testing was also introduced as an investigative tool in 1995. For instance, random polygraph testing (premised upon corruption-related questions) is administered on soccer players as a deterrence against match-fixing. From the late 1990s, Singapore began to attain international recognition for its incorruptibility and cleanliness. Since 1995, the Transparency International (TI) Corruption Perceptions Index has consistently ranked the Republic within the top 10 least corrupt countries in the world, and the least corrupt economic entity in Asia based on the Political & Economic Risk Consultancy (PERC) annual surveys.</p>
+		<P><img src="/images/heritage-1997.jpg" alt="heritage 1997"></p>
+		<p><b>1997</b></p>
+		<p>The Corrupt Practices Investigation Assistant (CPIA) scheme was instituted in 1997 to replace the former scheme known as the Assistant Special Investigator (ASI) scheme. This marks one important leap in the progress of the Bureau. The Bureau has become self-sufficient in carrying out various field operations as the CPIAs are trained to perform specialised tasks such as helping to arrest and escort accused persons, and assisting in the seizure and examination of documents. In the past, new officers of the Bureau depended on the courses conducted by the Police Academy to train them on investigation skills, defence tactics and weapon usage. From 1997, the Bureau conducted its own basic training, customised to equip new officers with the basic survival skills to handle investigation of corruption offences.</p>
+		<P><img src="/images/heritage-1998.jpg" alt="heritage 1998"></p>
+		<p><b>1998</b></p>
+		<p>On 9 March 1998, the CPIB shifted to the former Keppel Primary School premises at Cantonment Road. The days at Cantonment Road saw the introduction of the Bureau’s first Heritage Centre which was christened modestly as the ‘CPIB Exhibition Room’.</p>
+	</div>
+	
 </div>
 </div>
 
