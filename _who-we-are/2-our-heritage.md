@@ -134,7 +134,23 @@ input:checked + label + .accordion-content {
 		<p><b>1998</b></p>
 		<p>On 9 March 1998, the CPIB shifted to the former Keppel Primary School premises at Cantonment Road. The days at Cantonment Road saw the introduction of the Bureau’s first Heritage Centre which was christened modestly as the ‘CPIB Exhibition Room’.</p>
 	</div>
-	
+
+	<input type="checkbox" id="title7"  /><label for="title7">2001 - 2010</label>
+	<div class="accordion-content">
+		<P><img src="/images/heritage-2002.jpg" alt="heritage 2002"></p>
+		<p><b>2002</b></p>
+		<p>The Bureau launched its current logo in 2002, the third revision since the inception of the Bureau. The new revised logo takes on a modernised design, featuring a cascade of squares as the letter ‘I’ in ‘CPIB’. The use of the square is symbolic of fairness and equality and represents the pervasive effects of CPIB’s anti-corruption action. A small globe, representing the dot on top of the letter ‘I’ within the typography stands for the Bureau’s vigilance and vision to be the world’s best anti-corruption agency.</p>
+		<P><img src="/images/heritage-2004.jpg" alt="heritage 2004"></p>
+		<p><b>2004</b></p>
+		<p>In 2004, the Bureau shifted to its present premises at Lengkok Bahru. The new building housed an auditorium, a heritage centre and interview rooms among others. In the same year, the Bureau formed its Computer Forensics Unit to perform forensic examinations of computer-related evidence. The Bureau's flag was also commissioned to strengthen the Bureau's identity and cultivate a sense of pride and belonging.</p>
+		<P><img src="/images/heritage-2005.jpg" alt="heritage 2005"></p>
+		<p><b>2005</b></p>
+		<p>In a globalised world where corruption can be transnational in nature, CPIB plays an active role in the international community’s fight against corruption. The Bureau is an active member of the international anti-corruption community and represents Singapore regularly at various international anti-corruption platforms. For instance, Singapore signed the United Nations Convention Against Corruption (UNCAC), which is an international legal instrument against corruption regarded as the universal standard for anti-corruption measures, on 11 November 2005 and ratified it on 6 November 2009. The Bureau also establishes networks and partnerships with various countries to facilitate cooperation amongst agencies in the anti-corruption arena.</p>
+		<P><img src="/images/heritage-2009.jpg" alt="heritage 2009"></p>
+		<p><b>2009</b></p>
+		<p>The CPIB had investigated cases involving illegal ‘industry practices’ which were wrongly perceived to be acceptable norms. In the gourmet world, investigations revealed that renowned chefs accepted gratifications in return for using products from preferred suppliers. In another case, car workshops were found to have bribed vehicle inspectors to allow illegally modified vehicles to pass inspections. These cases have served as reminders to the public that such industry practices can be an offence and have fostered a more vigilant citizenry subsequently.</p>
+	</div>
+
 </div>
 </div>
 
