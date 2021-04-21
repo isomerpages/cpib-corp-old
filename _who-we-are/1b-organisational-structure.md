@@ -8,7 +8,7 @@ third_nav_title: Our Work
 
 Headed by Director CPIB, the Corrupt Practices Investigation Bureau (CPIB) has three main departments – **Investigations, Operations and Corporate Affairs.**
 
-#### INVESTIGATIONS DEPARTMENT
+### **Investigation Department**
 
 The Investigations Department executes the main function of the Bureau in investigating offences under the Prevention of Corruption Act. This department consists of three divisions: **Investigations Operations, Training Development & Policy, and Training Operations.**
 
@@ -18,7 +18,7 @@ The **Training Development & Policy Division** reviews training and development 
 
 The **Training Operations Division** is responsible for curriculum planning and conducting courses in corruption investigation.
 
-#### OPERATIONS DEPARTMENT
+### **Operations Department**
 
 The Operations Department consists of three divisions: **Intelligence Operations, Intelligence Analysis & International Affairs, and Science & Tech / Special Projects.**
 
@@ -28,7 +28,7 @@ The **Intelligence Analysis & International Affairs Division** undertakes intell
 
 The **Science & Tech / Special Projects Division** supports the Investigations and Operations Departments with specialized investigative tools like credibility assessment and digital forensics. It also helps with capabilities development and the use of new technology.
 
-#### CORPORATE AFFAIRS DEPARTMENT
+### **Corporate Affairs Department**
 
 There are five divisions under the Corporate Affairs Department - **People Management & Development, Finance & Administration, Planning, Research, & Corporate Relations, Information Technology, and Digital Transformation Office.**
 
@@ -42,7 +42,7 @@ The **Information Technology Division** strives to incorporate and harness IT in
 
 Finally, the **Digital Transformation Office** drives the various digitalisation projects and ensures smooth rollout of all digitalisation efforts in accordance with the overall Bureau Digitalisation Blueprint.
 
-#### OFFICE OF INTERNAL AUDIT
+### **Office of Internal Audit**
 
 The **Office of Internal Audit**, an independent unit in the Bureau reporting directly to Director CPIB, serves a critical function to protect organisational value through providing advice and insights on sound governance and effective risk management. The Office conducts audits to ensure high integrity of internal control processes within the Bureau.
 
