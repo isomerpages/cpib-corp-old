@@ -6,7 +6,7 @@ third_nav_title: Our Corporate Philosophy
 
 <img src="/images/who-we-are_cpib-pledge.jpg" alt="cpib pledge">
 
-### THE CPIB PLEDGE
+### **The CPIB Pledge**
 
 We, the officers of CPIB, pledge to be loyal to the Republic of Singapore and the Bureau.
 
