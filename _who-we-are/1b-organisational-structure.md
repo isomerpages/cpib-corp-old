@@ -8,7 +8,7 @@ third_nav_title: Our Work
 
 Headed by Director CPIB, the Corrupt Practices Investigation Bureau (CPIB) has three main departments – **Investigations, Operations and Corporate Affairs.**
 
-### **Investigation Department**
+### **Investigations Department**
 
 The Investigations Department executes the main function of the Bureau in investigating offences under the Prevention of Corruption Act. This department consists of three divisions: **Investigations Operations, Training Development & Policy, and Training Operations.**
 
