@@ -20,7 +20,7 @@ There are currently 31 countries and jurisdictions of the Asia-Pacific which are
 
 Website: <a href="http://www.oecd.org/site/adboecdanti-corruptioninitiative/" target="_blank">http://www.oecd.org/site/adboecdanti-corruptioninitiative/</a>
 
-<img src="/images/apec-logo.jpg" alt="APEC" width="150" height="100">
+<img src="/images/who-we-are_ie-apec.jpg" alt="APEC" width="150" height="100">
 
 #### APEC Anti-Corruption and Transparency Experts’ Working Group (ACTWG)
 
