@@ -1,5 +1,4 @@
 ---
-layout: our-heritage
 title: Our Heritage
 permalink: /who-we-are/our-heritage/
 breadcrumb: Our Heritage
@@ -7,4 +6,20 @@ collection_name: who-we-are
 ---
 
 <!-- Refer to _data/our-heritage.yml to edit Our Heritage content -->
-test
+
+# <b>BOLD ME</b> is the syntax to bold things
+# <i>ITALICIZE ME</i> is the syntax to italicize things
+
+- title: 1980-1989
+  years:
+    - subtitle: 1980
+      description:
+      - line: "<b>Civil Service Computerisation Programme:</b> The start of Singapore’s public sector infocomm journey, seeking to enhance operational efficiency via the adoption of infocomm technology."
+    - subtitle: 1989
+      description:
+      - line: "<b>TradeNet:</b> Convenient and easy-to-use documentation processing and clearance platform for the trade and logistics community."
+- title: 1990-1999
+  years:
+    - subtitle: 1995
+      description:
+        - line: "<b>One-Stop Change of Address Reporting Service (OSCARS):</b> Only one step required to update participating government agencies and statutory boards of your change of address."
