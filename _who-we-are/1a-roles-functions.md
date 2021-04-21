@@ -4,7 +4,7 @@ permalink: /who-we-are/our-work/roles-functions/
 third_nav_title: Our Work
 ---
 
-<img src="/images/roles-functions.jpg" alt="roles and functions">
+<img src="/images/who-we-are_roles-functions.jpg" alt="roles and functions">
 
 The Corrupt Practices Investigation Bureau (CPIB), established in 1952, is one of the oldest anti-corruption agencies in the world. In Singapore, CPIB is the only agency authorised to investigate corruption offences under the Prevention of Corruption Act (Chapter 241) and other related offences. The CPIB is a government agency under the Prime Minister’s Office, operating with functional independence and is helmed by a director who reports to the Prime Minister.
 
