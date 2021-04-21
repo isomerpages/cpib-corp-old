@@ -16,6 +16,8 @@ The upper white portion that carries the CPIB logo signifies the Bureau’s high
 
 <img src="/images/cpib logo - colour.png" alt="cpib logo">
 
+<hr color="#f0f4f6" size="1" width="100%">
+
 #### The CPIB Logo
 
 **The Square** is symbolic of Fairness and Equality. The cascade of the squares represents the pervasive effects of CPIB’s anti-corruption action.
