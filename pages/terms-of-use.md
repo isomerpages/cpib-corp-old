@@ -39,7 +39,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 10\. The design and layout of this website is protected by intellectual property and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, image or search engine from this website may be copied or transmitted unless expressly permitted by CPIB.
 
-### **Disclaimer of Warranties and Liability
+### **Disclaimer of Warranties and Liability**
 
 11\. The Contents of this Site are provided on an “as is” basis without warranties of any kind. While CPIB has made every reasonable effort to ensure that the information contained in this website has been obtained from reliable sources, CPIB shall not be responsible for any errors or omissions, or for the results obtained from the use of such information.
 
@@ -60,7 +60,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
  * use any device, software or routine to interfere or attempt to interfere with the proper working of this Site; or
  * take any action that imposes an unreasonable or disproportionately large load on CPIB’s servers.
 
-### Links from This Site to Other Websites**
+### **Links from This Site to Other Websites**
 
 16\. This Site contains hyperlinks to websites which are not maintained by CPIB nor controlled by CPIB. CPIB shall not be responsible for the contents of these websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk. All hyperlinks to other websites are provided as a convenience to you as a user of the Site. The inclusion of any hyperlink shall not imply the endorsement by CPIB of the hyperlinked website. In no circumstances shall CPIB be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
 
