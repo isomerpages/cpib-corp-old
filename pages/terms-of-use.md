@@ -15,11 +15,11 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 3\. The materials located on this Site including the information and any software programs (the “Contents”), are protected by copyright, trademark and other forms of proprietary rights. All rights, title and interest in the Contents are owned by, licensed to or controlled by CPIB.
 
-### PRIVACY STATEMENT
+### **Privacy Statement**
 
 4\. Please <a HREF="/privacy">click here</a> to review this Site’s Privacy Statement.
 
-### RESTRICTIONS ON USE OF CONTENTS
+### **Restrictions on Use of Contents**
 
 5\. Except as otherwise provided, the Contents of this Site shall not be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way, without the prior written permission of CPIB.
 
@@ -39,7 +39,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 10\. The design and layout of this website is protected by intellectual property and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound, image or search engine from this website may be copied or transmitted unless expressly permitted by CPIB.
 
-### DISCLAIMER OF WARRANTIES AND LIABILITY
+### **Disclaimer of Warranties and Liability
 
 11\. The Contents of this Site are provided on an “as is” basis without warranties of any kind. While CPIB has made every reasonable effort to ensure that the information contained in this website has been obtained from reliable sources, CPIB shall not be responsible for any errors or omissions, or for the results obtained from the use of such information.
 
@@ -50,7 +50,7 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
 
 13\. CPIB shall also not be liable for any damage or loss of any kind howsoever caused as a result (direct or indirect) of the use of the Site, including but not limited to any damage or loss suffered as a result of reliance on the Contents contained in or available from the Site.
 
-### RIGHT OF ACCESS
+### **Right of Access**
 
 14\. CPIB reserves all rights to deny or restrict access to this Site to any particular person, or to block access from a particular Internet address to this Site, at any time, without ascribing any reasons whatsoever.
 
@@ -60,14 +60,14 @@ Thank you for visiting the Corrupt Practices Investigation Bureau’s website (t
  * use any device, software or routine to interfere or attempt to interfere with the proper working of this Site; or
  * take any action that imposes an unreasonable or disproportionately large load on CPIB’s servers.
 
-### LINKS FROM THIS SITE TO OTHER WEBSITES
+### Links from This Site to Other Websites**
 
 16\. This Site contains hyperlinks to websites which are not maintained by CPIB nor controlled by CPIB. CPIB shall not be responsible for the contents of these websites and shall not be liable for any damages or loss arising from access to those websites. Use of the hyper-links and access to such websites are entirely at your own risk. All hyperlinks to other websites are provided as a convenience to you as a user of the Site. The inclusion of any hyperlink shall not imply the endorsement by CPIB of the hyperlinked website. In no circumstances shall CPIB be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites to which this Site is linked.
 
-### LINKS TO THIS SITE FROM OTHER WEBSITES
+### **Links to This Site from Other Websites**
 
 17\. Except as set forth below, caching and links to, and the framing of this Site or any of the Contents are prohibited: Linking to the Homepage: You may link to the Homepage of this Site, upon notifying CPIB in writing. Hyperlinking to an internal page of this Site: You must make a specific request for, and secure permission from CPIB prior to hyperlinking to, or framing, this Site or any of the Contents, or engaging in similar activities. CPIB reserves the right to impose conditions when permitting any hyperlinking to, or framing of this Site or any of the Contents. Your linking to, or your framing of this Site or any of the Contents will constitute acceptance of these Terms of Use. This is deemed to be the case even after the posting of any changes or modifications to these Terms of Use. If you do not accept these Terms of Use, you must discontinue linking to, or framing of this Site or any of the Contents. Under no circumstances shall CPIB be considered to be associated or affiliated in whatever manner with any trade or service marks, logos, insignia or other devices used or appearing on websites that link to this Site or any of the Contents. CPIB reserves all rights to disable any links to, or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent or unlawful topics, names, material or information, or material or information that violates any written law, any applicable intellectual property, proprietary, privacy or publicity rights. CPIB reserves the right to disable any unauthorised links or frames and disclaims any responsibility for the content available on any other website reached by links to or from this Site or any of the Contents.
 
-### GOVERNING LAW
+### **Governing Law**
 
 18\. These Terms of Use shall be governed and construed in accordance with the laws of the Republic of Singapore.
