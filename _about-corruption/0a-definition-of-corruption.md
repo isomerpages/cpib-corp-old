@@ -6,7 +6,7 @@ third_nav_title: Prevention & Education
 
 <img src="/images/abt-corruption_def-of-corruption.jpg" alt="definition of corruption">
 
-**Definition of Corruption**
+### **Definition of Corruption**
 
 Corruption is receiving, asking for or giving any gratification to induce a person to do a favour with a corrupt intent.
 
@@ -18,7 +18,7 @@ There are many kinds of gratification, including money, sexual favours, properti
 
 Favours also come in different forms such as seeking confidential information, leniency, special privileges, contracts and etc.
 
-**Punishment for Corruption**
+### **Punishment for Corruption**
 
 Corruption is a serious offence!
 
@@ -26,7 +26,7 @@ A person convicted on a corruption offence shall be liable to a fine not exceedi
 
 If it is proven that any matter or transaction is in relation to contract or a proposal for a contract with the government, the punishment would be a fine of $100,000 or imprisonment not exceeding 7 years or to both, for each count of corruption.
 
-**Consequences of Corruption**
+### **Consequences of Corruption**
 
 Corruption has serious repercussions. If allowed to take root in society, it can lead to a breakdown in social order and lives are affected when ordinary people are prevented from receiving all the essential services that they are entitled to.
 
