@@ -4,7 +4,7 @@ permalink: /who-we-are/our-work/accolades-and-achievements/
 third_nav_title: Our Work
 ---
 
-<img src="/images/cpib-awards.jpg" alt="cpib awards">
+<img src="/images/who-we-are_cpib-awards.jpg" alt="cpib awards">
 
 <table>
   <tr>
