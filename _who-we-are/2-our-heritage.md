@@ -1,4 +1,5 @@
 ---
+layout: our-heritage
 title: Our Heritage
 permalink: /who-we-are/our-heritage/
 breadcrumb: Our Heritage
