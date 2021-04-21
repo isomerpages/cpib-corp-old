@@ -65,7 +65,7 @@ On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that
 
 Website: <a href="/files/IACCC Leaflet.pdf" target="_blank">IACCC Leaflet</a>
 
-<img src="/images/who-we-are_ie-sea-pac" alt="sea pac">
+<img src="/images/who-we-are_ie-sea-pac.jpg" alt="sea pac">
 
 #### South East Asia - Parties Against Corruption (SEA-PAC)
 
