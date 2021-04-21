@@ -14,9 +14,9 @@ The design of the CPIB flag is a horizontal bi-colour of white above red, with a
 
 The upper white portion that carries the CPIB logo signifies the Bureau’s high standard of integrity and our role in keeping Singapore clean and corruption-free. The lower red portion represents CPIB’s role as a key state institution.
 
-<img src="/images/cpib logo - colour.png" alt="cpib logo">
-
 <hr color="#f0f4f6" size="1" width="100%">
+
+<img src="/images/cpib logo - colour.png" alt="cpib logo">
 
 #### The CPIB Logo
 
