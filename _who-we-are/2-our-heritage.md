@@ -56,7 +56,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
 		<p><img src="/images/heritage-1871.jpg" alt="heritage 1871">
 		<I>Image Courtesy of National Archives of Singapore</I></p>
-		<p><b>1871</b></p>
+		<p>#### 1871</p>
 		<p>Corruption thrived in Singapore during the colonial period as it was perceived that corrupt offenders were unlikely to be detected and punished. In 1871, corruption was made illegal. However, nothing concrete was done.</p>
 		<hr color="#f0f4f6" size="1" width="100%">
 		<p><img src="/images/heritage-1937.jpg" alt="heritage 1937"></p>
