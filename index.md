@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Seen or Suspect Something?
         subtitle: ACT ON IT.
-        background: /images/banner1_1.jpg
+        background: /images/hmpg_banner.jpg
         button: Report Corruption
         url: https://www.cpib.gov.sg/e-complaint
         key_highlights:
