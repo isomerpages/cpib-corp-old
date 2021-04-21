@@ -38,7 +38,7 @@ Established in February 2013, ECAN is a formal network of law enforcement organi
 
 The Group of Twenty or G20 is an international forum comprising of countries from 20 major economies. In 2010, G20 Leaders established the ACWG at the Toronto Summit in 2010 in recognition of the significant negative impact of corruption on economic growth, trade and development. Since 2010, the work of the ACWG has been guided by two-year action plans that include commitments by G20 countries to ratify and implement the United Nations Convention against Corruption, criminalise and prosecute foreign bribery, and cooperate with other countries to investigate, prosecute and return the proceeds of corruption. Singapore has been attending G20 meetings as a guest country since 2011 and in this regard, CPIB attends the G20 ACWG meetings which are usually held thrice a year.
 
-<img src="/images/iaaca.jpg" alt="IAACA" width="150" height="46">
+<img src="/images/who-we-are_ie-iaaca.jpg" alt="IAACA" width="150" height="46">
 
 #### International Association of Anti-Corruption Authorities (IAACA)
 
@@ -48,7 +48,7 @@ The IAACA typically has three events on its calendar per year – an Executive C
 
 Website: <a href="http://www.iaaca.net/" target="_blank">http://www.iaaca.net/</a>
 
-<img src="/images/IACCC.jpg" alt="IACCC" width="150" height="46">
+<img src="/images/who-we-are_ie-iaccc.jpg" alt="IACCC" width="150" height="46">
 
 #### International Anti-Corruption Coordination Centre (IACCC)
 
@@ -65,7 +65,7 @@ On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that
 
 Website: <a href="/files/IACCC Leaflet.pdf" target="_blank">IACCC Leaflet</a>
 
-<img src="/images/sea-pac.png" alt="sea pac">
+<img src="/images/who-we-are_ie-sea-pac" alt="sea pac">
 
 #### South East Asia - Parties Against Corruption (SEA-PAC)
 
@@ -73,7 +73,7 @@ SEA-PAC was established through the Memorandum of Understanding (MOU) on Coopera
 
 The SEA-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of SEA-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of SEA-PAC, CPIB attends regular SEA-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
 
-<img src="/images/uncac-logo.jpg" alt="uncac">
+<img src="/images/who-we-are_ie-uncac.jpg" alt="uncac">
 
 #### United Nations Convention against Corruption (UNCAC)
 
