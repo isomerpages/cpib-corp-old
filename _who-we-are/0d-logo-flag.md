@@ -4,9 +4,9 @@ permalink: /who-we-are/our-corporate-philosophy/logo-flag/
 third_nav_title: Our Corporate Philosophy
 ---
 
-<img src="/images/cpib-flag.jpg" alt="cpib flag">
+<img src="/images/who-we-are_cpib-flag.jpg" alt="cpib flag">
 
-**The CPIB Flag**
+#### The CPIB Flag
 
 The CPIB flag was commissioned in 2004 to further strengthen the Bureau’s identity.
 
@@ -16,7 +16,7 @@ The upper white portion that carries the CPIB logo signifies the Bureau’s high
 
 <img src="/images/cpib logo - colour.png" alt="cpib logo">
 
-**The CPIB Logo**
+#### The CPIB Logo
 
 **The Square** is symbolic of Fairness and Equality. The cascade of the squares represents the pervasive effects of CPIB’s anti-corruption action.
 
