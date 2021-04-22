@@ -8,111 +8,179 @@ third_nav_title: Prevention & Education
 
 The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:
 
-<head>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
-</head>
+<table>
 
 
-<!-- not sure why margin top exists here -->
-<h1 style="margin-top: 0px"><b> What can you do as an organisation?</b></h1>
+  <tr>
+  <td><p>2017</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+      <p>ISO 9001:2015</p>
+    </td>
+  </tr>
 
-<div class='container' id='org'>
-    <div class='grid-row'>
-        <div class='grid-column'>
-            <img src="/images/take-action-4.svg" style="max-width:50vh; margin-top:20px">
-        </div> 
-    </div>
-    <div>
-    <h5>Environmentally-friendly actions can start small. Consistently reducing the amount of energy, water, and paper our businesses use can make a huge difference. Going green on your company’s printing, air-conditioning, lighting, water usage and transport systems can have a huge accumulated impact. Learn about some eco tips below <em>(external links):</em></h5>
-    </div>
-<!-- used id #org for line below to select link CSS instead of inline styles, refer to CSS -->
-    <div class='grid-row' style="background-color:#f5f5f5;">
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-recycle"></i></h5></div>
-            <div>
-                <h5><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">Practise 3R</a></h5>
-            </div>
-        </div>
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-plug"></i></h5></div>
-            <div>
-                <h5><a href="https://www.e2singapore.gov.sg/households/saving-energy-at-home/energy-saving-tips/more-energy-saving-practices-at-home">Boost Energy Efficiency</a></h5>
-            </div>
-        </div>
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-dumpster"></i></h5></div>
-            <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/waste-management-recycling.php">Encourage Recycling</a></h5>
-            </div>
-        </div>
-    </div>
-    <div class='grid-row' style="background-color:#f5f5f5;">
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-hand-holding-water"></i></h5></div>
-            <div>
-                <h5><a href="https://www.pub.gov.sg/savewater/atwork">Conserve Water</a></h5>
-            </div>
-        </div>
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-universal-access"></i></h5></div>
-            <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/organisational-awareness.php">Build Organisational Awareness</a></h5>
-            </div>
-        </div>
-        <div class='grid-column'>
-            <div>
-            <h5><i class="fas fa-shopping-cart"></i></h5></div>
-            <div>
-                <h5><a href="https://www.sec.org.sg/ecooffice/purchasing-operation.php">Conscious Purchasing</a></h5>
-            </div>
-        </div>
-    </div>
-</div>
+  <tr>
+    <td><p>2016</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+      <p>PS21 ExCEL Innovation Champion (Certificate of Merit)</p>
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td><p>2015</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+      <p>Re-certification of Singapore Quality Class (SQC); People Developer (PD); Service Class (S-Class); and Innovation Class (I-Class)</p>
+      <p>Eco-office re-certification</p>
+    </td>
+  </tr>
 
-  <div class='grid-row'>
-    <div class='grid-column'>
-        <img src="/images/take-action-5.svg">
-    </div>
-    <div class='grid-column double-column'>
-        <div class='lists'>
-            <h1><b>Join Programmes</b></h1><br>
-                <ul>
-                <li><a href="https://www.nea.gov.sg/programmes-grants/schemes/singapore-packaging-arrangement">Singapore Packaging Agreement (SPA) and Packaging Partnership Programme (PPP)</a>: Programmes to reduce packaging waste</li>
-                <li><a href="https://www.e2singapore.gov.sg/programmes-and-grants/programmes/energy-efficiency-national-partnership">Energy Efficiency National Partnership (EENP)</a>: A voluntary partnership programme that helps corporations enhance their long-term business competitiveness and reduce their carbon footprint by becoming more energy-efficient.</li>
-                <li><a href="http://sgls.sec.org.sg/">Labelling Scheme</a>: Singapore&#39;s leading environmental standard and certification mark that endorses consumer products with milder negative impact on the environment.</li>
-                <li><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling/at-work">3R Programme for Hotels</a>: A voluntary programme where participating hotels work with the Singapore Hotel Association and NEA to reduce waste.</li>
-                <li><a href="https://sec.org.sg/our-programmes/eco-certifications/">Project Eco Office</a>: A local certification scheme developed to promote environmentally-friendly offices, Project Eco-Office encourages management and staff working in offices to practise environmentally-friendly habits.</li>
-                <li><a href="http://www.toilet.org.sg/projects3_2.html">Happy Toilet Programme</a>: The Happy Toilet Programme encourages organisations to have their toilet facilities audited for Happy Toilet standards.</li>
-                <li><a href="https://www.nea.gov.sg/programmes-grants/learning-journeys/clean-singapore-learning-trail">Clean Singapore Learning Trail</a>: Give back to the community by cleaning up the beach, and protecting its ecosystem.</li>
-                <li><a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-management-infrastructure/semakau-landfill">Visits to Semakau Landfill and Incineration Plants</a>: Learn first-hand about Singapore’s efficient waste disposal system.</li>
-                <li><a href="https://www.nea.gov.sg/programmes-grants/volunteering">Dengue Prevention Volunteer</a>: Help educate and spread the awareness on dengue prevention to fellow residents through activities and house-to-house visits. </li>
-                <li><a href="/../resources/cap-courses.docx">Climate Action Package</a>: Look up courses under the Singapore Cooperation Programme and Climate Action Package. </li>
-                </ul>
-        </div>
-    </div>
-</div>
+  <tr>
+    <td><p>2014</p></td>
+    <td>
+      <p>ISO 9001:2008</p>
+      <p>PS21 Star Service Award</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
 
+  <tr>
+    <td><p>2013</p></td>
+    <td>
+      <p>Public Service Achievement Award</p>
+      <p>PS21 Star Service Award</p>
+      <p>Excellent Service Award (EXSA) – Silver</p>
+      <p>Eco-office re-certification</p>
+      <p>Longstanding Eco Action Award</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td><p>2012</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+    </td>
+  </tr>
 
-<div class='grid-row' style="padding-bottom:0px">
-    <div class='grid-column'>
-            <h1><b>Utilize Our Resources</b></h1><br>
-        <img src="/images/take-action-6.svg" style="max-width:33vh;">
-    </div> 
-</div>
+  <tr>
+    <td><p>2011</p></td>
+    <td>
+      <p>ISO 9001:2008</p>
+      <p>PS21 Star Service Award</p>
+      <p>Re-certification of SQC; PD; S-Class; and I-Class</p>
+      <p>Eco-office certification</p>
+      <p>International Anti-Corruption Public Service Announcement (Gold Award) – “CPIB's Three Parter Series on Anti-Corruption Messages (2011)”</p>
+    </td>
+  </tr>
 
--   [Educational Materials](https://www.nea.gov.sg/corporate-functions/resources/educational-materials/exhibits):  
-Brochures, posters, and other materials are available for download at the NEA website
--   [Food Waste Minimisation Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/food-waste-management):  
-Guidebooks developed by NEA and SFA for food retail, supermarkets and food manufacturers to reduce waste across the supply chain.
--   [3R Guidebooks](https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/3r-guidebooks):  
-Step-by-step guides to implement 3R programmes in hotels, offices, shopping malls; as well as during Meetings, Incentives, Conferences & Exhibition (MICE) events.
--   [Guide to Implementing Environmentally-Friendly Best Practices for Events](http://www.mse.gov.sg/top/faqs/guide-to-environmentally-friendly-practices-for-events)
+  <tr>
+    <td><p>2010</p></td>
+    <td>
+      <p>Public Service Achievement Award</p>
+      <p>PS21 Star Service Award</p>
+    </td>
+  </tr>
 
-<center><a class="button_david" href="/resources/">More Resources</a></center>
+  <tr>
+    <td><p>2009</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>PS21 Star Service Award</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2008</p></td>
+    <td>
+      <p>PS21 Star Service Award</p>
+      <p>Re-certification of People Excellence Award</p>
+      <p>Re-certification of SQC; PD; S-Class; and I-Class</p>
+      <p>Water Efficient Building Award</p>
+      <p>EcoFriend Award</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+      </td>
+  </tr>
+
+  <tr>
+    <td><p>2006</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2005</p></td>
+    <td>
+      <p>Public Service Distinguished Award</p>
+      <p>Re-certification of PD</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2004</p></td>
+    <td>
+      <p>S-Class certification</p>
+      <p>I-Class certification</p>
+      <p>Singapore HEALTH Award (Gold)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2003</p></td>
+    <td>
+      <p>People Excellence Award</p>
+      <p>Re-certification of SQC</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2002</p></td>
+    <td>
+      <p>ISO 9001:2000</p>
+      <p>Re-certification of PD</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2001</p></td>
+    <td>
+      <p>ISO 9002:1994</p>
+      <p>Singapore HEALTH Award (Silver)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>2000</p></td>
+    <td>
+      <p>Re-certification of SQC</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1999</p></td>
+    <td>
+      <p>PD certification</p>
+      <p>Singapore HEALTH Award (Bronze)</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1998</p></td>
+    <td>
+      <p>SQC certification</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p>1997</p></td>
+    <td>
+      <p>ISO 9002:1994</p>
+    </td>
+  </tr>
+
+</table>
