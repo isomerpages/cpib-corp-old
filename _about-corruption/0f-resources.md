@@ -102,18 +102,18 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="resources-container">
 <section class="cards">
     <div class="card">
-        <a href="/policies/climate-change">
-                <img src="/images/climate-change.svg">
+        <a href="https://www.cpib.gov.sg/cpib-virtual-heritage-gallery" target="_blank">
+                <img src="/images/resource_vhg.png">
             <div class="card-content">
-                <h6>Climate Change</h6>
+                <h6>CPIB Virtual Heritage Gallery</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/energy">
-                <img src="/images/energy.svg">
+                <img src="/images/resource_bft.png">
             <div class="card-content">
-                <h6>Energy</h6>
+                <h6>Corruption Casebook – Stories from Under The Table</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
