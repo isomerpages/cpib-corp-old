@@ -110,7 +110,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/energy">
+        <a href="/faq/">
                 <img src="/images/resource_bft.png">
             <div class="card-content">
                 <h6>Corruption Casebook – Stories from Under The Table</h6>
@@ -118,7 +118,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/food/">
+        <a href="/faq/">
                 <img src="/images/resource_pact.jpg">
             <div class="card-content">
                 <h6>About PACT</h6>
@@ -126,7 +126,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/water">
+        <a href="/faq/">
                 <img src="/images/resource_ss-iso37001.jpg">
             <div class="card-content">
                 <h6>About SS ISO 37001</h6>
@@ -134,7 +134,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/clean-air">
+        <a href="/faq/">
                 <img src="/images/resource_virtual-tour.png">
             <div class="card-content">
                 <h6>Virtual Tour</h6>
@@ -142,7 +142,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/clean-land">
+        <a href="/faq/">
                 <img src="/images/resource_videos.jpg">
             <div class="card-content">
                 <h6>Videos</h6>
@@ -150,7 +150,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/public-health">
+        <a href="/faq/">
                 <img src="/images/resource_downloads.jpg">
             <div class="card-content">
                 <h6>Downloads</h6>
@@ -158,7 +158,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-    	<a href="/policies/safe-distancing">
+    	<a href="/faq/">
            	<img src="/images/resource_info-brochures.jpg">
            <div class="card-content">
            	<h6>Informational Brochures</h6>
@@ -166,7 +166,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     	</a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/policies/clean-land">
+        a href="/faq/">
                 <img src="/images/resource_quiz.jpg">
             <div class="card-content">
                 <h6>Quiz</h6>
