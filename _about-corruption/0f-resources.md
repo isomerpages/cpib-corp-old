@@ -4,14 +4,13 @@ permalink: /about-corruption/prevention-and-education/resources/
 third_nav_title: Prevention & Education
 ---
 
-
 <style>
 /*--------------------------------------------------------------
-DAVID: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+ALYSSA: START OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 
 /* refrain from using pure img selector as it changes the MSE logo size */
-#policies-container > section > div > a > img {
+#resources-container > section > div > a > img {
 	display: block;
 	border: 0;
 	width: 100%;
@@ -94,13 +93,13 @@ DAVID: START OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 }
 
 /*--------------------------------------------------------------
-DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 </style>
 
 
 
-<main id="policies-container">
+<main id="resources-container">
 <section class="cards">
     <div class="card">
         <a href="/policies/climate-change">
@@ -110,7 +109,7 @@ DAVID: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
-        <div class="card">
+    <div class="card">
         <a href="/policies/energy">
                 <img src="/images/energy.svg">
             <div class="card-content">
