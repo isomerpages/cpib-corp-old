@@ -119,33 +119,33 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/water">
-                <img src="/images/water-tap-v4.svg">
+                <img src="/images/resource_ss-iso37001.jpg">
             <div class="card-content">
-                <h6>Water</h6>
+                <h6>About SS ISO 37001</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-air">
-                <img src="/images/clean-air.svg">
+                <img src="/images/resource_virtual-tour.png">
             <div class="card-content">
-                <h6>Clean Air</h6>
+                <h6>Virtual Tour</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/clean-land">
-                <img src="/images/clean-land.svg">
+                <img src="/images/resource_videos.jpg">
             <div class="card-content">
-                <h6>Clean Land</h6>
+                <h6>Videos</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/policies/public-health">
-                <img src="/images/public-health.svg">
+                <img src="/images/resource_downloads.jpg">
             <div class="card-content">
-                <h6>Public Health</h6>
+                <h6>Downloads</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -157,22 +157,22 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
-    <!--
-<div class="card">
-        <a href="/research-and-innovation/">
-                <img src="/images/research-innovation.svg">
-            <div class="card-content">
-                <h6>Research & Innovation</h6>
-            </div><!-- .card-content -->
-       <!-- .card -->
     <div class="card">
-    <a href="/policies/safe-distancing">
-            <img src="/images/safe-distancing.svg">
-        <div class="card-content">
-            <h6>Safe Distancing</h6>
-        </div><!-- .card-content -->
-    </a>
-</div><!-- .card -->
+    	<a href="/policies/safe-distancing">
+           	<img src="/images/resource_info-brochures.jpg">
+           <div class="card-content">
+           	<h6>Informational Brochures</h6>
+           </div><!-- .card-content -->
+    	</a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/policies/clean-land">
+                <img src="/images/resource_quiz.jpg">
+            <div class="card-content">
+                <h6>Quiz</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
 
 </section><!-- .cards -->
 
