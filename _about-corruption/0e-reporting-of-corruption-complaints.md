@@ -10,7 +10,6 @@ The CPIB takes a serious view of any corrupt practices in Singapore and will not
 
 <table>
 
-
   <tr>
   <td><p>2017</p></td>
     <td>
