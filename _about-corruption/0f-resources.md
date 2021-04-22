@@ -166,7 +166,7 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
     	</a>
     </div><!-- .card -->
     <div class="card">
-        a href="/faq/">
+        <a href="/faq/">
                 <img src="/images/resource_quiz.jpg">
             <div class="card-content">
                 <h6>Quiz</h6>
