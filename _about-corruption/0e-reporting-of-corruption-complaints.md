@@ -8,9 +8,7 @@ third_nav_title: Prevention & Education
 
 The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:
 
-<head>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" rel="stylesheet">
-</head>
+
 
 <!-- not sure why margin top exists here -->
 <h1 style="margin-top: 0px"><b> What can you do as an organisation?</b></h1>
