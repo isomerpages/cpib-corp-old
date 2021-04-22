@@ -118,6 +118,14 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
+        <a href="/policies/food/">
+                <img src="/images/resource_pact.jpg">
+            <div class="card-content">
+                <h6>About PACT</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
         <a href="/policies/water">
                 <img src="/images/resource_ss-iso37001.jpg">
             <div class="card-content">
@@ -146,14 +154,6 @@ ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
                 <img src="/images/resource_downloads.jpg">
             <div class="card-content">
                 <h6>Downloads</h6>
-            </div><!-- .card-content -->
-        </a>
-    </div><!-- .card -->
-    <div class="card">
-        <a href="/policies/food/">
-                <img src="/images/food-security.svg">
-            <div class="card-content">
-                <h6>Food Security</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
