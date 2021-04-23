@@ -9,7 +9,7 @@ third_nav_title: Prevention & Education
 ALYSSA: START OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 
-/* refrain from using pure img selector as it changes the MSE logo size */
+/* refrain from using pure img selector as it changes the logo size */
 #resources-container > section > div > a > img {
 	display: block;
 	border: 0;
@@ -93,7 +93,7 @@ ALYSSA: START OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 }
 
 /*--------------------------------------------------------------
-ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 </style>
 
