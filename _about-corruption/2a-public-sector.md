@@ -173,6 +173,30 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case_pub_cash-for-info.jpg">
+            <div class="card-content">
+                <h6>Cash-for-information</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case_pub_money-xchg-passes.jpg">
+            <div class="card-content">
+                <h6>Money in exchange for visit passes</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case_pub_sex-for-contracts.jpg">
+            <div class="card-content">
+                <h6>Sex-for-contracts</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
 
 </section><!-- .cards -->
 
