@@ -16,7 +16,7 @@ The CPIB takes a serious view of any corrupt practices in Singapore and will not
   </tr>
 
   <tr>
-    <td><p><img src="/images/icon_call-duty-officer.jpg" alt="call duty officer" width="80" height="80"></p></td>
+    <td><p><img src="/images/icon_call-duty-officer.jpg" alt="call duty officer" width="40" height="40"></p></td>
     <td><p>Call CPIB Duty Officer at 1800-376-0000</p></td>
   </tr>
 
