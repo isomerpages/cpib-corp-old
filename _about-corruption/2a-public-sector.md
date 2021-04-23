@@ -102,74 +102,74 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="public-container">
 <section class="cards">
     <div class="card">
-        <a href="https://www.cpib.gov.sg/cpib-virtual-heritage-gallery" target="_blank">
-                <img src="/images/resource_vhg.png">
+        <a href="/faq/">
+                <img src="/images/case_pub_brought-to-justice.jpg">
             <div class="card-content">
-                <h6>CPIB Virtual Heritage Gallery</h6>
+                <h6>Fugitive Brought to Justice After 35 Years</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_bft.png">
+                <img src="/images/case_pub_loans-for-grants.jpg">
             <div class="card-content">
-                <h6>Corruption Casebook – Stories from Under The Table</h6>
+                <h6>The high price of loans for grants</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_pact.jpg">
+                <img src="/images/case_pub_authority.jpg">
             <div class="card-content">
-                <h6>About PACT</h6>
+                <h6>Authority – you will lose it if you abuse it</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_ss-iso37001.jpg">
+                <img src="/images/case_pub_graft-amt.jpg">
             <div class="card-content">
-                <h6>About SS ISO 37001</h6>
+                <h6>The highest graft amount</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_virtual-tour.png">
+                <img src="/images/case_pub_gst-fraud.jpg">
             <div class="card-content">
-                <h6>Virtual Tour</h6>
+                <h6>Corruption and abetting in GST Tourist Refund Fraud</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_videos.jpg">
+                <img src="/images/case_pub_loans.jpg">
             <div class="card-content">
-                <h6>Videos</h6>
+                <h6>Loans that land you behind bars</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_downloads.jpg">
+                <img src="/images/case_pub_corrupt-addict.jpg">
             <div class="card-content">
-                <h6>Downloads</h6>
+                <h6>Corruption "addict"</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
     	<a href="/faq/">
-           	<img src="/images/resource_info-brochures.jpg">
+           	<img src="/images/case_pub_money-xchg.jpg">
            <div class="card-content">
-           	<h6>Informational Brochures</h6>
+           	<h6>Money in exchange for sloppy record-keeping</h6>
            </div><!-- .card-content -->
     	</a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/resource_quiz.jpg">
+                <img src="/images/case_pub_personal-interest.jpg">
             <div class="card-content">
-                <h6>Quiz</h6>
+                <h6>Personal interest over public safety</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
