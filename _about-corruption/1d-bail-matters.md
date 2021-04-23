@@ -5,7 +5,7 @@ third_nav_title: Legislation & Enforcement
 ---
 
 <style>
-table, th, td {
+table, td {
   border: 1px solid black;
   border-collapse: collapse;
 }
