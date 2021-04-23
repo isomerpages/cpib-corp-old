@@ -112,5 +112,4 @@ Attn to: Investigation Officer In-charge (to state the name)
 Fax +65 6270 0320
 
 ***Disclaimer:***
-
 ***This publication is produced for general information only and is not intended as substitution for legal advice. A lawyer should be consulted should you require legal advice on your case. The Bureau disclaim any and all liabilities arising from and in connection with the contents of this publication.***
