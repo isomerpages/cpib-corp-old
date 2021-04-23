@@ -12,4 +12,4 @@ The Corruption, Drug Trafficking and other Serious Crimes (Confiscation of Benef
 
 While the Prevention of Corruption Act (PCA) punishes the corrupt offender, the CDSA punishes offenders for the laundering of bribe money and allows the state to confiscate corrupt benefits. 
 
-Click here to read the full Act.
+Click <a href="https://sso.agc.gov.sg/Act/CDTOSCCBA1992" target="_blank">here</a> to read the full Act.
