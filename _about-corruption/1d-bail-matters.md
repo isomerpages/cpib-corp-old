@@ -66,3 +66,22 @@ Not applicable for Agency Bail.
 
 CPIB Bail Office operating hours are:
 
+<table>
+
+  <tr>
+    <td><p>Mondays to Thursdays</p></td>
+    <td>
+      <p>9.30 am – 12.00 pm</p>
+      <p>2.00 pm – 6.00 pm (last registration at 5.30pm)</p>
+  </td>
+  </tr>
+
+  <tr>
+    <td><p>Fridays</p></td>
+    <td>
+      <p>9.30 am – 12.00 pm</p>
+      <p>2.00 pm – 5.30 pm (last registration at 5.00pm)</p>
+    </td>
+  </tr>
+  
+  </table>
