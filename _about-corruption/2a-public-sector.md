@@ -6,11 +6,11 @@ third_nav_title: Case Studies
 
 <style>
 /*--------------------------------------------------------------
-ALYSSA: START OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
+ALYSSA: START OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 
-/* refrain from using pure img selector as it changes the MSE logo size */
-#resources-container > section > div > a > img {
+/* refrain from using pure img selector as it changes the logo size */
+#public-container > section > div > a > img {
 	display: block;
 	border: 0;
 	width: 100%;
@@ -93,13 +93,13 @@ ALYSSA: START OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 }
 
 /*--------------------------------------------------------------
-ALYSSA: END OF policies PAGE CARDS FLEXBOX LAYOUT AND STYLES
+ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 --------------------------------------------------------------*/
 </style>
 
 
 
-<main id="resources-container">
+<main id="public-container">
 <section class="cards">
     <div class="card">
         <a href="https://www.cpib.gov.sg/cpib-virtual-heritage-gallery" target="_blank">
