@@ -43,5 +43,4 @@ Under the PCA, the name or address of any informer, or any matter which might le
 Under Section 13 of the PCA, when a corrupt offender is convicted, the Court shall also order him to pay a penalty equivalent to the amount of bribes he received.
 
 
-Click here to read the full Act.
-
+Click <a href="http://sso.agc.gov.sg/Act/PCA1960#pr6-" target="_blank">here</a> to read the full Act.
