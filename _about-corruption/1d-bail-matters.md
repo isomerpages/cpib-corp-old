@@ -84,4 +84,10 @@ CPIB Bail Office operating hours are:
     </td>
   </tr>
   
-  </table>
+</table>
+
+Closed on Saturdays, Sundays and Public Holidays
+
+* Surety may be called to report at the Bureau outside operating hours.
+
+
