@@ -11,12 +11,12 @@ The CPIB takes a serious view of any corrupt practices in Singapore and will not
 <table>
 
   <tr>
-    <td><p><img src="/images/icon_come-down.jpg" alt="come down personally"></p></td>
+    <td><p><img src="/images/icon_come-down.jpg" alt="come down personally" width="80" height="80"></p></td>
     <td><p>Come down personally or write to us at 2 Lengkok Bahru, S159047 or 247 Whitley Road, S297830</p></td>
   </tr>
 
   <tr>
-    <td><p><img src="/images/icon_call-duty-officer.jpg" alt="call duty officer"></p></td>
+    <td><p><img src="/images/icon_call-duty-officer.jpg" alt="call duty officer" width="80" height="80"></p></td>
     <td><p>Call CPIB Duty Officer at 1800-376-0000</p></td>
   </tr>
 
