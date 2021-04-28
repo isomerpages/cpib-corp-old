@@ -103,73 +103,73 @@ ALYSSA: END OF Private Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <section class="cards">
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_brought-to-justice.jpg">
+                <img src="/images/case/case_pte_sail-into-water.jpg">
             <div class="card-content">
-                <h6>Fugitive Brought to Justice After 35 Years</h6>
+                <h6>Sailing Into Troubled Waters</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_loans-for-grants.jpg">
+                <img src="/images/case/case_pte_get-into-water.jpg">
             <div class="card-content">
-                <h6>The high price of loans for grants</h6>
+                <h6>Getting Into Deep Water</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_authority.jpg">
+                <img src="/images/case/case_pte_engineer-illegal-trans.jpg">
             <div class="card-content">
-                <h6>Authority – you will lose it if you abuse it</h6>
+                <h6>Engineering An Illegal Transaction</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_graft-amt.jpg">
+                <img src="/images/case/case_pte_bros-in-cahoots.jpg">
             <div class="card-content">
-                <h6>The highest graft amount</h6>
+                <h6>Brothers in Cahoots</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_gst-fraud.jpg">
+                <img src="/images/case/case_pte_ori-vessel-pirated-part.jpg">
             <div class="card-content">
-                <h6>Corruption and abetting in GST Tourist Refund Fraud</h6>
+                <h6>Original vessel, pirated parts</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_loans.jpg">
+                <img src="/images/case/case_pte_bribes-proj-info.jpg">
             <div class="card-content">
-                <h6>Loans that land you behind bars</h6>
+                <h6>A slice of apple pie gone bad</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_corrupt-addict.jpg">
+                <img src="/images/case/case_pte_bribes-for-contracts.jpg">
             <div class="card-content">
-                <h6>Corruption "addict"</h6>
+                <h6>Bribes in return for food supply contracts</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
     	<a href="/faq/">
-           	<img src="/images/case/case_pub_money-xchg.jpg">
+           	<img src="/images/case/case_pte_trad-corrupt.jpg">
            <div class="card-content">
-           	<h6>Money in exchange for sloppy record-keeping</h6>
+           	<h6>Fine line between tradition and corruption</h6>
            </div><!-- .card-content -->
     	</a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_personal-interest.jpg">
+                <img src="/images/case/case_pte_bunker-deal.jpg">
             <div class="card-content">
-                <h6>Personal interest over public safety</h6>
+                <h6>Bunkering deal gone awry</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
