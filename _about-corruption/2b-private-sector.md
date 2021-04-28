@@ -175,25 +175,73 @@ ALYSSA: END OF Private Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_cash-for-info.jpg">
+                <img src="/images/case/case_pte_match-fix.jpg">
             <div class="card-content">
-                <h6>Cash-for-information</h6>
+                <h6>Men of the match</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_money-xchg-passes.jpg">
+                <img src="/images/case/case_pte_illegal-comm.jpg">
             <div class="card-content">
-                <h6>Money in exchange for visit passes</h6>
+                <h6>Illegal commissions for facilitating loans</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_sex-for-contracts.jpg">
+                <img src="/images/case/case_pte_bagged-for-corrupt.jpg">
             <div class="card-content">
-                <h6>Sex-for-contracts</h6>
+                <h6>Airport manager bagged for corruption</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_nego-went-wrong.jpg">
+            <div class="card-content">
+                <h6>A negotiation deal went wrong</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_coffee-money.jpg">
+            <div class="card-content">
+                <h6>A little coffee money “did no harm”</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_turn-back-time.jpg">
+            <div class="card-content">
+                <h6>Too late to turn back time</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_breach-trust.jpg">
+            <div class="card-content">
+                <h6>Breach of trust</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_concealed-act.jpg">
+            <div class="card-content">
+                <h6>Concealed act uncovered</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
+        <a href="/faq/">
+                <img src="/images/case/case_pte_unlawful-hand.jpg">
+            <div class="card-content">
+                <h6>An unlawful helping hand</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
