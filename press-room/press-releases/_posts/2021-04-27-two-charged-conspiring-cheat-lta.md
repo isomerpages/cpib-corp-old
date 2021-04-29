@@ -16,7 +16,7 @@ b) **Chua Cheng Kang (“Chua”)** (蔡清江, 64-year-old male Singaporean), D
 
 4\.        Singapore adopts a strict zero-tolerance approach towards corruption and other criminal activities. Any person convicted of cheating under Section 417 of the *Penal Code* can be sentenced to imprisonment for a term which may extend to three years and be liable to a fine.
 
-5\.        The CPIB looks into all corruption complaints and reports, <u>**including anonymous ones,**</u> and can be reached via the following channels:
+5\.        The CPIB looks into all corruption complaints and reports, <u><b>including anonymous ones,</b></u> and can be reached via the following channels:
 
 a) Lodge an e-Complaint at <a href="/e-services/e-complaint-for-corrupt-conduct">www.cpib.gov.sg/e-complaint-for-corrupt-conduct</a>;
 b) Email us at report@cpib.gov.sg;
