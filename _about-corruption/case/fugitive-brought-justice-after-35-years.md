@@ -1,6 +1,6 @@
 ---
 title: Fugitive Brought to Justice After 35 Years
-permalink: /about-corruption/case-studies/public-sector/case
+permalink: /about-corruption/case-studies/
 ---
 
 <img src="/images/case/case_pub_brought-to-justice1.jpg" alt="Fugitive Brought to Justice After 35 Years">
