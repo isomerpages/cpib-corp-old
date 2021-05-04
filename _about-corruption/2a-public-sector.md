@@ -102,7 +102,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="public-container">
 <section class="cards">
     <div class="card">
-        <a href="/about-corruption/case/fugitive-brought-justice-after-35-years/">
+        <a href="/case_fugitive-brought-justice-after-35-years/">
                 <img src="/images/case/case_pub_brought-to-justice.jpg">
             <div class="card-content">
                 <h6>Fugitive Brought to Justice After 35 Years</h6>
@@ -110,7 +110,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/fugitive-brought-justice-after-35-years/">
+        <a href="/faq/">
                 <img src="/images/case/case_pub_loans-for-grants.jpg">
             <div class="card-content">
                 <h6>The high price of loans for grants</h6>
@@ -118,7 +118,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/case/fugitive-brought-justice-after-35-years/">
+        <a href="/faq/">
                 <img src="/images/case/case_pub_authority.jpg">
             <div class="card-content">
                 <h6>Authority – you will lose it if you abuse it</h6>
