@@ -103,73 +103,73 @@ ALYSSA: END OF Stories of Integrity PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <section class="cards">
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_brought-to-justice.jpg">
+                <img src="/images/case/story_no-escape-fr-law.jpg">
             <div class="card-content">
-                <h6>Fugitive Brought to Justice After 35 Years</h6>
+                <h6>No Escape From Long Arm Of Law</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_loans-for-grants.jpg">
+                <img src="/images/case/story_unlawful-entry.jpg">
             <div class="card-content">
-                <h6>The high price of loans for grants</h6>
+                <h6>Unlawful Entry Denied</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_authority.jpg">
+                <img src="/images/case/story_zero-tolerance-to-bribery.jpg">
             <div class="card-content">
-                <h6>Authority – you will lose it if you abuse it</h6>
+                <h6>Zero tolerance to bribery</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_graft-amt.jpg">
+                <img src="/images/case/case_pte_bagged-for-corrupt.jpg">
             <div class="card-content">
-                <h6>The highest graft amount</h6>
+                <h6>Illegal access denied</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_gst-fraud.jpg">
+                <img src="/images/case/story_resisting-temptation.jpg">
             <div class="card-content">
-                <h6>Corruption and abetting in GST Tourist Refund Fraud</h6>
+                <h6>Resisting the temptation</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_loans.jpg">
+                <img src="/images/case/story_reject-bribe.jpg">
             <div class="card-content">
-                <h6>Loans that land you behind bars</h6>
+                <h6>Three metres, too long</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_corrupt-addict.jpg">
+                <img src="/images/case/case_pub_money-xchg-passes.jpg">
             <div class="card-content">
-                <h6>Corruption "addict"</h6>
+                <h6>Strictly no access</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
     	<a href="/faq/">
-           	<img src="/images/case/case_pub_money-xchg.jpg">
+           	<img src="/images/case/story_firm-enforcement-port regulations.jpg">
            <div class="card-content">
-           	<h6>Money in exchange for sloppy record-keeping</h6>
+           	<h6>Firm enforcement of port regulations</h6>
            </div><!-- .card-content -->
     	</a>
     </div><!-- .card -->
     <div class="card">
         <a href="/faq/">
-                <img src="/images/case/case_pub_personal-interest.jpg">
+                <img src="/images/case/story_reject-bribe-drink-driving.jpg">
             <div class="card-content">
-                <h6>Personal interest over public safety</h6>
+                <h6>Beyond the call of duty</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
