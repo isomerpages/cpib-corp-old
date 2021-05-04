@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /https://www.ifaq.gov.sg/CPIB/apps/fcd_faqmain.aspx/
+permalink: /faq/
 ---
 
 <!-- 
