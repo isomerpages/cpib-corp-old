@@ -13,3 +13,4 @@ Investigations eventually revealed that Phey had fled Singapore on 31 December 1
 On 23 July 2015, Phey was slapped with 28 additional charges bringing his total number of charges to 34. He was alleged to have misappropriated more than S$350,000 over roughly six-and-a-half years in the 1970s, mostly from SILO and PIEU. The charges also accused Phey of instigating an accountant to provide false information to a CPIB officer and fabricating false evidence. He also faced a charge for jumping bail in 1979.
 
 The long running case finally concluded on 22 January 2016 when Phey Yew Kok pleaded guilty to 12 of the 34 charges, including 10 counts of criminal breach of trust involving S$243,878.  Phey was sentenced to 60 months’ imprisonment. The other 22 charges were taken into consideration in sentencing him.
+
