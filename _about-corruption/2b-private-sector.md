@@ -118,7 +118,7 @@ ALYSSA: END OF Private Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/files/case_pte_getting-deep-water.pdf" target="_blank">
                 <img src="/images/case/case_pte_engineer-illegal-trans.jpg">
             <div class="card-content">
                 <h6>Engineering An Illegal Transaction</h6>
