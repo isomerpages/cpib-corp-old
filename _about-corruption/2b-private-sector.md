@@ -102,7 +102,7 @@ ALYSSA: END OF Private Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="private-container">
 <section class="cards">
     <div class="card">
-        <a href="/faq/">
+        <a href="/files/case_pte_sailing-troubled-waters.pdf" target="_blank">
                 <img src="/images/case/case_pte_sail-into-water.jpg">
             <div class="card-content">
                 <h6>Sailing Into Troubled Waters</h6>
@@ -110,7 +110,7 @@ ALYSSA: END OF Private Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/files/case_pte_getting-deep-water.pdf" target="_blank">
                 <img src="/images/case/case_pte_get-into-water.jpg">
             <div class="card-content">
                 <h6>Getting Into Deep Water</h6>
