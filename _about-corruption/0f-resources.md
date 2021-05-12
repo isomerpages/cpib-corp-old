@@ -166,7 +166,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
     	</a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="https://form.gov.sg/609b7d11c32202001227a3f7" target="_blank">
                 <img src="/images/resource_quiz.jpg">
             <div class="card-content">
                 <h6>Quiz</h6>
