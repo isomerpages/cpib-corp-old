@@ -17,4 +17,4 @@ permalink: "/press-room/press-releases/law-catches-fugitive-who-spent-over-20-ye
 6\.        Singapore adopts a strict zero-tolerance approach towards corruption and other criminal activities. CPIB’s mandate is to investigate into any act of corruption in the public and private sectors in Singapore, and in the course of doing so, any other offences under any written law. Any person who is convicted of knowingly producing any false or misleading document under the Immigration Act can be sentenced to imprisonment for a term not exceeding 2 years and be liable to a fine not exceeding $6,000. Any person who is convicted of failing to appear before a court of justice under the Penal Code can be sentenced to imprisonment for a term of up to 6 months and be liable to a fine up to $5,000.
 
 
-***Corrupt Practices Investigation Bureau***
+**Corrupt Practices Investigation Bureau**
