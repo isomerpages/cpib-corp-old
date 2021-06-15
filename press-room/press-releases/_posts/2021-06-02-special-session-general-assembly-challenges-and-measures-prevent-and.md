@@ -12,3 +12,5 @@ Minister for Education and Minister-in-charge of the Public Service, Mr Chan Chu
 4\.        A Political Declaration setting out the global commitment to effectively fight corruption and strengthen international cooperation was also adopted by consensus at the UNGASS on Corruption. 
 
 <p><em>Click&nbsp;<strong><a href="https://github.com/isomerpages/cpib-main/files/6655073/Statement.by.Minister.Chan.Chun.Sing.at.UNGASS.on.Corruption.pdf">here</a></strong>&nbsp;to read the full statement by Minister Chan Chun Sing.</em></p>
+
+**CORRUPT PRACTICES INVESTIGATION BUREAU**
