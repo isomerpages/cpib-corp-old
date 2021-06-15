@@ -5,11 +5,7 @@ permalink: "/press-room/speeches/presentation-mr-lim-siong-guan-permanent-secret
 ---
 “Wherever corruption manifests itself, there are a hundred strategems to suck out the lifeblood of the people. How can one imagine that the wealth of the region would not be exhausted in the space of a few years?” Xu Wenbi, 18th Century Magistrate in Sichuan province
 
-Chief Secretary Mrs Anson Chan
-Mr W K Lam, Secretary for the Civil Service
-Commissioner Mrs Lily Yam
-Friends
-Ladies and Gentlemen:
+<p>Chief Secretary Mrs Anson Chan<br />Mr W K Lam, Secretary for the Civil Service<br />Commissioner Mrs Lily Yam<br />Friends<br />Ladies and Gentlemen:</p>
 
   I bring you greetings from my colleagues in Singapore. We are very happy with the regular exchange of visits at the Policy Secretary level which we have with you, the cross-appointment of senior officials on various boards and councils, and the cross attachment of officials. The sharing of views and experience are, without a doubt, of mutual benefit. My colleagues welcome them.
 
