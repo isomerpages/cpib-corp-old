@@ -78,6 +78,7 @@ I shall deal with each of these factors in turn, as they are so critical even fo
   <li>Judging effectiveness by results achieved through pragmatism and a sense of urgency</li>
   <li>Continuously driving for efficiency in execution which is responsive and economic</li>
 </ul>
+
 The test is not minimalist government, but effective government. In Singapore, effective government (high economic growth, improving welfare and social conditions, internal and external security) is invariably linked with the idea of clean government.
 
 16\.      Meritocracy is important not “merely” because it ensures the best use of our human resources. Rather, meritocracy is a key part of our nation building efforts. Meritocracy sends out a signal that Singapore is for everyone. Talent and hard work, rather than connections and privilege, are the paths to success, and thus the rewards of success would be accessible to anyone according to his contributions. There us no room for “free-riders”.
@@ -93,6 +94,7 @@ The test is not minimalist government, but effective government. In Singapore, e
   <li>a public officer is require to declare his assets at his first appointment and also annually, and</li>
   <li>a public officer cannot receive entertainment or presents in any form from members of the public.</li>
 </ul>
+
 **D. Changing the Way Government Does Its Business: Streamlining Operations to Improve Efficiency and Effectiveness**
 
 19\.      This principle is also straightforward. Seek continuous improvement in public service delivery. There is no rent available for the corrupt officer to collect if effective and efficient services can be available without bribes. Thus fostering excellence in public service–slashing red tape, streamlining procedures, minimising delays–is an anticorruption measure in itself. Other measures like nametags, posted fee schedules, Quality Circles (or what we call Work Improvement Teams in Singapore), Suggestions Schemes, help attune public servants towards superior customer service, and make them activists for change and improvement. While not explicitly connected with preventing corruption, the attitudes they foster work against corruption.
@@ -122,6 +124,7 @@ The test is not minimalist government, but effective government. In Singapore, e
   <li>It is a future of market economies, where more than ever before the private sector must be an engine of growth, yet their capacity to move fast and move right must depend on a public service which facilitates rather than controls.</li>
   <li>It is a future of uncertainty and unpredictability, yet we must find a way to be in time for such a future.</li>
 </ul>
+
 25\.      What kind of Civil Service do we need for such a future?
 <ul>
   <li>It is a Civil Service which must have a good share of some of the nation’s best talent, for it is a world of increasing complexity that requires good minds to make good sense out of all the bewildering array of knowledge and information.
@@ -129,6 +132,7 @@ The test is not minimalist government, but effective government. In Singapore, e
   <li>It is a Civil Service that must understand the needs and concerns of the private sector and help them with efficient and effective government, but never losing sight of the public good and the long-term interests of the country.</li>
   <li>It is a Civil Service that must be comfortable with change and uncertainty, finding means for anticipating the future, but always living in the present with nimbleness, flexibility and adaptability.</li>
 </ul>
+
 26\.      How will such a Civil Service be different from the present? I guess as follows:
 <ul>
   <li>First, the change will be evolutionary, but a Civil Service that anticipates and plans well will not allow itself to be overtaken by events or opportunity.</li>
@@ -136,3 +140,35 @@ The test is not minimalist government, but effective government. In Singapore, e
   <li>Thirdly, it will be a Civil Service itself driven to change continually “be in time for the future”, a Civil Service that sees itself as a catalyst for change, a pace setter and a standard bearer for thinking about the future and service to the public.</li>
   <li>Fourthly, it will be a Civil Service that makes good use of its people, most particularly the newer employees who come in better educated, IT competent, looking for challenge, hungry for interesting work, wanting to exercise authority, willing to accept responsibility. Here is the challenge and opportunity for us all! The talents and abilities of our people will make it possible to achieve the speed and responsiveness demanded by the opportunities in a fastmoving world, yet contain the potential for corruption and misdirection that come with allowing initiative and discretion.</li>  
 </ul>
+
+And thus at long last I come to the title of my talk: Integrity with Empowerment. How do we achieve that?
+
+27\.      The basics for maintaining integrity in the public service remain unchanged and must continue to be pursued with vigour and commitment:
+<ul>
+  <li>Political Will and Example of Political Leaders</li>
+  <li>Ethos of Public Service</li>
+  <li>Minimal Opportunities and Incentives for Corruption</li>
+  <li>Streamlined Operations for Efficiency and Effectiveness</li>
+  <li>High Likelihood of Being Caught</li>
+  <li>Swift and Severe Punishment</li>
+  <li>Strong Public Support</li>
+</ul>
+
+28\.      Even a relatively clean country like Singapore has some corruption. Corruption can never be entirely eliminated; it has existed in all of recorded history. Anti-corruption efforts can only be as strong as their weakest link. Thus first rate investigative and prosecutorial work can be undermined if the judiciary is subject to manipulation and interference; excellent legislation can be undermined by auditors who do not adequately understand laws surrounding evidence.
+
+29\.      Laws and institutions have to address new issues and challenges. The answer cannot simply always be more rules. The implicit tradeoff in more rules is more bureaucracy. At the same time, staff who are increasingly better educated and better trained want to be granted more flexibility and discretion within certain parameters. A combination of strong and sustained commitment to the ultimate end, with flexibility and adaptiveness in the means, is essential.
+
+30\.      If we are to envisage more discretion in decision-making in order to induce greater flexibility and responsiveness in decision-making, I believe more needs to be done to strengthen the civil servants’ understanding of his role as protector of public interest and servant of public need. He needs to develop instincts about concerns and vulnerabilities of his country whether the threats be political, economic, social or technological. And he needs to be able to perceive change as opportunity, uncertainty as challenge and corruption as disease. What we are doing in Singapore in this regard are:
+<ul>
+  <li>Public Service for the 21st Century (PS21). We are promoting future-oriented attitudes through a civil service reform initiative we call the Public Service for the 21st Century (PS21) programme. It is about inculcating instincts for service excellence, and about having every civil servant be an “activist for change”. It is also about getting civil servants to move beyond being regulators and controllers, to also be nurturers and facilitators. We want to empower civil managers to make decisions outside the bounds of civil service rules and Instruction Manuals. Ministries have been designated Autonomous Agencies, and are given wide-ranging autonomies on personnel and financial matters. Public servants are increasingly expected to exercise initiative and discretion in their work. As we grant public servants more flexibility and discretion, there will areas that are not covered by established procedures. Public servants must learn to consistently function in a clean, transparent and effective manner. This applies not only to senior civil servants, who will increasingly have management autonomy over spending and hiring. It also applies down the line, to the front-line staff who deals directly with the public. In the spirit of service excellence, they will be expected to exercise flexibility and initiative, going beyond the book to serve their customer.</li>
+  <li>Mission Statement – Compass not Road Map. The challenge we face now is how to maintain integrity and ethical bearings in our officers if they are to go beyond the book of rules. How do we allow empowerment and initiative yet ensure they do things in a transparent manner? In the past, organisational values are in many ways written into the rules and regulations. But if the rule book will no longer contain all the rules, we have somehow to get values takes on a central place in how we develop and train our civil servants. When you expect people to navigate without precise street directions, you should at least provide them with a good compass. One measure we have taken to make clear our expectations of our civil servants is to publicise, as part of our Corporate Mission Statement for example, the Civil Service’s commitment to “uphold justice and equality by the principles of incorruptibility, meritocracy and impartiality”.</li>
+  <li>National Education. Another important initiative we are taking is what we call National Education. This is the process of communicating to our citizens Singapore’s unique circumstances, and the values and principles which underlie the governance of Singapore. A key feature is an emphasis on how clean government is critical to Singapore’s continued viability and success. Committed leadership plus a vigilant and educated public which cares about stopping corruption, will help build a lasting ethos of clean government.</li>
+</ul>
+
+**Conclusion**
+
+***“The acid test of a government’s sincerity in wiping out bureaucratic corruption hinges not only on the formulation of anti-corruption measures. Rather its credibility lies in the actual implementation of such measures and their effects on the behaviour of civil servants and the society at large.”*** - Dr Jon Quah (Bureaucratic Corruption in the ASEAN Countries: A Comparative Analysis of their Anti-Corruption Strategies, 1982)
+
+31\.      Battling corruption is a long-term process which must not only be openly supported from the top, but one in which attitudes and conduct must be taught and reinforced at all levels. Fighting corruption ultimately depends on values. Values of the political leadership, values of the public service and, as an ultimate check, values of society as a whole.
+
+32\.      If Empowerment is what the Civil Service needs for the country to do well in a fast changing world, can it be done while assuring Integrity? And if it is so essential to preserve Integrity, must we sacrifice Empowerment? In this, as in so many things in life, the solution must lie in striking a practical balance between 100% grant of Empowerment and 100% assurance of Integrity. And that point of balance will be one important factor influencing the competitiveness of nations and the competitiveness of economies.
