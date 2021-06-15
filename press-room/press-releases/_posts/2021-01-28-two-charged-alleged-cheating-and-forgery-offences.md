@@ -27,3 +27,5 @@ d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 a) Where, when and how the alleged corrupt act happened?<br />
 b) Who was involved and what were their roles?<br />
 c) What was the bribe given and the favour shown?
+
+**Corrupt Practices Investigation Bureau**
