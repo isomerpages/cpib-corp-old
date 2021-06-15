@@ -15,7 +15,7 @@ b) **Ong Wei Jian [“Ong”]** (王伟健, 34-year-old male Singapore Citizen),
 
 4\.        Companies are strongly advised to put in place robust procedures in areas such as procurement and internal audit to prevent falling victim to corrupt acts by their employees. Guidance for companies on measures to prevent corruption can be found in <a href="https://www.cpib.gov.sg/pact"><em><span style="color: #0000ff;">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</span></em></a><span style="color: #000000;">, which is available on CPIB's website. Companies are also strongly encouraged to obtain certification under the <a href="https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001"><em><span style="color: #0000ff;">Singapore Standard (SS) ISO 37001 &ndash; Anti-Bribery Management Systems</span></em></a>, which is designed to help companies implement or enhance an anti-bribery management system to reduce corporate risk and costs related to bribery.&nbsp;</span></p>
 
-<u><span style="color: #000000;">Reference Links:</span></u>
+Reference Links:
 * PACT: <a href="https://www.cpib.gov.sg/pact">https://www.cpib.gov.sg/pact</a><br />
 * SS ISO 37001: <a href="https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001">https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001</a>
  
