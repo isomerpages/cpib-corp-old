@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Address By Minister Mentor Lee Kuan Yew at the Asian Strategy And Leadership Institute's "World Ethics And Integrity Forum 2005""
+title: "Address By Minister Mentor Lee Kuan Yew at the Asian Strategy And Leadership Institute's World Ethics And Integrity Forum 2005"
 permalink: "/press-room/speeches/address-minister-mentor-lee-kuan-yew-asian-strategy-and-leadership-institutes"
 ---
 Tan Sri Dato’ Seri Ahmad Sarji Abdul Hamid
