@@ -1,6 +1,6 @@
 layout: post
 title: "NParks Officer Charged For Alleged Corruption, Cheating and Taking Upskirt Photographs of Women"
-permalink: "/press-room/speeches/nparks-officer-charged-alleged-corruption-cheating-and-taking-upskirt"
+permalink: "/press-room/press-releases/nparks-officer-charged-alleged-corruption-cheating-and-taking-upskirt"
 ---
 On 13 April 2021, Lee Choon Phing (李俊平, a 48-year-old male Singapore Citizen) (“Lee”), a Manager of the Community in Bloom Branch of National Parks Board (“NParks”) was charged in court for allegedly committing offences relating to corruption, cheating and insulting the modesty of women, as follows:
 
