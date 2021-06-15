@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paying The Price For Securing Business Through Corrupt Means"
-permalink: "/press-room/speeches/paying-price-securing-business-through-corrupt-means"
+permalink: "/press-room/press-releases/paying-price-securing-business-through-corrupt-means"
 ---
 Employees should not give or receive bribes in return for securing business contracts. Such practices create unfair competition and could drive up the cost of doing business. Individuals who engage in such corrupt acts will be dealt with under the law.
 
