@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enforcement Officer Sentenced to Imprisonment for Intentionally Aiding to Pervert the Course of Justice"
-permalink: "/press-room/speeches/enforcement-officer-sentenced-imprisonment-intentionally-aiding-pervert"
+permalink: "/press-room/press-releases/enforcement-officer-sentenced-imprisonment-intentionally-aiding-pervert"
 ---
 Law enforcement officers are expected to maintain the highest standards of integrity and uphold justice. Those who pervert the course of justice must bear the full weight of the law.
 
