@@ -49,3 +49,23 @@ No one is to presume upon getting ahead on the basis of connection or favour.
 11\.      Singapore is a successful example of an economy that experienced serious problems with rampant corruption, but was able to transform itself within one or two decades to the point where incidents of corruption are relatively rare. This was due in large part to the fact that we confronted corruption, especially in the public service, as a matter of urgency, and as a prelude to our economic growth and social development.
 
 12\.      Moving more specifically to the factors that make for a corruption-free civil service, I would list seven factors and key anti-corruption initiatives. Broadly, these initiatives are not just concerned with countering corruption per se, but with reversing its negative impact on development and society as a whole. They make up what I call a National Integrity System.
+
+**The 7 Components of a National Integrity System**
+<ul>
+  <li>Strong Political Will and Example of Political Leaders</li>
+  <li>Public Service Characteristics and Ethos</li>
+  <li>Reduced Opportunities and Incentives for Corruption: Administrative Measures to Increase Transparency and Predictability</li>
+  <li>Changing the Way Government Does Its Business: Streamlining Operations to Improve Efficiency and Effectiveness</li>
+  <li>Enhanced Likelihood of Detection: Institutional Capacity and Bureaucratic Independence of Anti-Corruption Agencies</li>
+  <li>Swift and Severe Punishment</li>
+  <li>Strong Public Support</li>
+</ul>
+I shall deal with each of these factors in turn, as they are so critical even for the future.
+
+**A. Strong Political Will and Example of Political Leaders**
+
+13\.      The People’s Action Party (PAP) came into power in 1959 on a strong anticorruption platform, at a time when the ordinary citizen had difficulties dealing with the abuses of the government then. “Stay clean: dismiss the venal” remains a key basic principle that guided, and continues to guide the PAP Government in office. The senior political leaders are willing to submit themselves to scrutiny over their honesty and integrity; showed leadership, conviction, commitment, stamina, and tenacity in fighting corruption; and demonstrated strong will to reject graft and political patronage. Personal example is critical in establishing the moral authority to root out corruption. It sets a climate of honesty and integrity. The Government has never hesitated to prosecute government ministers and civil servants at all levels for corruption. Incorruptibility remains a key prerequisite of legitimacy for anyone who aspires to political relevance in Singapore.
+
+**B. Public Service Characteristics & Ethos**
+
+14\.      Corruption by public servants is not to be tolerated at all costs, as this is tantamount to abusing the officer’s position as custodian and steward of public resources and public trust.
