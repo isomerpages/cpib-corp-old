@@ -70,7 +70,7 @@ I shall deal with each of these factors in turn, as they are so critical even fo
 
 14\.      Corruption by public servants is not to be tolerated at all costs, as this is tantamount to abusing the officer’s position as custodian and steward of public resources and public trust.
 
-... *“Only by upholding the integrity of the administration can the economy work in a way which enables Singaporeans to clearly see the nexus between hard work and high rewards”* - Lee Kuan Yew (1979), then Prime Minister of Singapore
+... ***“Only by upholding the integrity of the administration can the economy work in a way which enables Singaporeans to clearly see the nexus between hard work and high rewards”*** - Lee Kuan Yew (1979), then Prime Minister of Singapore
 
 15\.      It is critical that Singapore have a clean and effective Public Service:
 <ul>
@@ -87,9 +87,52 @@ The test is not minimalist government, but effective government. In Singapore, e
 **C. Reduced Opportunities and Incentives for Corruption – Administrative Measures to Increase Transparency and Predictability**
 
 18\.      This principle is straightforward: “Prevention is better than cure”. We ought to remove opportunity for corruption through clear work procedures and decision rules. And we should improve transparency and accountability wherever we can, so the public knows what they can expect, and may complain when they do not get it. Also, have clear rules in the government Instruction Manual on issues likes:
-
 <ul>
-  <li>Bullet 1</li>
-  <li>Bullet 2</li>
-  <li>Bullet 3</li>
+  <li>a public officer cannot borrow money from any person who has official dealings with him,</li>
+  <li>a public officer cannot use any official information to further his private interest,</li>
+  <li>a public officer is require to declare his assets at his first appointment and also annually, and</li>
+  <li>a public officer cannot receive entertainment or presents in any form from members of the public.</li>
+</ul>
+**D. Changing the Way Government Does Its Business: Streamlining Operations to Improve Efficiency and Effectiveness**
+
+19\.      This principle is also straightforward. Seek continuous improvement in public service delivery. There is no rent available for the corrupt officer to collect if effective and efficient services can be available without bribes. Thus fostering excellence in public service–slashing red tape, streamlining procedures, minimising delays–is an anticorruption measure in itself. Other measures like nametags, posted fee schedules, Quality Circles (or what we call Work Improvement Teams in Singapore), Suggestions Schemes, help attune public servants towards superior customer service, and make them activists for change and improvement. While not explicitly connected with preventing corruption, the attitudes they foster work against corruption.
+
+**E. Enhanced Likelihood of Detection: Institutional Capacity and Bureaucratic Independence of Anti-Corruption Agencies**
+
+20\.      I need say very little on this principle, for you have your ICAC what we have with our Corrupt Practices Investigation Bureau (CPIB). Our CPIB reports directly to our Prime Minister but, under a provision in our Constitution, may yet proceed with its investigations despite any direction from the Prime Minister. Over the years, the CPIB has brought corruption charges against a number of senior Government officials, including ministers, members of parliament, civil servants and agency CEOs.
+
+**F. Swift and Severe Punishment**
+
+***“There are several good protections against temptations, but the surest is cowardice.” - Mark Twain (“Pudd’nhead Wilson’s New Calendar”, Following the Equator (1897))***
+
+21\.      The high penalties in our laws deter corruption by making it a “high risk, low profit” undertaking. They deter those who bribe as well as those who receive. The penalties go beyond fines and jail sentences. Public shaming through publicity of the case is an integral part of the punishment, so that the officer not only suffers personally but also brings disgrace to his family.
+
+**G. Strong Public Support**
+
+22\.      The press plays an active role in publishing examples of corrupt cases involving senior civil servants or politicians, and in providing complete details of the offences and punishment meted out. This both informs the public about the consequences of corruption, as well as fosters a climate that is less tolerant of corruption.
+
+23\.      There is also strong public support against corruption because of their confidence in the CPIB to deal fairly, thoroughly and confidentially with the complaints they lodge with the CPIB. The public believes they will receive a fair and impartial hearing, and will be protected from harassment and retaliation. It is a trust very difficult to regain if lost. This in itself is a check on the CPIB to always act in a way which reinforces, rather than detracts, from public trust.
+
+24\.      I have described the past and the present concerning corruption in the Civil Service. Allow me now to turn to the future. The first question must be: What will the future be like? As I mentioned early in this address,
+<ul>
+  <li>It is a future of a more demanding and critical public, an external environment more fluid and less predictable, a world more linked up by Information Technology yet more competitive as states drive for talent, investments and markets.</li>
+  <li>It is a future not only of change, but of change at an increasing pace.</li>
+  <li>It is a future of information, but information so voluminous and overwhelming that the problem is extracting the most relevant and putting them together in a way which allows good decisions to be made.</li>
+  <li>It is a future of opportunity, but opportunity so many and varied that the difficulty is sorting out what opportunities to pursue and what to leave alone.</li>
+  <li>It is a future of market economies, where more than ever before the private sector must be an engine of growth, yet their capacity to move fast and move right must depend on a public service which facilitates rather than controls.</li>
+  <li>It is a future of uncertainty and unpredictability, yet we must find a way to be in time for such a future.</li>
+</ul>
+25\.      What kind of Civil Service do we need for such a future?
+<ul>
+  <li>It is a Civil Service which must have a good share of some of the nation’s best talent, for it is a world of increasing complexity that requires good minds to make good sense out of all the bewildering array of knowledge and information.
+</li>
+  <li>It is a Civil Service that must understand the needs and concerns of the private sector and help them with efficient and effective government, but never losing sight of the public good and the long-term interests of the country.</li>
+  <li>It is a Civil Service that must be comfortable with change and uncertainty, finding means for anticipating the future, but always living in the present with nimbleness, flexibility and adaptability.</li>
+</ul>
+26\.      How will such a Civil Service be different from the present? I guess as follows:
+<ul>
+  <li>First, the change will be evolutionary, but a Civil Service that anticipates and plans well will not allow itself to be overtaken by events or opportunity.</li>
+  <li>Secondly, it will be a Civil Service with much more interaction with the private sector in order to understand their needs and concerns well, yet must be able to do this without compromising its values, standards and ethos.</li>
+  <li>Thirdly, it will be a Civil Service itself driven to change continually “be in time for the future”, a Civil Service that sees itself as a catalyst for change, a pace setter and a standard bearer for thinking about the future and service to the public.</li>
+  <li>Fourthly, it will be a Civil Service that makes good use of its people, most particularly the newer employees who come in better educated, IT competent, looking for challenge, hungry for interesting work, wanting to exercise authority, willing to accept responsibility. Here is the challenge and opportunity for us all! The talents and abilities of our people will make it possible to achieve the speed and responsiveness demanded by the opportunities in a fastmoving world, yet contain the potential for corruption and misdirection that come with allowing initiative and discretion.</li>  
 </ul>
