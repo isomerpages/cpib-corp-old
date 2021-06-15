@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former BP Employee and Bunker Supplier Jailed For Corruption"
-permalink: "/press-room/speeches/former-bp-employee-and-bunker-supplier-jailed-corruption"
+permalink: "/press-room/press-releases/former-bp-employee-and-bunker-supplier-jailed-corruption"
 ---
 On 11 May 2021, Chang Peng Hong Clarence (“Chang”) (张炳鸿), a former Eastern Regional Director for Marine Fuels with BP Singapore Pte Ltd (“BP”), was sentenced to 54 months’ imprisonment for receiving bribes. He was also ordered to pay a penalty of S$6,220,095. Koh Seng Lee (“Koh”) (許勝利), the Executive Director of Pacific Prime Trading Pte Ltd (“PPT”), who had given the bribes, was also sentenced to 54 months’ imprisonment for corruption on the same day.
 
