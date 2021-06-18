@@ -11,3 +11,4 @@ A clean business protects a company and employees from being caught in thorny an
 
 PACT provides useful facts on corruption in Singapore, an easily-implementable anti-corruption framework, private sector case studies and other useful anti-corruption resources.
 
+<a href="/files/pact_2018.pdf" target="_blank">DOWNLOAD Guide</a> (pdf - 2.3 MB)
