@@ -17,6 +17,3 @@ PACT provides useful facts on corruption in Singapore, an easily-implementable a
     <button>DOWNLOAD (pdf - 2.3 MB)</button>
 </a>
 
-    <button onclick="window.location.href='/files/pact_2018.pdf';">
-      Download
-    </button>
