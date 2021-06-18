@@ -24,6 +24,8 @@ Topping the 2018 CPI list is Denmark and New Zealand, which are at first and sec
 
 ### **Singapore’s Ranking**
 
+Since its inception, Singapore has been ranked consistently among one of the least corrupt countries in the world.  In the last 5 years, Singapore has been placed among the top 10 globally, and was tied at 3rd place with Finland, Sweden and Switzerland in 2018.
+
 <img src="/images/research-rm_ti-cpib2018.png" alt="cpi">
 
 To learn more about Transparency Index or to view the full results, you can visit <a href="http://www.transparency.org/" target="_blank">http://www.transparency.org/</a>
