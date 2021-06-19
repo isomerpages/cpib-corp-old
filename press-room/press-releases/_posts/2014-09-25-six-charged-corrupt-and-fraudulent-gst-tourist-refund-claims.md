@@ -45,4 +45,7 @@ i. 26 counts for an offence under Section 62(1)(b) of the Goods and Services Tax
 ii. Nine counts of removing cash arising from fraudulent GST refund claims out of Singapore under Section 47(1)(b) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A.
 
 5\.         Singapore has always adopted a zero tolerance approach towards corruption and other criminal activities. The authorities take a serious view of any corrupt and criminal practices, and will not hesitate to take swift action against any individuals and parties involved.
-<br/><br/>**Corrupt Practices Investigation Bureau**
+<br/><br/>**Corrupt Practices Investigation Bureau**<br/>
+**Inland Revenue Authority of Singapore**<br/>
+**Singapore Customs**<br/>
+**Singapore Police Force**
