@@ -7,7 +7,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 
 **Modus Operandi - Fraudulent GST Refund Claims and Corruption offences**
 
-2\. The Inland Revenue Authority of Singapore (IRAS), using its data analytics tool, detected several suspicious GST refund claims through the electronic tourist refund scheme (eTRS)i in 2013. Subsequent investigations by IRAS, Singapore Customs and Corrupt Practices Investigation Bureau (CPIB) revealed fraudulent claims of about $570,000 in GST refunds by a group of accomplices between September 2012 and January 2014.
+2\. The Inland Revenue Authority of Singapore (IRAS), using its data analytics tool, detected several suspicious GST refund claims through the electronic tourist refund scheme (&ldquo;eTRS&rdquo;)<sup>i&nbsp;</sup> in 2013. Subsequent investigations by IRAS, Singapore Customs and Corrupt Practices Investigation Bureau (CPIB) revealed fraudulent claims of about $570,000 in GST refunds by a group of accomplices between September 2012 and January 2014.
 
 3\. As part of their illegal scheme, Sundar Panneer Selvam, Baskaran Uthirapathy, Pounraj Natarajan and Gobi Raman paid for receipts from bona fide shoppers who had purchased jewellery and obtained eTRS tickets from the jewellery retailers.
 
@@ -418,3 +418,13 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 **Inland Revenue Authority of Singapore**<br/>
 **Singapore Customs**<br/>
 **Singapore Police Force**
+
+<br/>
+<br/>
+<p><u><strong><sup>i</sup>&nbsp;About the Electronic Tourist Refund Scheme (eTRS)</strong></u></p>
+
+Tourists can claim GST refund on goods they have purchased and brought out of Singapore. A person who did not purchase the goods and yet sought or obtained a GST refund under the tourist refund scheme would have committed an offence under the GST Act.
+
+Under eTRS, a tourist receives a receipt of goods purchased and an eTRS ticket when he buys goods from a GST-registered retailer participating in eTRS. The tourist then uses the eTRS ticket or the credit card with which he purchased the goods to make a GST refund claim via the eTRS selfhelp kiosk at the Changi airport.
+
+As a control measure, physical inspection of the goods may be carried out at the GST refund counter by Singapore Customs officers before a GST refund claim is approved.
