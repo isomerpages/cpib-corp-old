@@ -414,4 +414,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 **Zero Tolerance towards Tax Fraud, Corruption and other Criminal Activities**
 
 12\. Singapore has always adopted a zero tolerance approach towards tax fraud, corruption and other criminal activities. The authorities take a serious view of any corrupt and criminal practices, and will not hesitate to take swift action against any individuals and parties involved.<br/>
-<br/>**Corrupt Practices Investigation Bureau**
+<br/>**Corrupt Practices Investigation Bureau**<br/>
+**Inland Revenue Authority of Singapore**<br/>
+**Singapore Customs**<br/>
+**Singapore Police Force**
