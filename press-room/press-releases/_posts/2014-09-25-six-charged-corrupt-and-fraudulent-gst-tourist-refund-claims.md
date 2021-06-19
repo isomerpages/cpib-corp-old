@@ -5,7 +5,7 @@ permalink: "/press-room/press-releases/six-charged-corrupt-and-fraudulent-gst-to
 ---
 Six men have been charged in Court in a corrupt and fraudulent Goods and Services Tax (GST) tourist refund claims case. They include a former Singapore Customs officer, a Singaporean sales executive employed with a goldsmith shop and four Indian nationals.
 
-2\.         Using a data analytics model that identifies abnormal GST refund claims via the electronic tourist refund system (eTRS)i, Inland Revenue Authority of Singapore (IRAS) had detected several suspicious GST refund claims. IRAS and Singapore Customs then worked together to investigate the suspicious GST refund claims processed by the Customs officer involved. The case was subsequently referred to the Corrupt Practices Investigation Bureau (CPIB) for further investigations. Singapore Customs and IRAS then worked closely with CPIB to support the investigations into the case.
+2\.         Using a data analytics model that identifies abnormal GST refund claims via the electronic tourist refund system (&ldquo;eTRS&rdquo;)<sup>i&nbsp;</sup>, Inland Revenue Authority of Singapore (IRAS) had detected several suspicious GST refund claims. IRAS and Singapore Customs then worked together to investigate the suspicious GST refund claims processed by the Customs officer involved. The case was subsequently referred to the Corrupt Practices Investigation Bureau (CPIB) for further investigations. Singapore Customs and IRAS then worked closely with CPIB to support the investigations into the case.
 
 3\.         On 27 January 2014, CPIB, Singapore Customs and IRAS conducted a joint operation to arrest the Customs officer and four Indian nationals. The sales executive was arrested by CPIB later the same day. The Commercial Affairs Department (CAD) of the Singapore Police Force (SPF) was subsequently alerted due to suspected money laundering offences. The Customs officer involved is no longer employed by Singapore Customs. His employment contract was not renewed when it expired earlier this month.
 
@@ -49,3 +49,12 @@ ii. Nine counts of removing cash arising from fraudulent GST refund claims out o
 **Inland Revenue Authority of Singapore**<br/>
 **Singapore Customs**<br/>
 **Singapore Police Force**
+
+<br/>
+<p><u><strong><sup>i</sup>&nbsp;About the Electronic Tourist Refund Scheme (eTRS)</strong></u></p>
+
+Tourists can claim GST refund on goods they have purchased and brought out of Singapore. A person who did not purchase the goods and yet sought or obtained a GST refund under the tourist refund scheme would have committed an offence under the GST Act.
+
+Under eTRS, a tourist receives a receipt of goods purchased and an eTRS ticket when he buys goods from a GST-registered retailer participating in eTRS. The tourist then uses the eTRS ticket or the credit card with which he purchased the goods to make a GST refund claim via the eTRS self- help kiosk at the Changi airport.
+
+As a control measure, physical inspection of the goods may be carried out at the GST refund counter by Singapore Customs officers before a GST refund claim is approved.
