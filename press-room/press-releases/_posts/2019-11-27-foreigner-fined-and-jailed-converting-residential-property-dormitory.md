@@ -19,7 +19,7 @@ permalink: "/press-room/press-releases/foreigner-fined-and-jailed-converting-res
 
 **Property owners and tenants reminded to adhere to regulations and exercise due diligence**
 
-7\.      URA reminds property owners and tenants to adhere to prevailing regulations for private residential properties, such as the occupancy cap of six unrelated persons, and minimum stay duration of three consecutive months[1]. Property owners should exercise due diligence to check that their property is not put to unauthorised uses, such as dormitory accommodation. Under the Planning Act, offenders who use their premises or permits their premises to be used to provide unauthorised dormitory accommodation can be fined up to $200,000, or jailed up to one year, or both.
+7\.      URA reminds property owners and tenants to adhere to prevailing regulations for private residential properties, such as the occupancy cap of six unrelated persons, and minimum stay duration of three consecutive months. Property owners should exercise due diligence to check that their property is not put to unauthorised uses, such as dormitory accommodation. Under the Planning Act, offenders who use their premises or permits their premises to be used to provide unauthorised dormitory accommodation can be fined up to $200,000, or jailed up to one year, or both.
 
 8\.      Under the EFMA, only foreigners with valid work passes are allowed to work in Singapore, They are only allowed to work in the occupation, and for the employer, as stated in their work passes. Offenders found without a valid work pass can be fined up to $20,000, or jailed up to two years, or both. Offenders will also be barred from working in Singapore.
 
