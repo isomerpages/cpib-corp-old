@@ -68,4 +68,6 @@ c. Lodge an online complaint at www.cpib.gov.sg.
 
 5\.        Residents can also utilise the Electronic Police Centre (ePC) at <a href="http://www.police.gov.sg/epc/">www.police.gov.sg/epc/</a> to lodge non-emergency reports such as loss of property or call 999 for urgent Police assistance. 
 
-**Corrupt Practices Investigation Bureau**
+**Corrupt Practices Investigation Bureau**<br/>
+**Singapore Police Force**
+
