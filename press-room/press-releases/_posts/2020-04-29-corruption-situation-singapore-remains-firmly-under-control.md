@@ -37,7 +37,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 
 **Higher Clearance Rate**
 
-8\.            Despite an increased workload, CPIB achieved a higher annual clearance rate2, completing investigations into 85% of the number of subjects investigated in 2019 (Figure 4). This was a 5% improvement from the 2018 clearance rate.
+8\.            Despite an increased workload, CPIB achieved a higher annual clearance rate<sup>2</sup>, completing investigations into 85% of the number of subjects investigated in 2019 (Figure 4). This was a 5% improvement from the 2018 clearance rate.
 
 <img width="460" alt="Figure 4_0" src="https://user-images.githubusercontent.com/84945723/124138012-d0643d80-dab8-11eb-83b9-dc8ca0ad05cf.png">
 
