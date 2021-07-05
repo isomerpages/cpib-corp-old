@@ -13,7 +13,3 @@ The strength of the CPIB lies in its officers. The Bureau grooms its officers to
 On top of this, the CPIB has a competitive system of remuneration to recognise the efforts of its officers.
 
 Most important of all, you will have the immeasurable satisfaction of playing an instrumental role towards achieving a corruption-free Singapore.
-
-
-
-
