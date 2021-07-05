@@ -3,21 +3,16 @@ title: Employee Value Proposition
 permalink: /careers/employee-value-proposition/
 ---
 
-<img src="/images/abt-corruption_def-of-corruption.jpg" alt="definition of corruption">
+<img src="/images/careers_employee-value-propositions.jpg" alt="employee value proposition">
 
-### **Definition of Corruption**
+The Corrupt Practices Investigation Bureau’s (CPIB) mission is to combat corruption through swift and sure, firm but fair action. As a member of the CPIB, you will join the ranks of an elite team who is dedicated to this cause.
 
-Corruption is receiving, asking for or giving any gratification to induce a person to do a favour with a corrupt intent.
+The strength of the CPIB lies in its officers. The Bureau grooms its officers to give their best no matter the circumstances. We are committed to the development of every officer’s potential. To that end, the CPIB provides an environment where officers can grow professionally and personally. You will also have overseas exposure, and opportunities to learn and network with our international counterparts in this elite fraternity.
 
-In a nutshell, here is a graphical representation of corruption:
+On top of this, the CPIB has a competitive system of remuneration to recognise the efforts of its officers.
 
-<img src="/images/abt-corruption_corruption-infographic.jpg" alt="corruption infographic">
+Most important of all, you will have the immeasurable satisfaction of playing an instrumental role towards achieving a corruption-free Singapore.
 
-There are many kinds of gratification, including money, sexual favours, properties, promises, services and etc.
-
-Favours also come in different forms such as seeking confidential information, leniency, special privileges, contracts and etc.
-
-
-
+***Disclaimer: Photo taken prior to the COVID-19 pandemic.***
 
 
