@@ -6,8 +6,8 @@ third_nav_title: Behind The Scenes
 
 <img src="/images/careers_chess.jpg" alt="a game of chess">
 
-### **Kogularam Naidu**
-#### **Deputy Head**
+**Kogularam Naidu**
+**Deputy Head**
 
 At CPIB, we're responsible for the investigation and prevention of corruption in Singapore. We want to keep Singapore corruption-free and ensure that offenders are brought to justice. This involves interviews with suspects in graft cases, field-work to uncover forensic evidence and, subsequently, taking offenders to task.
 
