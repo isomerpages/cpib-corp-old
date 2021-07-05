@@ -6,7 +6,7 @@ third_nav_title: Behind The Scenes
 
 <img src="/images/careers_earn-respect.jpg" alt="respect is earned">
 
-**Chua Wee Yong**
+**Chua Wee Yong**<br>
 **Principal Special Investigator**
 
 While out with my wife at a shopping centre one weekend, I bumped into Peter*. Peter was happy to see me, and told me that he was now doing well, running a food business. I was glad for him. After that, we shook hands and parted amicably. You might think that Peter was a long-lost friend of mine. In fact, Peter was someone I had previously investigated and put behind bars. My wife was very surprised that there was no trace of animosity at all from Peter. 
