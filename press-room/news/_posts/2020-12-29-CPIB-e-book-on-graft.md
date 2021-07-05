@@ -15,3 +15,12 @@ permalink: "/press-room/news/CPIB-e-book-on-graft"
 <form>
  <input type="button" value="Go back!" onclick="history.back()">
 </form>
+
+
+<button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
