@@ -6,8 +6,8 @@ third_nav_title: Behind The Scenes
 
 <img src="/images/careers_human-touch.jpg" alt="a game of chess">
 
-### **Thomas Cheo**
-#### **Head**
+**Thomas Cheo**
+**Head**
 
 I was investigating Steven* for a corruption offence. Through my interviews with him, I learnt that Steven had a young child who was suffering from a serious medical condition and that his wife was unemployed.  In the course of the investigation, Steven passed away and knowing that the family was in need of financial assistance, I offered to put the family in contact with the relevant social services so that the family could continue to receive the proper care and assistance. Steven’s wife was very grateful. My story is not unique or special.
 
