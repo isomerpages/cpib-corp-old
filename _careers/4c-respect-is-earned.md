@@ -1,6 +1,6 @@
 ---
 title: Respect Is Earned
 permalink: /careers/behind-the-scenes/respect-is-earned/
-third_nav_title: behind-the-scenes
+third_nav_title: Behind The Scenes
 ---
 
