@@ -11,9 +11,9 @@ locations:
     operating_hours:
       - days: Mon - Thu
         time: 8.30am - 6.00pm
-        description: Closed on Sat, Sun and Public Holidays
       - days: Fri
         time: 8.30am - 5.30pm
+        description: Closed on Sat, Sun and Public Holidays
   - title: Corruption Reporting & Heritage Centre
     address:
         - 247 Whitley Road
@@ -21,9 +21,9 @@ locations:
     operating_hours:
       - days: Mon - Fri
         time: 10.00am - 7.00pm
-        description: Closed on Sun and Public Holidays
       - days: Sat
         time: 10.00am - 4.00pmm
+        description: Closed on Sun and Public Holidays
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
