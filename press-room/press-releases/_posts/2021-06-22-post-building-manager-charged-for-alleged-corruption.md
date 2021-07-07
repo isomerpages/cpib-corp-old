@@ -1,7 +1,7 @@
 ---
 title: Building Manager Charged For Alleged Corruption
 date: 2021-06-22
-permalink: /press-room/press-releases/permalink
+permalink: /press-room/press-releases/building-manager-charged-alleged-corruption
 layout: post
 ---
 On 22 June 2021, Woo Kong Choy (“Woo”) (胡光財), a 61-year-old Singaporean male, was charged in Court for alleged corruption. At the material time, Woo was an employee of Wisely 98 Pte Ltd who was deployed as a Building Manager at Bugis Cube.
