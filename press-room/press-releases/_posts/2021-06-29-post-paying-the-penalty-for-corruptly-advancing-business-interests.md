@@ -1,7 +1,7 @@
 ---
 title: Paying the Penalty for Corruptly Advancing Business Interests
 date: 2021-06-29
-permalink: /press-room/press-releases/permalink
+permalink: /press-room/press-releases/paying-penalty-corruptly-advancing-business-interests
 layout: post
 ---
 Corruption disrupts honest and fair competition in procurement and the awarding of business contracts. Those who engage in corrupt acts to gain an unfair advantage over others will face the consequences under the law.
