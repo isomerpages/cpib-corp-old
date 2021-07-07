@@ -32,8 +32,8 @@ Corruption offences
 
 6\.         The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
-a) Lodge an e-Complaint at www.cpib.gov.sg/e-complaint;<br>
-b) Email us at report@cpib.gov.sg;<Br>
+a) Lodge an e-Complaint at [www.cpib.gov.sg/e-complaint](www.cpib.gov.sg/e-complaint);<br>
+b) Email us at [report@cpib.gov.sg](report@cpib.gov.sg);<Br>
 c) Call the Duty Officer at 1800-376-0000; or<br>
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
