@@ -18,8 +18,8 @@ Corruption disrupts honest and fair competition in procurement and the awarding 
 
 Reference Links:
 
-* PACT: https://www.cpib.gov.sg/pact<br>
-* SS ISO 37001: https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001
+* PACT: [https://www.cpib.gov.sg/pact](https://www.cpib.gov.sg/pact)<br>
+* SS ISO 37001: [https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001](https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001)
 
 
 **CORRUPT PRACTICES INVESTIGATION BUREAU**
