@@ -102,7 +102,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="public-container">
 <section class="cards">
     <div class="card">
-        <a href="/files/case_pub_fugitive-brought-justice-after-35-years.pdf" target="_blank">
+        <a href="/cases/public_fugitive-brought-justice-after-35-years" target="_blank">
                 <img src="/images/case/case_pub_brought-to-justice.jpg">
             <div class="card-content">
                 <h6>Fugitive Brought to Justice After 35 Years</h6>
