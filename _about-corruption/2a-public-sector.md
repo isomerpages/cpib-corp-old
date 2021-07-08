@@ -110,7 +110,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/files/case_pub_high-price-loans-grants.pdf" target="_blank">
+        <a href="/test/" target="_blank">
                 <img src="/images/case/case_pub_loans-for-grants.jpg">
             <div class="card-content">
                 <h6>The high price of loans for grants</h6>
