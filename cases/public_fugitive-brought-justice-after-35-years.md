@@ -17,8 +17,6 @@ The long running case finally concluded on 22 January 2016 when Phey Yew Kok ple
 
 <a href="javascript:history.back()">Go Back</a>
 
-<script>
-function goBack() {
-  window.history.back();
-}
-</script>
+<form>
+ <input type="button" value="No, really, go back!" onclick="history.go(-1)">
+</form>
