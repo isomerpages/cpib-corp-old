@@ -14,3 +14,9 @@ On 23 July 2015, Phey was slapped with 28 additional charges bringing his total 
 
 The long running case finally concluded on 22 January 2016 when Phey Yew Kok pleaded guilty to 12 of the 34 charges, including 10 counts of criminal breach of trust involving S$243,878.  Phey was sentenced to 60 months’ imprisonment. The other 22 charges were taken into consideration in sentencing him.
 
+
+<script>
+function goBack() {
+  window.history.back();
+}
+</script>
