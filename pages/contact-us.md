@@ -26,6 +26,8 @@ locations:
       - days: Sat
         time: 10.00am - 4.00pmm
         description: Closed on Sun and Public Holidays
+        description: By Bus - 105, 132, 151, 153, 154, 156, 186, 190, 190A, 700, 700A, 960, 971E, 972, 972A
+        description: By MRT - Stevens MRT (Downtown Line)
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS
