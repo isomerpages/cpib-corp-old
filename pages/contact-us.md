@@ -14,6 +14,8 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: Closed on Sat, Sun and Public Holidays
+        description: By Bus - 14, 123, 139, 147, 153, 196, 197, 198, 855, 961
+        description: By MRT - Redhill MRT (East - West Line)
   - title: Corruption Reporting & Heritage Centre
     address:
         - 247 Whitley Road
