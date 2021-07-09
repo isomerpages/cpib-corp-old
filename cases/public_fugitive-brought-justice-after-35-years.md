@@ -14,9 +14,18 @@ On 23 July 2015, Phey was slapped with 28 additional charges bringing his total 
 
 The long running case finally concluded on 22 January 2016 when Phey Yew Kok pleaded guilty to 12 of the 34 charges, including 10 counts of criminal breach of trust involving S$243,878.  Phey was sentenced to 60 months’ imprisonment. The other 22 charges were taken into consideration in sentencing him.
 
+1
+<INPUT TYPE="button" VALUE="Back" onClick="history.go(-1);">
 
+2
 <a href="javascript:history.back()">Go Back</a>
 
+3
 <form>
  <input type="button" value="No, really, go back!" onclick="history.go(-1)">
 </form>
+
+4
+<a href = "javascript:history.back()">Back to previous page</a>
+
+
