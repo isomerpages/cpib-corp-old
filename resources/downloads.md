@@ -20,7 +20,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p><a href="/files/resource_badges.pdf" target="_blank"><img src="/images/resource_download_badges.jpg" width="300" height="400" alt="Badges"></a></p></td>
+    <td><p><img src="/images/resource_download_badges.jpg" width="300" height="400" alt="Badges"></p></td>
     <td>
       <p><b>Badges</b></p>
       <p>Join the fight against corruption by spreading the word with your anti-corruption badge. Click on the file below for these printable templates and have fun creating your own personalised graftbuster badges.</p>
@@ -29,7 +29,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p><a href="/files/resource_door-hanger.pdf" target="_blank"><img src="/images/resource_download_hanger.jpg" width="300" height="400" alt="door hanger"></a></p></td>
+    <td><p><img src="/images/resource_download_hanger.jpg" width="300" height="400" alt="door hanger"></p></td>
     <td>
       <p><b>Door Hanger</b></p>
       <p>Get creative with this Do-It-Yourself anti-corruption door hanger. Click on the file below for this printable template and enjoy making this simple graftbuster door hanger.</p>
@@ -40,8 +40,11 @@ title: Downloads
   <tr>
     <td><p></p></td>
     <td>
-      <p><b></b></p>
-      <p></p>
+      <p><b>Spot the Corrupt! Colouring Activity</b></p>
+      <p>Corruption can happen anytime and anywhere. Click on the files below for printable colouring activities and see if you can spot the corrupt individuals in the act!</p>
+      <p><a href="/files/resource_spot-corrupted-a3.pdf" target="_blank">Spot the Corrupt - A3 (pdf - 2.6 MB)</a><br>
+        <a href="/files/resource_spot-corrupted-colour.pdf" target="_blank">Spot the Corrupt - Colour (pft - 5.0 MB)</a>
+      </p>
     </td>
   </tr>
 
