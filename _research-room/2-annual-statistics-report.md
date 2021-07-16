@@ -16,7 +16,4 @@ The Corrupt Practices Investigation Bureau releases annual statistics on the cor
 
 <a href="/files/CPIB_PR_Corruption_Stats_2018.pdf" target="_blank">Corruption Statistics 2018 (pdf - 1.06 MB)</a>
 
-<a href="/files/CPIB_PR_Corruption_Stats_2018.pdf" target="_blank">
-    <button>Corruption Statistics 2018 (pdf - 1.06 MB)</button>
-</a>
 
