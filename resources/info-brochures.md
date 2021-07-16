@@ -10,7 +10,7 @@ title: Informational Brochures
 
 Download at the link below:
 
-<a href="/files/brochure-2017-final.pdf" target="_blank">Stop Corruption Informational Brochure (pdf - 691 KB)</a>
+<a href="/files/brochure-2017-final.pdf" target="_blank">Stop Corruption Informational Brochure (pdf - 3.4 MB)</a>
 
 
 Related Content:
