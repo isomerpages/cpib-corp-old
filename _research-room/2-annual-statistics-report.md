@@ -3,6 +3,7 @@ title: Annual Statistics Report
 permalink: /research-room/annual-statistics-report/
 ---
 
+<style>
 a:link, a:visited {
   background-color: #f44336;
   color: white;
@@ -15,7 +16,7 @@ a:link, a:visited {
 a:hover, a:active {
   background-color: red;
 }
-
+</style>
 
 <img src="/images/research-rm_cpib-buildings-sg.jpg" alt="Annual Statistics Report">
 
