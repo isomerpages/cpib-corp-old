@@ -13,7 +13,6 @@ Teh Hang Peng was consequently fined S$60,000 and ordered to pay a penalty* of S
 <p style="font-size:15px">* Penalty is an additional punishment (for corruption offences) imposed on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
 
 
-
 Related Content:
 
 * [Public Sector Case Studies](/about-corruption/case-studies/public-sector/)
