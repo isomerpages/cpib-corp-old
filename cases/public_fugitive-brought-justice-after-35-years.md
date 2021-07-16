@@ -16,5 +16,13 @@ The long running case finally concluded on 22 January 2016 when Phey Yew Kok ple
 
 
 <a href="/about-corruption/case-studies/public-sector/">
-	<button style="font: 20px Arial;">All Public Sector Case Studies</button>
+	<button style="font: 20px Arial;">Public Sector Case Studies</button>
+</a>
+
+<a href="/about-corruption/case-studies/private-sector/">
+	<button style="font: 20px Arial;">Private Sector Case Studies</button>
+</a>
+
+<a href="/about-corruption/case-studies/stories-of-integrity/">
+	<button style="font: 20px Arial;">Stories of Integrity</button>
 </a>
