@@ -7,7 +7,7 @@ title: Downloads
 <table>
 
   <tr>
-  <td><p><iframe width="314" height="200" src="https://www.youtube.com/embed/MzUAm9foAxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></td>
+  <td><p><img src="/images/resource__download_comic.jpg" width="300" height="400" alt="Comic"></p></td>
     <td>
       <p><b>Comic Strips</b></p>
       <p>CPIB's comic strips were created in 2012 by popular cartoonist, Lee Chee Chew to educate the public on anti-corruption. Click on the comic strip to view more.</p>
