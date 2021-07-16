@@ -1,8 +1,8 @@
 ---
-title: Fugitive Brought to Justice After 35 Years
+title: Fugitive Brought To Justice After 35 Years
 ---
 
-<img src="/images/case/case_pub_brought-to-justice1.jpg" alt="Fugitive Brought to Justice After 35 Years">
+<img src="/images/case/case_pub_brought-to-justice1.jpg" alt="Fugitive Brought To Justice After 35 Years">
 
 Phey Yew Kok was a prominent unionist in Singapore during the 1970s. Not only was he the president of the National Trades Union Congress (NTUC) and former Member of Parliament for Boon Teck constituency, he was also the General Secretary of the Singapore Industrial Labour Organisation (SILO) and General Secretary of the Pioneer Industries Employees’ Union (PIEU).
 
