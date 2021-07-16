@@ -43,7 +43,7 @@ title: Downloads
       <p><b>Spot the Corrupt! Colouring Activity</b></p>
       <p>Corruption can happen anytime and anywhere. Click on the files below for printable colouring activities and see if you can spot the corrupt individuals in the act!</p>
       <p><a href="/files/resource_spot-corrupted-a3.pdf" target="_blank">Spot the Corrupt - A3 (pdf - 2.6 MB)</a><br>
-        <a href="/files/resource_spot-corrupted-colour.pdf" target="_blank">Spot the Corrupt - Colour (pft - 5.0 MB)</a>
+        <a href="/files/resource_spot-corrupted-colour.pdf" target="_blank">Spot the Corrupt - Colour (pdf - 5.0 MB)</a>
       </p>
     </td>
   </tr>
