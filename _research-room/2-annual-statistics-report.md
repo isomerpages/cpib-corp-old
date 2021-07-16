@@ -5,7 +5,7 @@ permalink: /research-room/annual-statistics-report/
 
 <style>
 a:link, a:visited {
-  background-color: #f0f0f0;
+  background-color: white;
   color: black;
   padding: 14px 25px;
   text-align: center;
@@ -14,7 +14,7 @@ a:link, a:visited {
 }
 
 a:hover, a:active {
-  background-color: #f0f0f0;
+  background-color: white;
 }
 </style>
 
