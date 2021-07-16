@@ -105,15 +105,15 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/cases/public_fugitive-brought-justice-after-35-years">
                 <img src="/images/case/case_pub_brought-to-justice.jpg">
             <div class="card-content">
-                <h6>Fugitive Brought to Justice After 35 Years</h6>
+                <h6>Fugitive Brought To Justice After 35 Years</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/" target="_blank">
+        <a href="/cases/public_high-price-loans-grants" target="_blank">
                 <img src="/images/case/case_pub_loans-for-grants.jpg">
             <div class="card-content">
-                <h6>The high price of loans for grants</h6>
+                <h6>The High Price Of Loans For Grants</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -121,7 +121,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/files/case_pub_high-price-loans-grants.pdf" target="_blank">
                 <img src="/images/case/case_pub_authority.jpg">
             <div class="card-content">
-                <h6>Authority – you will lose it if you abuse it</h6>
+                <h6>Authority – You Will Lose It If You Abuse It</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -129,7 +129,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_graft-amt.jpg">
             <div class="card-content">
-                <h6>The highest graft amount</h6>
+                <h6>The Highest Graft Amount</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -137,7 +137,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_gst-fraud.jpg">
             <div class="card-content">
-                <h6>Corruption and abetting in GST Tourist Refund Fraud</h6>
+                <h6>Corruption And Abetting In GST Tourist Refund Fraud</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -145,7 +145,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_loans.jpg">
             <div class="card-content">
-                <h6>Loans that land you behind bars</h6>
+                <h6>Loans That Land You Behind Bars</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -153,7 +153,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_corrupt-addict.jpg">
             <div class="card-content">
-                <h6>Corruption "addict"</h6>
+                <h6>Corruption "Addict"</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -161,7 +161,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
     	<a href="/faq/">
            	<img src="/images/case/case_pub_money-xchg.jpg">
            <div class="card-content">
-           	<h6>Money in exchange for sloppy record-keeping</h6>
+           	<h6>Money In Exchange For Sloppy Record-Keeping</h6>
            </div><!-- .card-content -->
     	</a>
     </div><!-- .card -->
@@ -169,7 +169,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_personal-interest.jpg">
             <div class="card-content">
-                <h6>Personal interest over public safety</h6>
+                <h6>Personal Interest Over Public Safety</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -177,7 +177,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_cash-for-info.jpg">
             <div class="card-content">
-                <h6>Cash-for-information</h6>
+                <h6>Cash-For-Information</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -185,7 +185,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_money-xchg-passes.jpg">
             <div class="card-content">
-                <h6>Money in exchange for visit passes</h6>
+                <h6>Money In Exchange For Visit Passes</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
@@ -193,7 +193,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         <a href="/faq/">
                 <img src="/images/case/case_pub_sex-for-contracts.jpg">
             <div class="card-content">
-                <h6>Sex-for-contracts</h6>
+                <h6>Sex-For-Contracts</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
