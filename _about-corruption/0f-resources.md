@@ -110,8 +110,8 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
-                <img src="/images/resource_bft.png">
+        <a href="/resource/corruption-casebook">
+                <img src="/images/resource_bft.jpg">
             <div class="card-content">
                 <h6>Corruption Casebook – Stories from Under The Table</h6>
             </div><!-- .card-content -->
