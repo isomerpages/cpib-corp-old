@@ -150,7 +150,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_corruption-addict">
                 <img src="/images/case/case_pub_corrupt-addict.jpg">
             <div class="card-content">
                 <h6>Corruption "Addict"</h6>
@@ -158,7 +158,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-    	<a href="/faq/">
+    	<a href="/cases/public_money-exchange-sloppy-record-keeping">
            	<img src="/images/case/case_pub_money-xchg.jpg">
            <div class="card-content">
            	<h6>Money In Exchange For Sloppy Record-Keeping</h6>
@@ -166,7 +166,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
     	</a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_personal-interest-over-public-safety">
                 <img src="/images/case/case_pub_personal-interest.jpg">
             <div class="card-content">
                 <h6>Personal Interest Over Public Safety</h6>
@@ -174,7 +174,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_cash-info">
                 <img src="/images/case/case_pub_cash-for-info.jpg">
             <div class="card-content">
                 <h6>Cash-For-Information</h6>
@@ -182,7 +182,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_money-exchange-visit-passes">
                 <img src="/images/case/case_pub_money-xchg-passes.jpg">
             <div class="card-content">
                 <h6>Money In Exchange For Visit Passes</h6>
@@ -190,7 +190,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_sex-contracts">
                 <img src="/images/case/case_pub_sex-for-contracts.jpg">
             <div class="card-content">
                 <h6>Sex-For-Contracts</h6>
