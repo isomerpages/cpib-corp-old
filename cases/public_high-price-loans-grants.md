@@ -12,7 +12,7 @@ In addition, on three separate occasions, Lai had forged internal documents for 
 
 On 17 January 2014, Lai Wai Khuen was charged for corruptly obtaining loans and corruptly attempting to obtain a loan as an inducement for facilitating the approval and disbursement of grants. He was also charged for forging documents. Eventually, he was sentenced to 14 months’ jail and was ordered to pay a penalty* of $18,000 in July 2014.
 
-* Penalty is an additional punishment (for corruption offences) imposed on the bribe taker to pay a sum which is equal to the amount of that gratification.
+<p style="font-size:15px">* Penalty is an additional punishment (for corruption offences) imposed on the bribe taker to pay a sum which is equal to the amount of that gratification.</p>
 
 
 Related Content:
