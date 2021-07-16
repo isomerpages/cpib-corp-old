@@ -5,6 +5,7 @@ title: Videos
 <img src="/images/resource_videos1.jpg" alt="Videos">
 
 <table>
+
   <tr>
   <td><p><iframe width="314" height="200" src="https://www.youtube.com/embed/MzUAm9foAxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p></td>
     <td>
