@@ -38,7 +38,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p></p></td>
+    <td><p><img src="/images/resource_download_spot-corrupted.jpg" width="300" height="200" alt="door hanger"></p></td>
     <td>
       <p><b>Spot the Corrupt! Colouring Activity</b></p>
       <p>Corruption can happen anytime and anywhere. Click on the files below for printable colouring activities and see if you can spot the corrupt individuals in the act!</p>
