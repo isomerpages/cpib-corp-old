@@ -5,8 +5,6 @@ permalink: /research-room/annual-statistics-report/
 
 <style>
 a:link, a:visited {
-  padding: 14px 25px;
-  text-align: center;
   text-decoration: none;
   display: inline-block;
 }
