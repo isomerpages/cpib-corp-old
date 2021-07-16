@@ -126,7 +126,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_highest-graft-amount">
                 <img src="/images/case/case_pub_graft-amt.jpg">
             <div class="card-content">
                 <h6>The Highest Graft Amount</h6>
@@ -134,7 +134,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_corruption-and-abetting-gst-tourist-refund-fraud">
                 <img src="/images/case/case_pub_gst-fraud.jpg">
             <div class="card-content">
                 <h6>Corruption And Abetting In GST Tourist Refund Fraud</h6>
@@ -142,7 +142,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/public_loans-land-you-behind-bars">
                 <img src="/images/case/case_pub_loans.jpg">
             <div class="card-content">
                 <h6>Loans That Land You Behind Bars</h6>
