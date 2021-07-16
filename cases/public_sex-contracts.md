@@ -2,7 +2,7 @@
 title: Sex-For-Contracts
 ---
 
-<img src="/images/case/Sex-for-contracts.jpg" alt="Sex For Contracts">
+<img src="/images/case/case_pub_sex-for-contracts1.jpg" alt="Sex For Contracts">
 
 Peter Lim Sin Pang was the former commissioner of the Singapore Civil Defence Force (SCDF) who was investigated by the CPIB for corruptly obtained sexual gratification from two female vendors and one potential female vendor to the SCDF on 10 occasions between May 2010 and November 2011, as an inducement for showing favour by advancing the business interest of their companies with SCDF.
 
