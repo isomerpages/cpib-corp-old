@@ -15,5 +15,4 @@ PACT provides useful facts on corruption in Singapore, an easily-implementable a
 
 
 Related Content:
-
 * [Resources](/about-corruption/prevention-and-education/resources/)
