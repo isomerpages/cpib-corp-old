@@ -118,7 +118,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/research-room/publications/anti-corruption-guide-for-businesses/">
                 <img src="/images/resource_pact.jpg">
             <div class="card-content">
                 <h6>About PACT</h6>
@@ -126,7 +126,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/research-room/publications/ss-iso-37001/">
                 <img src="/images/resource_ss-iso37001.jpg">
             <div class="card-content">
                 <h6>About SS ISO 37001</h6>
