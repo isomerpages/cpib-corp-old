@@ -102,7 +102,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="resources-container">
 <section class="cards">
     <div class="card">
-        <a href="https://www.cpib.gov.sg/cpib-virtual-heritage-gallery" target="_blank">
+        <a href="/resources/virtual-heritage-gallery/">
                 <img src="/images/resource_vhg.png">
             <div class="card-content">
                 <h6>CPIB Virtual Heritage Gallery</h6>
