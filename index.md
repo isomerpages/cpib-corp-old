@@ -36,7 +36,7 @@ sections:
         subtitle: Resources
         description: A clean business protects a company and employees from being caught in thorny and compromising situations. As part of the CPIB’s commitment to combat corruption in the private sector, we have developed <b>PACT - A Practical Anti-Corruption Guide for Businesses in Singapore</b> to help domestic business owners prevent corruption in their companies.
         button: LEARN MORE
-        url: /faq/
+        url: /research-room/publications/anti-corruption-guide-for-businesses/
         image: /images/img_pact.jpg
         alt: PACT- A Practical Anti-Corruption Guide for Businesses in Singapore
     - infobar:
