@@ -3,13 +3,6 @@ title: Annual Statistics Report
 permalink: /research-room/annual-statistics-report/
 ---
 
-<style>
-a:link, a:visited {
-  text-decoration: none;
-  display: inline-block;
-}
-</style>
-
 <img src="/images/research-rm_cpib-buildings-sg.jpg" alt="Annual Statistics Report">
 
 The Corrupt Practices Investigation Bureau releases annual statistics on the corruption situation in Singapore.
