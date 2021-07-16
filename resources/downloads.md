@@ -7,7 +7,7 @@ title: Downloads
 <table>
 
   <tr>
-  <td><p><img src="/images/resource__download_comic.jpg" width="300" height="400" alt="Comic"></p></td>
+  <td><p><img src="/images/resource__download_comic.jpg" width="400" height="500" alt="Comic"></p></td>
     <td>
       <p><b>Comic Strips</b></p>
       <p>CPIB's comic strips were created in 2012 by popular cartoonist, Lee Chee Chew to educate the public on anti-corruption.</p>
@@ -38,7 +38,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p><img src="/images/resource_download_spot-corrupted.jpg" width="300" height="200" alt="door hanger"></p></td>
+    <td><p><img src="/images/resource_download_spot-corrupted.jpg" width="400" height="300" alt="door hanger"></p></td>
     <td>
       <p><b>Spot the Corrupt! Colouring Activity</b></p>
       <p>Corruption can happen anytime and anywhere. Click on the files below for printable colouring activities and see if you can spot the corrupt individuals in the act!</p>
