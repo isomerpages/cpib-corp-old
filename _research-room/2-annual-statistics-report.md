@@ -5,16 +5,11 @@ permalink: /research-room/annual-statistics-report/
 
 <style>
 a:link, a:visited {
-  background-color: white;
   color: black;
   padding: 14px 25px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-}
-
-a:hover, a:active {
-  background-color: white;
 }
 </style>
 
