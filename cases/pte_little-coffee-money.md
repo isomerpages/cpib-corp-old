@@ -2,7 +2,7 @@
 title: A Little Coffee Money “Did No Harm”
 ---
 
-<img src="/images/case/ A Little Coffee Money “Did No Harm”.jpg" alt="A Little Coffee Money Did No Harm">
+<img src="/images/case/case_pte_coffee-money1.jpg" alt="A Little Coffee Money Did No Harm">
 
 Sheith Yusof Bin Sheith Ibrahim was a trainer of Absolute Kinectics Consultancy Pte Ltd where he coached trainees attending the welding course on the theoretical and practical aspects of welding. In addition, his duties also included assisting the external welding testers during the welding test.  Any trainee who passed the test would receive a welder pass which is recognized by the Ministry of Manpower.
 
