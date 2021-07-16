@@ -23,7 +23,7 @@ title: Downloads
     <td><p><img src="/images/resource_download_badges.jpg" width="300" height="400" alt="Badges"></p></td>
     <td>
       <p><b>Badges</b></p>
-      <p>Join the fight against corruption by spreading the word with your anti-corruption badge. Click on the image to download these printable templates and have fun creating your own personalised graftbuster badges.</p>
+      <p>Join the fight against corruption by spreading the word with your anti-corruption badge. Click on the lnk below for these printable templates and have fun creating your own personalised graftbuster badges.</p>
       <p><a href="/files/resource_badges.pdf" target="_blank">Badges (pdf - 277 KB)</a></p>
     </td>
   </tr>
