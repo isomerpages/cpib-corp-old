@@ -20,15 +20,3 @@ Related Links:
 * [Public Sector Case Studies](/about-corruption/case-studies/public-sector/)
 * [Private Sector Case Studies](/about-corruption/case-studies/private-sector/)
 * [Stories of Integrity](/about-corruption/case-studies/stories-of-integrity/)
-
-<a href="/about-corruption/case-studies/public-sector/">
-	<button style="font: 20px Arial;">Public Sector Case Studies</button>
-</a>
-
-<a href="/about-corruption/case-studies/private-sector/">
-	<button style="font: 20px Arial;">Private Sector Case Studies</button>
-</a>
-
-<a href="/about-corruption/case-studies/stories-of-integrity/">
-	<button style="font: 20px Arial;">Stories of Integrity</button>
-</a>
