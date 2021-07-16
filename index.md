@@ -28,7 +28,7 @@ sections:
         subtitle: Resources
         description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "<B>The Corruption Casebook - Stories From Under The Table</b>" featuring stories on past cases of corruption.
         button: LEARN MORE
-        url: /faq/
+        url: /resources/corruption-casebook/
         image: /images/img_corruption_handbk.jpg
         alt: The Corruption Casebook – Stories From Under The Table
     - infopic:
