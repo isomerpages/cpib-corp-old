@@ -4,13 +4,6 @@ permalink: /research-room/publications/anti-corruption-guide-for-businesses/
 third_nav_title: Publications
 ---
 
-<style>
-a:link, a:visited {
-  text-decoration: none;
-  display: inline-block;
-}
-</style>
-
 
 <img src="/images/research-rm_pact.jpg" alt="pact">
 
