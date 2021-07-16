@@ -20,7 +20,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p><img src="/images/resource_download_badges.jpg" width="300" height="400" alt="Badges"></p></td>
+    <td><p><img src="/images/resource_download_badges.jpg" alt="Badges"></p></td>
     <td>
       <p><b>Badges</b></p>
       <p>Join the fight against corruption by spreading the word with your anti-corruption badge. Click on the file below for these printable templates and have fun creating your own personalised graftbuster badges.</p>
@@ -29,7 +29,7 @@ title: Downloads
   </tr>
 
   <tr>
-    <td><p><img src="/images/resource_download_hanger.jpg" width="300" height="400" alt="door hanger"></p></td>
+    <td><p><img src="/images/resource_download_hanger.jpg" alt="door hanger"></p></td>
     <td>
       <p><b>Door Hanger</b></p>
       <p>Get creative with this Do-It-Yourself anti-corruption door hanger. Click on the file below for this printable template and enjoy making this simple graftbuster door hanger.</p>
