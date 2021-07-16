@@ -118,7 +118,7 @@ ALYSSA: END OF Public Sector PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/files/case_pub_high-price-loans-grants.pdf">
+        <a href="/cases/public_authority-you-will-lose-it-if-you-abuse-it">
                 <img src="/images/case/case_pub_authority.jpg">
             <div class="card-content">
                 <h6>Authority – You Will Lose It If You Abuse It</h6>
