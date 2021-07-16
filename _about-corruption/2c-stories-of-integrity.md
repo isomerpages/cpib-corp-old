@@ -102,7 +102,7 @@ ALYSSA: END OF Stories of Integrity PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="stories-container">
 <section class="cards">
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_no-escape-long-arm-law">
                 <img src="/images/case/story_no-escape-fr-law.jpg">
             <div class="card-content">
                 <h6>No Escape From Long Arm Of Law</h6>
@@ -110,7 +110,7 @@ ALYSSA: END OF Stories of Integrity PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_unlawful-entry-denied">
                 <img src="/images/case/story_unlawful-entry.jpg">
             <div class="card-content">
                 <h6>Unlawful Entry Denied</h6>
@@ -118,58 +118,58 @@ ALYSSA: END OF Stories of Integrity PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_zero-tolerance-bribery">
                 <img src="/images/case/story_zero-tolerance-to-bribery.jpg">
             <div class="card-content">
-                <h6>Zero tolerance to bribery</h6>
+                <h6>Zero Tolerance To Bribery</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_illegal-access-denied">
                 <img src="/images/case/case_pte_bagged-for-corrupt.jpg">
             <div class="card-content">
-                <h6>Illegal access denied</h6>
+                <h6>Illegal Access Denied</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_resisting-temptation">
                 <img src="/images/case/story_resisting-temptation.jpg">
             <div class="card-content">
-                <h6>Resisting the temptation</h6>
+                <h6>Resisting The Temptation</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_three-metres-too-long">
                 <img src="/images/case/story_reject-bribe.jpg">
             <div class="card-content">
-                <h6>Three metres, too long</h6>
+                <h6>Three Metres, Too Long</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_strictly-no-access">
                 <img src="/images/case/case_pub_money-xchg-passes.jpg">
             <div class="card-content">
-                <h6>Strictly no access</h6>
+                <h6>Strictly No Access</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
     <div class="card">
-    	<a href="/faq/">
+    	<a href="/cases/story_firm-enforcem-port-regulations">
            	<img src="/images/case/story_firm-enforcement-port regulations.jpg">
            <div class="card-content">
-           	<h6>Firm enforcement of port regulations</h6>
+           	<h6>Firm Enforcement Of Port Regulations</h6>
            </div><!-- .card-content -->
     	</a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/cases/story_beyond-call-duty">
                 <img src="/images/case/story_reject-bribe-drink-driving.jpg">
             <div class="card-content">
-                <h6>Beyond the call of duty</h6>
+                <h6>Beyond The Call Of Duty</h6>
             </div><!-- .card-content -->
         </a>
     </div><!-- .card -->
