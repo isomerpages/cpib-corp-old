@@ -15,7 +15,7 @@ On 17 January 2014, Lai Wai Khuen was charged for corruptly obtaining loans and 
 * Penalty is an additional punishment (for corruption offences) imposed on the bribe taker to pay a sum which is equal to the amount of that gratification.
 
 
-Related Links:
+Related Content:
 
 * [Public Sector Case Studies](/about-corruption/case-studies/public-sector/)
 * [Private Sector Case Studies](/about-corruption/case-studies/private-sector/)
