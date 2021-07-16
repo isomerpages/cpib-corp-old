@@ -142,7 +142,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
         </a>
     </div><!-- .card -->
     <div class="card">
-        <a href="/faq/">
+        <a href="/resources/videos/">
                 <img src="/images/resource_videos.jpg">
             <div class="card-content">
                 <h6>Videos</h6>
