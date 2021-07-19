@@ -38,14 +38,14 @@ contacts:
   - title: GENERAL ENQUIRIES<br><br>
     content:
     - other: For non-corruption matters, you may contact us at<br><br>
-    - other: <b>Hotline</b> 6270 0141<br><br>
+    - other: <b>Hotline</b> &nbsp 6270 0141<br><br>
     - other: <b>Email</b>
     - email: info@cpib.gov.sg<br><br>
-    - other: <b>Fax No.</b> 6270 0320<br>
+    - other: <b>Fax No.</b> &nbsp 6270 0320<br>
   - title: QUALITY SERVICE MANAGER<br><br>
     content:
     - other: For service related matters, you may contact us at<br><br>
-    - other: <b>Hotline</b> 1800 270 0855<br><br>
+    - other: <b>Hotline</b> &nbsp 1800 270 0855<br><br>
     - other: <b>Email</b>
     - email: QSM@cpib.gov.sg<br><br>
 ---
