@@ -25,8 +25,9 @@ The 1-1.5 hour Learning Journey comprises:
 <p style="font-size:15px">
 * Programme is subjected to change.<br>
 * This e-Service will require 5 – 10 minutes to complete.<br>
-* If users encounter any errors with the e-Service, please email info@cpib.gov.sg with information on the issue.
+* If users encounter any errors with the e-Service, please email <a href = "mailto: info@cpib.gov.sg">info@cpib.gov.sg</a> with information on the issue.
 </p>
+
 
 <a href="https://go.gov.sg/cpiblearningjourney">
 	<button style="font: 20px Arial;">PROCEED</button>
