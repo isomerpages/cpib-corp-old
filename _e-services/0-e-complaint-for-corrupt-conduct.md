@@ -18,10 +18,6 @@ The list of FAQs for Lodging of Corruption Complaints can be found <a href="http
 
 <a class="button_special" href="/faq/">PROCEED</a>
 
-<a href="/faq/">
-	<button style="font: 20px Arial;">PROCEED</button>
-</a>
-
 
 #### **CONFIDENTIALITY OF YOUR IDENTITY**
 
