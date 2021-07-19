@@ -40,7 +40,7 @@ contacts:
     - other: For non-corruption matters, you may contact us at<br><br>
     - other: <b>Hotline</b> &nbsp 6270 0141<br><br>
     - other: <b>Email</b>
-    - email: Email info@cpib.gov.sg<br><br>
+    - email: info@cpib.gov.sg<br><br>
     - other: <b>Fax No.</b> &nbsp 6270 0320<br>
   - title: QUALITY SERVICE MANAGER<br><br>
     content:
