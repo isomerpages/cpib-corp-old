@@ -4,6 +4,43 @@
 
 @charset "utf-8";
 
+/*================================================================
+=                         START OF ALYSSA'S CUSTOM CSS            =
+==================================================================*/
+
+
+// START OF BUTTON
+.button_special {
+  color: #484848 !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #ffffff;
+  padding: 15px 20px;
+  border: 2px solid #484848;
+  display: inline-block;
+  transition: all 0.4s ease 0s;
+  border-radius: 15px;
+  font-weight: bold;
+  text-decoration: none !important;
+  }
+
+.button_special:hover {
+  color: #ffffff !important;
+  background: #4a96b0;
+  border-color: #4a96b0 !important;
+  transition: all 0.4s ease 0s;
+  text-decoration: none;
+  }
+// END OF BUTTON
+
+
+/*=================================================================
+=                     END OF ALYSSA'S CUSTOM CSS                   =
+==================================================================*/
+
+
+
+
 // Agency brand colors
 $primary: {{- site.colors.primary-color -}};
 $secondary: {{- site.colors.secondary-color -}};
