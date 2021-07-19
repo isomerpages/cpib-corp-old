@@ -11,14 +11,14 @@ sections:
         subtitle: ACT ON IT.
         background: /images/hmpg_banner.jpg
         button: Report Corruption
-        url: https://www.cpib.gov.sg/e-complaint
+        url: /e-services/e-complaint-for-corrupt-conduct/
         key_highlights:
             - title: e-Booking for Public Education Talk
               description: 
-              url: /e-services/e-booking-for-public-education-talk
+              url: /e-services/e-booking-for-public-education-talk/
             - title: e-Booking for Learning Journey
               description: 
-              url: https://www.cpib.gov.sg/learning-journey
+              url: /e-services/e-booking-for-learning-journey/
     - resources:
         title: Highlights
         subtitle: 
