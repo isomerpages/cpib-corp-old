@@ -37,5 +37,9 @@ contacts:
     - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to this list of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
   - title: GENERAL ENQUIRIES<br><br>
     content:
-    - other: <b>1. VISIT US</b><br>We are located at 2 Lengkok Bahru, Singapore 159047 and 247 Whitley Road, Singapore 297830<br><br>
+    - other: For non-corruption matters, you may contact us at<br><br>
+    - other: <b>Hotline</b> 6270 0141<br><br>
+    - other: <b>Email</b>
+    - email: info@cpib.gov.sg<br><br>
+    - other: <b>Fax No.</b> 6270 0320<br>
 ---
