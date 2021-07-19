@@ -26,7 +26,7 @@ locations:
         description: Closed on Sundays and public holidays
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: Feedback
+  - title: For corruption complaints, you may report through:
     content:
     - other: For feedback on environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/feedback"><b>click here</b></a><br><br>
     - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a><br><br>
