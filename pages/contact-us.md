@@ -30,7 +30,7 @@ contacts:
     content:
     - other: <b>1. VISIT US</b><br>We are located at 2 Lengkok Bahru, Singapore 159047 and 247 Whitley Road, Singapore 297830<br><br>
     - other: <b>2. CALL OUR DUTY OFFICER</b><br>Local 1800 - 376 0000<br>Overseas (+65) 6376 0000<br><br><i>If you reach out to our duty officer between 11pm to 7am, please leave a voice message for us to return your call.</i><br><br>
-    - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a><br><br>
+    - other: <b>3. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
     - other: For feedback on service quality matters, <a href="https://form.gov.sg/#!/5f9bbe55fb5198001166faec"><b>click here</b></a><br>
     # - email: careers@abc.gov.sg
 ---
