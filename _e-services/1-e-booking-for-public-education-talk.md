@@ -22,6 +22,4 @@ The one-hour talk comprises a presentation, screening of video and a dialogue.
 * If users encounter any errors with the e-Service, please email <a href = "mailto: info@cpib.gov.sg">info@cpib.gov.sg</a> with information on the issue.
 </p>
 
-<a href="https://go.gov.sg/cpibpubliceducationtalk">
-	<button style="font: 20px Arial;">PROCEED</button>
-</a>
+<a class="button_special" href="https://go.gov.sg/cpibpubliceducationtalk">PROCEED</a>
