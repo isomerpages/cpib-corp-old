@@ -14,6 +14,16 @@ locations:
       - days: Fridays
         time: 8.30am to 5.30pm
         description: Closed on weekends and public holidays
+  - title: Corruption Reporting & Heritage Centre
+    address:
+        - 247 Whitley Road
+        - Singapore 297830 
+    operating_hours:
+      - days: Mondays - Fridays
+        time: 10.00am - 7.00pm
+      - days: Saturdays
+        time: 10.00am - 4.00pm
+        description: Closed on Sundays and public holidays
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: Feedback
