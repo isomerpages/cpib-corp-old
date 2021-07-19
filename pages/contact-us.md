@@ -34,4 +34,7 @@ contacts:
     - other: <b>4. EMAIL US</b><br>
     - email: report@cpib.gov.sg<br>
     - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to this list of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
+  - title: GENERAL ENQUIRIES<br><br>
+    content:
+    - other: <b>1. VISIT US</b><br>We are located at 2 Lengkok Bahru, Singapore 159047 and 247 Whitley Road, Singapore 297830<br><br>
 ---
