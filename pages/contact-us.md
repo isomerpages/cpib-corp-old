@@ -16,10 +16,9 @@ locations:
         description: Closed on weekends and public holidays
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: For corruption complaints, you may report through:
+  - title: Feedback
     content:
-    - other: 1. <b>VISIT US</b><br>  We are located at 2 Lengkok Bahru, Singapore 159047
-and 247 Whitley Road, Singapore 297830<br><br>
+    - other: For feedback on environmental-related matters, <a href="https://www.nea.gov.sg/corporate-functions/feedback"><b>click here</b></a><br><br>
     - other: For feedback on water supply, drainage or sewerage matters, <a href="https://app.pub.gov.sg/feedback/Pages/HelpAndFeedback.aspx"><b>click here</b></a><br><br>
     - other: For feedback on food safety and food security, <a href="https://www.sfa.gov.sg/feedback"><b>click here</b></a><br><br>
     - other: For feedback on service quality matters, <a href="https://form.gov.sg/#!/5f9bbe55fb5198001166faec"><b>click here</b></a><br>
