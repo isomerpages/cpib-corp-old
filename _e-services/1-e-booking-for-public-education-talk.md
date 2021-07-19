@@ -18,7 +18,10 @@ The one-hour talk comprises a presentation, screening of video and a dialogue.
 
 <p style="font-size:15px">
 * Programme is subjected to change.<br>
-* This e-Service will require 5 – 10 minutes to complete.
+* This e-Service will require 5 – 10 minutes to complete.<br>
 * If users encounter any errors with the e-Service, please email info@cpib.gov.sg with information on the issue.
 </p>
 
+<a href="https://go.gov.sg/cpibpubliceducationtalk" target="_blank">
+	<button style="font: 20px Arial;">PROCEED</button>
+</a>
