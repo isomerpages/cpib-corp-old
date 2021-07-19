@@ -27,7 +27,7 @@ locations:
         description: Closed on Sun and Public Holidays
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
-  - title: REPORTING OF CORRUPTION COMPLAINTS
+  - title: For corruption complaints, you may report through:
     content:
     - phone: +65 6123 4567
     - email: enquiries@abc.gov.sg
@@ -36,7 +36,7 @@ contacts:
     content:
     - email: careers@abc.gov.sg
 contacts:
-  - title: REPORTING OF CORRUPTION COMPLAINTS
+  - title: For corruption complaints, you may report through:
     content:
     - phone: +65 6123 4567
     - email: enquiries@abc.gov.sg
