@@ -25,7 +25,7 @@ The list of FAQs for Lodging of Corruption Complaints can be found <a href="http
 
 Under the law, the identity of the person making the report will be kept confidential. Complainants may also choose not to reveal their personal details when lodging a corruption complaint.
 
-More details can be found under the <a href="https://sso.agc.gov.sg/Act/PCA1960?Provlds=pr36-#pr36-" target="blank">Protection of Informers (Section 36 of the Prevention of Corruption Act, Chapter 241)</a> and our <a href="/privacy-statement/">Privacy Statement</a>.
+More details can be found under the <a href="https://sso.agc.gov.sg/Act/PCA1960?Provlds=pr36-#pr36-" target="blank">Protection of Informers (Section 36 of the Prevention of Corruption Act, Chapter 241)</a> and our <a href="/privacy/">Privacy Statement</a>.
 
 #### **WARNING:**
 
