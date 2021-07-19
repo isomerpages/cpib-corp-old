@@ -8,6 +8,15 @@
 =                         START OF ALYSSA'S CUSTOM CSS            =
 ==================================================================*/
 
+// Remove PDF icon before links
+a[href$=".pdf"]:before {
+  content: none;
+}
+
+a[href$=".pdf"]{
+  margin-left: 0;
+}
+
 
 // START OF BUTTON
 .button_special {
