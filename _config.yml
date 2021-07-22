@@ -4,19 +4,19 @@ favicon: /images/cpib_favicon.ico
 
 # Site colors
 colors:
-  primary-color: '#343366'
-  secondary-color: '#343366'
+  primary-color: '#4d4d4d'
+  secondary-color: '#4d4d4d'
   media-colors:
     - title: media-color-one
-      color: '#4d4d4d'
+      color: '#343366'
     - title: media-color-two
-      color: '#4d4d4d'
+      color: '#343366'
     - title: media-color-three
-      color: '#4d4d4d'
+      color: '#343366'
     - title: media-color-four
-      color: '#4d4d4d'
+      color: '#343366'
     - title: media-color-five
-      color: '#4d4d4d'
+      color: '#343366'
 
 
 collections:
