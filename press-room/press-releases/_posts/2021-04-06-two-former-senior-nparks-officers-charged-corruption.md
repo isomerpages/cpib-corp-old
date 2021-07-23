@@ -17,7 +17,7 @@ b) **Go Kau Chai Johnny (“Johnny”)** (吴九财, 51-year-old male Singaporea
 
 5\.         The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
-a) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>;<br />
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 b) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>;<br />
 c) Call the Duty Officer at 1800-376-0000; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
