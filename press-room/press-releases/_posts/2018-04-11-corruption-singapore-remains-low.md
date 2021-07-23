@@ -159,7 +159,7 @@ Figure 8: Yearly Case Clearance Rate
 
 i) Visit or write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047 or Corruption Reporting & Heritage Centre @ 247 Whitley Road S297830;<br/>
 ii) Call the Duty Officer at 1800-376-0000;<br/>
-iii) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>; or<br/>
+iii) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 iv) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a> or<br/>
 v) Fax us at 6270 0320.
 
