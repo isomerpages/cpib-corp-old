@@ -8,7 +8,7 @@ The Multi-Ministry Taskforce will be implementing an elevated set of safe distan
 2\.        In line with these measures, the CPIB’s Corruption Reporting & Heritage Centre (CRHC) @ 247 Whitley Road will be temporarily closed from 7 April to 4 May (inclusive) 2020. The CPIB will still operate as usual. However, members of the public are strongly advised against visiting the CPIB headquarters during this time of elevated safe distancing measures. The following modes of lodging corruption reports with the Bureau are instead recommended:
 
 a) Call the Duty Officer at 1800-376-0000;<br />
-b) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>;<br />
+b) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 c) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
