@@ -23,7 +23,7 @@ d)    Two counts of having in his possession (in his mobile phone and USB flash 
 
 a) Visit or write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047 or Corruption Reporting & Heritage Centre @ 247 Whitley Road S297830;<br />
 b) Call the Duty Officer at 1800-376-0000;<br />
-c) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>; or<br />
+c) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct); or<br>
 d) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>
 
 6\.          Where possible, the report should include the following information:
