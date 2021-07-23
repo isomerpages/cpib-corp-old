@@ -1,3 +1,4 @@
+---
 layout: post
 title: "NParks Officer Charged For Alleged Corruption, Cheating and Taking Upskirt Photographs of Women"
 permalink: "/press-room/press-releases/nparks-officer-charged-alleged-corruption-cheating-and-taking-upskirt"
@@ -14,7 +15,7 @@ c) Separately, Lee was also found to have intruded upon the privacy of various w
 
 3\.         The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
-a) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>;<br />
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 b) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>;<br />
 c) Call the Duty Officer at 1800-376-0000; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
