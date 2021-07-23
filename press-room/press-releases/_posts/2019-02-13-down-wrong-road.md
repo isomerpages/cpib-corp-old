@@ -19,7 +19,7 @@ On 13 February 2019, one Tang Joo Yong @ Peter Tang (“Peter Tang”) was sente
 
 a) Visit or write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047 or Corruption Reporting & Heritage Centre @ 247 Whitley Road S297830;<br />
 b) Call the Duty Officer at 1800-376-0000;<br />
-c) Lodge an e-Complaint at <a href="https://www.cpib.gov.sg/e-complaint"><span style="color: #0066cc;">www.cpib.gov.sg/e-complaint</span></a>; or<br />
+c) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct); or<br>
 d) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>
 
 8\. It is an offence to bribe, or attempt to bribe public officers. Any person who is convicted of a corruption offence can be fined up to $100,000 or sentenced to imprisonment of up to 5 years or to both for each charge. The CPIB takes a serious view against such corrupt acts and tough enforcement action will be taken against any persons involved in such offences.
