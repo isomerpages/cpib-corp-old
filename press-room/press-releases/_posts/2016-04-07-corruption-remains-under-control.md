@@ -104,7 +104,7 @@ Cases in brief are appended (Annex A).
 
 i. Walk-in to the CPIB at 2 Lengkok Bahru, Singapore 159047;<br />
 ii. Call us on our 24-hour hotline at 1800-376-0000; or<br />
-iii. Lodge an online complaint at www.cpib.gov.sg.</a>
+iii. Lodge an online complaint at www.cpib.gov.sg.
 
 **Private sector engagement**
 
