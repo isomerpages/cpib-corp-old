@@ -27,8 +27,8 @@ c) **Yeam Wei Hong (阮伟康)**, a 33-year-old Malaysian male who was a Service
 4\.      Companies are strongly advised to put in place robust procedures in areas such as internal audit to reduce the incidence of corruption. Guidance for companies on measures to adopt to prevent corruption can be found in PACT: A Practical Anti-Corruption Guide for Businesses in Singapore, which is available on CPIB’s website. Companies are also strongly encouraged to obtain certification under the Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems, which is designed to help companies implement an anti-bribery management system or enhance existing systems to reduce corporate risks and reputational costs associated with corruption. 
 
 Reference Links:
-* PACT: <a href="https://www.cpib.gov.sg/pact">https://www.cpib.gov.sg/pact</a><br />
-* SS ISO 37001: <a href="https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001">https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001</a>
+* [PACT: A Practical Anti-Corruption Guide for Businesses in Singapore](/research-room/publications/anti-corruption-guide-for-businesses/)<br>
+* [SS ISO 37001](/research-room/publications/ss-iso-37001/)
  
 **Corrupt Practices Investigation Bureau**
  
