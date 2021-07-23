@@ -18,7 +18,7 @@ b) **Chua Cheng Kang (“Chua”)** (蔡清江, 64-year-old male Singaporean), D
 
 5\.        The CPIB looks into all corruption complaints and reports, <u><b>including anonymous ones,</b></u> and can be reached via the following channels:
 
-a) Lodge an e-Complaint at <a href="/e-services/e-complaint-for-corrupt-conduct">www.cpib.gov.sg/e-complaint-for-corrupt-conduct</a>;<br>
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 b) Email us at report@cpib.gov.sg;<br>
 c) Call the Duty Officer at 1800-376-0000; or<br>
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
