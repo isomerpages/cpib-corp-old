@@ -16,7 +16,7 @@ There are 6 investigation branches within the **Investigation Operations Divisio
 
 The **Training Development & Policy Division** reviews training and development policies of the Bureau and seeks to enhance the overall competency level of all CPIB officers. The Division also analyses corruption trends and is tasked with crafting investigative policies to address deficiencies uncovered in organisations during a corruption investigation. 
 
-The **Training Operations Division* is responsible for curriculum planning and conducting in-house courses in corruption investigation. The Division also emphasizes operational expertise in the domains of investigative interviews and financial forensics through the Centre of Excellence which curates specialised programmes for professional development, and collaborates with local and foreign law enforcement agencies, academia and professionals.
+The **Training Operations Division** is responsible for curriculum planning and conducting in-house courses in corruption investigation. The Division also emphasizes operational expertise in the domains of investigative interviews and financial forensics through the Centre of Excellence which curates specialised programmes for professional development, and collaborates with local and foreign law enforcement agencies, academia and professionals.
 
 ### **Operations Department**
 
