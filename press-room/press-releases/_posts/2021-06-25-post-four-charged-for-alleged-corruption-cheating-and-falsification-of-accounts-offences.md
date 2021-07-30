@@ -14,9 +14,8 @@ b) **Lu Zhibo** (“Lu”) (吕志波, 38-year-old male Chinese national), Gener
 c) **Hua Li** (“Hua”) (华历, 44-year-old male Singaporean), Director of Heng Sheng Construction & Engineering Pte Ltd at the material time; and
 
 d) **Xu Jie** (“Xu”) (徐杰, 42-year-old male Malaysian, Singapore PR), Director of Heng Dong Construction Pte Ltd at the material time.
- 
 
-Corruption offences
+*Corruption offences*
 
 2\.  Between November 2016 and August 2019, Wong allegedly obtained loans totalling S$44,000 from Lu, Hua and Xu to refrain from causing difficulty for the three in relation to their company’s works on the Bidadari Build-to-Order (BTO) project which Wong was overseeing. Wong also allegedly promised to favour Hua’s company in future projects with Wong’s company.  For his actions, Wong faces 12 corruption charges for offences punishable under Section 6(a) of the Prevention of Corruption Act. Correspondingly, Hua and Xu each face two corruption charges, while Lu faces eight corruption charges, punishable under Section 6(b) of the Prevention of Corruption Act. 
 
