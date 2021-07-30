@@ -1,7 +1,7 @@
 ---
 title: Charged for Cheating and Money Laundering Offences
-date: 2021-07-30
-permalink: /press-room/press-releases/permalink
+date: 2021-07-22
+permalink: /press-room/press-releases/charged-cheating-and-money-laundering-offences
 layout: post
 ---
 On 22 July 2021, two individuals were charged in Court for cheating and money laundering offences. They are:
@@ -24,9 +24,7 @@ Money laundering offences
 6\.         To avoid falling victim to dishonest practices by rogue employees seeking personal gains, companies are strongly advised to put in place robust procedures in areas such as procurement and internal audit. Guidance for companies on measures to prevent corruption can be found in PACT: A Practical Anti-Corruption Guide for Businesses in Singapore, which is available on CPIB’s website. Companies are also strongly encouraged to obtain certification under the Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems, which is designed to help companies implement or enhance an anti-bribery management system to reduce corporate risk and costs related to bribery and fraud.
 
 Reference Links:
-
-PACT: https://www.cpib.gov.sg/pact
-SS ISO 37001: https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001
+* [PACT: A Practical Anti-Corruption Guide for Businesses in Singapore](/research-room/publications/anti-corruption-guide-for-businesses/)<br>
+* [SS ISO 37001](/research-room/publications/ss-iso-37001/)
  
-
-CORRUPT PRACTICES INVESTIGATION BUREAU
+**Corrupt Practices Investigation Bureau**
