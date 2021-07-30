@@ -19,7 +19,7 @@ b) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.
 c) Call the Duty Officer at 1800-376-0000; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
-6         Where possible, the report should include the following information:
+6\.         Where possible, the report should include the following information:
 
 a) Where, when and how the alleged corrupt act happened? <br>
 b) Who were involved and what were their roles? <br>
