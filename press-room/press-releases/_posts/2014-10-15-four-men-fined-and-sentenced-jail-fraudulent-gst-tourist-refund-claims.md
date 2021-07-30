@@ -60,7 +60,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p><br /><br /></p>
+<p></p>
 
 <p><u><strong>Corruption</strong></u></p>
 <table border="1" cellspacing="1" cellpadding="1" align="left">
@@ -94,7 +94,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><br /><br /></p>
+<p></p>
 
 <p><u><strong>Removing Criminal Proceeds from Singapore</strong></u></p>
 <table style="height: 68px;" border="1" cellspacing="1" cellpadding="1" align="left">
@@ -200,7 +200,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </table>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><br /><br /><br /></p>
+<p></p>
 
 <p><u><strong>Removing Criminal Proceeds from Singapore</strong></u></p>
 <table border="1" cellspacing="1" cellpadding="1" align="left">
@@ -335,10 +335,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><br/>&nbsp;</p>
+<p></p>
 
 11\. **Gobi Raman** was sentenced to a total of 36 months’ imprisonment and a penalty of $202,044.81.
 
@@ -406,10 +403,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><br/>&nbsp;</p>
+<p></p>
 
 **Zero Tolerance towards Tax Fraud, Corruption and other Criminal Activities**
 
