@@ -16,7 +16,9 @@ Where possible, users should include the following information in their corrupti
 
 The list of FAQs for Lodging of Corruption Complaints can be found <a href="https://www.ifaq.gov.sg/CPIB/apps/Fcd_faqmain.aspx#FAQ_166929">here</a>.
 
-<a class="button_special" href="/faq/">PROCEED</a>
+<a class="button_special" href="https://www.cpib.gov.sg/e-complaint/step2">PROCEED</a> FIRST TIME USER<p>
+  
+<a class="button_special" href="https://www.cpib.gov.sg/e-complaint/login">LOGIN</a> EXISTING USER
 
 
 #### **CONFIDENTIALITY OF YOUR IDENTITY**
