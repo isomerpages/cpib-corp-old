@@ -3,6 +3,7 @@ layout: post
 title: "Bunkering Company and Staff Charged with Cheating and Disguising the Benefits of Criminal Conduct"
 permalink: "/press-room/press-releases/bunkering-company-and-staff-charged-cheating-and-disguising-benefits"
 ---
+
 Singapore is one of the largest and most important bunkering ports in the world. Fraudulent transactions in the bunkering industry, like short-supply and buy-back of bunker fuel, can be lucrative business for the errant players. There is, therefore, a strong need to deter illegal activities to safeguard Singapore’s reputation as a premier bunkering destination.
 
 2\.        On 16 November 2017, the company, Vermont UM Bunkering Pte Ltd (Vermont Bunkering), two of its directors (Poh Fu Tek and Koh Seng Lee) and one former bunker manager (Lee Kok Leong) will each be charged in court for cheating and criminal breach of trust offences under the Penal Code, as summarized in the table below. Through these alleged fraudulent transactions, Vermont Bunkering had dishonestly induced its customers to make excess payments totaling over US$8 million.
