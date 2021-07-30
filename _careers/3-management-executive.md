@@ -16,5 +16,5 @@ You will review and formulate existing and new policies/programmes in various fu
 
 $3,100 - $4,038 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
 
-All interested applicants are encouraged to look out for available positions on <a href="https://www.careers.gov.sg/" target="_blank">Careers@Gov</a> website. Applications can only be submitted through <a href="https://www.careers.gov.sg/" target="_blank">Careers@Gov</a> website during the Bureau's recruitment exercises.
+All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau's recruitment exercises.
 
