@@ -30,8 +30,8 @@ Singapore is one of the largest and most important bunkering ports in the world.
  <tr>
   <td>1. Vermont UM Bunkering Pte Ltd</td>
   <td rowspan="4">
-      <p>(a) 150 counts of engaging in a conspiracy to cheat customers of Vermont Bunkering by delivering invoices indicating a higher quantity of marine fuel had been delivered when in fact a lower quantity was delivered. As a result, these customers were dishonestly induced to make excess payments to Vermont Bunkering. All these constituted offences punishable under section 420 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).</p>
-      <p>(b) One count of engaging in a conspiracy to commit criminal breach of trust by dishonestly misappropriating approximately 250 metric tons of marine fuel oil entrusted to Vermont Bunkering, an offence punishable under section 406 read with section 109 of the Penal Code (Cap 224, 2008 Rev Ed).</p>
+      <p>(a) <b>150 counts</b> of engaging in a conspiracy to cheat customers of Vermont Bunkering by delivering invoices indicating a higher quantity of marine fuel had been delivered when in fact a lower quantity was delivered. As a result, these customers were dishonestly induced to make excess payments to Vermont Bunkering. All these constituted offences punishable under section 420 read with section 109 of the <i>Penal Code</i> (Cap 224, 2008 Rev Ed).</p>
+      <p>(b) <b>One count</b> of engaging in a conspiracy to commit criminal breach of trust by dishonestly misappropriating approximately 250 metric tons of marine fuel oil entrusted to Vermont Bunkering, an offence punishable under section 406 read with section 109 of the <i>Penal Code</i> (Cap 224, 2008 Rev Ed).</p>
   </td>
  </tr>
 
