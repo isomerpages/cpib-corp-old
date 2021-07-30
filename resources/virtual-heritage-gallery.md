@@ -15,19 +15,19 @@ Scroll down to take a sneak peak of the gallery!
 <img src="/images/resource_vhg-qr.png" alt="CPIB VHG QR Code">
 
 <img src="/images/resource_vhg-1-journey-map.png" alt="CPIB Virtual Heritage Gallery"><br>
-This Journey Map allows visitors to select on the topic of interest in "Self-explore" mode
+**This Journey Map allows visitors to select on the topic of interest in "Self-explore" mode**
 
 <img src="/images/resource_vhg-2-kopi.png" alt="CPIB VHG QR Code"><br>
-Kopi Lim greeting you when you enter the Virtual Gallery
+**Kopi Lim greeting you when you enter the Virtual Gallery**
 
 <img src="/images/resource_vhg-3-heritage.png" alt="CPIB VHG QR Code"><br>
-History of Singapore's anti-corruption journey and CPIB
+**History of Singapore's anti-corruption journey and CPIB**
 
 <img src="/images/resource_vhg-4-3d-artefacts.png" alt="CPIB VHG QR Code"><br>
-CPIB interactive 3D case artefacts
+**CPIB interactive 3D case artefacts**
 
 <img src="/images/resource_vhg-5-gallery.png" alt="CPIB VHG QR Code"><br>
-CPIB case studies featured in the gallery
+**CPIB case studies featured in the gallery**
 
 
 Related Content:
