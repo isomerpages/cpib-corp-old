@@ -21,4 +21,4 @@ $4,100 - $4,943 (indicative salary range for degree holders; successful candidat
 
 Upon appointment, you will need to undergo a 4-month basic training course on the fundamentals of the criminal laws, basic investigative skills, and firearms handling.  You are required to fulfil a 2-year bond after the training.
 
-There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on Careers@Gov website. Applications can only be submitted through Careers@Gov website during the Bureau’s recruitment exercises.
+There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
