@@ -39,7 +39,8 @@ What to include in a corruption complaint:
 * Why do you think it is a corruption offence?
 * What is the bribe transacted or favour shown?
 * Have you reported the matter to anyone else or/and any other authorities?
-* Private Sector Cases Continue to Form the Majority of Corruption Cases but the Number Remains Low
+
+**Private Sector Cases Continue to Form the Majority of Corruption Cases but the Number Remains Low**
 
 7\.         In 2017, private sector cases continued to form the majority (92%) of all the cases registered for investigation by the CPIB although the number remained low. Of the private sector cases, 10% involved public sector employees rejecting bribes offered by private individuals. The proportion of public sector cases remained low, accounting for 8% of all cases registered for investigation in 2017, as compared to 15% in 2016 (Figure 5).
 
