@@ -53,7 +53,7 @@ Under the law, the identity of the person making the report will be kept confide
 
 More details can be found under the <a href="https://sso.agc.gov.sg/Act/PCA1960?Provlds=pr36-#pr36-" target="blank">Protection of Informers (Section 36 of the Prevention of Corruption Act, Chapter 241)</a> and our <a href="/privacy/">Privacy Statement</a>.
 
-#### **WARNING:**
+#### **<font color="#E63F30">WARNING:</font>**
 
 It is an offence under the Prevention of Corruption Act (Chapter 241), to knowingly give or cause to be given any false or misleading information to the CPIB. The punishment is an imprisonment of up to 12 months or a maximum fine of $10,000, or both.
 
