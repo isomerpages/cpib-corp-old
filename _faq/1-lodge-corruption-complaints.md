@@ -63,6 +63,41 @@ d) Email us at: <a href = "mailto: report@cpib.gov.sg">report@cpib.gov.sg</a><br
 e) Fax to us at: 6270 0320</p>
 	</div>
 
+	<input type="checkbox" id="title1"  /><label for="title1">If we provide information to the CPIB, would our identities be exposed?</label>
+	<div class="accordion-content">
+    <p>Under the law, the complainant's identity will be kept confidential, even in court proceedings except when the court finds that the complainant has made a false statement in his corruption complaint.</p>
+    <p>PROTECTION OF INFORMERS (Section 36 of the Prevention of Corruption Act, Cap 241):</p>
+    <p>1. Except as hereinafter provided, no complaints as to an offence under this Act shall be admitted in evidence in any civil or criminal proceeding whatsoever, and no witness shall be obliged or permitted to disclose the name or address of any informer, or state any matter which might lead to his discovery.<br>
+	2. If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceeding whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court before which the proceeding is had shall cause all such passages to be concealed from view or to be obliterated so far as is necessary to protect the informer from discovery, but no further.<br>
+	3. If on a trial for any offence under this Act the court, after full inquiry into the case, is of the opinion that the informer wilfully made in his complaint a material statement which he knew or believed to be false or did not believe to be true, or if in any other proceeding the court is of the opinion that justice cannot be fully done between the parties thereto without the discovery of the informer, the court may require the production of the original complaint, if in writing, and permit inquiry and require full disclosure concerning the informer.
+    </p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">Is it compulsory to provide my name and particulars when I lodge a corruption complaint with the CPIB?</label>
+	<div class="accordion-content">
+    <p>No. You may remain anonymous if you so wish. The CPIB looks into all corruption complaints, including anonymous ones.</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">If I choose to visit the Bureau to lodge the corruption complaint, do I need to make an appointment with the Duty Officer?</label>
+	<div class="accordion-content">
+    <p>No appointment is required. You can visit us during office hours from Monday to Thursday between 8.30 am to 6 pm, and for Friday, 8.30 am to 5.30 pm</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">Who should I approach when I arrive at the CPIB?</label>
+	<div class="accordion-content">
+    <p>Please approach the Guard Room upon arrival at the CPIB. Advise the security officer at the Guard Room that you are here to lodge a corruption complaint, and he will direct you accordingly.</p>
+    <p>You will be required to produce your National Registration Identity Card (NRIC) or any identification pass for registration.</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">If I choose to call the CPIB Duty Officer hotline to lodge the corruption complaint, what time can I make the call?</label>
+	<div class="accordion-content">
+    <p>The CPIB Duty Officer hotline 1800-376-0000 is available every day. If you reach out to our duty officer between 11pm to 7am, please leave a voice message for us to return your call.</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">What should I do when I receive a "Notice to Appear" or a phone call from someone who claims that he/she is a "CPIB officer"?</label>
+	<div class="accordion-content">
+    <p>You can contact the CPIB Duty Officer hotline at 1800-376-0000 to verify if the person is a CPIB officer.</p>
+	</div>
 
 </div>
 </div>
