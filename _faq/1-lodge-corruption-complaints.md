@@ -1,4 +1,4 @@
 ---
-title: FAQ - Lodging of Corruption Complaints
+title: Lodging of Corruption Complaints
 permalink: /faq/lodge-corruption-complaints/
 ---
