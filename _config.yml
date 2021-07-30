@@ -31,7 +31,7 @@ collections:
   e-services:
     output: true
   faq:
-    output: false
+    output: true
 resources_name: press-room
 
 description: An Isomer site of the Singapore Government
