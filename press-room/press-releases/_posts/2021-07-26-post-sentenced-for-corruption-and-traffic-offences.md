@@ -14,9 +14,9 @@ On 26 July 2021, Leow Khoon Chye (“Leow”)(“廖坤财”), a 58-year-old Si
 
 5\.         CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
-a) Lodge an e-Complaint at www.cpib.gov.sg/e-complaint; <Br>
-b) Email us at report@cpib.gov.sg;<br>
-c) Call the Duty Officer at 1800-376-0000; or<Br>
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
+b) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>;<br />
+c) Call the Duty Officer at 1800-376-0000; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
 6         Where possible, the report should include the following information:
