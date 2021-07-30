@@ -11,15 +11,15 @@ a)    Liaw Jinle [“Liaw”] (廖晉樂, 33-year-old male Singapore Citizen), a
 b)    Gan Yee Aun [“Gan”] (顏怡安, 34-year-old male Singapore Citizen), Director of  HOH Multitrade Pte Ltd and Laco Management Pte Ltd, and Sole Proprietor of Ian OTM Services and GW Ways Enterprise at the material time; and<br>
 c)    Tan Wei Jie, Sandy [“Tan”] (陳伟杰, 33-year-old male Singapore Citizen), Sole Proprietor of WJK Tan Trading and Infinity Dynamic Consultancy and Services at the material time.
 
-<u>*Alleged offences relating to Liaw and Gan*</u>
+*Alleged offences relating to Liaw and Gan*
 	
 2\.         Liaw and Gan are alleged to have conspired to cheat the NUS from November 2017 to February 2020. It is alleged that as part of their scheme, they agreed that they would split the profits from procurement jobs that Liaw assisted Gan’s companies to obtain with the Centre, and cheated NUS by dishonestly concealing Liaw’s interest in the profits of the transactions. It is alleged that in total, pursuant to the conspiracy, Gan’s companies were allegedly awarded 72 jobs for the supply of laboratory goods and services totalling about $196,500, of which some were short-supplied or not supplied at all. In addition, Gan allegedly provided Liaw with false supporting quotations with intent to mislead NUS into awarding jobs to Gan’s companies. Consequently, it is alleged that NUS made payment to Gan’s companies in respect of the awarded jobs, which it would not have done had it known the true state of affairs. 
 
-<u>Alleged offences relating to Liaw and Tan</u>
+*Alleged offences relating to Liaw and Tan*
 
 3\.         Liaw is also alleged to have conspired with Tan to cheat the NUS from March 2019 to December 2019, in a similar scheme to that between Liaw and Gan. In total, Liaw allegedly assisted Tan’s companies to obtain 40 procurement jobs with the Centre, for the supply of laboratory goods and services totalling about $136,700, of which some were short-supplied. Liaw’s interest in the transactions was dishonestly concealed from NUS. In addition, Tan allegedly provided Liaw with false supporting quotations with intent to mislead NUS into awarding jobs to Tan’s companies. Consequently, it is alleged that NUS made payment to Tan’s companies in respect of the awarded jobs, which it would not have done had it known the true state of affairs. 
 
-<u>Charges</u>
+*Charges*
 
 4\.         For his actions, Liaw faces five amalgamated charges of abetment by conspiracy to cheat, which is punishable under Section 420 read with Section 109 of the Penal Code and Section 124(4) of the Criminal Procedure Code. Liaw also faces six charges under Section 6(c) of the Prevention of Corruption Act (Chapter 241) relating to the provision of false quotes.    
 
