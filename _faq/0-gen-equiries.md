@@ -79,6 +79,3 @@ input:checked + label + .accordion-content {
 
 
 If you are unable to find an answer to your query, please submit your <a href = "mailto: info@cpib.gov.sg">Feedback</a> to let us know how we can help you.
-
-
-
