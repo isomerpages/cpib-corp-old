@@ -17,7 +17,7 @@ The Asian Intelligence Report by PERC is an independent fortnightly report on As
 
 ### **Around Asia**
 
-According to the Asian Intelligence Report released in 2020, perceptions about corruption in Asia on average have improved compared with one year ago.
+According to the Asian Intelligence Report released in 2021, perceptions about corruption in Asia on average have improved compared with one year ago.
 
 Below is a chart which shows how other countries have fared. Grades are scaled from zero to 10, with zero being the best grade possible and 10 being the worst.
 
@@ -25,7 +25,7 @@ Below is a chart which shows how other countries have fared. Grades are scaled f
 
 ### **Singapore's Ranking**
 
-Since its inception, PERC has consistently ranked Singapore as the least corrupt country out of the 16 countries surveyed. In 2020, Singapore achieved a score of 1.68, the lowest among the countries surveyed.
+Since its inception, PERC has consistently ranked Singapore as the least corrupt country out of the 16 countries surveyed. In 2021, Singapore achieved a score of 1.68, the lowest among the countries surveyed.
 
 To learn more about Political & Economic Risk Consultancy (PERC) Limited or to view the full Asian Intelligence Report, you can visit <a href="http://www.asiarisk.com/" target="_blank">http://www.asiarisk.com/</a>
 
