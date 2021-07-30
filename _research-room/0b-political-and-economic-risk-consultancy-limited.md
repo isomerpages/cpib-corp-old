@@ -21,7 +21,7 @@ According to the Asian Intelligence Report released in 2021, perceptions about c
 
 Below is a chart which shows how other countries have fared. Grades are scaled from zero to 10, with zero being the best grade possible and 10 being the worst.
 
-<img src="/_research-room/PERC2021.jpg" alt="perceptions about corruption in asia chart">
+<img src="/images/PERC2021.jpg" alt="perceptions about corruption in asia chart">
 
 ### **Singapore's Ranking**
 
