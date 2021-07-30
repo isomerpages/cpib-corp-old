@@ -13,7 +13,7 @@ ii. **Former ST Marine Chief Operating Officer, Han Yew Kwang**
 
 Eight counts of engaging in a conspiracy to corruptly give gratification to agents of ST Marine’s customers, amounting to $790,772.00, an offence under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act, Chapter 241.
 
-2       Five former ST Marine senior executives have already been charged with various offences related to the granting of ship repair contracts. Their cases are before the Courts. They are:
+2\.       Five former ST Marine senior executives have already been charged with various offences related to the granting of ship repair contracts. Their cases are before the Courts. They are:
 
 i. Former ST Marine President, See Leong Teck;
 
