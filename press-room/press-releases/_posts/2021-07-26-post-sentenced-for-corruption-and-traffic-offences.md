@@ -27,6 +27,6 @@ c) What was the bribe involved and the favour shown? <Br>
 
  
 
-**CORRUPT PRACTICES INVESTIGATION BUREAU
+**CORRUPT PRACTICES INVESTIGATION BUREAU<br>
 SINGAPORE POLICE FORCE**
 
