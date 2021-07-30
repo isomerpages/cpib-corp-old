@@ -57,7 +57,7 @@ input:checked + label + .accordion-content {
 	<div class="accordion-content">
     <p>The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:</p>
     <p>a) Come down personally or write to us at 2 Lengkok Bahru, Singapore 159047<br>
-b) Call CPIB Duty Officer at 1800-376-0000;<br>
+b) Call CPIB Duty Officer at 1800-376-0000<br>
 c) Lodge an <a href="/e-services/e-complaint-for-corrupt-conduct/">e-complaint</a><br>
 d) Email us at: <a href = "mailto: report@cpib.gov.sg">report@cpib.gov.sg</a><br>
 e) Fax to us at: 6270 0320</p>
