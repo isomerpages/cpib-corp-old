@@ -9,13 +9,13 @@ On 22 July 2021, two individuals were charged in Court for cheating and money la
 a)    Hussain Naina Mohamed (“Hussain”) (46-year-old Indian national), Assistant Shipping Manager of Utracon Structural Systems Pte Ltd (“USSPL”) at the material time; and
 b)    Eldo Thottungal Mathai (“Eldo”) (66-year-old Indian national), Director of Indus Global Line Pte Ltd (“IGL”) at the material time.
 
-<u>Cheating offences</u>
+*Cheating offences*
 
 2\.         Between 24 June 2009 and 2 January 2019, Hussain allegedly cheated USSPL and Utracon Overseas Pte Ltd (“UOPL”), by dishonestly inducing USSPL and/or UOPL to pay approximately S$1,678,400 and S$2,606,800 to Al Rahman Enterprises and Trading (“Al Rahman”) and SM Enterprises (“SME”) respectively. Hussain had allegedly concealed that he was the registered partner of Al Rahman when recommending to USSPL and UOPL that freight forwarding and marine insurance jobs be awarded to Al Rahman. Hussain had also allegedly concealed that his father was the sole proprietor of SME when recommending that USSPL procure plastic components from SME. For his actions, Hussain faces 18 charges of cheating, punishable under Section 420 of the Penal Code. 17 of these charges are amalgamated accordingly, pursuant to Section 124(4) of the Criminal Procedure Code.
 
 3\.         Between 14 October 2011 and 5 April 2018, Hussain and Eldo allegedly conspired to cheat USSPL and UOPL, by concealing the fact that a portion of the price stated on job quotations submitted by IGL would be paid to Hussain if these jobs were successfully awarded to IGL. By such manner of deception, the duo dishonestly induced USSPL and UOPL into making payments totalling about S$417,400 to Eldo’s company. For their actions, Hussain and Eldo each face six charges of abetment by conspiracy to cheat, which is punishable under Section 420 read with Section 109 of the Penal Code. These charges are amalgamated accordingly, pursuant to Section 124(4) of the Criminal Procedure Code.  
 
-Money laundering offences
+*Money laundering offences*
 
 4\.         Between May 2014 and November 2017, Hussain allegedly remitted a total sum of S$141,910 to India, which in part, directly represented the criminal proceeds derived from his alleged cheating offences. On 22 May 2018, Hussain also used a sum of S$125,000, which in part, directly represented the criminal proceeds derived from his alleged cheating offences, to purchase a Housing Development Board (HDB) flat. For his actions, Hussain faces two charges of money laundering, punishable under Section 47(6)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the first of which is amalgamated pursuant to Section 124(4) of the Criminal Procedure Code.
 
