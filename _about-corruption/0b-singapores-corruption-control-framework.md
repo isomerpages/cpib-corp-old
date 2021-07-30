@@ -16,7 +16,7 @@ The political will to eradicate corruption was established by Singapore’s foun
 
 ### **Laws**
 
-Singapore relies on two key legislations to fight corruption; the Prevention of Corruption Act (PCA), and the *Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act* (CDSA). The PCA has a wide scope which applies to persons who give or receive bribes in both the public and private sector. The CDSA, when invoked, confiscates ill-gotten gains from corrupt offenders. Together, the two laws ensure that corruption remains a high-risk low-rewards activity. Upon the conclusion of investigations by the CPIB, all alleged corruption cases will be handed over to the Attorney-General’s Chambers (AGC), the prosecutorial arm of the Singapore Criminal Justice System, to obtain the Public Prosecutor’s consent to proceed with Court proceedings.  
+Singapore relies on two key legislations to fight corruption; the *Prevention of Corruption Act* (PCA), and the *Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act* (CDSA). The PCA has a wide scope which applies to persons who give or receive bribes in both the public and private sector. The CDSA, when invoked, confiscates ill-gotten gains from corrupt offenders. Together, the two laws ensure that corruption remains a high-risk low-rewards activity. Upon the conclusion of investigations by the CPIB, all alleged corruption cases will be handed over to the Attorney-General’s Chambers (AGC), the prosecutorial arm of the Singapore Criminal Justice System, to obtain the Public Prosecutor’s consent to proceed with Court proceedings.  
 
 ### **Adjudication**
 
