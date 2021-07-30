@@ -48,6 +48,8 @@ email, the CPIB website, or mail/fax. While more than half the corruption-relate
 
 **High Conviction Rate<sup>1</sup> for CPIB Cases**
 
+![Figure 6](https://user-images.githubusercontent.com/84945723/127608958-b2f2751f-3bbb-4cbb-b87c-a8d1186cdb7e.png)
+
 11\.            The conviction rate remained high, averaging 98% over the past five years (Figure 6).
 
 **Anti-Corruption Efforts Highly Regarded Internationally**
