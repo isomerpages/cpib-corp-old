@@ -8,9 +8,8 @@ permalink: /e-services/e-complaint-for-corrupt-conduct
       td,
       th {
         padding: 10px;
-        border: 2px solid #1c87c9;
+        border: 1px solid #e0e0e0;
         border-radius: 5px;
-        background-color: #e5e5e5;
         text-align: center;
       }
 </style>
