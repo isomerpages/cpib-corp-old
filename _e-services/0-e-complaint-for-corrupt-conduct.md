@@ -3,6 +3,17 @@ title: e-Complaint for Corrupt Conduct
 permalink: /e-services/e-complaint-for-corrupt-conduct
 ---
 
+<style>
+      table,
+      td,
+      th {
+        padding: 10px;
+        border: 2px solid #1c87c9;
+        border-radius: 5px;
+        background-color: #e5e5e5;
+        text-align: center;
+      }
+</style>
 
 ### **LODGING A CORRUPTION COMPLAINT**
 
