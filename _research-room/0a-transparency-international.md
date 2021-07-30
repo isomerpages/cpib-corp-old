@@ -16,15 +16,15 @@ First launched in 1995, the Corruption Perceptions Index (CPI) by TI has been wi
 
 ### **Around the World**
 
-The CPI currently ranks 180 countries on a scale from 100 (very clean) to 0 (highly corrupt). Below is a world map showing the results of the 2018 CPI. High numbers (yellow) indicate lower perception of corruption, whereas lower numbers (red) indicate higher perception of corruption.
+The CPI currently ranks 180 countries on a scale from 100 (very clean) to 0 (highly corrupt). Below is a world map showing the results of the 2020 CPI. High numbers (yellow) indicate lower perception of corruption, whereas lower numbers (red) indicate higher perception of corruption.
 
 <img src="/images/research room_TI-CPI2020.png" alt="cpi 2020">
 
-Topping the 2018 CPI list is Denmark and New Zealand, which are at first and second place respectively.
+Topping the 2020 CPI list is Denmark and New Zealand, which are at joint first place respectively.
 
 ### **Singapore’s Ranking**
 
-Since its inception, Singapore has been ranked consistently among one of the least corrupt countries in the world.  In the last 5 years, Singapore has been placed among the top 10 globally, and was tied at 3rd place with Finland, Sweden and Switzerland in 2018.
+Since its inception, Singapore has been ranked consistently among one of the least corrupt countries in the world.  In the last 5 years, Singapore has been placed among the top 10 globally, and was tied at 3rd place with Finland, Sweden and Switzerland in 2020.
 
 <img src="/images/research room - TI-CPI2020 sg results.jpg" alt="cpi">
 
