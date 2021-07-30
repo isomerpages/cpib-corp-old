@@ -1,7 +1,7 @@
 ---
 title: Company Director Convicted For Corruption
 date: 2021-07-30
-permalink: /press-room/press-releases/permalink
+permalink: /press-room/press-releases/company-director-convicted-corruption
 layout: post
 ---
 On 15 July 2021, Tan Chee Keong (Tan) (陈志强), a 51-year-old Singaporean male, was sentenced to 42 weeks' imprisonment for corruption offences.
@@ -27,4 +27,4 @@ c) What was the bribe given and the favour shown?
 
  
 
-Corrupt Practices Investigation Bureau
+ <b>Corrupt Practices Investigation Bureau</b>
