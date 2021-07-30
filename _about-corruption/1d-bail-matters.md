@@ -13,7 +13,7 @@ table, td {
 
 <img src="/images/abt-corruption_bailmatters.png" alt="bail matters">
 
-Agency Bail is administered individually by the various law enforcement agencies like the Corrupt Practices Investigation Bureau (CPIB) or the Singapore Police Force. This is different from Court Bail, which is only administered by the Courts when a person is charged in Court. More information on Court Bail can be found <a href="https://www.statecourts.gov.sg/CriminalCase/Documents/DutiesOfABailor.pdf" target="_blank">here</a>.
+Agency Bail is administered individually by the various law enforcement agencies like the Corrupt Practices Investigation Bureau (CPIB) or the Singapore Police Force. This is different from Court Bail, which is only administered by the Courts when a person is charged in Court. More information on Court Bail can be found <a href="https://www.statecourts.gov.sg/cws/CriminalCase/Pages/Bail-matters.aspx" target="_blank">here</a>.
 
 ### **What is Agency Bail?**
 
