@@ -19,4 +19,4 @@ $1,826 to $2,748 (indicative salary range for GCE ‘O’ level to diploma holde
 
 Upon appointment, you will need to undergo a basic training course on the fundamentals of the criminal laws and basic investigative skills. You are required to fulfil a 2-year bond after the training.
 
-There is currently no recruitment exercise for CPIA. All interested applicants are encouraged to look out for available positions on the Careers@Gov website. Applications can only be submitted through the Careers@Gov website during the Bureau’s recruitment exercises.
+There is currently no recruitment exercise for CPIA. All interested applicants are encouraged to look out for available positions on the [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
