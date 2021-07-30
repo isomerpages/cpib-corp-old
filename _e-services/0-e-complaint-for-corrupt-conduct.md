@@ -38,15 +38,6 @@ The list of FAQs for Lodging of Corruption Complaints can be found <a href="http
 </table>
 
 
-
-
-
-
-<a class="button_special" href="https://www.cpib.gov.sg/e-complaint/step2">PROCEED</a> FIRST TIME USER<p>
-  
-<a class="button_special" href="https://www.cpib.gov.sg/e-complaint/login">LOGIN</a> EXISTING USER
-
-
 #### **CONFIDENTIALITY OF YOUR IDENTITY**
 
 Under the law, the identity of the person making the report will be kept confidential. Complainants may also choose not to reveal their personal details when lodging a corruption complaint.
