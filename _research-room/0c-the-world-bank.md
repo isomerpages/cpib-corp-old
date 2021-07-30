@@ -21,7 +21,7 @@ The indicators capture six key dimensions of governance which include the contro
 
 Singapore has ranked consistently well in the area of control of corruption. In the last 5 years, it has attained the top 10 positions. Countries are given scores ranging from approximately -2.5 (weak) to 2.5 (strong) governance performance.
 
-<img src="/images/research-rm_worldwide-governance-indicators.jpg" alt="Worldwide Governance Indicators">
+<img src="/images/research room_world bank.jpg" alt="Worldwide Governance Indicators">
 
 To learn more about the Worldwide Governance Indicators project or to view the full results, you can visit <a href="https://data.worldbank.org/data-catalog/worldwide-governance-indicators" target="_blank">https://data.worldbank.org/data-catalog/worldwide-governance-indicators</a>
 
