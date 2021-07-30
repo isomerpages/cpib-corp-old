@@ -23,8 +23,8 @@ Singapore is one of the largest and most important bunkering ports in the world.
 <table border="1">
 
  <tr>
-  <td>&nbsp;</td>
-  <td>&nbsp;</td>
+  <th>&nbsp;</th>
+  <th>Penal Code Offences</th>
  </tr>
 
  <tr>
