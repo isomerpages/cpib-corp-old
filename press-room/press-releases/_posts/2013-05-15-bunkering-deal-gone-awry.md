@@ -28,3 +28,8 @@ The bunkering industry in Singapore is a lucrative business with more than 65,00
 12\.         Singapore has always adopted a zero tolerance approach towards corruption and criminal activities. The Corrupt Practices Investigation Bureau (CPIB) and the Maritime and Port Authority of Singapore (MPA) take a serious view of any corrupt practices in the bunkering industry, and will not hesitate to take action against any parties involved.
 
 **Corrupt Practices Investigation Bureau**
+
+
+**Annex A**
+
+![Bunkering deal went awry](https://user-images.githubusercontent.com/84945723/127605827-4b6b6cee-392c-4f7c-997d-4d0b9c663af5.jpg)
