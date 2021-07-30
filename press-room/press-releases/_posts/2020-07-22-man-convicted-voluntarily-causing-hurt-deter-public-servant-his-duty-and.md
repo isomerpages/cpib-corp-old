@@ -15,5 +15,5 @@ On 22 July 2020, **Liu Huibin (“Liu”)**, 刘会宾, was convicted and senten
 
 6\.        The CPIB would like to commend Aruna and Mohammed for their acts of integrity. The police and CPIB adopt a strict zero-tolerance approach towards corruption and the assault of any public officers performing their duty. These are serious offences. Anyone convicted of the offence of voluntarily causing hurt to deter a public servant from his duty punishable under Section 332 of the Penal Code will be liable to an imprisonment term of up to 7 years and a fine or to caning. For a corruption offence, anyone who is convicted will be liable to a fine of up to $100,000 or sentenced to imprisonment of up to 5 years or to both.
 
-**Singapore Police Force**</br>
+**Singapore Police Force**<br>
 **Corrupt Practices Investigation Bureau**
