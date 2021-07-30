@@ -6,7 +6,7 @@ layout: post
 ---
 On 22 July 2021, two individuals were charged in Court for cheating and money laundering offences. They are:
 
-a)    Hussain Naina Mohamed (“Hussain”) (46-year-old Indian national), Assistant Shipping Manager of Utracon Structural Systems Pte Ltd (“USSPL”) at the material time; and
+a)    Hussain Naina Mohamed (“Hussain”) (46-year-old Indian national), Assistant Shipping Manager of Utracon Structural Systems Pte Ltd (“USSPL”) at the material time; and<br>
 b)    Eldo Thottungal Mathai (“Eldo”) (66-year-old Indian national), Director of Indus Global Line Pte Ltd (“IGL”) at the material time.
 
 *Cheating offences*
