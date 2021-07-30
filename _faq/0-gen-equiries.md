@@ -59,6 +59,20 @@ input:checked + label + .accordion-content {
     <p>Besides investigating into corruption offences, the CPIB also aims to prevent corruption in both the public and private sectors.</p>
 	</div>
 
+	<input type="checkbox" id="title1"  /><label for="title1">I noticed that the CPIB also investigate non-corruption offences? Why is that so?</label>
+	<div class="accordion-content">
+    <p>Under the Prevention of Corruption Act, Chapter 241, the CPIB is empowered to investigate non-corruption related seizable offences which are disclosed in the course of investigating corruption offences.</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">What is a seizable offence?</label>
+	<div class="accordion-content">
+    <p>Seizable offences refer to offences where the persons committing the offences can be arrested without a warrant of arrest. Non-seizable offences are those where a warrant of arrest has to be obtained before the arrest can be made.</p>
+	</div>
+
+	<input type="checkbox" id="title1"  /><label for="title1">How do I check if there are any job vacancies at the CPIB?</label>
+	<div class="accordion-content">
+    <p>Available positions will be published on the Careers@Gov portal. If you are interested in any of the available positions, please submit your application via the <a href="https://www.careers.gov.sg/" target="_blank">Careers@Gov</a> portal.</p>
+	</div>
 
 </div>
 </div>
