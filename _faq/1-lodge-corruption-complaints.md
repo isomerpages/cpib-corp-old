@@ -101,3 +101,6 @@ e) Fax to us at: 6270 0320</p>
 
 </div>
 </div>
+
+
+If you are unable to find an answer to your query, please submit your <a href = "mailto: info@cpib.gov.sg">Feedback</a> to let us know how we can help you.
