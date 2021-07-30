@@ -5,11 +5,11 @@ permalink: "/press-room/press-releases/corruption-situation-singapore"
 ---
 **Annual Statistics**
 
+![Infographics_0](https://user-images.githubusercontent.com/84945723/124133979-f12a9400-dab4-11eb-85a4-8d49774b64da.jpg)
+
 The corruption situation in Singapore remains firmly under control. CPIB received 239 corruption-related reports in 2020, the lowest number of corruption-related reports in 5 years. Private sector cases continue to form the majority (86%) of all cases registered for investigation in 2020.
 
 2\.       Public perception of the effectiveness of corruption control efforts in Singapore has improved from 92% in 2018 to 94% in 2020.  In addition, 80% of the respondents to the public perception survey trust CPIB as an effective anti-corruption agency. Internationally, Singapore’s anti-corruption efforts continue to be well-regarded, with Transparency International (TI) ranking Singapore 3rd out of 180 countries in the 2020 Corruption Perceptions Index (CPI); Singapore maintained a high score of 85 out of 100.
-
-![Infographics_0](https://user-images.githubusercontent.com/84945723/124133979-f12a9400-dab4-11eb-85a4-8d49774b64da.jpg)
 
 **Fewer Corruption-Related Reports and Cases Registered for Investigation Amidst the COVID-19 Pandemic**
 
