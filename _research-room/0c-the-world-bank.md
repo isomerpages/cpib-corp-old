@@ -19,7 +19,7 @@ The indicators capture six key dimensions of governance which include the contro
 
 ### **Singapore’s Ranking**
 
-Singapore has ranked consistently well in the area of control of corruption. In the last 5 years, it has attained the top 10 positions. Countries are given scores ranging from approximately -2.5 (weak) to 2.5 (strong) governance performance.
+Singapore has ranked consistently well internationally in the area of control of corruption. 
 
 <img src="/images/research room_world bank.jpg" alt="Worldwide Governance Indicators">
 
