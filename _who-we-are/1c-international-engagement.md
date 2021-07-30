@@ -65,13 +65,13 @@ On 30 July 2020, the IACCC launched a new Associate Membership Scheme (AMS) that
 
 Website: <a href="/files/iaccc_leaflet.pdf" target="_blank">IACCC Leaflet</a>
 
-<img src="/images/who-we-are_ie-sea-pac.jpg" alt="sea pac">
+![ASEAN-PAC Logo_updated](https://user-images.githubusercontent.com/84945723/127626303-deaf0613-5485-4c77-9e6f-3eaa4cbe7a51.png)
 
-### **South East Asia - Parties Against Corruption (SEA-PAC)**
+### **ASEAN Parties Against Corruption (ASEAN-PAC)**
 
-SEA-PAC was established through the Memorandum of Understanding (MOU) on Cooperation for Preventing and Combating Corruption, which was initially signed by anti-corruption agencies from Brunei, Indonesia, Malaysia and Singapore on 15 December 2004. 
+ASEAN-PAC was established through the Memorandum of Understanding (MOU) on Cooperation for Preventing and Combating Corruption, which was initially signed by anti-corruption agencies from Brunei, Indonesia, Malaysia and Singapore on 15 December 2004. 
 
-The SEA-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of SEA-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of SEA-PAC, CPIB attends regular SEA-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
+The ASEAN-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of ASEAN-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of SEA-PAC, CPIB attends regular ASEAN-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
 
 <img src="/images/who-we-are_ie-uncac.jpg" alt="uncac">
 
@@ -79,9 +79,10 @@ The SEA-PAC MOU has subsequently been signed by anti-corruption agencies from Ca
 
 UNCAC is an international legal instrument against corruption which is regarded as the universal standard for anti-corruption measures. It currently comprises 175 States Parties and its objectives are:  
 
-To promote and strengthen measures to prevent and combat corruption more efficiently and effectively; 
-To promote, facilitate and support international cooperation and technical assistance in the prevention of and fight against corruption, including in asset recovery;
-To promote integrity, accountability and proper management of public affairs and public property.
+a. To promote and strengthen measures to prevent and combat corruption more efficiently and effectively; 
+b. To promote, facilitate and support international cooperation and technical assistance in the prevention of and fight against corruption, including in asset recovery;
+c. To promote integrity, accountability and proper management of public affairs and public property.
+
 States Parties to the Convention are obliged to implement and adhere to its provisions which cover five main areas of prevention, criminalization and law enforcement, international cooperation, asset recovery, and technical assistance and information exchange. Singapore signed the UNCAC on 11 November 2005 and ratified it on 6 November 2009.
 
 To review States Parties’ implementation of their obligations under the UNCAC, a country review process was established in 2009, whereby each State Party will be reviewed by two other States Parties. Singapore had been a reviewing State Party for Argentina in 2010 and El Salvador in 2012. Singapore underwent its own review of its implementation of UNCAC chapters III (Criminalisation and Law Enforcement) and IV (International Cooperation), in the fourth year of the current review cycle (2013/2014), with Lebanon and Swaziland as its reviewers. The next cycle of the review concerning States Parties’ implementation of UNCAC chapters II (Preventive Measures) and V (Asset Recovery), is expected to commence in end-2015 and is likely to end in 2020.
