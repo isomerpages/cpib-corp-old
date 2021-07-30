@@ -23,5 +23,5 @@ Singapore has ranked consistently well internationally in the area of control of
 
 <img src="/images/research room_world bank.jpg" alt="Worldwide Governance Indicators">
 
-To learn more about the Worldwide Governance Indicators project or to view the full results, you can visit <a href="https://data.worldbank.org/data-catalog/worldwide-governance-indicators" target="_blank">https://data.worldbank.org/data-catalog/worldwide-governance-indicators</a>
+To learn more about the Worldwide Governance Indicators project or to view the full results, you can visit <a href="http://info.worldbank.org/governance/wgi/">http://info.worldbank.org/governance/wgi/</a>
 
