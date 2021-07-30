@@ -71,7 +71,7 @@ Website: <a href="/files/iaccc_leaflet.pdf" target="_blank">IACCC Leaflet</a>
 
 ASEAN-PAC was established through the Memorandum of Understanding (MOU) on Cooperation for Preventing and Combating Corruption, which was initially signed by anti-corruption agencies from Brunei, Indonesia, Malaysia and Singapore on 15 December 2004. 
 
-The ASEAN-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of ASEAN-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of SEA-PAC, CPIB attends regular ASEAN-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
+The ASEAN-PAC MOU has subsequently been signed by anti-corruption agencies from Cambodia, Philippines, Thailand, Vietnam, Laos and Myanmar. The objectives of ASEAN-PAC are: (1) to establish and strengthen collaborative efforts against corruption among the Parties and; (2) to increase capacity and institutional building among the parties in preventing and combating corruption. As a founding member of ASEAN-PAC, CPIB attends regular ASEAN-PAC Annual and Secretariat meetings which are convened to implement the objectives of the MOU.  
 
 <img src="/images/who-we-are_ie-uncac.jpg" alt="uncac">
 
