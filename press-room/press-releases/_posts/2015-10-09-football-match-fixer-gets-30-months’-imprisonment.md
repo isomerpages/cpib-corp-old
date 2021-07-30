@@ -9,7 +9,7 @@ On 9 October 2015, Singaporean Selvarajan s/o Letchuman was sentenced to 30 mont
 
 i. One count of corruptly offering gratification to Shokri Bin Nor (Shokri), a soccer referee with the Football Association of Malaysia, amounting to RM15,000, as a reward to fix the outcome of the football match between Lions XII and Sarawak FA, an offence under Section (5)(b)(i) read with Section 37(1) of the Prevention of Corruption Act, (Chapter 241, 1993 Rev Ed); and
 
-ii.Two counts of abetment by conspiracy with Thana Segar S Sinnaiah and Shokri to cheat Singapore Pools (Private) Limited, an offence under Section 420 read with Section 116 of the Penal Code (Cap. 224, 2008 Rev Ed).
+ii. Two counts of abetment by conspiracy with Thana Segar S Sinnaiah and Shokri to cheat Singapore Pools (Private) Limited, an offence under Section 420 read with Section 116 of the Penal Code (Cap. 224, 2008 Rev Ed).
 
 3\.        Singapore adopts a zero tolerance approach towards corruption and other criminal activities, and match-fixing of any form is not condoned in Singapore. The Corrupt Practices Investigation Bureau (CPIB) will not hesitate to take action against any party involved in match-fixing related activities.
 
