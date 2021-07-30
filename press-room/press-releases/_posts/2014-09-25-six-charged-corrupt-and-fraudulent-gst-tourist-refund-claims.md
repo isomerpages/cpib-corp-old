@@ -14,34 +14,43 @@ Six men have been charged in Court in a corrupt and fraudulent Goods and Service
 **a) Former Singapore Customs Officer, Mohamed Yusof Bin Abdul Rahman**
 
 i. 29 counts of corruptly accepting gratification amounting to $11,400.00, an offence under Section 6(a) of the Prevention of Corruption Act, Chapter 241; and
+
 ii. 103 counts for an offence under Section 62(1)(b) of the Goods and Services Tax Act for intentionally assisting Sundar Panneer Selvam, Baskaran Uthirapathy, Pounraj Natarajan and Gobi Raman to fraudulently claim a total of $493,858.67 in GST refunds.
 
 **b) Sales executive employed with Soon Huat Goldsmith Pte Ltd, Lim Pheck Aun**
 
 i. Two counts of corruptly accepting gratification amounting to $400.00, and seven counts of corruptly accepting gratification in the form of DOM Liquors, an offence under Section 6(a) of the Prevention of Corruption Act, Chapter 241; and
+
 ii. 23 counts under Section 62(1)(b) of the Goods and Services Tax Act for assisting Sundar Panneer Selvam and Baskaran Uthirapathy to fraudulently claim $23,116.50 in GST refunds by making false entries in the eTRS system.
 
 **c) Indian National, Sundar Panneer Selvam**
 
 i. 29 counts of corruptly giving gratification amounting to $10,800.00 and seven counts of corruptly giving gratification in the form of DOM Liquors, an offence under Section 6(b) of the Prevention of Corruption Act, Chapter 241;
+
 ii. 30 counts for an offence under Section 62(1)(b) of the Goods and Services Tax Act for wilful intent to fraudulently claim GST refunds amounting to $213,007.34; and
+
 iii. Nine counts of removing cash arising from fraudulent GST refund claims out of Singapore under Section 47(1)(b) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A.
 
 **d) Indian National, Baskaran Uthirapathy**
 
 i. 11 counts of abetting Sundar Panneer Selvam and Pounraj Natarajan to corruptly give gratification to Mohamed Yusof Bin Abdul Rahman amounting to $3,550.00, and one DOM Liquor and $400.00 to Lim Pheck Aun, an offence under Section 6(b) read with Section 29(a) of the Prevention of Corruption Act, Chapter 224;
+
 ii. 33 counts for an offence under Section 62(1)(b) of the Goods and Services Tax Act for wilful intent to fraudulently claim GST refunds amounting to $98,273.64; and
+
 iii. 11 counts of removing cash arising from fraudulent GST refund claims out of Singapore under Section 47(1)(b) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A.
 
 **e) Indian National, Pounraj Natarajan**
 
 i. Five counts of corruptly giving gratification amounting to $1,300.00 to Mohamed Yusof Bin Abdul Rahman through Sundar Panneer Selvam and Baskaran Uthirapathy, and one count of corruptly giving gratification amounting to $250.00 to Mohamed Yusof Bin Abdul Rahman, an offence under Section 6(b) of the Prevention of Corruption Act, Chapter 241;
+
 ii. 30 counts for an offence under Section 62(1)(b) of the Goods and Services Tax Act for wilful intent to fraudulently claim GST refunds amounting to $114,990.51; and
+
 iii. 11 counts of removing cash arising from fraudulent GST refund claims out of Singapore under Section 47(1)(b) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A.
 
 **f) Indian National, Gobi Raman**
 
 i. 26 counts for an offence under Section 62(1)(b) of the Goods and Services Tax Act for wilful intent to fraudulently claim GST refunds amounting to $143,359.63; and
+
 ii. Nine counts of removing cash arising from fraudulent GST refund claims out of Singapore under Section 47(1)(b) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, Chapter 65A.
 
 5\.         Singapore has always adopted a zero tolerance approach towards corruption and other criminal activities. The authorities take a serious view of any corrupt and criminal practices, and will not hesitate to take swift action against any individuals and parties involved.
