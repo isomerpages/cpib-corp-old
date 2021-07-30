@@ -403,7 +403,7 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 **Singapore Police Force**
 
 <p></p>
-<p><u><strong><sup>i</sup>&nbsp;About the Electronic Tourist Refund Scheme (eTRS)</strong></u></p>
+<p><u><strong>About the Electronic Tourist Refund Scheme (eTRS)</strong></u></p>
 
 Tourists can claim GST refund on goods they have purchased and brought out of Singapore. A person who did not purchase the goods and yet sought or obtained a GST refund under the tourist refund scheme would have committed an offence under the GST Act.
 
