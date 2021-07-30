@@ -1,4 +1,4 @@
 ---
-title: Corruption Related
+title: FAQ - Corruption Related
 permalink: /faq/corruption-related/
 ---
