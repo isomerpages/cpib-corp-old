@@ -16,7 +16,7 @@ Where possible, users should include the following information in their corrupti
 
 The list of FAQs for Lodging of Corruption Complaints can be found <a href="https://www.ifaq.gov.sg/CPIB/apps/Fcd_faqmain.aspx#FAQ_166929">here</a>.
 
-<table>
+<table border="1">
 
   <tr>
     <td><p><b>FIRST TIME USER</b></p>
