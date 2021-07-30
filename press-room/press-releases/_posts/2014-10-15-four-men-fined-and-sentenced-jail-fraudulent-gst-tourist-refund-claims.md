@@ -91,9 +91,6 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
 
 <p><u><strong>Removing Criminal Proceeds from Singapore</strong></u></p>
@@ -125,10 +122,8 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><br /><br /><br /></p>
 <p>&nbsp;' TIC &ndash; Charges taken into consideration for sentencing.</p>
+<p></p>
 
 9\. **Baskaran Uthirapathy** was sentenced to a total of 42 months’ imprisonment and a penalty of $237.595.53.
 
@@ -198,8 +193,6 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p></p>
 
 <p><u><strong>Removing Criminal Proceeds from Singapore</strong></u></p>
@@ -231,10 +224,8 @@ Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (ag
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><br/><br />&nbsp;</p>
 <p>' TIC &ndash; Charges taken into consideration for sentencing.</p>
+<p></p>
 
 10\. **Pounraj Natarajan** was sentenced to a total of 45 months’ imprisonment and a penalty of $201,129.66.
 
