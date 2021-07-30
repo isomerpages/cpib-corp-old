@@ -25,6 +25,7 @@ Singapore is one of the largest and most important bunkering ports in the world.
 
 2\.        On 16 November 2017, the company, Vermont UM Bunkering Pte Ltd (Vermont Bunkering), two of its directors (Poh Fu Tek and Koh Seng Lee) and one former bunker manager (Lee Kok Leong) will each be charged in court for cheating and criminal breach of trust offences under the Penal Code, as summarized in the table below. Through these alleged fraudulent transactions, Vermont Bunkering had dishonestly induced its customers to make excess payments totaling over US$8 million.
 
+<font size="2" face="Arial" >
 <table border="1">
 
  <tr>
@@ -53,7 +54,7 @@ Singapore is one of the largest and most important bunkering ports in the world.
  </tr>
 
 </table>
-
+</font>
 
 
 3\.        In addition to the above, Vermont Bunkering and Poh Fu Tek will each be charged with 18 counts of abetment by engaging in a conspiracy to disguise property representing benefits from criminal conduct. This was done using invoices falsely purporting that various quantities of fuel oil had been sold to Vermont Bunkering. These constituted offences under Section 47(1)(a) and punishable under Section 47(6) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act [CDSA] (Cap 65A) read with Section 109 of the Penal Code (Cap 224).
