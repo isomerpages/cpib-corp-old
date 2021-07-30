@@ -3,7 +3,7 @@ layout: post
 title: "Sentenced to Four Weeks’ Imprisonment for Attempting to Bribe a Police Officer to Avoid COVID-19 Enforcement Action"
 permalink: "/press-room/press-releases/sentenced-four-weeks’-imprisonment-attempting-bribe-police-officer-avoid"
 ---
-As part of safe distancing measures introduced by the Multi-Ministry Taskforce to break the COVID-19 transmission chain, everyone must wear a mask over their nose and mouth when outside of their homes unless exempted under the law[1]. Under the COVID-19 (Temporary Measures) Act 2020, anyone caught not wearing a mask outside their ordinary place of residence faces a fine of S$300 for a first offence and S$1,000 for a second offence. Those caught trying to bribe their way out of COVID-19 related offences will face further punishment under the law.
+As part of safe distancing measures introduced by the Multi-Ministry Taskforce to break the COVID-19 transmission chain, everyone must wear a mask over their nose and mouth when outside of their homes unless exempted under the law<sup>1</sup>. Under the COVID-19 (Temporary Measures) Act 2020, anyone caught not wearing a mask outside their ordinary place of residence faces a fine of S$300 for a first offence and S$1,000 for a second offence. Those caught trying to bribe their way out of COVID-19 related offences will face further punishment under the law.
 
 2\.          On 23 October 2020, Chen Long (“陈龙”), a 28-year-old Chinese national on work permit in Singapore, was sentenced to four weeks’ imprisonment for corruption.
 
@@ -14,3 +14,5 @@ As part of safe distancing measures introduced by the Multi-Ministry Taskforce t
 5\.          The CPIB would like to commend SC/SGT Chan Hui Shi for rejecting the bribe. Singapore adopts a zero-tolerance approach towards corruption. It is a serious offence to offer bribes to public officers. Any person who is convicted of a corruption offence can be fined up to $100,000, imprisoned for up to 5 years, or to both.
 
 **Corrupt Practices Investigation Bureau**
+
+[1] See COVID-19 (Temporary Measures) (Control Order) Regulations 2020 3A(2).
