@@ -23,7 +23,7 @@ He pleaded guilty to 6 GST evasion charges and 3 corruption charges that were pr
 
 The court sentenced Lim to 2 years’ jail, a penalty of $724 for his corruption offences and $27,169.59 for his GST offences which is three times the amount of GST defrauded.
 
-Zero Tolerance towards Tax Fraud, Corruption and other Criminal Activities
+**Zero Tolerance towards Tax Fraud, Corruption and other Criminal Activities**
 
 Singapore has always adopted a zero tolerance approach towards tax fraud, corruption and other criminal activities. The authorities take a serious view of any corrupt and criminal practices, and will not hesitate to take swift action against any individuals and parties involved.
 
