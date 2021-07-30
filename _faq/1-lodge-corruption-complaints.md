@@ -63,7 +63,7 @@ d) Email us at: <a href = "mailto: report@cpib.gov.sg">report@cpib.gov.sg</a><br
 e) Fax to us at: 6270 0320</p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">If we provide information to the CPIB, would our identities be exposed?</label>
+	<input type="checkbox" id="title2"  /><label for="title2">If we provide information to the CPIB, would our identities be exposed?</label>
 	<div class="accordion-content">
     <p>Under the law, the complainant's identity will be kept confidential, even in court proceedings except when the court finds that the complainant has made a false statement in his corruption complaint.</p>
     <p>PROTECTION OF INFORMERS (Section 36 of the Prevention of Corruption Act, Cap 241):</p>
@@ -73,28 +73,28 @@ e) Fax to us at: 6270 0320</p>
     </p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">Is it compulsory to provide my name and particulars when I lodge a corruption complaint with the CPIB?</label>
+	<input type="checkbox" id="title3"  /><label for="title3">Is it compulsory to provide my name and particulars when I lodge a corruption complaint with the CPIB?</label>
 	<div class="accordion-content">
     <p>No. You may remain anonymous if you so wish. The CPIB looks into all corruption complaints, including anonymous ones.</p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">If I choose to visit the Bureau to lodge the corruption complaint, do I need to make an appointment with the Duty Officer?</label>
+	<input type="checkbox" id="title4"  /><label for="title4">If I choose to visit the Bureau to lodge the corruption complaint, do I need to make an appointment with the Duty Officer?</label>
 	<div class="accordion-content">
     <p>No appointment is required. You can visit us during office hours from Monday to Thursday between 8.30 am to 6 pm, and for Friday, 8.30 am to 5.30 pm</p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">Who should I approach when I arrive at the CPIB?</label>
+	<input type="checkbox" id="title5"  /><label for="title5">Who should I approach when I arrive at the CPIB?</label>
 	<div class="accordion-content">
     <p>Please approach the Guard Room upon arrival at the CPIB. Advise the security officer at the Guard Room that you are here to lodge a corruption complaint, and he will direct you accordingly.</p>
     <p>You will be required to produce your National Registration Identity Card (NRIC) or any identification pass for registration.</p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">If I choose to call the CPIB Duty Officer hotline to lodge the corruption complaint, what time can I make the call?</label>
+	<input type="checkbox" id="title6"  /><label for="title6">If I choose to call the CPIB Duty Officer hotline to lodge the corruption complaint, what time can I make the call?</label>
 	<div class="accordion-content">
     <p>The CPIB Duty Officer hotline 1800-376-0000 is available every day. If you reach out to our duty officer between 11pm to 7am, please leave a voice message for us to return your call.</p>
 	</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">What should I do when I receive a "Notice to Appear" or a phone call from someone who claims that he/she is a "CPIB officer"?</label>
+	<input type="checkbox" id="title7"  /><label for="title7">What should I do when I receive a "Notice to Appear" or a phone call from someone who claims that he/she is a "CPIB officer"?</label>
 	<div class="accordion-content">
     <p>You can contact the CPIB Duty Officer hotline at 1800-376-0000 to verify if the person is a CPIB officer.</p>
 	</div>
