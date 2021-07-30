@@ -6,6 +6,12 @@ permalink: "/press-room/press-releases/bunkering-company-and-staff-charged-cheat
 
 <style>
       table,
+      tr {
+        padding: 10px;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        text-align: center;
+      }
       td {
         padding: 10px;
         border: 1px solid #e0e0e0;
