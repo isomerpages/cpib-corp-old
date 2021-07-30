@@ -53,10 +53,14 @@ input:checked + label + .accordion-content {
 
 <div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">What does the CPIB do?</label>
+	<input type="checkbox" id="title1"  /><label for="title1">How do I make a corruption report?</label>
 	<div class="accordion-content">
-    <p>The CPIB is the only agency that is authorised to investigate into corruption offences.</p>
-    <p>Besides investigating into corruption offences, the CPIB also aims to prevent corruption in both the public and private sectors.</p>
+    <p>The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:</p>
+    <p>a) Come down personally or write to us at 2 Lengkok Bahru, Singapore 159047<br>
+b) Call CPIB Duty Officer at 1800-376-0000;<br>
+c) Lodge an e-complaint<br>
+d) Email us at: report@cpib.gov.sg<br>
+e) Fax to us at: 6270 0320</p>
 	</div>
 
 
