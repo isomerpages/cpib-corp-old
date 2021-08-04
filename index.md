@@ -4,7 +4,7 @@ title: Corrupt Practices Investigation Bureau Website
 description: The Corrupt Practices Investigation Bureau (CPIB), an independent agency, is responsible for the investigation and prevention of corruption in Singapore.
 image: /images/cpib_logo.png
 permalink: /
-notification: <p align="center">Click to see our <b><a href="/announcement/">ANNOUNCEMENTS</a></b></p>
+notification: <p align="center">Click to see our <b><a href="/announcement/">ANNOUNCEMENT</a></b></p>
 sections:
     - hero:
         title: Seen or Suspect Something?
