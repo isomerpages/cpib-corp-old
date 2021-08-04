@@ -4,7 +4,7 @@ permalink: /announcement/
 ---
 
 
-1\. CPIB Website and e-Services will be undergoing scheduled maintenance from Friday, 6 Aug 2021 9:00 AM to Saturday, 7 Aug 2021 9:00 AM, and will not be available during this period.
+1\. CPIB e-Services will be undergoing scheduled maintenance from Friday, 6 Aug 2021 9:00 AM to Saturday, 7 Aug 2021 9:00 AM, and will not be available during this period.
 
 2\. Due to the elevated COVID-19 safe distancing measures, the Corruption Reporting & Heritage Centre (CRHC) @ 247 Whitley Road will remain closed till further notice. The CPIB will still operate as usual. However, members of the public are strongly advised against visiting the CPIB headquarters during this time of elevated safe distancing measures. The following modes of lodging corruption reports with the Bureau are instead recommended:
 
