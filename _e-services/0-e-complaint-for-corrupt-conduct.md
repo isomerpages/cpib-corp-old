@@ -32,7 +32,7 @@ The list of FAQs for Lodging of Corruption Complaints can be found <a href="/faq
     <td><p><b>FIRST TIME USER</b></p>
       <p>* The e-Complaint for corrupt conduct will require 5 – 10 minutes to complete.</p>
       <p>* Your e-Complaint for corrupt conduct will be processed within 10 working days.</p>
-      <a class="button_special" href="https://uat-services.cpib.gov.sg/e-complaint/step2">PROCEED</a>
+      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/step2">PROCEED</a>
     </td>
   </tr>
 
@@ -41,7 +41,7 @@ The list of FAQs for Lodging of Corruption Complaints can be found <a href="/faq
       <p>* View summary of corruption complaints submitted previously.</p>
       <p>* Add more details to your e-Complaint.</p>
       <p>* Lodge another e-Complaint.</p>
-      <a class="button_special" href="https://uat-services.cpib.gov.sg/e-complaint/login">LOGIN</a>
+      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/login">LOGIN</a>
     </td>
   </tr>
 
