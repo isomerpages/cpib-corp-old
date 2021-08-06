@@ -4,7 +4,7 @@ permalink: /e-bail-extension/
 ---
 
 
-### **BAIL BOND EXTENSION MAINTENANCE NOTICE**
+### **MAINTENANCE NOTICE**
 
 <img src="/images/maintenance.png" alt="maintenance">
 
