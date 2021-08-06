@@ -3,11 +3,61 @@ title: e-Complaint for Corrupt Conduct
 permalink: /e-services/e-complaint-for-corrupt-conduct
 ---
 
+<style>
+      table,
+      td,
+      th {
+        padding: 10px;
+        border: 1px solid #e0e0e0;
+        border-radius: 5px;
+        text-align: center;
+      }
+</style>
 
-### **MAINTENANCE NOTICE**
+### **LODGING A CORRUPTION COMPLAINT**
 
-<img src="/images/maintenance.png" alt="maintenance">
+This e-Complaint service allows any member of the public to lodge a new corruption complaint online, add more details to an existing corruption complaint or to view a summary of previous corruption complaints.
 
-e-Complaint service will be undergoing scheduled maintenance from Friday, 6 Aug 2021 9:00 AM to Saturday, 7 Aug 2021 9:00 AM, and will not be available during this period. 
+Where possible, users should include the following information in their corruption complaint:
+* Where, When and How did the corrupt conduct happen?
+* Who was involved?
+* How did you know about it?
+* Why do you think it is a corruption offence?
 
-We apologise for any inconvenience.
+The list of FAQs for Lodging of Corruption Complaints can be found <a href="/faq/lodge-corruption-complaints/">here</a>.
+
+<table border="1">
+
+  <tr>
+    <td><p><b>FIRST TIME USER</b></p>
+      <p>* The e-Complaint for corrupt conduct will require 5 – 10 minutes to complete.</p>
+      <p>* Your e-Complaint for corrupt conduct will be processed within 10 working days.</p>
+      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/step2">PROCEED</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td><p><b>EXISTING USER</b></p>
+      <p>* View summary of corruption complaints submitted previously.</p>
+      <p>* Add more details to your e-Complaint.</p>
+      <p>* Lodge another e-Complaint.</p>
+      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/login">LOGIN</a>
+    </td>
+  </tr>
+
+</table>
+
+
+#### **CONFIDENTIALITY OF YOUR IDENTITY**
+
+Under the law, the identity of the person making the report will be kept confidential. Complainants may also choose not to reveal their personal details when lodging a corruption complaint.
+
+More details can be found under the <a href="https://sso.agc.gov.sg/Act/PCA1960?Provlds=pr36-#pr36-" target="blank">Protection of Informers (Section 36 of the Prevention of Corruption Act, Chapter 241)</a> and our <a href="/privacy/">Privacy Statement</a>.
+
+#### **<font color="#E63F30">WARNING:</font>**
+
+It is an offence under the Prevention of Corruption Act (Chapter 241), to knowingly give or cause to be given any false or misleading information to the CPIB. The punishment is an imprisonment of up to 12 months or a maximum fine of $10,000, or both.
+
+
+<p style="font-size:15px">* If users encounter any errors with the e-Service, please email info@cpib.gov.sg with information on the issue.</p>
+
