@@ -1,9 +1,10 @@
 ---
 title: Paying the Price for Trying to Obtain Bribes
 date: 2021-08-19
-permalink: /press-room/press-releases/permalink
+permalink: /press-room/press-releases/190821-paying-price
 layout: post
 ---
+
 Companies should report any solicitation for bribes to the Corrupt Practices Investigation Bureau (CPIB). Individuals who solicit bribes will face serious consequences.
 
 2\. On 19 August 2021, Subramaniam s/o Panneer Selvam (“Subramaniam”), a 55-year-old Singaporean male, was sentenced to a fine of S$45,000 for corruption. At the material time, Subramaniam was employed as a Deputy Manager of Management Corporation Strata Title Plan No. 2137 (“MCST 2137”), which oversees the management of Bugis Junction.
