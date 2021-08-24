@@ -1,9 +1,10 @@
 ---
 title: Two Charged with Alleged Corruption for Advancing Business Interests
 date: 2021-08-11
-permalink: /press-room/press-releases/permalink
+permalink: /press-room/press-releases/110821-two-charged
 layout: post
 ---
+
 On 11 August 2021, two individuals were charged in Court for allegedly accepting bribes to advance the business interests of Intetech Solutions Pte Ltd (“Intetech”), an Information Technology (“IT”) enterprise solutions company. They are: 
 
 a)    **Kuik Kai Kun @ Nicholas (“Kuik”)** ( 郭介君, 44-year-old male Singapore Citizen), IT Network Administrator of Bodynits International Pte Ltd (“Bodynits”) at the material time; and <br>
