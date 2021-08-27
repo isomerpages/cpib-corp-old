@@ -1,9 +1,10 @@
 ---
 title: Former BCA Officer Charged for Alleged Corruption
 date: 2021-08-27
-permalink: /press-releases/permalink
+permalink: /press-releases/270821-former-bca
 layout: post
 ---
+
 On 27 August 2021, Tan Ming Lie (陈明烈, a 32-year-old male Singapore Citizen)(“Tan”), a Temporary Inspection Officer of the Building and Construction Authority (“BCA”) at the material time, was charged in Court for alleged corruption. 
 
 	
