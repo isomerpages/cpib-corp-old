@@ -91,7 +91,7 @@ e) Fax to us at: 6270 0320</p>
 
 	<input type="checkbox" id="title6"  /><label for="title6">If I choose to call the CPIB Duty Officer hotline to lodge the corruption complaint, what time can I make the call?</label>
 	<div class="accordion-content">
-    <p>The CPIB Duty Officer hotline 1800-376-0000 is available every day. If you reach out to our duty officer between 11pm to 7am, please leave a voice message for us to return your call.</p>
+    <p>The CPIB Duty Officer hotline 1800-376-0000 is available every day. If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.</p>
 	</div>
 
 	<input type="checkbox" id="title7"  /><label for="title7">What should I do when I receive a "Notice to Appear" or a phone call from someone who claims that he/she is a "CPIB officer"?</label>
