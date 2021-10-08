@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Former CNB Chief charged"
-permalink: "/press-room/press-releases/former-cnb-chief-charged"
+title: Former CNB Chief charged
+permalink: /press-room/press-releases/former-cnb-chief-charged
 ---
 The accused is Ng Boon Gay (Huang Wen Yi). He was the Director of the Central Narcotics Bureau (CNB) at the time of the alleged offences.
 
