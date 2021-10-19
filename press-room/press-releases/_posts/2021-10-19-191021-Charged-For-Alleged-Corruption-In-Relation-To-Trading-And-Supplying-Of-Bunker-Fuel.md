@@ -17,7 +17,7 @@ b) Mohammad Shafiq Bin Nezammuddin (“Shafiq”, 32-year-old male Singaporean),
 
 5\. CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
-a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>;
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 b) Email us at <a class="spamspan" href="mailto:report@cpib.gov.sg">report@cpib.gov.sg</a>;<br />
 c) Call the Duty Officer at 1800-376-0000; or<br />
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
