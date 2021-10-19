@@ -3,8 +3,10 @@ layout: post
 title: "Charged For Alleged Corruption In Relation To Trading And Supplying Of Bunker Fuel"
 permalink: "/press-room/press-releases/191021-Charged-For"
 ---
-On 19 October 2021, two individuals will be charged in Court for allegedly obtaining and giving gratifications in relation to the trading and supplying of bunker fuel. They are:
+On 19 October 2021, two individuals were charged in Court for allegedly obtaining and giving gratifications in relation to the trading and supplying of bunker fuel. They are:
+
 a) Muhammad Afzal Bin Mohamed Ekbar (“Afzal”, 34-year-old male Singaporean), bunker trader of KPI Bridge Oil Singapore Pte Ltd (“KPI”) at the material time; and
+
 b) Mohammad Shafiq Bin Nezammuddin (“Shafiq”, 32-year-old male Singaporean), Director of Straits Bunkering Pte Ltd (“Straits”) at the material time.
 
 2\. Between June 2017 and August 2018, Afzal had allegedly obtained gratifications totaling at least USD191,250 from Shafiq on multiple occasions as rewards for nominating Straits for the supply of bunker fuel to KPI’s customers. Afzal had also allegedly obtained a gratification in the form of a S$90,000 loan from Shafiq as an inducement for the same purpose. For their actions, Afzal and Shafiq will each face three charges for offences punishable under Section 6(a) and Section 6(b) of the Prevention of Corruption Act respectively, of which two charges are amalgamated under Section 124(4) of the Criminal Procedure Code.
