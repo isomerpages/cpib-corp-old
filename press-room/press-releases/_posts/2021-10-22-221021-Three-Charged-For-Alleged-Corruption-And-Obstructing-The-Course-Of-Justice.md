@@ -9,13 +9,13 @@ On 22 October 2021, Pai Keng Pheng (白敬平, 58-year-old male Singaporean), th
 
 3\. In January 2018, Pai Keng Pheng had also allegedly instructed Wong to tell the three bunker clerks to dispose of their handphones, which Pai Keng Pheng knew were likely to contain evidence relevant to the said Police investigations. Further, in November 2018, Pai Keng Pheng had allegedly instructed Wong to lie to the Police that the three bunker clerks were out at sea and uncontactable, intending to conceal their true location from the Police to obstruct investigations into the case. 
 
-4\. Accordingly, Pai Keng Pheng will face:
+4\. Accordingly, Pai Keng Pheng faced:
 
 a) 30 charges for offences under Section 5(b)(i) of the Prevention of Corruption Act for giving gratification; and
 
 b) 10 charges for offences punishable under Sections 204A and 204A(b) of the Penal Code for obstructing the course of justice.
 
-5\. For abetting the corruption offences, Pai Guat Mooi and Wong will face nine charges and three charges respectively for offences under Section 5(b)(i) read with Section 29(a) of the Prevention of Corruption Act.
+5\. For abetting the corruption offences, Pai Guat Mooi and Wong faced nine charges and three charges respectively for offences under Section 5(b)(i) read with Section 29(a) of the Prevention of Corruption Act.
 
 6\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to imprisonment of up to five years or to both. Any person who is convicted under Section 204A of the Penal Code can be fined or sentenced to imprisonment of up to seven years or to both.
 
