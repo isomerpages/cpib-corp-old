@@ -2,8 +2,7 @@
 title: Advisory
 permalink: /advisory/
 ---
-
-**𝐀𝐝𝐯𝐢𝐬𝐨𝐫𝐲 𝐨𝐧 𝐈𝐦𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐭𝐢𝐨𝐧 𝐒𝐜𝐚𝐦𝐬 𝐈𝐧𝐯𝐨𝐥𝐯𝐢𝐧𝐠 𝐂𝐏𝐈𝐁**
+**Advisory on Impersonation Scams Involving CPIB**
 
 The Corrupt Practices Investigation Bureau (CPIB) is aware of recent impersonation scams involving the Bureau.
 
