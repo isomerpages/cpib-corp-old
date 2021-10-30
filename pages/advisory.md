@@ -13,8 +13,9 @@ On a separate unrelated incident, a Member of Public has received a request to f
 Members of the public are advised to adopt the following precautions if they receive such calls or unexpected requests from social media accounts which may be dubious in nature:
 
 a) Call CPIB’s hotline at 1800-376-0000 for assistance to verify the authenticity of the calls or unexpected requests from social media accounts purported to be CPIB.
+
 b) Do not remit or transfer any money for any transactions based on instructions which the calls or purported accounts are asking for.
+
 c) Refrain from providing personal information such as your One-Time Password (OTP) and bank credentials to the requestor.
 
-CPIB takes a serious view of the impersonation of public agencies for undesirable or scam purposes. If you have any information on suspected scams based on the impersonation of CPIB or its officers, please call the CPIB hotline at 1800-376-0000, the Police hotline at 1800-255-0000, or submit it online at www.police.gov.sg/iwitness. For more information on scams, members of the public can visit www.scamalert.sg
- or call the Anti-Scam Hotline at 1800-722-6688.
+CPIB takes a serious view of the impersonation of public agencies for undesirable or scam purposes. If you have any information on suspected scams based on the impersonation of CPIB or its officers, please call the CPIB hotline at 1800-376-0000, the Police hotline at 1800-255-0000, or submit it online at <a href="www.police.gov.sg/iwitness">www.police.gov.sg/iwitness</a>. For more information on scams, members of the public can visit <a href="www.scamalert.sg">www.scamalert.sg</a> or call the Anti-Scam Hotline at 1800-722-6688.
