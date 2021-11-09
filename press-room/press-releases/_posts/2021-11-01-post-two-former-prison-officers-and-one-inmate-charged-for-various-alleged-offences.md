@@ -52,7 +52,7 @@ convicted of an offence of criminal intimidation can be fined or sentenced to im
 of up to two years or both. Any person who is convicted of an offence under the Computer
 Misuse Act can be fined or sentenced to imprisonment of up to two years or both.
 
-6 \.        The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
+6 \.        The CPIB looks into all corruption complaints and reports, including anonymous ones, and can be reached via the following channels:
 
 a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
 b) Email us at <a href="mailto:report@cpib.gov.sg" class="spamspan">report@cpib.gov.sg</a>;<br>
