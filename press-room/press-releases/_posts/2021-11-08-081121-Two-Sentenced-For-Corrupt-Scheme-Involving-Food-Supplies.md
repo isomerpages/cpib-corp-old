@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Three Charged For Alleged Corruption And Obstructing The Course Of Justice"
+title: "Two Sentenced For Corrupt Scheme Involving Food Supplies"
 permalink: "/press-room/press-releases/081121-Two-Sentenced"
 ---
 On 8 November 2021, Edmund Chan Yong Ann (“Chan”) (曾荣安), 45-year-old male Singaporean), director of Orchard Hills Pte Ltd (“OHPL”) at the material time, was sentenced to a fine of S$53,300 for giving bribes. Hoe Kim Tick (“Hoe”) (38-year-old male Malaysian National), the head chef of Omakase Burger Pte Ltd (“Omakase”) at the material time, was earlier fined S$35,000 on 14 June 2018, and ordered to pay a penalty of S$7,476 for receiving the bribes from Chan. 
