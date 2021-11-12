@@ -34,7 +34,7 @@ contacts:
     - other: <b>3. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
     - other: <b>4. EMAIL US</b><br>
     - email: report@cpib.gov.sg<br><br>
-    - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to <a href="/files/Cases%20under%20Public%20Agencies%20(CPIB).pdf">this list</a> of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
+    - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to this <a href="/files/Cases%20under%20Public%20Agencies%20(CPIB).pdf">list</a> of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
   - title: GENERAL ENQUIRIES<br><br>
     content:
     - other: For non-corruption matters, you may contact us at<br><br>
