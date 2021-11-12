@@ -16,37 +16,21 @@ permalink: /e-services/e-complaint-for-corrupt-conduct
 
 ### **LODGING A CORRUPTION COMPLAINT**
 
-This e-Complaint service allows any member of the public to lodge a new corruption complaint online, add more details to an existing corruption complaint or to view a summary of previous corruption complaints.
+This e-Complaint service allows any member of the public to lodge a corruption complaint online. Corruption is receiving, asking for or giving any gratification to induce a person to do a favour with a corrupt intent. In a nutshell, here is a graphical representation of corruption:
+
+![abt-corruption_corruption-infographic](https://user-images.githubusercontent.com/84945723/141402006-58dcc59f-0282-44c7-9f47-e665721e0016.jpg)
 
 Where possible, users should include the following information in their corruption complaint:
-* Where, When and How did the corrupt conduct happen?
-* Who was involved?
-* How did you know about it?
-* Why do you think it is a corruption offence?
 
-The list of FAQs for Lodging of Corruption Complaints can be found <a href="/faq/lodge-corruption-complaints/">here</a>.
+* Where, when and how the alleged corrupt act happened?
+* Who was involved and what were their roles?
+* What was the bribe given and the favour shown?
 
-<table border="1">
+The FAQs for Lodging of Corruption Complaints can be found <a href="/faq/lodge-corruption-complaints/">here</a>. For complaints not related to corruption, please refer to <a href="/files/Cases%20under%20Public%20Agencies%20(CPIB).pdf/">this list</a> of functions handled by other government agencies which may be able to assist you with your queries.
 
-  <tr>
-    <td><p><b>FIRST TIME USER</b></p>
-      <p>* The e-Complaint for corrupt conduct will require 5 – 10 minutes to complete.</p>
-      <p>* Your e-Complaint for corrupt conduct will be processed within 10 working days.</p>
-      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/step2">PROCEED</a>
-    </td>
-  </tr>
+The e-Complaint will require 5-10 minutes to complete. Once submitted, your e-Complaint will be processed within 10 working days.
 
-  <tr>
-    <td><p><b>EXISTING USER</b></p>
-      <p>* View summary of corruption complaints submitted previously.</p>
-      <p>* Add more details to your e-Complaint.</p>
-      <p>* Lodge another e-Complaint.</p>
-      <a class="button_special" href="https://services.cpib.gov.sg/e-complaint/login">LOGIN</a>
-    </td>
-  </tr>
-
-</table>
-
+<a class="button_special" href="https://form.gov.sg/#!/5fcdfa1f8bdc8100119015e9">REPORT</a>
 
 #### **CONFIDENTIALITY OF YOUR IDENTITY**
 
