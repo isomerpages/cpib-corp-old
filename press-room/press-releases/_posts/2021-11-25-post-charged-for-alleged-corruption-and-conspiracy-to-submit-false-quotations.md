@@ -6,10 +6,13 @@ layout: post
 ---
 On 25 November 2021, four individuals will be charged in Court for alleged offences under the Prevention of Corruption Act. They are:
 
-**a)	Kaw Kok Hong (“Kaw”, 邱国洪, 52-year-old male Malaysian), Facilities Manager of Heptagon Micro Optics Pte Ltd (“Heptagon”) at the material time;
-b)	Lim Chor Ghee (“Lim”, 林祖義, 50-year-old male Malaysian), Director of Springleaf Engineering Pte Ltd (“Springleaf Engineering”) at the material time;
-c)	Peh Chin Wee (“Peh”, 白进韦, 44-year-old male Singaporean), Project Manager of Springleaf Engineering at the material time; and
-d)	Koh Seng Poh (“Koh”, 高成宝, 47-year-old male Singaporean), Director of DK Square Pte Ltd (“DK Square”) at the material time**
+**a)	Kaw Kok Hong (“Kaw”, 邱国洪, 52-year-old male Malaysian), Facilities Manager of Heptagon Micro Optics Pte Ltd (“Heptagon”) at the material time;**
+
+**b)	Lim Chor Ghee (“Lim”, 林祖義, 50-year-old male Malaysian), Director of Springleaf Engineering Pte Ltd (“Springleaf Engineering”) at the material time;**
+
+**c)	Peh Chin Wee (“Peh”, 白进韦, 44-year-old male Singaporean), Project Manager of Springleaf Engineering at the material time; and**
+
+**d)	Koh Seng Poh (“Koh”, 高成宝, 47-year-old male Singaporean), Director of DK Square Pte Ltd (“DK Square”) at the material time**
 
 2\. Sometime in December 2016, Kaw allegedly obtained gratification totalling S$130,000 over two occasions from Lim, as an inducement to further the business interest of Springleaf Engineering with Heptagon. For their alleged actions, Kaw and Lim will each face two charges for offences punishable under Section 6(a) and Section 6(b) of the Prevention of Corruption Act respectively.
 
