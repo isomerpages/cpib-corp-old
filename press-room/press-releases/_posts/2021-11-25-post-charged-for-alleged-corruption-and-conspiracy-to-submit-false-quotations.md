@@ -24,7 +24,7 @@ On 25 November 2021, four individuals will be charged in Court for alleged offen
 
 Reference Links:
 * PACT: [https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses](https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses)
-* SS ISO 37001: https://www.cpib.gov.sg/research-room/publications/ss-iso-37001
+* SS ISO 37001: [https://www.cpib.gov.sg/research-room/publications/ss-iso-37001](https://www.cpib.gov.sg/research-room/publications/ss-iso-37001)
 
 
 **CORRUPT PRACTICES INVESTIGATION BUREAU**
