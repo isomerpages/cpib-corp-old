@@ -26,8 +26,6 @@ collections:
     output: true
   research-room:
     output: true
-  resources:
-    output: true
   careers:
     output: true
   e-services:
