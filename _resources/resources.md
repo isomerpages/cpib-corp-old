@@ -1,7 +1,6 @@
 ---
 title: Resources
 permalink: /resources/resources/
-third_nav_title: Prevention & Education
 ---
 
 <style>
