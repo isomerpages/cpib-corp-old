@@ -15,8 +15,6 @@ links:
     collection: research-room
   - title: Press Room
     resource_room: true
-  - title: Resources
-    url: /about-corruption/prevention-and-education/resources/
   - title: Careers
     collection: careers
   - title: e-Services
