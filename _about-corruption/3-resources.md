@@ -1,4 +1,6 @@
 ---
-title: "Resources"
-url: /about-corruption/prevention-and-education/resources/
+title: Resources
+permalink: /about-corruption/prevention-and-education/resources/
 ---
+
+test
