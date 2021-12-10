@@ -4,12 +4,11 @@ date: 2021-09-14
 permalink: /press-room/press-releases/140921-twelve-charged
 layout: post
 ---
-
 On 14 September 2021, twelve individuals were charged in Court for various offences. The scheme was allegedly hatched by the following five individuals to cheat Civil Tech Pte Ltd (“CTPL”) of about S$9.7 million. Four of these individuals were CTPL employees at the material time.
 
 a) **Gan Kok Leong (“Gan”)** (颜国量, 43-year-old male Malaysian), a Project Director of Civil Tech Pte Ltd (“CTPL”) at the material time;
 
-b) **Ong Kok Peng (“Ong”) **(温国平, 41-year-old male Singapore Citizen), a Project Director of Civil Tech Pte Ltd (“CTPL”) at the material time;
+b) **Ong Kok Peng (“Ong”)**(温国平, 41-year-old male Singapore Citizen), a Project Director of Civil Tech Pte Ltd (“CTPL”) at the material time;
 
 c) **Tan Chen Chuan (“Tan”)** (陈振泉, 39-year-old male Singapore Citizen), a Group Finance Manager of Civil Tech Pte Ltd (“CTPL”) at the material time;
 
