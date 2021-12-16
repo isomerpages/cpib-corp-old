@@ -12,7 +12,7 @@ The CPIB takes a serious view of any corrupt practices in Singapore and will not
 
   <tr>
     <td><p><img src="/images/icon_come-down.jpg" alt="come down personally"></p></td>
-    <td><p>Come down personally or write to us at 2 Lengkok Bahru, S159047 or 247 Whitley Road, S297830</p></td>
+    <td><p>Come down personally or write to us at 2 Lengkok Bahru, S159047</p></td>
   </tr>
 
   <tr>
