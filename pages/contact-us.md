@@ -10,7 +10,7 @@ locations:
         - Singapore 159047 
     operating_hours:
       - days: Mondays - Thursdays
-        time: 8.30am - 6.00pm
+        time: 8.30am to 6.00pm
       - days: Fridays
         time: 8.30am to 5.30pm
         description: Closed on weekends and public holidays
@@ -20,7 +20,7 @@ locations:
         - Singapore 297830 
     operating_hours:
       - days: Mondays - Saturdays
-        description: Closed until futher notice
+        description: Closed until further notice
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS<br><br>
