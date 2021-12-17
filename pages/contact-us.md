@@ -19,7 +19,7 @@ locations:
         - 247 Whitley Road
         - Singapore 297830 
     operating_hours:
-      - description: Closed until further notice
+      - other: Closed until further notice
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS<br><br>
