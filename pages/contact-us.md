@@ -19,18 +19,15 @@ locations:
         - 247 Whitley Road
         - Singapore 297830 
     operating_hours:
-      - days: Mondays - Fridays
-        time: 10.00am - 7.00pm
-      - days: Saturdays
-        time: 10.00am - 4.00pm
-        description: Closed on Sundays and public holidays
+      - days: Mondays - Saturdays
+        description: Closed until futher notice
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS<br><br>
     content:
     - other: For corruption complaints, you may report through<br><br>
     - other: <b>1. VISIT US</b><br>We are located at 2 Lengkok Bahru, Singapore 159047 and 247 Whitley Road, Singapore 297830<br><br>
-    - other: <b>2. CALL OUR DUTY OFFICER</b><br>Local &nbsp 1800 - 376 0000<br>Overseas &nbsp (+65) 6376 0000<br><br><i>If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.</i><br><br>
+    - other: <b>2. CALL OUR DUTY OFFICER</b><br>Local &nbsp 1800-376-0000<br>Overseas &nbsp (+65) 6376-0000<br><br><i>If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.</i><br><br>
     - other: <b>3. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
     - other: <b>4. EMAIL US</b><br>
     - email: report@cpib.gov.sg<br><br>
@@ -38,14 +35,14 @@ contacts:
   - title: GENERAL ENQUIRIES<br><br>
     content:
     - other: For non-corruption matters, you may contact us at<br><br>
-    - other: <b>Hotline</b> &nbsp 6270 0141<br><br>
+    - other: <b>Hotline</b> &nbsp 6270-0141<br><br>
     - other: <b>Email</b>
     - email: info@cpib.gov.sg<br><br>
-    - other: <b>Fax No.</b> &nbsp 6270 0320<br>
+    - other: <b>Fax No.</b> &nbsp 6270-0320<br>
   - title: QUALITY SERVICE MANAGER<br><br>
     content:
     - other: For service related matters, you may contact us at<br><br>
-    - other: <b>Hotline</b> &nbsp 1800 270 0855<br><br>
+    - other: <b>Hotline</b> &nbsp 1800-270-0855<br><br>
     - other: <b>Email</b>
     - email: QSM@cpib.gov.sg<br><br>
 ---
