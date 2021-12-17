@@ -20,7 +20,7 @@ locations:
         - Singapore 297830 
     operating_hours:
       - days: Mondays - Saturdays
-        time: Closed until futher notice
+        description: Closed until futher notice
         maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS<br><br>
