@@ -40,7 +40,7 @@ More details can be found under the <a href="https://sso.agc.gov.sg/Act/PCA1960?
 
 #### **<font color="#E63F30">WARNING:</font>**
 
-It is an offence under the Prevention of Corruption Act (Chapter 241), to knowingly give or cause to be given any false or misleading information to the CPIB. The punishment is an imprisonment of up to 12 months or a maximum fine of $10,000, or both.
+It is an offence under the Prevention of Corruption Act 1960, to knowingly give or cause to be given any false or misleading information to the CPIB. The punishment is an imprisonment of up to 12 months or a maximum fine of $10,000, or both.
 
 
 <p style="font-size:15px">* If users encounter any errors with the e-Service, please email info@cpib.gov.sg with information on the issue.</p>
