@@ -37,7 +37,7 @@ The CPIB takes a serious view of any corrupt practices in Singapore and will not
 
 </table>
 
-For complaints **not** related to corruption, you may wish to refer to <a href="/files/public_agencies_cases.pdf" target="_blank">this list</a> of functions handled by other government agencies which may be able to assist with your queries.
+For complaints **not** related to corruption, you may wish to refer to <a href="/files/Cases%20under%20Public%20Agencies%20(CPIB).pdf" target="_blank">this list</a> of functions handled by other government agencies which may be able to assist with your queries.
 
 
 
