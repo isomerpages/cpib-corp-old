@@ -61,7 +61,7 @@ input:checked + label + .accordion-content {
 
 	<input type="checkbox" id="title2"  /><label for="title2">I noticed that the CPIB also investigate non-corruption offences? Why is that so?</label>
 	<div class="accordion-content">
-    <p>Under the Prevention of Corruption Act, Chapter 241, the CPIB is empowered to investigate non-corruption related seizable offences which are disclosed in the course of investigating corruption offences.</p>
+    <p>Under the Prevention of Corruption Act 1960, the CPIB is empowered to investigate non-corruption related seizable offences which are disclosed in the course of investigating corruption offences.</p>
 	</div>
 
 	<input type="checkbox" id="title3"  /><label for="title3">What is a seizable offence?</label>
