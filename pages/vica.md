@@ -36,6 +36,8 @@ app-recommendations-hover-color="#98b5eb"
 
 
 app-environment-override="draft"
+
+app-font-family= "Arial", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"
 >
 </div>
 
