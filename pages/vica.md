@@ -10,6 +10,12 @@ permalink: /vica/
       href="https://webchat.vica.gov.sg/static/css/chat.css"
       rel="stylesheet"
     />
+    <style type="text/css">
+  
+    #webchat 
+    line-height: normal;
+  
+    </style>
     <title>Ask Kopi Lim</title>
   </head>
  
@@ -36,6 +42,7 @@ app-recommendations-hover-color="#98b5eb"
 
 
 app-environment-override="draft"
+app-font-family= "Arial", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"
 >
 </div>
 
