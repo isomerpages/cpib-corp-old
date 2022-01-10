@@ -10,12 +10,6 @@ permalink: /vica/
       href="https://webchat.vica.gov.sg/static/css/chat.css"
       rel="stylesheet"
     />
-    <style type="text/css">
-  
-    #webchat 
-    line-height: normal;
-  
-    </style>
     <title>Ask Kopi Lim</title>
   </head>
  
