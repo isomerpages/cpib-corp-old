@@ -18,7 +18,7 @@ line-height: normal;
 </style>
   </head>
  
-  <body> 456
+  <body> 123
 
 <div id="webchat" 
 app-id="cpib-ask-cpib" 
@@ -35,7 +35,7 @@ app-auto-complete-hover-color="#98b5eb"
 app-enable-recommendations="true" 
 app-recommendations-background-color="#DFE8F9" 
 app-recommendations-hover-color="#98b5eb" 
-app-font-family= "Arial", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"
+app-font-family= "Arial"
 app-environment-override="draft"
      
 ></div>
