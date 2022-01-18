@@ -18,7 +18,7 @@ line-height: normal;
 </style>
   </head>
  
-  <body> 123
+  <body>
 
 <div id="webchat" 
 app-id="cpib-ask-cpib" 
