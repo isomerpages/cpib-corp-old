@@ -18,7 +18,7 @@ line-height: normal;
 </style>
   </head>
  
-  <body> 678
+  <body> 987
 
 <div id="webchat" 
 app-id="cpib-ask-cpib" 
@@ -35,7 +35,7 @@ app-auto-complete-hover-color="#98b5eb"
 app-enable-recommendations="true" 
 app-recommendations-background-color="#DFE8F9" 
 app-recommendations-hover-color="#98b5eb" 
-app-font-family= "Arial", "Segoe UI"
+app-font-family= "Arial"; "Segoe UI"
 app-environment-override="draft"
      
 ></div>
