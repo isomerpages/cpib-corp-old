@@ -35,7 +35,7 @@ app-auto-complete-hover-color="#98b5eb"
 app-enable-recommendations="true" 
 app-recommendations-background-color="#DFE8F9" 
 app-recommendations-hover-color="#98b5eb" 
-app-font-family= "Arial"; "Segoe UI"
+app-font-family= "Lato"
 app-environment-override="draft"
      
 ></div>
