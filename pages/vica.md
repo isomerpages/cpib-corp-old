@@ -18,7 +18,7 @@ line-height: normal;
 </style>
   </head>
  
-  <body> 12345
+  <body> 456
 
 <div id="webchat" 
 app-id="cpib-ask-cpib" 
@@ -35,8 +35,9 @@ app-auto-complete-hover-color="#98b5eb"
 app-enable-recommendations="true" 
 app-recommendations-background-color="#DFE8F9" 
 app-recommendations-hover-color="#98b5eb" 
+app-font-family= "Arial", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "sans-serif"
 app-environment-override="draft"
- 
+     
 ></div>
 
 <script type="text/javascript" src="https://webchat.vica.gov.sg/static/js/chat.js">
