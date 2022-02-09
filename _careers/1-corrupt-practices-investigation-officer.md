@@ -14,7 +14,7 @@ The CPIB will provide you with the opportunity to realise your potential. Apart 
 
 ### **Starting Salaries**
 
-$4,100 - $4,943 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
+$4,340 - $5,193 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
 
 
 ### **Basic Training And Bond**
