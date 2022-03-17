@@ -15,4 +15,4 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 * If users encounter any errors with the e-Service, please email <a href = "mailto: info@cpib.gov.sg">info@cpib.gov.sg</a> with information on the issue.
 </p>
 
-<a class="button_special" href="https://services.cpib.gov.sg/e-application-bail-bond/check_singpass">PROCEED</a>
+<a class="button_special" href="https://bail.cpib.gov.sg">PROCEED</a>
