@@ -7,7 +7,7 @@ permalink: /vica/
     <meta charset="utf-8" />
     <meta name="theme-color" content="#000000" />
     <link
-      href="https://webchat.vica.gov.sg/static/css/chat.css"
+      href="https://webchat.vica.gov.sg/static/css/chat.css" referrerpolicy="origin"
       rel="stylesheet"
     />
 <style type="text/css">
@@ -39,8 +39,9 @@ app-environment-override="draft"
      
 ></div>
 
-<script type="text/javascript" src="https://webchat.vica.gov.sg/static/js/chat.js">
+<script type="text/javascript" src="https://webchat.vica.gov.sg/static/js/chat.js" referrerpolicy="origin">
 </script>
-
+  
   </body>
+  
   
