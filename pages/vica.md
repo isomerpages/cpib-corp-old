@@ -35,12 +35,13 @@ app-auto-complete-background-color="#DFE8F9"
 app-auto-complete-divider-color="#00205b" 
 app-auto-complete-hover-color="#98b5eb" 
 app-font-family= "Lato"
+app-environment-override="draft"
      
 ></div>
 
 <script type="text/javascript" src="https://webchat.vica.gov.sg/static/js/chat.js" referrerpolicy="origin">
 </script>
-
+1
   </body>
   
   
