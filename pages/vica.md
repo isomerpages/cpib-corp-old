@@ -20,7 +20,7 @@ line-height: initial;
 </style>
   </head>
  
-  <body>2
+  <body>
 
 <div id="webchat" 
 app-id="cpib-ask-cpib" 
