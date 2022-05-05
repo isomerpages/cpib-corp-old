@@ -73,8 +73,8 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 	
 
 	
-|**Case 1 -  Taking firm action against alleged attempted bribery of a nurse in charge of administering COVID-19 vaccination**| 
-| -------- |
+**Case 1 -  Taking firm action against alleged attempted bribery of a nurse in charge of administering COVID-19 vaccination** 
+
 On 13 January 2022, Singaporean Tan Li Ming Kelvin (Kelvin) was charged in Court for allegedly attempting to bribe a vaccination nurse at Healthway Medical Group located within the Choa Chu Kang Community Club. It was alleged that on 26 October 2021, Kelvin offered the nurse a bribe of S$50 and asked her to reflect in the system that he had received his second dose when it was not administered. The nurse rejected his offer and reported the matter to the Duty Health Services Manager. Although the bribe amount in this case was small, Kelvin’s action can undermine the Government’s efforts against COVID-19. Kelvin’s case is currently before the Courts.
 
 <br>
@@ -85,24 +85,24 @@ On 13 January 2022, Singaporean Tan Li Ming Kelvin (Kelvin) was charged in Court
 	
 <br>
 	
-|**Case 2 – Safeguarding the integrity of the Public Service**|
-| -------- | 
+**Case 2 – Safeguarding the integrity of the Public Service**
+ 
 On 16 November 2021 and 14 February 2022, Jamaludin Bin Mohamed and Ganisan s/o Suppiah were sentenced to imprisonment for corruption and falsification of accounts offences. Jamaludin, a former Assistant Engineer of the Public Utilities Board (PUB), was sentenced to nine months’ and ten weeks’ imprisonment<sup>4</sup> and ordered to pay a penalty of S$45,169, while Ganisan, a Project Manager of Pipe Works Pte Ltd, was sentenced to seven months’ and two weeks’ imprisonment. <br><br>Through skilful interviews and meticulous review of documents by CPIB investigators, it was revealed that between 2017 and 2018, Jamaludin had obtained bribes totalling S$45,169 on multiple occasions from Ganisan in return for facilitating and expediting works performed by Pipe Works and supervised by Jamaludin. This included Jamaludin hastening the approval process when Pipe Works submitted applications to PUB, and telling the main contractor to give Pipe Works priority in laying pipes. Jamaludin also attempted to obtain a bribe of S$500,000 from another company which submitted a bid for a PUB tender in 2019, in return for purportedly assisting the said company to win that tender. <br><br>Further investigations by CPIB revealed that Jamaludin prepared false invoices from a company, Daeyul Services, which he had set up to receive monies from Ganisan. On 23 November 2017, an invoice from Daeyul for a sum of S$39,810 was billed to Pipe Works for cleaning services even though no such service was rendered.<br><br>
 
 12\.       To complement the interview and interrogation tradecraft of our investigation officers, CPIB has intensified efforts to enhance our investigative support capabilities in areas such as digital forensics.
 
 <br>	
 	
-|**Case 3 – Application of digital forensics to thwart cheating and corruption scheme involving NUS laboratory executive**|
-| -------- | 
-	On 31 March 2022, Liaw Jinle and Tan Wei Jie Sandy were convicted of cheating and corruption offences. Liaw, a laboratory executive at the National University of Singapore’s (NUS) Centre of Advanced 2D Materials, was sentenced to 20 months’ and two weeks’ imprisonment while Tan, a sole proprietor, had his sentencing adjourned so as to make restitutions to NUS. Investigations by CPIB revealed that in 2019, Liaw agreed to help Tan obtain procurement contracts at NUS. As Liaw had loaned money from Tan, Tan hinted that the profits from these contracts could go towards repaying the loan. Under this arrangement, Liaw assisted Tan in obtaining 31 contracts from NUS, amounting to S$136,772.52 between March and December 2019. Digital forensics conducted by CPIB on Liaw’s digital devices uncovered incriminating evidence pointing to the arrangement between Liaw and Tan. Confronted with this evidence, Liaw and Tan admitted to their offences.
+**Case 3 – Application of digital forensics to thwart cheating and corruption scheme involving NUS laboratory executive**
+ 
+On 31 March 2022, Liaw Jinle and Tan Wei Jie Sandy were convicted of cheating and corruption offences. Liaw, a laboratory executive at the National University of Singapore’s (NUS) Centre of Advanced 2D Materials, was sentenced to 20 months’ and two weeks’ imprisonment while Tan, a sole proprietor, had his sentencing adjourned so as to make restitutions to NUS. Investigations by CPIB revealed that in 2019, Liaw agreed to help Tan obtain procurement contracts at NUS. As Liaw had loaned money from Tan, Tan hinted that the profits from these contracts could go towards repaying the loan. Under this arrangement, Liaw assisted Tan in obtaining 31 contracts from NUS, amounting to S$136,772.52 between March and December 2019. Digital forensics conducted by CPIB on Liaw’s digital devices uncovered incriminating evidence pointing to the arrangement between Liaw and Tan. Confronted with this evidence, Liaw and Tan admitted to their offences.
 
 13\.       From time to time, CPIB’s investigations may surface new corruption risks. CPIB would respond by developing targeted prevention initiatives to take the fight against corruption upstream.
 
 <br>	
 	
-|**Case 4 – Importance of inculcating right values in youths: Investigation against former employees of footwear retailers and sneaker resellers**
-| -------- |
+**Case 4 – Importance of inculcating right values in youths: Investigation against former employees of footwear retailers and sneaker resellers**
+
 CPIB received an anonymous complaint alleging that Foot Locker employees might have provided confidential information on new releases to individuals in return for benefits. Investigations revealed that sneaker reseller Meng Fanxuan had given bribes amounting to S$5,681 to Xavier Goh, an assistant store manager at Foot Locker Jewel, in return for providing confidential information on Foot Locker’s sneaker launches in 2020. Investigations also revealed the involvement of sneaker retailer AW Lab’s former sales associate, Muhammad Faiz Bin Amy Jasman. Faiz received bribes amounting to S$5,295 in return for his assistance to reserve popular sneakers for Fanxuan ahead of AW Lab’s official launch in 2020.  <br><br>On 21 October 2021, Xavier, Fanxuan and Faiz were charged in Court for corruption offences involving limited-edition sneakers. Fanxuan and Faiz were fined S$20,000 and S$10,000 in December 2021 and March 2022 respectively, while Xavier’s case is still before the Courts. <br><br>This case, which mainly involved young Singaporeans, highlighted that corruption is a scourge which even our  youths can succumb to. In recent years, CPIB has engaged young Singaporeans in our prevention and outreach efforts to reinforce the values of integrity and incorruptibility as well as to emphasise the pitfalls of corruption.
 
 <br>	
