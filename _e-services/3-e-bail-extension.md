@@ -3,6 +3,18 @@ title: e-Application for Extension of Bail Bond
 permalink: /e-services/e-bail-extension/
 ---
 
+<head>
+<style>
+table, th, td {
+  border: 1px solid white;
+  border-collapse: collapse;
+}
+th, td {
+  background-color: #96D4D4;
+}
+</style>
+</head>
+
 
 ### **BAIL BOND EXTENSION**
 
@@ -16,3 +28,15 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 </p>
 
 <a class="button_special" href="https://bail.cpib.gov.sg">PROCEED</a>
+
+<table style="width:100%">
+  <tr>
+    <td>Jill</td>
+  </tr>
+  <tr>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>80</td>
+  </tr>
+</table>
