@@ -28,7 +28,7 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 * If users encounter any errors with the e-Service, please email <a href = "mailto: info@cpib.gov.sg">info@cpib.gov.sg</a> with information on the issue.
 </p>
 
-<table style="width:100%" cellspacing="0>
+<table style="width:100%">
   <tr>
     <th><U>Maintenance Notice</U></th>
   </tr>
