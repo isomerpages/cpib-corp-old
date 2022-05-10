@@ -6,11 +6,11 @@ permalink: /e-services/e-bail-extension/
 <head>
 <style>
 table, th, td {
-  border: 1px solid white;
+  border: 0px solid white;
   border-collapse: collapse;
 }
 th, td {
-  background-color: #96D4D4;
+  background-color: #FDBAFD;
 }
 </style>
 </head>
