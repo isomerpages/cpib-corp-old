@@ -27,5 +27,11 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 * If users encounter any errors with the e-Service, please email <a href = "mailto: info@cpib.gov.sg">info@cpib.gov.sg</a> with information on the issue.
 </p>
 
-<a class="button_special" href="https://bail.cpib.gov.sg">PROCEED</a>
-
+<table style="width:100%">
+  <tr>
+    <th>Bail bond extension will be undergoing scheduled maintenance on 10 May 2022 from 9:00 PM to 11:59 PM, and will not be available during this period.</th>
+  </tr>
+  <tr>
+    <td><a class="button_special" href="https://bail.cpib.gov.sg">PROCEED</a></td>
+  </tr>
+ </table>
