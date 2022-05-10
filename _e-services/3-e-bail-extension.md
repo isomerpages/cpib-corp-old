@@ -8,6 +8,7 @@ permalink: /e-services/e-bail-extension/
 table, th, td {
   border: 1px solid #FDBAFD;
   border-collapse: collapse;
+  border-radius: 5px;
 }
 th, td {
   background-color: #FDBAFD;
