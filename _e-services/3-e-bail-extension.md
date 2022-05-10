@@ -6,7 +6,6 @@ permalink: /e-services/e-bail-extension/
 <head>
 <style>
 table, th, td {
-  border: 0px #FDBAFD;
   border-collapse: collapse;
 }
 th, td {
