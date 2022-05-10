@@ -31,12 +31,9 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 
 <table style="width:100%">
   <tr>
-    <td>Jill</td>
+    <th>e-Bail extension might not be available on 10 May 2022 from 2100hrs to 2359hrs</td>
   </tr>
   <tr>
     <td>94</td>
   </tr>
-  <tr>
-    <td>80</td>
-  </tr>
-</table>
+ </table>
