@@ -29,11 +29,3 @@ Please expect a minimum of 2 working days for CPIB to process an application. A 
 
 <a class="button_special" href="https://bail.cpib.gov.sg">PROCEED</a>
 
-<table style="width:100%">
-  <tr>
-    <th>e-Bail extension might not be available on 10 May 2022 from 2100hrs to 2359hrs</td>
-  </tr>
-  <tr>
-    <td>94</td>
-  </tr>
- </table>
