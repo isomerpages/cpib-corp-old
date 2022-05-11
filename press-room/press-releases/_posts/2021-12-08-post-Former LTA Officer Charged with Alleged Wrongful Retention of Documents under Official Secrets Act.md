@@ -7,7 +7,7 @@ layout: post
 description: ""
 ---
 On 7 December 2021, **Tan Yong Liang, Benny** (“Benny”) (陳勇良, 34-year-old male
-Singaporean) will be charged in Court for an offence under the Official Secrets Act (Cap 213).
+Singaporean) was charged in Court for an offence under the Official Secrets Act (Cap 213).
 At the material time, Benny was an Assistant Environmental Manager of the Land Transport
 Authority (“LTA”).
 
