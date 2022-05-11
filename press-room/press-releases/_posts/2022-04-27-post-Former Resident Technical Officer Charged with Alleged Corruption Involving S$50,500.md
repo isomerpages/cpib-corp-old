@@ -6,7 +6,6 @@ date: 2022-04-27
 layout: post
 description: ""
 ---
-
 On 27 April 2022, **Seow Koon Thong (“Seow”)** ( 邵坤通 ,59-year-old male
 Singaporean), was charged in Court for alleged corruption offences. At the material time,
 Seow was a Resident Technical Officer of Surbana Site Supervisors Pte Ltd (“SSS”).
