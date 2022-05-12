@@ -5,7 +5,7 @@ date: 2021-11-10
 permalink: /press-room/press-releases/101121-threecharged
 layout: post
 ---
-On 10 November 2021, three individuals will be charged in Court for various offences
+On 10 November 2021, three individuals were charged in Court for various offences
 in an alleged scheme relating to air travel tickets. They are:
 
 a) **See Chun Keat (“See”)** (施俊杰, 38-year-old male, Singaporean), assistant system
