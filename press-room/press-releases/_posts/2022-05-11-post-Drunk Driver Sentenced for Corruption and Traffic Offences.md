@@ -6,7 +6,7 @@ layout: post
 description: ""
 ---
 On 11 May 2022, **Krishna Rao A/L Narisama Naidoo (“Krishna”)** (34-year-old
-male Malaysian), was sentenced to 4 weeks’ imprisonment and a fine of S$5,000 for offering
+male Malaysian), was sentenced to 4 weeks’ imprisonment, a fine of S$5,000 and disqualified from holding or obtaining all classes of driving licences for a period of 30 months for offering
 a bribe to a Traffic Police Officer and various traffic offences.
  
 2\. Investigations revealed that on 21 November 2021, at around Pioneer Road, Senior
