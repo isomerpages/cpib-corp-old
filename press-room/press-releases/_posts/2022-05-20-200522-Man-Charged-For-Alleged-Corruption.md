@@ -3,7 +3,7 @@ layout: post
 title: "Man Charged For Alleged Corruption"
 permalink: "/press-room/press-releases/200522-Man-Charged"
 ---
-On 20 May 2022, Kong Lingjian (“Kong”) (38-year-old male Chinese National) will be charged in Court for alleged corruption.
+On 20 May 2022, Kong Lingjian (“Kong”) (38-year-old male Chinese National) was charged in Court for alleged corruption.
 
 2\. On 26 March 2022, at around Old Choa Chu Kang Road, Kong allegedly offered gratification of an unspecified sum to Paneer Selvam s/o Raja Anthiran (“Paneer”), an Operations Executive with Sungei Tengah Lodge (“STL”), as an inducement to allow Kong to leave the area near the STL before officers from the Singapore Police Force arrived. Paneer rejected the bribe offer, and the case was subsequently referred to the Corrupt Practices Investigation Bureau (CPIB). For his action, Kong faces a charge for an offence punishable under Section 6(b) of the Prevention of Corruption Act.
 
