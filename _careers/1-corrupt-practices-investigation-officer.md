@@ -21,4 +21,4 @@ $4,340 - $5,193 (indicative salary range for degree holders; successful candidat
 
 Upon appointment, you will need to undergo a 4-month basic training course on the fundamentals of the criminal laws, basic investigative skills, and firearms handling.  You are required to fulfil a 2-year bond after the training.
 
-The next recruitment exercise for CPIO will be opened from 25 Apr to 8 May 2022 (applications to be submitted by 2350 hrs on [Careers@Gov](https://www.careers.gov.sg/). All interested applicants are encouraged to look out for the job opportunity on the Careers@Gov website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
+There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
