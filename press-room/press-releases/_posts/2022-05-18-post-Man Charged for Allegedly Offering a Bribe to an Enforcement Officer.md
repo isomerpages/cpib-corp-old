@@ -7,7 +7,7 @@ description: ""
 ---
 On 18 May 2022, Khan Mohammad Alamin (“Khan”) (40-year-old male Bangladeshi), was charged in Court for alleged corruption.
 
-2\. It is alleged that, on 3 February 2022, at around Choa Chu Kang Central, Khan offered a bribe of S$100 to Muhammad Raffli Bin Holip (“Muhammad”), an Enforcement Officer of Certis CISCO Security Pte Ltd., as an inducement for refraining to issue a Notice to attend Court. No bribe offer was accepted by Muhammad and the case was subsequently referred to the Corrupt Practices Investigation Bureau (CPIB). For his action, Khan faces one charge punishable under Section 6(b) of the _Prevention of Corruption Act_. 
+2\. It was alleged that, on 3 February 2022, at around Choa Chu Kang Central, Khan offered a bribe of S$100 to Muhammad Raffli Bin Holip (“Muhammad”), an Enforcement Officer of Certis CISCO Security Pte Ltd., as an inducement for refraining to issue a Notice to attend Court. No bribe offer was accepted by Muhammad and the case was subsequently referred to the Corrupt Practices Investigation Bureau (CPIB). For his action, Khan faces one charge punishable under Section 6(b) of the _Prevention of Corruption Act_. 
 
 3\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to imprisonment of up to five years or both.
 
