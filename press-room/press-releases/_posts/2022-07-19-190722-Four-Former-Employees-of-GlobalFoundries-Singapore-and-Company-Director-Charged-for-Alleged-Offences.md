@@ -34,7 +34,7 @@ i. Between 2017 and 2020, Xia allegedly accepted a branded bag worth about S$1,8
 
 Reference Links:
 
-* PACT: <a href="https://www.cpib.gov.sg/pact">https://www.cpib.gov.sg/pact</a><br />
-* SS ISO 37001: <a href="https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001">https://www.cpib.gov.sg/about-corruption/prevention-education/resources/ss-iso-37001</a>
+* [PACT: A Practical Anti-Corruption Guide for Businesses in Singapore](/research-room/publications/anti-corruption-guide-for-businesses/)<br>
+* [SS ISO 37001](/research-room/publications/ss-iso-37001/)
 
 **Corrupt Practices Investigation Bureau**
