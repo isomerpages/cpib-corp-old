@@ -5,7 +5,7 @@ permalink: /e-services/e-booking-for-learning-journey
 
 <img src="/images/book_learning-journey.jpg" alt="Learning Journey">
 
-### **LEARNING JOURNEY @ CPIB**
+### **LEARNING JOURNEY**
 
 The **Learning Journeys** for students create awareness about the ills and consequences of corruption, and how these can impact us.
 
@@ -20,7 +20,6 @@ The 1-1.5 hour Learning Journey comprises:
 * A presentation
 * An activity
 * A dialogue
-* A tour of CPIB’s Heritage Gallery
 
 <p style="font-size:15px">
 * Programme is subjected to change.<br>
