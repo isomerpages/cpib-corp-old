@@ -24,6 +24,14 @@ sections:
         subtitle: 
         button: VIEW ALL
     - infopic:
+        title: Corruzione Web Game
+        subtitle: Resources
+        description: Corruzione is a Web Game that leverages on gamification to educate on the far-reaching consequences of corruption in a fun and interactive way.
+        button: LEARN MORE
+        url: /resources/corruzione-web-game/
+        image: /images/img_corruzione.png
+        alt: Corruzione Web Game
+    - infopic:
         title: The Corruption Casebook – Stories From Under The Table
         subtitle: Resources
         description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "<B>The Corruption Casebook - Stories From Under The Table</b>" featuring stories on past cases of corruption.
