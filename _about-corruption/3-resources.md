@@ -102,6 +102,14 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <main id="resources-container">
 <section class="cards">
     <div class="card">
+        <a href="/resources/corruzione-web-game/">
+                <img src="/images/corruzione_small.png">
+            <div class="card-content">
+                <h6>Corruzione Web Game</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
+    <div class="card">
         <a href="/resources/virtual-heritage-gallery/">
                 <img src="/images/resource_vhg.png">
             <div class="card-content">
