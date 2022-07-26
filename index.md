@@ -29,7 +29,7 @@ sections:
         description: Corruzione is a Web Game that leverages on gamification to educate on the far-reaching consequences of corruption in a fun and interactive way.
         button: LEARN MORE
         url: /resources/corruzione-web-game/
-        image: /images/corruzione_small.png
+        image: /images/img_corruzione.png
         alt: Corruzione Web Game
     - infopic:
         title: The Corruption Casebook – Stories From Under The Table
