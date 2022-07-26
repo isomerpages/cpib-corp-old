@@ -2,7 +2,7 @@
 title: Corruzione Web Game
 ---
 
-<img src="/images/Corruzione.PNG" alt="Corruzione Web Game">
+<img src="/images/Corruzione.png" alt="Corruzione Web Game">
 
 Corruzione is a Web Game that leverages on gamification to educate on the far-reaching consequences of corruption in a fun and interactive way. Through a restaurant simulation setting, players will have to face challenges and make decisions which emphasise the importance of honesty and integrity. Corruzione was co-created with students from Nanyang Polytechnic’s School of Design and Media.
 
