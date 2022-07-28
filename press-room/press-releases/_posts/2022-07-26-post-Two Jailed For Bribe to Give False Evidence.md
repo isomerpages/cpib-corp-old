@@ -17,11 +17,17 @@ On 26 July 2022, **Muraleindren s/o Thoondy (“Murale”)** was sentenced to si
 
 6\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to imprisonment of up to five years or to both.
 
-7\. Companies are strongly advised to put in place robust procedures in areas such as procurement and internal audit to prevent falling victim to corrupt acts by their employees. Guidance for companies on measures to prevent corruption can be found in PACT: A Practical Anti-Corruption Guide for Businesses in Singapore, which is available on CPIB’s website. Companies are also strongly encouraged to obtain certification under the Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems, which is designed to help companies implement or enhance an anti-bribery management system to reduce corporate risk and costs related to bribery.
+7\. CPIB looks into all corruption-related complaints and reports, **including anonymous ones**, and can be reached via the following channels:
 
-Reference Links:
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
+b) Email us at <a href="mailto:report@cpib.gov.sg" class="spamspan">report@cpib.gov.sg</a>;<br>
+c) Call the Duty Officer at 1800-376-0000; or<br>
+d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
-* [PACT: A Practical Anti-Corruption Guide for Businesses in Singapore](/research-room/publications/anti-corruption-guide-for-businesses/)<br>
-* [SS ISO 37001](/research-room/publications/ss-iso-37001/)
+8\.	Where possible, the report should include the following information:
 
-**Corrupt Practices Investigation Bureau**
+a) Where, when and how the alleged corrupt act happened?<br>
+b) Who was involved and what were their roles?<br>
+c) What was the bribe given and the favour shown?
+
+**CORRUPT PRACTICES INVESTIGATION BUREAU**
