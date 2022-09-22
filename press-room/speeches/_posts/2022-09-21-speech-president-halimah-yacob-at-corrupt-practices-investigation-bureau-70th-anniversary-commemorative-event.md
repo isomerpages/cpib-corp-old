@@ -3,7 +3,7 @@ layout: post
 title: "Speech by President Halimah Yacob at Corrupt Practices Investigation Bureau's 70th Anniversary Commemorative Event"
 permalink: "/press-room/speeches/speech-president-halimah-yacob-at-corrupt-practices-investigation-bureau-70th-anniversary-commemorative-event"
 ---
-<p>Mr Lee Hsien Loong, Prime Minister<br />Mr Goh Chok Tong, Emeritus Senior Minister<br />Mr Denis Tang, Director CPIB<br />Distinguished Guests from the Anti-Corruption Bureau of Brunei Darussalam, the Hong Kong Independent Commission Against Corruption, the Corruption Eradication Commission of Indonesia, and the Malaysian Anti-Corruption Commission<br />Ladies and Gentlemen
+<p>Mr Lee Hsien Loong, Prime Minister<br />Mr Goh Chok Tong, Emeritus Senior Minister<br />Mr Denis Tang, Director CPIB<br />Distinguished Guests from the Anti-Corruption Bureau of Brunei Darussalam, the Hong Kong Independent Commission Against Corruption, the Corruption Eradication Commission of Indonesia, and the Malaysian Anti-Corruption Commission<br />Ladies and Gentlemen<p/>
 
 A very good evening. It is my pleasure to join all of you today to commemorate Corrupt Practices Investigation Bureau (CPIB)’s 70th Anniversary.
 
