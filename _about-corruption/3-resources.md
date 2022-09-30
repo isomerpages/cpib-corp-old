@@ -114,9 +114,9 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <!--                <img src="/images/resource_vhg.png">   -->
 <!--            <div class="card-content">   -->
 <!--                <h6>CPIB Virtual Heritage Gallery</h6>   -->
-<!--            </div><!-- .card-content -->   -->
+<!--            </div><!-- .card-content -->
 <!--        </a>   -->
-<!--    </div><!-- .card --> -->
+<!--    </div><!-- .card -->
     <div class="card">
         <a href="/resources/corruption-casebook">
                 <img src="/images/resource_bft.jpg">
