@@ -2,8 +2,7 @@
 title: Scrupulous, Thorough, Fearless - The CPIB Story
 ---
 
-![CPIB History Book](https://user-images.githubusercontent.com/84945723/196587228-79cf73fa-efa2-4e93-a600-6039effbcd1b.jpg)
-
+![CPIB History Book_](https://user-images.githubusercontent.com/84945723/196591162-d58a72e9-cde8-4e4e-8c4b-1ab705172e7c.jpg)
 
 *Scrupulous, Thorough, Fearless — The CPIB Story* chronicles the journey of the Corrupt Practices Investigation Bureau (CPIB) from its beginnings to the present. The narrative of this book contextualises the role of the Bureau in Singapore's nation-building journey. The creation of the Bureau and its history and heritage are closely intertwined with the birth and history of Singapore.
 
