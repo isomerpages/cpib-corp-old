@@ -101,6 +101,14 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 
 <main id="resources-container">
 <section class="cards">
+     <div class="card">
+        <a href="/resources/cpib-history-book/">
+                <img src="/images/CPIB History Book_small.jpg">
+            <div class="card-content">
+                <h6>Scrupulous, Thorough, Fearless - The CPIB Story</h6>
+            </div><!-- .card-content -->
+        </a>
+    </div><!-- .card -->
     <div class="card">
         <a href="/resources/corruzione-web-game/">
                 <img src="/images/corruzione_small.png">
