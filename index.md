@@ -32,6 +32,14 @@ sections:
         image: /images/img_corruzione.png
         alt: Corruzione Web Game
     - infopic:
+        title: Scrupulous, Thorough, Fearless - The CPIB Story
+        subtitle: Resources
+        description: Scrupulous, Thorough, Fearless — The CPIB Story chronicles the journey of the Corrupt Practices Investigation Bureau (CPIB) from its beginnings to the present.
+        button: LEARN MORE
+        url: /resources/cpib-history-book/
+        image: /images/cpib history book.jpg
+        alt: Scrupulous, Thorough, Fearless - The CPIB Story
+    - infopic:
         title: The Corruption Casebook – Stories From Under The Table
         subtitle: Resources
         description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "<B>The Corruption Casebook - Stories From Under The Table</b>" featuring stories on past cases of corruption.
