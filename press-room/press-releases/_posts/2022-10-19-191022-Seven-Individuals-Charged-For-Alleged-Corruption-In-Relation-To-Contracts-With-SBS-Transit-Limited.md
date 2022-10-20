@@ -27,6 +27,8 @@ e) Loh Chen Yi Wendy (“Loh”) ( 罗浈议 , 62-year-old female Singaporean), 
 
 7\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to imprisonment of up to five years or to both. 
 
+8\. Companies are strongly advised to put in place robust procedures in areas such as procurement and internal audit to prevent falling victim to corrupt acts by their employees. Guidance for companies on measures to prevent corruption can be found in PACT: A Practical Anti-Corruption Guide for Businesses in Singapore, which is available on CPIB’s website. Companies are also strongly encouraged to obtain certification under the Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems, which is designed to help companies implement or enhance an anti-bribery management system to reduce corporate risk and costs related to bribery.
+
 Reference Links:
 
 * [PACT: A Practical Anti-Corruption Guide for Businesses in Singapore](/research-room/publications/anti-corruption-guide-for-businesses/)<br>
