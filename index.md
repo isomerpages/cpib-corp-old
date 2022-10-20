@@ -24,14 +24,6 @@ sections:
         subtitle: 
         button: VIEW ALL
     - infopic:
-        title: Scrupulous, Thorough, Fearless - The CPIB Story
-        subtitle: Resources
-        description: Scrupulous, Thorough, Fearless — The CPIB Story chronicles the journey of the Corrupt Practices Investigation Bureau (CPIB) from its beginnings to the present.
-        button: LEARN MORE
-        url: /resources/cpib-history-book/
-        image: /images/cpib history book.jpg
-        alt: Scrupulous, Thorough, Fearless - The CPIB Story
-    - infopic:
         title: Corruzione Web Game
         subtitle: Resources
         description: Corruzione is a Web Game that leverages on gamification to educate on the far-reaching consequences of corruption in a fun and interactive way.
@@ -39,6 +31,14 @@ sections:
         url: /resources/corruzione-web-game/
         image: /images/img_corruzione.png
         alt: Corruzione Web Game
+    - infopic:
+        title: Scrupulous, Thorough, Fearless - The CPIB Story
+        subtitle: Resources
+        description: Scrupulous, Thorough, Fearless — The CPIB Story chronicles the journey of the Corrupt Practices Investigation Bureau (CPIB) from its beginnings to the present.
+        button: LEARN MORE
+        url: /resources/cpib-history-book/
+        image: /images/cpib history book.jpg
+        alt: Scrupulous, Thorough, Fearless - The CPIB Story
     - infopic:
         title: The Corruption Casebook – Stories From Under The Table
         subtitle: Resources
