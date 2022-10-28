@@ -51,9 +51,11 @@ a) Tan Kok Kian
 i) 12 charges for offences under Section 6(a) of the Prevention of Corruption
 Act, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code;
+
 ii) 1 charge for an offence under Section 5(a)(i) of the Prevention of Corruption
 Act, which is amalgamated under Section 124(4) of the Criminal Procedure
 Code;
+
 iii) 5 charges for offences under Section 420 read with Section 109 of the Penal
 Code, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code; and
@@ -67,9 +69,11 @@ b) Tan Teck Loon
 i) 7 charges for offences under Section 6(b) read with Section 29(a) of the
 Prevention of Corruption Act, which are amalgamated under Section 124(4) of
 the Criminal Procedure Code;
+
 ii) 4 charges for offences under Section 6(b) of the Prevention of Corruption
 Act, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code; and
+
 iii) 1 charge for an offence under Section 5(b)(i) of the Prevention of Corruption
 Act, which is amalgamated under Section 124(4) of the Criminal Procedure
 Code.
@@ -79,9 +83,11 @@ c) Angeline Ho Suk Yee
 i) 7 charges for offences under Section 6(b) read with Section 29(a) of the
 Prevention of Corruption Act, which are amalgamated under Section 124(4)
 of the Criminal Procedure Code;
+
 ii) 5 charges for offences under Section 6(a) of the Prevention of Corruption
 Act, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code; and
+
 iii) 5 charges for offences under Section 420 read with Section 109 of the Penal
 Code, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code.
@@ -91,19 +97,32 @@ d) Neoh Saw Im
 i) 7 charges for offences under Section 6(b) read with Section 29(a) of the
 Prevention of Corruption Act, which are amalgamated under Section 124(4)
 of the Criminal Procedure Code; and
+
 ii) 5 charges for offences under Section 420 read with Section 109 of the Penal
 Code, which are amalgamated under Section 124(4) of the Criminal
 Procedure Code.
 
-6 Singapore adopts a strict zero-tolerance approach towards corruption. Any person
+6\. Singapore adopts a strict zero-tolerance approach towards corruption. Any person
 who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to
 imprisonment of up to five years or both. Any person who is convicted of an offence to
-
 cheat and dishonestly induce a delivery or cause the delivery of property can be fined and
 sentenced to imprisonment of up to ten years. Any person who is convicted of an offence
 under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits)
 Act can be fined up to S$500,000 or sentenced to imprisonment of up to ten years or both.
 
-7 The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption
+7\. The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption
 complaints and reports, including anonymous ones, and can be reached via the
 following channels:
+
+a) Lodge an [e-Complaint](/e-services/e-complaint-for-corrupt-conduct);<br>
+b) Email us at <a href="mailto:report@cpib.gov.sg" class="spamspan">report@cpib.gov.sg</a>;<br>
+c) Call the Duty Officer at 1800-376-0000; or<br>
+d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
+
+8\.        Where possible, the report should include the following information:
+
+a) Where, when and how the alleged corrupt act happened?<br>
+b) Who was involved and what were their roles?<br>
+c) What was the bribe given and the favour shown?
+
+**CORRUPT PRACTICES INVESTIGATION BUREAU**
