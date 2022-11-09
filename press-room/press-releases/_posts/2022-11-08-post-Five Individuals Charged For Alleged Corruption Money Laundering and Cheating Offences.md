@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-On 8 November 2022, the following five individuals will be charged in Court for allegedly committing corruption, money laundering and cheating offences. They are:
+On 8 November 2022, the following five individuals were charged in Court for allegedly committing corruption, money laundering and cheating offences. They are:
 
 a) Low Jun Jie, Lionel (“Lionel”) (刘俊杰, 35-year-old male Singaporean), Assistant Manager Properties (Development) of Singapore Airlines Ltd (“SIA”) at the material time;
 
