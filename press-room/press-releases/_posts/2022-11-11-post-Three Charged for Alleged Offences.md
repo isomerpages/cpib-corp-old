@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-        On 11 November 2022, the following three individuals will be charged in Court for allegedly committing corruption, cheating and money laundering offences:
+On 11 November 2022, the following three individuals were charged in Court for allegedly committing corruption, cheating and money laundering offences:
 
 a)    **Harish Singhal** (“**Harish**”) (59-year-old male, Indian), a Construction Manager at MODEC Offshore Productions System (Singapore) Pte Ltd (“MOPS”) at the material time;
 
