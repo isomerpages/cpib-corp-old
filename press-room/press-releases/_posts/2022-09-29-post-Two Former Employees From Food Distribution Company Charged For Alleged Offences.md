@@ -21,7 +21,7 @@ b)	**Renitha Muraleedharan ("Renitha")** (31-year-old female Singaporean PR), Ac
 
 *Alleged Cheating Offence*
 
-4\.	On 10 February 2020, Mahes allegedly deceived Sonnamera by dishonestly concealing the fact that Smart R&R Transportation Sdn Bhd ("Smart R&R") was owned by him. As such, Sonnamera was induced to engage Smart R&R to provide a transportation service. For his action, Mahes faces one charge for an offence punishable under Section 417 of the *Penal Code*.
+4\.	On 10 February 2020, Mahes allegedly deceived Sonnamera by dishonestly concealing the fact that Smart R&R Transportation ("Smart R&R") was owned by him. As such, Sonnamera was induced to engage Smart R&R to provide a transportation service. For his action, Mahes faces one charge for an offence punishable under Section 417 of the *Penal Code*.
 
 5\.	Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence can be fined up to S$100,000 or sentenced to imprisonment of up to 5 years or to both. Any person who is convicted of cheating under Section 417 of the *Penal Code* shall be liable to imprisonment for a term which may extend to 3 years or with fine, or with both. 
 
