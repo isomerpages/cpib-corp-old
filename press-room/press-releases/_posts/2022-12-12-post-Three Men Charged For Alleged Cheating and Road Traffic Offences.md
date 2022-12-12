@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-On 12 December 2022, the following three men are charged in Court for allegedly committing cheating and road traffic offences:
+On 12 December 2022, the following three men were charged in Court for allegedly committing cheating and road traffic offences:
 
 a) **Teoh Sio Meng (“Teoh”)**(张小明, 50-year-old male Singaporean), Director, T & L Transit Pte Ltd at the material time;
 
