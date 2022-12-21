@@ -27,11 +27,11 @@ $4,780 - $5,673 (indicative salary range for degree holders; successful candidat
 
 If you meet the following requirements and can identify with our mission, join us through our recruitment exercise:
 
-•	Strong passion for investigation work;</br>
-•	Strong analytical skills and adaptability;</br>
-•	Strong organisation, time management and interpersonal skills and ability to work under pressure;</br>
-•	Strong in spoken and written communications;</br>
-•	Self-driven and able to work effectively independently and in a team environment; and</br>
+•	Strong passion for investigation work;<br/>
+•	Strong analytical skills and adaptability;<br/>
+•	Strong organisation, time management and interpersonal skills and ability to work under pressure;<br/>
+•	Strong in spoken and written communications;<br/>
+•	Self-driven and able to work effectively independently and in a team environment; and<br/>
 •	Singapore Citizen
 
 There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
