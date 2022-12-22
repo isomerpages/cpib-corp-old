@@ -7,7 +7,7 @@ permalink: /careers/management-executive/
 
 ### **Career as a Management Executive**
 
-As a Management Executive, (MX) in CPIB, you will work alongside our CPIOs and CPIAs colleagues to support the Bureau’s mission in keeping Singapore corruption free.
+As a Management Executive (MX) in CPIB, you will work alongside our CPIOs and CPIAs colleagues to support the Bureau’s mission in keeping Singapore corruption free.
 
 You will review and formulate existing and new policies/programmes in various functional areas including legislations, international relations, data analytics, strategic planning and corporate relations. You will also manage line operations in human resource, finance, internal audit and corporate services. There will be posting opportunities to different portfolios within CPIB and other agencies to gain exposures and widen your skillsets.
 
