@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-On 7 December 2022, the following five individuals will be charged in Court for allegedly committing corruption, cheating and obstruction of justice offences. They are:
+On 7 December 2022, the following five individuals were charged in Court for allegedly committing corruption, cheating and obstruction of justice offences. They are:
 
 a)    **Leong Poh Keong @ Liang Boqiang** (“**Leong**”) (梁博强, 37-year-old male, Singaporean), Training, Quality and Projects (TQP) Executive of SATS Ltd (“SATS”) at the material time;
 
