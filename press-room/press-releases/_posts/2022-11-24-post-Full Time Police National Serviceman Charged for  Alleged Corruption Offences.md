@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-On 24 November 2022, **Fahd Siddiqui (“Fahd”)** (20 years old male, Indian Singaporean) a full-time Police National Serviceman at the material time, will be charged in Court for allegedly committing corruption offences.
+On 24 November 2022, **Fahd Siddiqui (“Fahd”)** (20 years old male, Indian Singaporean) a full-time Police National Serviceman at the material time, was charged in Court for allegedly committing corruption offences.
 
 
 2\. On 1 November 2022 and 4 November 2022, Fahd allegedly attempted to obtain gratifications in the form of sexual services from three social escorts as inducements to refrain from taking enforcement action against them.
