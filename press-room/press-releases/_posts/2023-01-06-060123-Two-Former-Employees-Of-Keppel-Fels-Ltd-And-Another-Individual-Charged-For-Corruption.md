@@ -23,19 +23,19 @@ c) Wong Kok Seng (“Wong”) (黄國誠, 72-year-old male Singaporean), Senior 
 
 5\. For their alleged offences, the three individuals face the following charges:
 
-a) Thong Chee Kong 
+**a) Thong Chee Kong** 
 
 i. One charge for an offence punishable under Section 6(c) of the Prevention of Corruption Act; and
 
 ii. Four charges for offences punishable under Section 6(b) of the Prevention of Corruption Act.
 
-b) Tan Seng Cheh 
+**b) Tan Seng Cheh** 
 
 i. One charge for an offence punishable under Section 6(c) of the Prevention of Corruption Act; and
 
 ii. Three charges for offences punishable under Section 6(a) of the Prevention of Corruption Act.
 
-c) Wong Kok Seng
+**c) Wong Kok Seng**
 
 i. One charge for an offence punishable under Section 6(a) of the Prevention of Corruption Act.
 
