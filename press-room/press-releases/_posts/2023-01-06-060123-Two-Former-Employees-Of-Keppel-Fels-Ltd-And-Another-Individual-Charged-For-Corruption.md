@@ -3,7 +3,7 @@ layout: post
 title: "Two Former Employees Of Keppel Fels Ltd And Another Individual Charged For Corruption"
 permalink: "/press-room/press-releases/060123-Two-Former"
 ---
-On 6 January 2023, three individuals will be charged in Court for allegedly committing offences under the Prevention of Corruption Act. They are:
+On 6 January 2023, three individuals were charged in Court for allegedly committing offences under the Prevention of Corruption Act. They were:
 
 a) Thong Chee Kong (“Thong”) (湯志光, 53-year-old male Singaporean), Regional General Manager of Corus South East Asia Pte Ltd (“Corus SEA”) at the material time. 
 
