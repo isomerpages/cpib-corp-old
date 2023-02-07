@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Minister Indranee Rajah on the Public Prosecutor’s Decision to Issue Stern Warnings to Six Former Senior Management Staff from Keppel Offshore & Marine Limited"
-permalink: "/press-room/speechMinister-Indranee-Rajah-on-the-Public-Prosecutor’s-Decision-to-Issue-Stern-Warnings-to-Six-Former-Senior-Management-Staff-from-Keppel-Offshore-&-Marine-Limited"
+permalink: "/press-room/speech-Minister-Indranee-Rajah-on-the-Public-Prosecutor’s-Decision-to-Issue-Stern-Warnings-to-Six-Former-Senior-Management-Staff-from-Keppel-Offshore-&-Marine-Limited"
 ---
 *Oral Answer to Questions in Parliament by Minister in the Prime Minister’s Office, Second Minister for Finance and Second Minister for National Development Indranee Rajah, on the Public Prosecutor’s decision to issue stern warnings to six former senior management staff from Keppel Offshore & Marine Limited, on 6 February 2023.*
 
