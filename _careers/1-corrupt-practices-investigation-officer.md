@@ -34,4 +34,4 @@ If you meet the following requirements and can identify with our mission, join u
 •	Self-driven and able to work effectively independently and in a team environment; and<br/>
 •	Singapore Citizen
 
-The next recruitment exercise for CPIO will be opened from **3 Apr to 16 Apr 2023** (applications to be submitted by **2350** hrs on Careers@Gov). All interested applicants are encouraged to look out for the job opportunity on the Careers@Gov website. Applications can only be submitted through the Careers@Gov website during the Bureau’s recruitment exercises.
+The next recruitment exercise for CPIO will be opened from **3 Apr to 16 Apr 2023** (applications to be submitted by **2350** hrs on Careers@Gov). All interested applicants are encouraged to look out for the job opportunity on the [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
