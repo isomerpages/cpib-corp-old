@@ -13,15 +13,15 @@ CPIB will provide you with the opportunity to realise your potential through a w
 
 ### **Developing your Competencies as an Investigation Assistant (IA)**
 
-Through a 4-month program, you will be given structured training in the fundamentals of legislation enforced by CPIB and investigative skills. The training also covers self-defence tactics and firearms handling. There will be a 2-year bond after the training.
+Through a 5-month program, you will be given structured training in the fundamentals of legislation enforced by CPIB and investigative skills. The training also covers self-defence tactics and firearms handling. There will be a 2-year bond after the training.
 
-After completing the 4-month program, you will be posted to the investigation units for your foundational posting. Through this, you will take on cases and hone your investigations tradecraft. 
+After completing the 5-month program, you will be posted to the investigation units for your foundational posting. Through this, you will take on cases and hone your investigations tradecraft. 
 
 Throughout your career in CPIB, you will have opportunities for professional development and growth. You will acquire job-specific competencies based on CPIB’s specialist competency frameworks for effective performance and be fully proficient in your job role. There are also various personal development courses, leadership programmes, as well as sponsorship/scholarship schemes for academic studies etc to support your career aspirations.
 
 ### **Starting Salaries**
 
-$1,860 to $2,680 (indicative salary range for GCE ‘O’ level to diploma holders; successful candidates with relevant work experience will be remunerated accordingly).
+$1,860 to $2,710 (indicative salary range for GCE ‘O’ level to diploma holders; successful candidates with relevant work experience will be remunerated accordingly).
 
 ### **Requirements**
 
