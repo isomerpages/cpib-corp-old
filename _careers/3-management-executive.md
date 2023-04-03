@@ -18,7 +18,7 @@ You will acquire job-specific competencies based on the Whole-Of-Government func
 
 ### **Starting Salaries**
 
-$3,575 - $4,399 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
+$3,575 - $4,522 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
 
 All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau's recruitment exercises.
 
