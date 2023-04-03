@@ -13,15 +13,15 @@ The CPIB will provide you with the opportunity to realise your potential through
 
 ### **Developing your Competencies as an Investigation Officer (IO)**
 
-Through a 4-month program, you will be given structured training in the fundamentals of legislation enforced by CPIB and investigative skills. The training also covers self-defence tactics and firearms handling. There will be a 2-year bond after the training. 
+Through a 5-month program, you will be given structured training in the fundamentals of legislation enforced by CPIB and investigative skills. The training also covers self-defence tactics and firearms handling. There will be a 2-year bond after the training. 
 
-After completing the 4-month program, you will be posted to the investigation units for your foundational posting. Through this, you will take on cases and hone your investigations tradecraft. 
+After completing the 5-month program, you will be posted to the investigation units for your foundational posting. Through this, you will take on cases and hone your investigations tradecraft. 
 
 Throughout your career in CPIB, you will have opportunities for professional development and growth. You will acquire job-specific competencies based on CPIB’s specialist competency frameworks for effective performance and be fully proficient in your job role. There are also various personal development courses, leadership programmes, cross-departmental projects, as well as sponsorship/scholarship schemes for professional certifications and postgraduate studies etc to support your career aspirations. 
 
 ### **Starting Salaries**
 
-$4,780 - $5,673 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
+$4,780 - $5,748 (indicative salary range for degree holders; successful candidates with relevant work experience will be remunerated accordingly).
 
 ### **Requirements**
 
@@ -34,4 +34,4 @@ If you meet the following requirements and can identify with our mission, join u
 •	Self-driven and able to work effectively independently and in a team environment; and<br/>
 •	Singapore Citizen
 
-There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
+The next recruitment exercise for CPIO will be opened from **3 Apr to 16 Apr 2023** (applications to be submitted by **2350** hrs on Careers@Gov). All interested applicants are encouraged to look out for the job opportunity on the [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises.
