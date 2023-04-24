@@ -34,4 +34,4 @@ If you meet the following requirements and can identify with our mission, join u
 •	Self-driven and able to work effectively independently and in a team environment; and<br/>
 •	Singapore Citizen
 
-There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises. If you wish to be notified of future recruitment exercise for CPIO, you can join our mailing list at https://go.gov.sg/cpiomailinglist. 
+There is currently no recruitment exercise for CPIO. All interested applicants are encouraged to look out for available positions on [Careers@Gov](https://www.careers.gov.sg/) website. Applications can only be submitted through the [Careers@Gov](https://www.careers.gov.sg/) website during the Bureau’s recruitment exercises. If you wish to be notified of future recruitment exercise for CPIO, you can join our mailing list at [https://go.gov.sg/cpiomailinglist](https://go.gov.sg/cpiomailinglist). 
