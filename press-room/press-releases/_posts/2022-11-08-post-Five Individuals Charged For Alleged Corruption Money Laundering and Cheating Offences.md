@@ -17,7 +17,7 @@ c) Zhang Jiahao, Rex (“Rex”) (张家豪, 38-year-old male Singaporean), free
 
 d) Mohamed Barak Bin Lathif (“Barak”) (49-year-old male Singaporean), Safety Manager of Lin ID Group at the material time; and
 
-e) Low Mun Xin, Felicia (“Felicia”) (罗満欣, 49-year-old female Singaporean), Director of Lin ID Group at the material time.
+e) Low Mun Xin, Felicia (“Felicia”) (罗満欣, 34-year-old female Singaporean), Director of Lin ID Group at the material time.
 
 Alleged Corruption Offences
 
