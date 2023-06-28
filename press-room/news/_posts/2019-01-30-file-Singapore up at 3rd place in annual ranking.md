@@ -1,8 +1,0 @@
----
-title: Singapore up at 3rd place in annual ranking
-file_url: /files/News/20190130_bt_singapore up at 3rd place in annual ranking.pdf
-date: 2019-01-30
-layout: file
-description: ""
-image: ""
----
