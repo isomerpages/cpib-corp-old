@@ -1,9 +1,0 @@
----
-title: 涉受贿逾８万监狱官被控 Prison officer charged for attempting to obtain bribes from inmate
-file_url: /files/News/20170706_smd_prison officer charges for attempting to
-  obtain bribes from inmate.pdf
-date: 2017-07-06
-layout: file
-description: ""
-image: ""
----
