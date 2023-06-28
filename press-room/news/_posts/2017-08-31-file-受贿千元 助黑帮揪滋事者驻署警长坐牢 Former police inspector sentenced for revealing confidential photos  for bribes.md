@@ -1,0 +1,10 @@
+---
+title: 受贿千元 助黑帮揪滋事者驻署警长坐牢 Former police inspector sentenced for revealing
+  confidential photos  for bribes
+file_url: /files/News/20170831_lhzb_former police inspector sentenced for
+  revealing confidential photos for bribes.pdf
+date: 2017-08-31
+layout: file
+description: ""
+image: ""
+---
