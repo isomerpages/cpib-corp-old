@@ -1,0 +1,8 @@
+---
+title: 幽灵工程骗逾千万案承包商监5年又15月经理监11年罚90万 Ghost Projects to defraud more than 10m
+file_url: /files/News/20181112_xmd_ghost projects to defraud more than 10 million.pdf
+date: 2018-11-12
+layout: file
+description: ""
+image: ""
+---
