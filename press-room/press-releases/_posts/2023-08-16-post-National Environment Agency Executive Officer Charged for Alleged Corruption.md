@@ -12,9 +12,9 @@ On 16 August 2023, **Ruzdiman Salhan Bin Mohamed Salim** (“Ruzdiman”) (42- y
 
 3.Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence under Section 6 of the *Prevention of Corruption Act* can be fined up to S$100,000 or sentenced to imprisonment of up to five years or both.
 
-4.The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related complaints and reports, <u>**including anonymous ones**</u>, and can be reached via the following channels:
+4.The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related complaints and reports, **<u>including anonymous ones</u>**, and can be reached via the following channels:
 <br>a) Lodge an [e-Complaint](https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct);  
-b) Email us at report@cpib.gov.sg; 
+b) Email us at <a>report@cpib.gov.sg</a>
 <br>c) Call the Duty Officer at 1800-376-0000; or <br> 
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
