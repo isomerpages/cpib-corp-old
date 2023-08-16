@@ -15,5 +15,5 @@ On 16 August 2023, Balakrishnan A/L Govindasamy (“Balakrishnan”) (61-year-ol
 4.Companies are strongly advised to put in place robust procedures in areas such as procurement and internal audit to prevent falling victim to corrupt acts by their employees. Guidance for companies on measures to prevent corruption can be found in [PACT: A  Practical Anti-Corruption Guide for Businesses in Singapore](https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/), which is available on CPIB’s website. Companies are also strongly encouraged to obtain certification under the [Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems](https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/), which is designed to help companies implement or enhance an anti-bribery management system to reduce corporate risk and costs related to bribery.
 
 <u>Reference Links:</u>
-* PACT: https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/ 
-* SS ISO 37001: https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/
+* PACT: <a>https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/</a>
+* SS ISO 37001: <a> https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/</a>
