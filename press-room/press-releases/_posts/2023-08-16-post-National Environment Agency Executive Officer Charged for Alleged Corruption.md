@@ -14,7 +14,7 @@ On 16 August 2023, **Ruzdiman Salhan Bin Mohamed Salim** (“Ruzdiman”) (42- y
 
 4.The Corrupt Practices Investigation Bureau (CPIB) looks into all corruption-related complaints and reports, **<u>including anonymous ones</u>**, and can be reached via the following channels:
 <br>a) Lodge an [e-Complaint](https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct);  
-b) Email us at <a>report@cpib.gov.sg</a>
+b) Email us at <a>report@cpib.gov.sg</a>;
 <br>c) Call the Duty Officer at 1800-376-0000; or <br> 
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
