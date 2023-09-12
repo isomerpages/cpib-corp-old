@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corrupt Acts Exposed"
-permalink: "/press-room/press-releases/corrupt-acts-exposed"
+permalink: /press-room/press-releases/corrupt-acts-exposed/
 ---
 The preservation of business interests should be done in an honest and transparent manner. Individuals should not resort to corrupt means to ensure good business relations.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Level-Playing Field in Businesses Marred by Corruption"
-permalink: "/press-room/press-releases/level-playing-field-businesses-marred-corruption"
+permalink: /press-room/press-releases/level-playing-field-businesses-marred-corruption/
 ---
 Businesses should have a level-playing field to advance their interests and engage in honest competition. Those who resort to corrupt means to get ahead will face the consequences under the law.
 

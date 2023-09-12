@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clampdown on Corrupt Contracts"
-permalink: "/press-room/press-releases/clampdown-corrupt-contracts"
+permalink: /press-room/press-releases/clampdown-corrupt-contracts/
 ---
 It is an offence for employees to leverage their positions to solicit or obtain bribes.
 

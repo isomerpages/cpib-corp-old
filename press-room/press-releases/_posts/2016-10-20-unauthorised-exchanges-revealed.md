@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unauthorised Exchanges Revealed"
-permalink: "/press-room/press-releases/unauthorised-exchanges-revealed"
+permalink: /press-room/press-releases/unauthorised-exchanges-revealed/
 ---
 Those who offer or accept illicit benefits in return for disregarding their employer’s policies would face charges for corruption. Eight former employees of Micro 2000 Technology Pte Ltd who bypassed their employer’s policy with regard to the exchange of iPhones, found out the hard way when they were charged with corruption. Six of them, who were charged on 30 August 2016, have pleaded guilty to their charges and were sentenced on 15 September 2016. The remaining two were charged on 14 October 2016.
 

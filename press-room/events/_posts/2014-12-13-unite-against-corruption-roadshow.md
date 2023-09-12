@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unite Against Corruption Roadshow"
-permalink: "/press-room/events/unite-against-corruption-roadshow"
+permalink: /press-room/events/unite-against-corruption-roadshow/
 ---
 ![Anchor_Roadshow](https://user-images.githubusercontent.com/84945723/124113650-414a2c00-da9e-11eb-89f6-0d41ba2fddd3.jpg)
 

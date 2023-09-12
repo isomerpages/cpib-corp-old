@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Inspections Compromised by Alleged Corruption"
-permalink: "/press-room/press-releases/inspections-compromised-alleged-corruption"
+permalink: /press-room/press-releases/inspections-compromised-alleged-corruption/
 ---
 Corrupt and dishonest acts can compromise the integrity of inspections and checks. Individuals who engage in such acts will be strictly dealt with in accordance to the law.
 

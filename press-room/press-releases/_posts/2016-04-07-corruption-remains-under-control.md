@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Remains under Control"
-permalink: "/press-room/press-releases/corruption-remains-under-control"
+permalink: /press-room/press-releases/corruption-remains-under-control/
 ---
 Singapore’s founding fathers recognised that one of the key factors for Singapore’s survival and success is eradicating corruption.  Five decades on, Singapore has become widely acknowledged as one of the world’s least corrupt countries. The Corruption Perceptions Index 2015 ranks Singapore as the 8th least corrupt country in the world and the least corrupt Asian country.  Singapore is also ranked first in the 2015 annual survey, conducted by the Political and Economic Risk Consultancy (PERC), on corruption in 14 Asian countries, Australia and the United States.  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged For Alleged Corruption In Relation To Trading And Supplying Of Bunker Fuel"
-permalink: "/press-room/press-releases/191021-Charged-For"
+permalink: /press-room/press-releases/191021-charged-for/
 ---
 On 19 October 2021, two individuals were charged in Court for allegedly obtaining and giving gratifications in relation to the trading and supplying of bunker fuel. They are:
 

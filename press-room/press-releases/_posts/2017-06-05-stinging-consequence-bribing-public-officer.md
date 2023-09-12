@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stinging Consequence for Bribing a Public Officer"
-permalink: "/press-room/press-releases/stinging-consequence-bribing-public-officer"
+permalink: /press-room/press-releases/stinging-consequence-bribing-public-officer/
 ---
 On 5 June 2017, one Ng Lam Siong was sentenced to one week imprisonment and fined $5,000 for attempting to bribe a public officer with the National Environment Agency (NEA).
 

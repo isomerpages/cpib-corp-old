@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checkpoint Corruption Rejected"
-permalink: "/press-room/press-releases/checkpoint-corruption-rejected"
+permalink: /press-room/press-releases/checkpoint-corruption-rejected/
 ---
 If not kept in check, corrupt acts can compromise border security and result in serious consequences for public security. 
 

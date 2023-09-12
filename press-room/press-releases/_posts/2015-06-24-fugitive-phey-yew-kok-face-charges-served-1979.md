@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fugitive Phey Yew Kok to Face Charges Served in 1979"
-permalink: "/press-room/press-releases/fugitive-phey-yew-kok-face-charges-served-1979"
+permalink: /press-room/press-releases/fugitive-phey-yew-kok-face-charges-served-1979/
 ---
 Phey Yew Kok, who absconded on 7 January 1980, has been produced in Court on 24 June 2015 to face the charges that were served on him in 1979.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Charged For Alleged Corruption"
-permalink: "/press-room/press-releases/200522-Man-Charged"
+permalink: /press-room/press-releases/200522-man-charged/
 ---
 On 20 May 2022, Kong Lingjian (“Kong”) (38-year-old male Chinese National) was charged in Court for alleged corruption.
 

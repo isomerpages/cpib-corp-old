@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chinese National Sentenced to Four Weeks’ Imprisonment for Attempted Bribery"
-permalink: "/press-room/press-releases/chinese-national-sentenced-four-weeks’-imprisonment-attempted-bribery"
+permalink: /press-room/press-releases/chinese-national-sentenced-four-weeks’-imprisonment-attempted-bribery/
 ---
 On 17 July 2017, Yu Xiaorong, a Chinese national, was sentenced to four weeks’ imprisonment for attempting to bribe a police officer.
 

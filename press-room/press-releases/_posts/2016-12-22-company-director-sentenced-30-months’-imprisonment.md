@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Company director sentenced to 30 months’ imprisonment"
-permalink: "/press-room/press-releases/company-director-sentenced-30-months’-imprisonment"
+permalink: /press-room/press-releases/company-director-sentenced-30-months’-imprisonment/
 ---
 On 22 December 2016, Ling Chun Teck Donald, a Singaporean company director of TAC Contracts Pte Ltd operating in the waterproofing and general works industry, was sentenced to 30 months’ imprisonment for corruption offences. 
 

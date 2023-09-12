@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Laid To Waste By Corruption"
-permalink: "/press-room/press-releases/laid-waste-corruption"
+permalink: /press-room/press-releases/laid-waste-corruption/
 ---
 Corrupt acts can harm our environment and compromise public health. Individuals who engage in such acts must bear the full brunt of the law. 
 

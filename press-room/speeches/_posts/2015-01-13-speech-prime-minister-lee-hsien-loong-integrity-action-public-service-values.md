@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Prime Minister Lee Hsien Loong at Integrity in Action - Public Service Values Conference 2015"
-permalink: "/press-room/speeches/speech-prime-minister-lee-hsien-loong-integrity-action-public-service-values"
+permalink: /press-room/speeches/speech-prime-minister-lee-hsien-loong-integrity-action-public-service-values/
 ---
 <p>DPM Teo Chee Hean<br />Permanent Secretary Yong Ying-I, Chairman of Civil Service College<br />Mr Wong Hong Kuan, Director of CPIB<br />Colleagues, Ladies and Gentlemen</p>
 

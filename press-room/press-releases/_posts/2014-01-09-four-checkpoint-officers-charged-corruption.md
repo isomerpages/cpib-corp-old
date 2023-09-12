@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Checkpoint Officers Charged With Corruption"
-permalink: "/press-room/press-releases/four-checkpoint-officers-charged-corruptionn"
+permalink: /press-room/press-releases/four-checkpoint-officers-charged-corruptionn/
 ---
 Four Immigration & Checkpoints Authority (ICA) officers who allegedly facilitated the granting of Visit Passes (VP) to assist foreigners in prolonging their stay in Singapore may now facilitate their own stay in prison. The four will face corruption charges.
 

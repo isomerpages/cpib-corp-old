@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Corruption to be Lenient in Supervision of Contractor Work"
-permalink: "/press-room/press-releases/charged-corruption-be-lenient-supervision-contractor-work"
+permalink: /press-room/press-releases/charged-corruption-be-lenient-supervision-contractor-work/
 ---
 On 9 September 2020, two individuals were charged in court for allegedly committing the following offences: 
 

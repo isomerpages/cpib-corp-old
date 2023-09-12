@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corrupt Commissions for Contracts"
-permalink: "/press-room/press-releases/corrupt-commissions-contracts"
+permalink: /press-room/press-releases/corrupt-commissions-contracts/
 ---
 Awarding of business contracts should be fair and in the best interests of the organisation. Unscrupulous dealings for dishonest personal gains can lead to serious consequences. 
 

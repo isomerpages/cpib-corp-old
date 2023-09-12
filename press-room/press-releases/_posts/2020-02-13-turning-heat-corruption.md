@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Turning Up The Heat On Corruption"
-permalink: "/press-room/press-releases/turning-heat-corruption"
+permalink: /press-room/press-releases/turning-heat-corruption/
 ---
 The giving or receiving of bribes to advance business interests is an unfair and illegal practice. Individuals should never resort to such corrupt means.
 

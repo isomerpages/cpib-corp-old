@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Six Charged for Corrupt and Fraudulent GST Tourist Refund Claims"
-permalink: "/press-room/press-releases/six-charged-corrupt-and-fraudulent-gst-tourist-refund-claims"
+permalink: /press-room/press-releases/six-charged-corrupt-and-fraudulent-gst-tourist-refund-claims/
 ---
 Six men have been charged in Court in a corrupt and fraudulent Goods and Services Tax (GST) tourist refund claims case. They include a former Singapore Customs officer, a Singaporean sales executive employed with a goldsmith shop and four Indian nationals.
 

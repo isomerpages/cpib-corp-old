@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption in Singapore at Low Levels"
-permalink: "/press-room/press-releases/corruption-singapore-low-levels"
+permalink: /press-room/press-releases/corruption-singapore-low-levels/
 ---
 Singapore is widely recognised as a country with zero-tolerance for corruption. The Transparency International Corruption Perceptions Index 2016 ranked Singapore as the 7th least corrupt country in the world. Singapore has also maintained its first-place in the 2016 Political and Economic Risk Consultancy (PERC) annual survey on corruption.
 

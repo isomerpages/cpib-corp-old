@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced to Seven Months’ Jail for Assault on Integrity"
-permalink: "/press-room/press-releases/sentenced-seven-months’-jail-assault-integrity"
+permalink: /press-room/press-releases/sentenced-seven-months’-jail-assault-integrity/
 ---
 On 04 December 2017, one Lei Yanchen, a Chinese national, was sentenced to seven months’ imprisonment for his attempt to bribe an officer of the Singapore Police Force, and for voluntarily causing hurt to another person.
 

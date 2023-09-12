@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2nd Economic Crime Agencies Network (ECAN)"
-permalink: "/press-room/events/2nd-economic-crime-agencies-network-ecan"
+permalink: /press-room/events/2nd-economic-crime-agencies-network-ecan/
 ---
 ![Anchor_ECAN](https://user-images.githubusercontent.com/84945723/124113879-80787d00-da9e-11eb-9568-83792c24ee17.jpg)
 

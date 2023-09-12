@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sending The Wrong Signals"
-permalink: "/press-room/press-releases/sending-wrong-signals"
+permalink: /press-room/press-releases/sending-wrong-signals/
 ---
 Law enforcement officers ensure that people obey laws and not obstruct the course of justice, the consequence of which can be dire.
 

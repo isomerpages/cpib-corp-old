@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fixing Deals For Personal Gains"
-permalink: "/press-room/press-releases/fixing-deals-personal-gains"
+permalink: /press-room/press-releases/fixing-deals-personal-gains/
 ---
 Taking advantage of your work position to fix deals for personal gains can land you in serious trouble.
 

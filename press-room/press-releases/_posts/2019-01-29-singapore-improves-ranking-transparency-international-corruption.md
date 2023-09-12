@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Improves in Ranking for Transparency International Corruption Perceptions Index 2018"
-permalink: "/press-room/press-releases/singapore-improves-ranking-transparency-international-corruption"
+permalink: /press-room/press-releases/singapore-improves-ranking-transparency-international-corruption/
 ---
 The Transparency International (TI) Corruption Perceptions Index (CPI) for 2018 has ranked Singapore 3rd out of 180 countries with a score of 85. This is an improvement from the 2017 TI-CPI results where Singapore was ranked the 6th least corrupt country in the world with a score of 84 points.
 

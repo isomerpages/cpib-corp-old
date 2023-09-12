@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Police Officer Sentenced for Corruptly Obtaining Sexual Favours from Female Subjects"
-permalink: "/press-room/press-releases/police-officer-sentenced-corruptly-obtaining-sexual-favours-female"
+permalink: /press-room/press-releases/police-officer-sentenced-corruptly-obtaining-sexual-favours-female/
 ---
 Law enforcement officers have the duty to maintain law and order and conduct themselves with high levels of integrity and discipline. Those who abuse their positions to obtain or solicit any form of gratification in the course of their duties will face the full brunt of the law.
 

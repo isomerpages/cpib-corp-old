@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cheaters Never Prosper"
-permalink: "/press-room/press-releases/cheaters-never-prosper"
+permalink: /press-room/press-releases/cheaters-never-prosper/
 ---
 Employees who cheat their employers will have to face the consequences of their actions when the law catches up with them. 
 

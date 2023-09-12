@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attempted Bribery Cases"
-permalink: "/press-room/press-releases/attempted-bribery-cases"
+permalink: /press-room/press-releases/attempted-bribery-cases/
 ---
 On 26 July 2019, one Long Jinlian (龙金连), a 45-year-old Singaporean female and owner of massage establishment “Nature Beauty & Therapy Centre” was charged in Court with corruptly offering S$200 to Wong Cheng Mei, a Senior Technical Executive with the Housing & Development Board (“HDB”), for Wong to exercise leniency during inspections conducted at the Nature Beauty & Therapy Centre.  This constitutes an offence punishable under Section 6(b) of the Prevention of Corruption Act, Chapter 241. The alleged corruption offence occurred on 6 December 2018.  
 

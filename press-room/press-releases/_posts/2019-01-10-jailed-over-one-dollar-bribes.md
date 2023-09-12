@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jailed Over One Dollar Bribes"
-permalink: "/press-room/press-releases/jailed-over-one-dollar-bribes"
+permalink: /press-room/press-releases/jailed-over-one-dollar-bribes/
 ---
 There is no limit on the bribe amount that the Corrupt Practices Investigation Bureau (CPIB) can and will investigate, even if the amount is as small as one dollar. A bribe of one dollar is still an offence. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transfer of Whitley Neighbourhood Police Post (NPP) to Corrupt Practices Investigation Bureau (CPIB) as Corruption Reporting Centre"
-permalink: "/press-room/press-releases/transfer-whitley-neighbourhood-police-post-npp-corrupt-practices"
+permalink: /press-room/press-releases/transfer-whitley-neighbourhood-police-post-npp-corrupt-practices/
 ---
 The premises of Whitley Neighbourhood Police Post (NPP), located at 247 Whitley Road, will be transferred to the Corrupt Practices Investigation Bureau (CPIB) to use as its Corruption Reporting Centre. To facilitate the handover process, Whitley NPP will cease operations from 29 February 2016.
 

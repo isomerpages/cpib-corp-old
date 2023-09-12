@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Checkpoints officer charged with corruption"
-permalink: "/press-room/press-releases/checkpoints-officer-charged-corruption"
+permalink: /press-room/press-releases/checkpoints-officer-charged-corruption/
 ---
 In mid 2011, the Corrupt Practices Investigation Bureau (CPIB) cracked a corruption case involving Immigration & Checkpoints Authority (ICA) officers who allegedly facilitated the granting of Visit Passes (VP) to assist foreigners in prolonging their stay in Singapore in return for monetary gains. The successful crackdown would not be possible without the assistance of the ICA, who worked closely with the CPIB when the case surfaced.
 

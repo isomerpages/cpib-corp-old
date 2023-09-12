@@ -1,7 +1,7 @@
 ---
 title: Two Former Employees From Food Distribution Company Charged For Alleged
   Offences
-permalink: /press-room/press-releases/290922-FoodDistribution/
+permalink: /press-room/press-releases/290922-fooddistribution/
 date: 2022-09-29
 layout: post
 description: ""

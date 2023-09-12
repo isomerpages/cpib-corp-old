@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced for Corrupt Acts"
-permalink: "/press-room/press-releases/sentenced-corrupt-acts"
+permalink: /press-room/press-releases/sentenced-corrupt-acts/
 ---
 Business relationships and interests should be maintained in an honest and transparent manner. Using corrupt means can land one in serious trouble.
 

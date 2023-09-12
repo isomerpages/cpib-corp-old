@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alleged Bribes for Driving Licence"
-permalink: "/press-room/press-releases/alleged-bribes-driving-licence"
+permalink: /press-room/press-releases/alleged-bribes-driving-licence/
 ---
 Bribery can lead to serious and irreversible consequences. For example, road safety will be compromised if individuals are able to corruptly obtain foreign driving licences without taking proper lessons and passing the necessary tests, and then using such licences to drive. This can lead to road accidents causing serious injuries or even loss of lives.
 

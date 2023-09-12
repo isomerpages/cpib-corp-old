@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Shelter From Corruption"
-permalink: "/press-room/press-releases/no-shelter-corruption"
+permalink: /press-room/press-releases/no-shelter-corruption/
 ---
 Attempting to bribe one’s way out of trouble with the law will only lead to dire consequences.
 

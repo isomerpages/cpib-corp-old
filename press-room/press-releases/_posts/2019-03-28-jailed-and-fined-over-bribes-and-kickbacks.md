@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jailed and Fined Over Bribes and Kickbacks"
-permalink: "/press-room/press-releases/jailed-and-fined-over-bribes-and-kickbacks"
+permalink: /press-room/press-releases/jailed-and-fined-over-bribes-and-kickbacks/
 ---
 Companies should report any solicitation for bribes to the Corrupt Practices Investigation Bureau (CPIB). Agents who solicit bribes will be dealt with by the law.
 

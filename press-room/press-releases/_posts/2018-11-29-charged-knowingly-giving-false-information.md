@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Knowingly Giving False Information"
-permalink: "/press-room/press-releases/charged-knowingly-giving-false-information"
+permalink: /press-room/press-releases/charged-knowingly-giving-false-information/
 ---
 It is an offence for any person to knowingly give false or misleading information relating to the commission of a corruption offence to law enforcement officers.
 

@@ -1,7 +1,7 @@
 ---
 title: Former BCA Officer Jailed for Corruption
 date: 2021-10-06
-permalink: /press-room/press-releases/061021-former-bca
+permalink: /press-room/press-releases/061021-former-bca/
 layout: post
 ---
 It is illegal for public officers to abuse their position to obtain bribes. Those who do so will face serious consequences. On 6 October 2021, Tan Ming Lie (陈明烈, a 32-year-old male Singapore Citizen) (“Tan”), was sentenced to 8 weeks’ imprisonment and ordered to pay a penalty of S$600 for corruption offences. At the material time, Tan was a Temporary Inspection Officer of the Building and Construction Authority (“BCA”).

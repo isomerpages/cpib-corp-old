@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Spared For Corrupt Acts"
-permalink: "/press-room/press-releases/not-spared-corrupt-acts"
+permalink: /press-room/press-releases/not-spared-corrupt-acts/
 ---
 Employees who are involved in procurement work should not accept bribes in return for favouring certain suppliers. By giving an unfair advantage to vendors in exchange for bribes, it could disrupt market competition and inflate the cost of doing business.
 

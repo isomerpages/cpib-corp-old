@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking The Corrupt Route"
-permalink: "/press-room/press-releases/taking-corrupt-route"
+permalink: /press-room/press-releases/taking-corrupt-route/
 ---
 Extending a foreigner’s stay in Singapore by corrupt means is a serious offence. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Foreigner Fined And Jailed For Converting Residential Property Into Dormitory Accommodation, Being A Self-Employed Foreigner Without A Valid Work Pass To Engage In Subletting Activities, And Attempting To Bribe Enforcement Officer"
-permalink: "/press-room/press-releases/foreigner-fined-and-jailed-converting-residential-property-dormitory"
+permalink: /press-room/press-releases/foreigner-fined-and-jailed-converting-residential-property-dormitory/
 ---
 **27 November 2019** – A 28-year-old foreigner, Li Ying, was sentenced to a fine of $50,620 for converting a private residential property into dormitory accommodation without planning permission, $6,000 for being a self-employed foreigner without a valid work pass to engage in subletting activities, and four weeks in jail for attempting to bribe an enforcement officer. The Court convicted Li for offences under the Planning Act, Employment of Foreign Manpower Act (EFMA), and Prevention of Corruption Act.
 

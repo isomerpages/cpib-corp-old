@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced to 18 Months’ Imprisonment for Corruption, GST Tourist Refund Fraud and Money Laundering"
-permalink: "/press-room/press-releases/sentenced-18-months’-imprisonment-corruption-gst-tourist-refund-fraud-and"
+permalink: /press-room/press-releases/sentenced-18-months’-imprisonment-corruption-gst-tourist-refund-fraud-and/
 ---
 On 18 June 2020, Muthuvel Sankar (“Sankar”), a 41-year-old Indian National was sentenced to 18 months’ imprisonment and a penalty of S$66,891 for fraudulently claiming Goods and Services Tax (GST) tourist refund, corruption and money laundering. Sankar had been charged in Court on 4 June 2020 with 5 counts of corruption involving about S$2,800, 6 counts of GST tax evasion amounting to S$29,800, and one amalgamated charge of removing the criminal benefits from Singapore amounting to S$27,895. 
 

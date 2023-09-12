@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Anti-Corruption Executive Programme (ACE) 2013"
-permalink: "/press-room/events/anti-corruption-executive-programme-ace-2013"
+permalink: /press-room/events/anti-corruption-executive-programme-ace-2013/
 ---
 ![Anchor_ACE2013](https://user-images.githubusercontent.com/84945723/124114286-faa90180-da9e-11eb-95f8-8bff47de374f.jpg)
 

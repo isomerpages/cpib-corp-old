@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Additional Money Laundering Charges for Former Building Manager"
-permalink: "/press-room/press-releases/290323-Additional-Money-Laundering-Charges"
+permalink: /press-room/press-releases/290323-additional-money-laundering-charges/
 ---
 On 29 March 2023, Wee Bian Kiat (“Bian Kiat”) (黄连吉, 59-year-old male Singaporean) was faced with additional money laundering charges in Court. Bian Kiat was first charged on 16 November 2022 for allegedly obtaining gratification in the form of loans totalling S$150,950 from one Wee Han De (“Han De”) as an inducement to advance the business interests of Han De’s engineering company with Bian Kiat’s employer.
 

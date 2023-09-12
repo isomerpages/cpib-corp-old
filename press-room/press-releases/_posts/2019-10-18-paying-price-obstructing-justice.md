@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paying the Price for Obstructing Justice"
-permalink: "/press-room/press-releases/paying-price-obstructing-justice"
+permalink: /press-room/press-releases/paying-price-obstructing-justice/
 ---
 Law enforcement officers have the duty to maintain the rule of law and uphold justice. Those who choose to obstruct the course of justice must bear the full weight of the law. 
  

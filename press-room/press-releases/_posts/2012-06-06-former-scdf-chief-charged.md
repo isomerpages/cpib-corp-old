@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former SCDF Chief charged"
-permalink: "/press-room/press-releases/former-scdf-chief-charged"
+permalink: /press-room/press-releases/former-scdf-chief-charged/
 ---
 The accused is Peter Benedict Lim Sin Pang (“Peter Lim”). He was the Commissioner of the Singapore Civil Defence Force (“SCDF”) at the time of the alleged offences.
 

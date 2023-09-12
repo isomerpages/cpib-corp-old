@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Corrupt Entry Into Singapore"
-permalink: "/press-room/press-releases/no-corrupt-entry-singapore"
+permalink: /press-room/press-releases/no-corrupt-entry-singapore/
 ---
 On 11 November 2019, Bukari Salam Kuka (“Bukari”), a 31-year-old Ghanaian, was sentenced to two weeks’ imprisonment for attempting to bribe a Certis Cisco officer. Bukari was earlier charged in Court on 24 October 2019 for one count of corruptly offering gratification of an unspecified sum of money to Mohammad Aijaz Ahmad, a Certis Cisco Pass Office Supervisor, to assist Bukari to enter Singapore or allow him to travel to another country other than his country of origin i.e. Ghana. This constituted an offence punishable under Section 5(b)(i) of the Prevention of Corruption Act, Chapter 241.
 

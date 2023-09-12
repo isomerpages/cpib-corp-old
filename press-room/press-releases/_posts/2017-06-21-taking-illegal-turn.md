@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking An Illegal Turn"
-permalink: "/press-room/press-releases/taking-illegal-turn"
+permalink: /press-room/press-releases/taking-illegal-turn/
 ---
 On 21 June 2017, one Li Qi Gang, a Chinese national, was sentenced to three weeks’ imprisonment for his attempt to bribe an Authorized Automotive Tester.
 

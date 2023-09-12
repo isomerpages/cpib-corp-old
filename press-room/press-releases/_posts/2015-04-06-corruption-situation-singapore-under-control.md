@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Situation in Singapore Under Control"
-permalink: "/press-room/press-releases/corruption-situation-singapore-under-control"
+permalink: /press-room/press-releases/corruption-situation-singapore-under-control/
 ---
 **Key Highlights**
 

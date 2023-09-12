@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Compromising the Integrity of Rehabilitation Services"
-permalink: "/press-room/press-releases/no-compromising-integrity-rehabilitation-services"
+permalink: /press-room/press-releases/no-compromising-integrity-rehabilitation-services/
 ---
 Individuals who take advantage of their position for personal gains through corrupt means not only compromised their integrity but those under their care. This is especially so for individuals working in rehabilitation services who obtain bribes from residents in return for leniency in their supervision, as such acts will compromise the efforts to rehabilitate them.
 

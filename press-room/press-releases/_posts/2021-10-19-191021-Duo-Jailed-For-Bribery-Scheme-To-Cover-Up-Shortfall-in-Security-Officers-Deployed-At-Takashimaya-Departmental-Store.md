@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duo Jailed For Bribery Scheme To Cover Up Shortfall in Security Officers Deployed At Takashimaya Departmental Store"
-permalink: "/press-room/press-releases/191021-Duo-Jailed"
+permalink: /press-room/press-releases/191021-duo-jailed/
 ---
 On 19 October 2021, Chan Kuen Thong (“Chan”) (陈建堂), a 64-year-old male Singaporean) who was in-charge of Takashimaya Departmental Store’s (“TDS”) security department at the material time, was sentenced to 10 months’ imprisonment and ordered to pay a penalty of S$42,500 for accepting bribes. The giver, Mandhir Singh Karpal Singh (“Mandhir”), a 30-year-old male Singapore Permanent Resident who was then the director of White Knights Security Services Pte Ltd (“White Knights”), was sentenced to 10 months’ imprisonment for corruption on 16 August 2021. 
 

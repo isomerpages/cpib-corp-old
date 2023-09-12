@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Wrongful Communication of Information under the Official Secrets Act"
-permalink: "/press-room/press-releases/charged-wrongful-communication-information-under-official-secrets-act"
+permalink: /press-room/press-releases/charged-wrongful-communication-information-under-official-secrets-act/
 ---
 On 12 May 2021, two individuals were charged in court with offences under the Official Secrets Act. They are:
 

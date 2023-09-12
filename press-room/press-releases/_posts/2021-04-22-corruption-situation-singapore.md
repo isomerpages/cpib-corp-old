@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Situation In Singapore"
-permalink: "/press-room/press-releases/corruption-situation-singapore"
+permalink: /press-room/press-releases/corruption-situation-singapore/
 ---
 **Annual Statistics**
 

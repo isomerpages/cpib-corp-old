@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "In A Tight Spot"
-permalink: "/press-room/press-releases/tight-spot"
+permalink: /press-room/press-releases/tight-spot/
 ---
 On 24 August 2018, one Zhang Junli was sentenced to three weeks’ imprisonment for corruption.
 

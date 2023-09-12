@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged over Illegal Business Practices"
-permalink: "/press-room/press-releases/charged-over-illegal-business-practices"
+permalink: /press-room/press-releases/charged-over-illegal-business-practices/
 ---
 Individuals who resort to corrupt means to advance business interests will have to face the full consequences of the law.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "National Research Foundation Director and Company Director Charged for Alleged Corruption"
-permalink: "/press-room/press-releases/230623-National-Research-Foundation"
+permalink: /press-room/press-releases/230623-national-research-foundation/
 ---
 On 23 June 2023, the following two individuals were charged in Court for allegedly committing corruption:
 

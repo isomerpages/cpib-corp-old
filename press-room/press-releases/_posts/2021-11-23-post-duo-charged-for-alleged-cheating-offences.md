@@ -1,7 +1,7 @@
 ---
 title: "Duo Charged for Alleged Cheating Offences "
 date: 2021-11-23
-permalink: /press-room/press-releases/231121-Duocharged
+permalink: /press-room/press-releases/231121-duocharged/
 layout: post
 ---
 On 23 November 2021, two individuals will be charged in Court for alleged cheating offences whereby air tickets were sold to two passengers at an inflated price. They are:

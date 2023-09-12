@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Vices Do Not Make A Right"
-permalink: "/press-room/press-releases/two-vices-do-not-make-right"
+permalink: /press-room/press-releases/two-vices-do-not-make-right/
 ---
 Bribing or attempting to bribe public officers to get out of trouble with the law is a serious offence in Singapore.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bribes for Bike Rejected"
-permalink: "/press-room/press-releases/bribes-bike-rejected"
+permalink: /press-room/press-releases/bribes-bike-rejected/
 ---
 On 29 January 2021, Wong Swee Liang (“Wong”) (王绥量), a 58-year-old shipping executive was sentenced to 3 weeks’ imprisonment for attempting to bribe an enforcement officer from the Land Transport Authority (LTA).
 

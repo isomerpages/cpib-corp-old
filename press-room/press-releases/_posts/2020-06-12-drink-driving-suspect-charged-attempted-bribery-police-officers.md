@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drink Driving Suspect Charged with Attempted Bribery of Police Officers"
-permalink: "/press-room/press-releases/drink-driving-suspect-charged-attempted-bribery-police-officers"
+permalink: /press-room/press-releases/drink-driving-suspect-charged-attempted-bribery-police-officers/
 ---
 Individuals suspected of offences such as drink driving should never try to bribe their way out of law enforcement checks by authorities. Those who attempt to do so will face more serious consequences under the law.
 

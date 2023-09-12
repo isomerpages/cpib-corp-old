@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Former Employees of GlobalFoundries Singapore and Company Director Charged for Alleged Offences"
-permalink: "/press-room/press-releases/190722-Four-Former"
+permalink: /press-room/press-releases/190722-four-former/
 ---
 On 19 July 2022, four former employees of semiconductor firm GlobalFoundries Singapore Pte. Ltd. (“GFS”) and one company director will be charged in Court for alleged
 offences. The four former GFS employees are:

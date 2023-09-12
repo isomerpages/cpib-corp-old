@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The compromised whistle and flag"
-permalink: "/press-room/press-releases/compromised-whistle-and-flag"
+permalink: /press-room/press-releases/compromised-whistle-and-flag/
 ---
 “Referee kelong” could be heard when soccer matches are not umpired properly. And we usually push the blame to this man with the whistle when our favourite team lost the match. However, besides the whistle-man, there are two other match officials with flags who also have influence over the outcome of the match. Together, the trio can make or break the game and spoil the beauty of the sport!
 

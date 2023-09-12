@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Situation In Singapore Remains Firmly Under Control"
-permalink: "/press-room/press-releases/corruption-situation-singapore-remains-firmly-under-control"
+permalink: /press-room/press-releases/corruption-situation-singapore-remains-firmly-under-control/
 ---
 ![Infographics_2](https://user-images.githubusercontent.com/84945723/124137134-f9380300-dab7-11eb-8476-b013f875d783.png)
 

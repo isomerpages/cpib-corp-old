@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phey Yew Kok to Face 34 Charges"
-permalink: "/press-room/press-releases/phey-yew-kok-face-34-charges"
+permalink: /press-room/press-releases/phey-yew-kok-face-34-charges/
 ---
 On 23 July 2015, former fugitive Phey Yew Kok faces a total of 34 charges in Court. These charges include the four counts of Criminal Breach of Trust (CBT) and two counts under the Trade Unions Act (Cap 129) that were tendered against Phey in Court on 10 December 1979. Phey had absconded on 7 January 1980. He surrendered at the Singapore Embassy in Bangkok on 22 June 2015 and was escorted back to Singapore on 23 June 2015.
 

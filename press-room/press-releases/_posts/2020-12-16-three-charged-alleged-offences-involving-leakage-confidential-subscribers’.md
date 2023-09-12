@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Charged with Alleged Offences Involving Leakage of Confidential Subscribers’ Information"
-permalink: "/press-room/press-releases/three-charged-alleged-offences-involving-leakage-confidential-subscribers’"
+permalink: /press-room/press-releases/three-charged-alleged-offences-involving-leakage-confidential-subscribers’/
 ---
 On 16 December 2020, three individuals were charged in Court for allegedly committing corruption and computer misuse offences. Foo Cheek Ann Kelvin (Fu Ji’an) and Zhang Jiazheng had allegedly assisted one Lee Cheng Yan (“Lee”) to retrieve confidential customer details (such as billing addresses) from Singtel and Starhub respectively without authority, while Lim Zong Xian Philbert (Lin Zongxian) had allegedly corruptly given Lee $1,000 for Lee’s assistance in procuring some of these confidential details. Their charges are summarised as follows:
 

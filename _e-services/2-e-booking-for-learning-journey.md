@@ -1,6 +1,6 @@
 ---
 title: e-Booking for Learning Journey
-permalink: /e-services/e-booking-for-learning-journey
+permalink: /e-services/e-booking-for-learning-journey/
 ---
 
 <img src="/images/book_learning-journey.jpg" alt="Learning Journey">

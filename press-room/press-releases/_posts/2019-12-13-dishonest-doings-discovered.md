@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dishonest Doings Discovered"
-permalink: "/press-room/press-releases/dishonest-doings-discovered"
+permalink: /press-room/press-releases/dishonest-doings-discovered/
 ---
 The integrity and reputation of Singapore’s financial system can be tarnished by individuals who seek to circumvent sound anti-money laundering safeguards through dishonest means. 
 

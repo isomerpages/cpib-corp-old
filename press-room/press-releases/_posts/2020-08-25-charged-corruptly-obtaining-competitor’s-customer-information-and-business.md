@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged for Corruptly Obtaining Competitor’s Customer Information and Business"
-permalink: "/press-room/press-releases/charged-corruptly-obtaining-competitor’s-customer-information-and-business"
+permalink: /press-room/press-releases/charged-corruptly-obtaining-competitor’s-customer-information-and-business/
 ---
 The giving, offering or accepting of bribes with corrupt intent is illegal. Employees found guilty of corruption in their conduct of business have to face the full consequences under the law. 
 

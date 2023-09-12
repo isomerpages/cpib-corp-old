@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "UNODC, Singapore collaborate to boost corruption investigations in the Asia-Pacific"
-permalink: "/press-room/events/unodc-singapore-collaborate-boost-corruption-investigations-asia-pacific"
+permalink: /press-room/events/unodc-singapore-collaborate-boost-corruption-investigations-asia-pacific/
 ---
 ![UNODC](https://user-images.githubusercontent.com/84945723/124088825-e86e9980-da85-11eb-8b54-95ede1675fee.jpg)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Bitter Pill To Swallow"
-permalink: "/press-room/press-releases/bitter-pill-swallow"
+permalink: /press-room/press-releases/bitter-pill-swallow/
 ---
 Individuals who are tempted by greed, and who do not conduct business dealings in a clean and transparent manner will eventually have to face severe consequences.
 

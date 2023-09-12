@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Putting the Brakes on Corrupt Dealings"
-permalink: "/press-room/press-releases/putting-brakes-corrupt-dealings"
+permalink: /press-room/press-releases/putting-brakes-corrupt-dealings/
 ---
 It is illegal to advance business interests through corrupt means. Perpetrators of such acts will face serious consequences.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged For Alleged Cheating and Forgery Offences"
-permalink: "/press-room/press-releases/two-charged-alleged-cheating-and-forgery-offences"
+permalink: /press-room/press-releases/two-charged-alleged-cheating-and-forgery-offences/
 ---
 On 28 January 2021, two individuals were charged in court for allegedly committing cheating and forgery offences:
 

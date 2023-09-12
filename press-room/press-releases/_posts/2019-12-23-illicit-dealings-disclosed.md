@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illicit Dealings Disclosed"
-permalink: "/press-room/press-releases/illicit-dealings-disclosed"
+permalink: /press-room/press-releases/illicit-dealings-disclosed/
 ---
 It is an offence to advance business interests through corrupt means or to cheat companies into awarding contracts. Those who do so will be firmly dealt with by the law.
 

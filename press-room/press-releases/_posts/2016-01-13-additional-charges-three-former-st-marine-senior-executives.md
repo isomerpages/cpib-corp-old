@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Additional Charges for Three Former ST Marine Senior Executives"
-permalink: "/press-room/press-releases/additional-charges-three-former-st-marine-senior-executives"
+permalink: /press-room/press-releases/additional-charges-three-former-st-marine-senior-executives/
 ---
 On 13 January 2016, three former Singapore Technologies Marine Limited (ST Marine) senior executives will face additional charges in Court:
 

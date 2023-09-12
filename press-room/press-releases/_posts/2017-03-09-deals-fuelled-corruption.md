@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deals Fuelled By Corruption"
-permalink: "/press-room/press-releases/deals-fuelled-corruption"
+permalink: /press-room/press-releases/deals-fuelled-corruption/
 ---
 Those who abuse their position in the company to manipulate deals for personal gains will face dire consequences.
 

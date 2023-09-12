@@ -1,7 +1,7 @@
 ---
 title: Three Charged with Corruption and Cheating Offences
 date: 2021-07-16
-permalink: /press-room/press-releases/three-charged-corruption-and-cheating-offences
+permalink: /press-room/press-releases/three-charged-corruption-and-cheating-offences/
 layout: post
 ---
 

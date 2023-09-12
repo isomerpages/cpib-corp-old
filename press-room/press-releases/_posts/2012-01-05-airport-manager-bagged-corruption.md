@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Airport manager bagged for corruption"
-permalink: "/press-room/press-releases/airport-manager-bagged-corruption"
+permalink: /press-room/press-releases/airport-manager-bagged-corruption/
 ---
 The accused, Abdul Rahim Bin Jumaat, was employed as a Duty Terminal Manager at the Baggage Department of the Singapore Airport Terminal Services Limited (SATS). His responsibilities included overseeing the daily loading and unloading operation of passenger baggage for incoming and outgoing flights from Changi Airport Terminal 2.
 

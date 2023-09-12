@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Six Individuals Charged For Alleged Offences Relating To Misappropriation and Dishonest Receipt of Prohibited Tobacco Products and Contraband Cigarettes"
-permalink: "/press-room/press-releases/211022-Six-Individuals"
+permalink: /press-room/press-releases/211022-six-individuals/
 ---
 On 21 October 2022, six individuals were charged in Court for allegedly committing criminal breach of trust, dishonestly receiving stolen property and forging documents.
 

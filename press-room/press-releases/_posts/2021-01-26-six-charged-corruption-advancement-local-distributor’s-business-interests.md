@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Six Charged with Corruption for Advancement of Local Distributor’s Business Interests"
-permalink: "/press-room/press-releases/six-charged-corruption-advancement-local-distributor’s-business-interests"
+permalink: /press-room/press-releases/six-charged-corruption-advancement-local-distributor’s-business-interests/
 ---
 On 26 January 2021, six individuals were charged in Court for allegedly committing corrupt acts to advance the business interests of Kodi Engineering Services Pte Ltd (“Kodi”), a distributor of surveying instruments for Sokkia Singapore Positioning Sales Pte Ltd (“Sokkia”). Neo Soon Hock (“Neo”), the Managing Director of Kodi, had allegedly given corrupt gratifications totalling $218,580 to various parties, including Tan Jianwen (“Tan”), a Regional Sales Manager of Sokkia, as well as employees of other companies in the construction and engineering sectors which would typically use such instruments.
 

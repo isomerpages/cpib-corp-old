@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jail For Motorist Who Turned To Corruption"
-permalink: "/press-room/press-releases/jail-motorist-who-turned-corruption"
+permalink: /press-room/press-releases/jail-motorist-who-turned-corruption/
 ---
 Motorists are expected to abide by traffic regulations, and should be prepared to bear the consequences for any breach. Resorting to bribery does not offer any respite, and would in fact get one into more serious trouble.
  

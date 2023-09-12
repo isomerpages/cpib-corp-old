@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Moldovan Jailed For Attempt To Bribe Police Officers"
-permalink: "/press-room/press-releases/moldovan-jailed-attempt-bribe-police-officers"
+permalink: /press-room/press-releases/moldovan-jailed-attempt-bribe-police-officers/
 ---
 On 11 May 2017, one Belousova Natalia from Moldova was sentenced to four weeks’ imprisonment for attempting to bribe three police officers.
 

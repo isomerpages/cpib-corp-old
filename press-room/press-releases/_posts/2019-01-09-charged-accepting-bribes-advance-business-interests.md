@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Accepting Bribes to Advance Business Interests"
-permalink: "/press-room/press-releases/charged-accepting-bribes-advance-business-interests"
+permalink: /press-room/press-releases/charged-accepting-bribes-advance-business-interests/
 ---
 It is illegal to accept gratification as a reward for favour in business dealings. Employees should never accept bribes in return for advancing business interests. 
 

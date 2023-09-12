@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Football Match-Fixer Gets 30 Months’ Imprisonment"
-permalink: "/press-room/press-releases/football-match-fixer-gets-30-months’-imprisonment"
+permalink: /press-room/press-releases/football-match-fixer-gets-30-months’-imprisonment/
 ---
 On 9 October 2015, Singaporean Selvarajan s/o Letchuman was sentenced to 30 months’ imprisonment for match-fixing and cheating offence
 

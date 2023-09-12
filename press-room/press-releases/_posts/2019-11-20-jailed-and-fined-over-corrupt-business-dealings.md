@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jailed and Fined Over Corrupt Business Dealings"
-permalink: "/press-room/press-releases/jailed-and-fined-over-corrupt-business-dealings"
+permalink: /press-room/press-releases/jailed-and-fined-over-corrupt-business-dealings/
 ---
 Resorting to bribery to advance business interests is illegal. Individuals and companies engaged in corrupt practices will have to bear the full brunt of the law.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome Remarks by Associate Professor Ho Peng Kee, Senior Minister of State for Law and Home Affairs at the Asian Development Bank Organisation for Economic Co-operation and Development’s (ADB-OECD) 6th Regional Anti-Corruption Conference"
-permalink: "/press-room/speeches/welcome-remarks-associate-professor-ho-peng-kee-senior-minister-state-law-and"
+permalink: /press-room/speeches/welcome-remarks-associate-professor-ho-peng-kee-senior-minister-state-law-and/
 ---
 <p>Mr Lawrence Greenwood, Vice President (Operations 2), Asian Development Bank,<br />Mr. Mario Amano, Deputy Secretary General of the OECD,<br />Distinguished guests,<br />Ladies and gentlemen
   

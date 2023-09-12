@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fueled by Corruption"
-permalink: "/press-room/press-releases/fueled-corruption"
+permalink: /press-room/press-releases/fueled-corruption/
 ---
 The bunkering industry in Singapore is among the largest in the world. It is important to protect the integrity of the industry and to ensure a level playing field for all. 
 

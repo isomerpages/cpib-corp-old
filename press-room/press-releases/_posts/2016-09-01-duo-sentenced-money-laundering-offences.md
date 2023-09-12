@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duo sentenced for money laundering offences"
-permalink: "/press-room/press-releases/duo-sentenced-money-laundering-offences"
+permalink: /press-room/press-releases/duo-sentenced-money-laundering-offences/
 ---
 On 1 September 2016, one American male, Thomas Philip Doehrman and one Singaporean female, Lim Ai Wah were sentenced for money laundering and related offences. Thomas Philip Doehrman, Director of Quest Petroleum (Singapore) Pte Ltd, was sentenced to 70 months’ jail while Lim Ai Wah, Director of Questzone Offshore Ltd (“Questzone”), was sentenced to 60 months’ jail.     
 

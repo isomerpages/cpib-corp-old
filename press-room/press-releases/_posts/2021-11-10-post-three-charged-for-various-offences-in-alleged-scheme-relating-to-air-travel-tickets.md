@@ -2,7 +2,7 @@
 title: Three Charged For Various Offences in Alleged Scheme Relating to Air
   Travel Tickets
 date: 2021-11-10
-permalink: /press-room/press-releases/101121-threecharged
+permalink: /press-room/press-releases/101121-threecharged/
 layout: post
 ---
 On 10 November 2021, three individuals were charged in Court for various offences

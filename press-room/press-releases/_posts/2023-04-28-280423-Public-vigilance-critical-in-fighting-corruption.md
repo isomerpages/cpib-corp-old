@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public Vigilance Critical In Fighting Corruption"
-permalink: "/press-room/press-releases/280423-Public-vigilance-critical-in-fighting-corruption"
+permalink: /press-room/press-releases/280423-public-vigilance-critical-in-fighting-corruption/
 ---
 **Corruption Situation in Singapore Remains Firmly Under Control**
 

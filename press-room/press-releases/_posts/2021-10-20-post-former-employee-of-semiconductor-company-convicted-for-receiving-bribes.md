@@ -1,7 +1,7 @@
 ---
 title: Former Employee of Semiconductor Company Convicted for Receiving Bribes
 date: 2021-10-20
-permalink: /press-room/press-releases/201021-FormerEmployee
+permalink: /press-room/press-releases/201021-formeremployee/
 layout: post
 ---
 It is illegal to give or receive bribes as inducements to advance business interests. Those who do so will face serious consequences. On 20 October 2021, Karu Jeyamani A/L Karrupiah (“Karu”) (43-year-old male Malaysian), a Senior Technical Specialist of Micron Semiconductor Asia Operations Pte Ltd (“Micron”) at the material time, was sentenced to a fine of S$16,000 and penalty of S$5,000 for receiving bribes. 

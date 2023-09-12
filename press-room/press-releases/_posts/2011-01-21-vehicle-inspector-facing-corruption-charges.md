@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Vehicle Inspector Facing Corruption Charges"
-permalink: "/press-room/press-releases/vehicle-inspector-facing-corruption-charges"
+permalink: /press-room/press-releases/vehicle-inspector-facing-corruption-charges/
 ---
 The accused, Md Daud bin Nadzim, is a 45 year-old Singaporean.
 

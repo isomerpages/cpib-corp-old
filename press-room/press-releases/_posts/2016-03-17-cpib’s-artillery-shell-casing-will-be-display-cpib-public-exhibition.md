@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB’s Artillery Shell Casing Will Be On Display At CPIB Public Exhibition"
-permalink: "/press-room/press-releases/cpib’s-artillery-shell-casing-will-be-display-cpib-public-exhibition"
+permalink: /press-room/press-releases/cpib’s-artillery-shell-casing-will-be-display-cpib-public-exhibition/
 ---
 The Corrupt Practices Investigation Bureau (CPIB) is honoured to receive an artillery shell casing collected from the 21-gun salute fired by the 21st Battalion, Singapore Artillery during the State Funeral Procession of founding Prime Minister Lee Kuan Yew. 
 

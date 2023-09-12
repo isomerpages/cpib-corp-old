@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Read-for-Books Charity Drive"
-permalink: "/press-room/events/read-books-charity-drive"
+permalink: /press-room/events/read-books-charity-drive/
 ---
 ![Reading_0](https://user-images.githubusercontent.com/84945723/124105382-c11fc880-da95-11eb-9d77-f391bece9220.jpg)
 

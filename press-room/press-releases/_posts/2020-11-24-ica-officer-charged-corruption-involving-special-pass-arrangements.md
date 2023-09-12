@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICA Officer Charged With Corruption Involving Special Pass Arrangements"
-permalink: "/press-room/press-releases/ica-officer-charged-corruption-involving-special-pass-arrangements"
+permalink: /press-room/press-releases/ica-officer-charged-corruption-involving-special-pass-arrangements/
 ---
 On 24 November 2020, **Teo Hwee Peng (张伟平, 47-year-old male Singaporean)** [“Teo”], a Checkpoints Inspector of the Immigration and Checkpoints Authority of Singapore (“ICA”), will be charged in Court for corruptly obtaining gratification in various forms, in particular money and sex, from two female Chinese Nationals; these were obtained in return for helping them to remain in Singapore by arranging for them to be issued with a Special Pass. Teo’s alleged offences are as follows:
 

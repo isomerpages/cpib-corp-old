@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Prime Minister Lee Hsien Loong at CPIB's 60th Anniversary Celebration"
-permalink: "/press-room/speeches/speech-prime-minister-lee-hsien-loong-cpibs-60th-anniversary-celebration"
+permalink: /press-room/speeches/speech-prime-minister-lee-hsien-loong-cpibs-60th-anniversary-celebration/
 ---
 <p>Mr Lee Kuan Yew<br />ESM Goh Chok Tong<br />Mr Eric Tan<br />Director of CPIB<br />Ladies and gentlemen</p>
 

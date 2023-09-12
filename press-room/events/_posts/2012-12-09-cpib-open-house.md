@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB Open House"
-permalink: "/press-room/events/cpib-open-house"
+permalink: /press-room/events/cpib-open-house/
 ---
 ![Anchor_Openhouse](https://user-images.githubusercontent.com/84945723/124114625-5d020200-da9f-11eb-8c66-2130b244d575.jpg)
 

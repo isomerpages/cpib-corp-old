@@ -2,7 +2,7 @@
 title: Former PUB Officer and Project Manager Charged For Alleged Corruption and
   Falsification of Accounts
 date: 2021-08-27
-permalink: /press-room/press-releases/270821-former-pub
+permalink: /press-room/press-releases/270821-former-pub/
 layout: post
 ---
 On 27 August 2021, two individuals were charged in court for alleged corruption and Penal Code offences. They are:

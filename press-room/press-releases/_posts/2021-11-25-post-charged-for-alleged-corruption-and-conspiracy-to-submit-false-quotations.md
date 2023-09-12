@@ -1,7 +1,7 @@
 ---
 title: Charged For Alleged Corruption And Conspiracy To Submit False Quotations
 date: 2021-11-25
-permalink: /press-room/press-releases/251121-FalseQuotations
+permalink: /press-room/press-releases/251121-falsequotations/
 layout: post
 ---
 On 25 November 2021, four individuals will be charged in Court for alleged offences under the Prevention of Corruption Act. They are:

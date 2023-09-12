@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Underhand Tactics For Unfair Advantage"
-permalink: "/press-room/press-releases/underhand-tactics-unfair-advantage"
+permalink: /press-room/press-releases/underhand-tactics-unfair-advantage/
 ---
 The abuse of one’s privileged position in a government organisation to favour a particular individual or company for personal gain can result in dire consequences.
 

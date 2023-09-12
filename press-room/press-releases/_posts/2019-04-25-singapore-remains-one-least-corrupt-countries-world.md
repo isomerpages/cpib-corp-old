@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Remains One Of The Least Corrupt Countries In The World"
-permalink: "/press-room/press-releases/singapore-remains-one-least-corrupt-countries-world"
+permalink: /press-room/press-releases/singapore-remains-one-least-corrupt-countries-world/
 ---
 Singapore continues to see a low incidence of corruption. The number of new cases registered for investigation by the Corrupt Practices Investigation Bureau (CPIB) remained low and is consistent with the trends in previous years.  Private sector cases continue to form the majority of CPIB’s investigation. Singapore remains well-regarded internationally for our anti-corruption efforts.  In the Transparency International Corruption Perceptions Index (TI-CPI) 2018, Singapore was ranked the third least corrupt country out of 180 countries and territories.
 

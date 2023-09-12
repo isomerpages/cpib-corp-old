@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Director Sentenced To Prison For Corruption"
-permalink: "/press-room/press-releases/former-director-sentenced-prison-corruption"
+permalink: /press-room/press-releases/former-director-sentenced-prison-corruption/
 ---
 On 29 June 2017, one Alex Ong Boon Chuan, former Director at Resorts World at Sentosa Pte Ltd, was sentenced to 22 weeks’ imprisonment and ordered to pay a penalty of $39,000 for corruption.  
 

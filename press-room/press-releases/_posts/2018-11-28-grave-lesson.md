@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Grave Lesson"
-permalink: "/press-room/press-releases/grave-lesson"
+permalink: /press-room/press-releases/grave-lesson/
 ---
 Companies are encouraged to have in place, robust procurement processes to prevent instances of dishonest dealings like cheating, within the organization. Individuals found to engage in such criminal activity, including money laundering, will be brought firmly to task.  
 

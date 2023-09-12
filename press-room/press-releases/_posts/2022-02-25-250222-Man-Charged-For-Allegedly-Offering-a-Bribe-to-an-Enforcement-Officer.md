@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Charged For Allegedly Offering a Bribe to an Enforcement Officer"
-permalink: "/press-room/press-releases/250222-Man-Charged"
+permalink: /press-room/press-releases/250222-man-charged/
 ---
 On 25 February 2022, Shen Qinglong (“Shen”) (沈庆龙) (32-year-old male People’s Republic of China national) will be charged in Court for alleged corruption.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB Inaugural Commendation Ceremony 2015"
-permalink: "/press-room/events/cpib-inaugural-commendation-ceremony-2015"
+permalink: /press-room/events/cpib-inaugural-commendation-ceremony-2015/
 ---
 ![Anchor_Commendation](https://user-images.githubusercontent.com/84945723/124113198-bbc67c00-da9d-11eb-8adb-7b14347d1573.jpg)
 

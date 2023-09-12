@@ -1,6 +1,6 @@
 ---
 title: Sentenced for Bribes Obtained to Avoid Construction Delays
-permalink: /press-room/press-releases/Sentencedfor
+permalink: /press-room/press-releases/sentencedfor/
 date: 2022-02-09
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3-Week Jail Term for Attempt to Bribe Singapore Customs Officer"
-permalink: "/press-room/press-releases/3-week-jail-term-attempt-bribe-singapore-customs-officer"
+permalink: /press-room/press-releases/3-week-jail-term-attempt-bribe-singapore-customs-officer/
 ---
 On 5 August 2015, Zhu Xiaolu, a Chinese national, was sentenced to a 3 week jail term for attempting to bribe a Singapore Customs Officer.
 

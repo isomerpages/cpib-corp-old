@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlawful Exchanges Uncovered"
-permalink: "/press-room/press-releases/unlawful-exchanges-uncovered"
+permalink: /press-room/press-releases/unlawful-exchanges-uncovered/
 ---
 Employees who ignore company guidelines in exchange for illicit benefits will have to face the consequences of their actions.
 

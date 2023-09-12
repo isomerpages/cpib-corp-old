@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ex-Jewellery Shop Employee Sentenced to Two Years’ Jail for Corruption and Abetting in GST Tourist Refund Fraud (CPIB-IRAS joint press release)"
-permalink: "/press-room/press-releases/ex-jewellery-shop-employee-sentenced-two-years’-jail-corruption-and"
+permalink: /press-room/press-releases/ex-jewellery-shop-employee-sentenced-two-years’-jail-corruption-and/
 ---
 **2 Mar 2015:** Lim Pheck Aun (“Lim”), a former jewellery shop employee, was sentenced to 2 years’ jail and ordered to pay a total penalty of $27,893.59 for corruption and abetting two Indian nationals to fraudulently claim Goods and Services Tax (GST) tourist refund.
 

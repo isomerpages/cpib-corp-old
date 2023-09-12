@@ -1,7 +1,7 @@
 ---
 title: Former Employees of Footwear Retailers  Charged with Alleged Corruption
 date: 2021-10-21
-permalink: /press-room/press-releases/211021-FootwearRetailer
+permalink: /press-room/press-releases/211021-footwearretailer/
 layout: post
 ---
 On 21 October 2021, three individuals will be charged in Court for alleged corruption offences. They are:

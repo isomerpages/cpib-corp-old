@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3 Years and 9 Months’ Imprisonment for Cheating Employer"
-permalink: "/press-room/press-releases/3-years-and-9-months’-imprisonment-cheating-employer"
+permalink: /press-room/press-releases/3-years-and-9-months’-imprisonment-cheating-employer/
 ---
 On 4 December 2018, one Ng Shu Jun (“Ng”) was sentenced to 3 years and 9 months’ imprisonment for cheating offences. Ng, a 30-year-old Singaporean female, was the Assistant Manager of UE ServiceCorp Singapore at the time of offence. UE ServiceCorp is a subsidiary of United Engineers Limited (“UEL”). Ng’s employment was terminated by UEL in June 2015.
 

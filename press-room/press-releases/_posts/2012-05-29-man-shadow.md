@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man in the shadow"
-permalink: "/press-room/press-releases/man-shadow"
+permalink: /press-room/press-releases/man-shadow/
 ---
 When a soccer team loses a game, we generally attribute the problem to the players’ performance, the managers’ tactics or even a “bad” judgment call by the referee. We even question whether some of the players are being overpaid by the club for giving sub-standard performance. But have we considered that there could be more than one paymaster who stealthily orchestrated the outcome of the match even before it is being played? This “man in the shadow” destroys the beauty and ideals of the sport!
 

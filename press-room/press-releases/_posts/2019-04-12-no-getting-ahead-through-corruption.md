@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Getting Ahead Through Corruption"
-permalink: "/press-room/press-releases/no-getting-ahead-through-corruption"
+permalink: /press-room/press-releases/no-getting-ahead-through-corruption/
 ---
 Individuals seeking to advance business interests should do so in an honest and transparent manner. Engaging in corrupt acts will only land one in serious trouble with the law.
 

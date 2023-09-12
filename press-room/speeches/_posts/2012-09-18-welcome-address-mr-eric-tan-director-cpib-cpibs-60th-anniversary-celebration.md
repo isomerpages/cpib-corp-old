@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Welcome Address by Mr Eric Tan, Director CPIB at the CPIB's 60th Anniversary Celebration"
-permalink: "/press-room/speeches/welcome-address-mr-eric-tan-director-cpib-cpibs-60th-anniversary-celebration"
+permalink: /press-room/speeches/welcome-address-mr-eric-tan-director-cpib-cpibs-60th-anniversary-celebration/
 ---
 Our Guest-of-Honour, Prime Minister, Mr Lee Hsien Loong, our most honourable special guests, the former prime ministers of Singapore, Mr Lee Kuan Yew and Emeritus Senior Minister, Mr Goh Chok Tong, distinguished guests, fellow colleagues, ladies and gentlemen, a very good afternoon and a warm welcome to CPIB’s 60th Anniversary cum launch of the Bureau’s Coffee Table Book.
 

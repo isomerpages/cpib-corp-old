@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stuck in An Illegal Position"
-permalink: "/press-room/press-releases/stuck-illegal-position"
+permalink: /press-room/press-releases/stuck-illegal-position/
 ---
 It is illegal for individuals to misuse, or instigate others to misuse official work computers to secure unauthorised access to data to further their own private interests.
 

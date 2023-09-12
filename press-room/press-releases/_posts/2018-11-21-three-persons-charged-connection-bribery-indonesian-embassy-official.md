@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Persons Charged in connection with Bribery of Indonesian Embassy Official"
-permalink: "/press-room/press-releases/three-persons-charged-connection-bribery-indonesian-embassy-official"
+permalink: /press-room/press-releases/three-persons-charged-connection-bribery-indonesian-embassy-official/
 ---
 The giving or receiving of bribes for gains is illegal. Individuals should never give, receive, or solicit corrupt gratification. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Clean Up"
-permalink: "/press-room/press-releases/corruption-clean"
+permalink: /press-room/press-releases/corruption-clean/
 ---
 Without proper procurement processes in place, building maintenance work can easily turn into an area of concern for corruption-related offences. 
 

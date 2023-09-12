@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Doing Business The Right Way"
-permalink: "/press-room/press-releases/doing-business-right-way"
+permalink: /press-room/press-releases/doing-business-right-way/
 ---
 Individuals may be tempted by profit and the lure of easy money to engage in illegal activity in the course of their business. However, it always pays to do business the right way, for those who chose to fall to temptation can expect to have the law knocking on their door.
 

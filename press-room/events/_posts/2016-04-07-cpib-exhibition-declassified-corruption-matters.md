@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB Exhibition: Declassified - Corruption Matters"
-permalink: "/press-room/events/cpib-exhibition-declassified-corruption-matters"
+permalink: /press-room/events/cpib-exhibition-declassified-corruption-matters/
 ---
 ![Advertisement - Bus Shelter_R3_website_0](https://user-images.githubusercontent.com/84945723/124111153-90db2880-da9b-11eb-94ab-8dad4dd37060.jpg)
 

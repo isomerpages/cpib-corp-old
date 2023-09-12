@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special Session of the General Assembly on Challenges and Measures to Prevent and Combat Corruption and Strengthen International Cooperation"
-permalink: "/press-room/press-releases/special-session-general-assembly-challenges-and-measures-prevent-and"
+permalink: /press-room/press-releases/special-session-general-assembly-challenges-and-measures-prevent-and/
 ---
 Minister for Education and Minister-in-charge of the Public Service, Mr Chan Chun Sing, delivered Singapore’s statement via a pre-recorded video at the plenary session of the United Nations General Assembly Special Session (UNGASS) on Corruption held from 2 to 4 June 2021 in New York. The special session focused on challenges and measures to prevent and fight corruption as well as the strengthening of international cooperation.
 

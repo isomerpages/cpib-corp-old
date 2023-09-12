@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meals-on-Wheels"
-permalink: "/press-room/events/meals-wheels"
+permalink: /press-room/events/meals-wheels/
 ---
 ![Meals on Wheelsv2_0](https://user-images.githubusercontent.com/84945723/124105063-6edea780-da95-11eb-9d16-e9f695c3295f.jpg)<br/>
 (Photo from Touch Community Services)

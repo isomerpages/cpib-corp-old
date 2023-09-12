@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Sobering Wake Up Call"
-permalink: "/press-room/press-releases/sobering-wake-call"
+permalink: /press-room/press-releases/sobering-wake-call/
 ---
 On 29 November 2017, one Tock Chan Kok, a 46 year-old delivery driver, was sentenced to three weeks’ imprisonment and a fine of $2,100 for attempting to bribe two police officers and for offences under the Road Traffic Act.
 

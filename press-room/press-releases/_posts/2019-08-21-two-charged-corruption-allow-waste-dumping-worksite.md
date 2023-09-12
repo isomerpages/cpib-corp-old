@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged with Corruption to Allow Waste Dumping at Worksite"
-permalink: "/press-room/press-releases/two-charged-corruption-allow-waste-dumping-worksite"
+permalink: /press-room/press-releases/two-charged-corruption-allow-waste-dumping-worksite/
 ---
 Corruption can lead to serious consequences. For example, corrupt arrangements which facilitate unregulated dumping of waste at a construction worksite compromise safety and can lead to serious accidents. 
  

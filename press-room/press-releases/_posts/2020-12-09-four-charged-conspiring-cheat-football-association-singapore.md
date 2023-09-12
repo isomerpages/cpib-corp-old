@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Charged with Conspiring to Cheat the Football Association of Singapore"
-permalink: "/press-room/press-releases/four-charged-conspiring-cheat-football-association-singapore"
+permalink: /press-room/press-releases/four-charged-conspiring-cheat-football-association-singapore/
 ---
 On 9 December 2020, four individuals will be charged in court for allegedly committing the following offences:
 

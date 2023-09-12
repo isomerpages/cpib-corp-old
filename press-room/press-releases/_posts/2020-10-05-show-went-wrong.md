@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Show That Went Wrong"
-permalink: "/press-room/press-releases/show-went-wrong"
+permalink: /press-room/press-releases/show-went-wrong/
 ---
 Employees should not seek to obtain bribes as a reward for favouring certain suppliers. Neither should suppliers illegally give kickbacks to secure business contracts. Such practices undermine fair business competition and drive up the cost of doing business. Those who engage in such corrupt acts for their own benefit will be taken to task.
 

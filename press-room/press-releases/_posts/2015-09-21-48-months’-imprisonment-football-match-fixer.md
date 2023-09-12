@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "48 Months’ Imprisonment for Football Match-fixer"
-permalink: "/press-room/press-releases/48-months’-imprisonment-football-match-fixer"
+permalink: /press-room/press-releases/48-months’-imprisonment-football-match-fixer/
 ---
 On 21 September 2015, Singaporean Rajendran S/O R. Kurusamy was sentenced to 48 months’ imprisonment for offences related to football match-fixing activities at the 28th South East Asian (SEA) Games.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Mosque Executive Chairman And Company Director Charged For Alleged Corruption"
-permalink: "/press-room/press-releases/230922-Former-Mosque"
+permalink: /press-room/press-releases/230922-former-mosque/
 ---
 On 23 September 2022, two individuals were charged in Court for alleged corruption. They were:
 

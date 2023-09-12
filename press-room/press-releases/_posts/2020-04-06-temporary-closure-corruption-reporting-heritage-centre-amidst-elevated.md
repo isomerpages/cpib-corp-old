@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Temporary Closure of Corruption Reporting & Heritage Centre amidst elevated safe distancing measures"
-permalink: "/press-room/press-releases/temporary-closure-corruption-reporting-heritage-centre-amidst-elevated"
+permalink: /press-room/press-releases/temporary-closure-corruption-reporting-heritage-centre-amidst-elevated/
 ---
 The Multi-Ministry Taskforce will be implementing an elevated set of safe distancing measures, as a circuit breaker to pre-empt the trend of increasing local transmission of COVID-19. The measures will take effect between 7 April to 4 May (inclusive) 2020.
 

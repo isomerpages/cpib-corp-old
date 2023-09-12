@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "33 Taken to Task for Wrongdoing"
-permalink: "/press-room/press-releases/33-taken-task-wrongdoing"
+permalink: /press-room/press-releases/33-taken-task-wrongdoing/
 ---
 In October 2018, the Corrupt Practices Investigation Bureau (CPIB) was notified by the National Environment Agency (NEA) of a complaint received by the NEA which alleged that Environmental Health Attendants (EHAs) working in Mandai Crematorium and Columbarium (MCC) have been receiving red packets from employees of Funeral Services Companies (FSCs) in return for giving the latter preferential treatment.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Note to BBC in response to BBC interview on 20 Sep"
-permalink: "/press-room/press-releases/note-bbc-response-bbc-interview-20-sep"
+permalink: /press-room/press-releases/note-bbc-response-bbc-interview-20-sep/
 ---
 We refer to the British Broadcasting Corporation (BBC) World Service Radio report on 20 September 2013 concerning Singapore’s arrest of 14 persons suspected to be involved in a match-fixing syndicate.
 

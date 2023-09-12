@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stained With Corruption"
-permalink: "/press-room/press-releases/stained-corruption"
+permalink: /press-room/press-releases/stained-corruption/
 ---
 On 16 October 2018 2018, one Nurul Aizat Bin Zainudin was fined $15,000 for corruption.
 

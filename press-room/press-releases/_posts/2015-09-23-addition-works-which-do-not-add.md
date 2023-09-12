@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Addition works which do not add up"
-permalink: "/press-room/press-releases/addition-works-which-do-not-add"
+permalink: /press-room/press-releases/addition-works-which-do-not-add/
 ---
 Procurement systems and processes are put in place to ensure fair competition from all bidding vendors. But when individuals circumvent these processes and seek benefits for themselves, a level playing field becomes impossible to achieve.
 

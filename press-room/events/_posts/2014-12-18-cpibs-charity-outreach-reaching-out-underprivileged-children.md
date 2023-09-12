@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB's Charity Outreach - Reaching Out to Underprivileged Children"
-permalink: "/press-room/events/cpibs-charity-outreach-reaching-out-underprivileged-children"
+permalink: /press-room/events/cpibs-charity-outreach-reaching-out-underprivileged-children/
 ---
 ![Anchor_Chilidren](https://user-images.githubusercontent.com/84945723/124113379-f4665580-da9d-11eb-8488-bfbd67d6139c.jpg)
 

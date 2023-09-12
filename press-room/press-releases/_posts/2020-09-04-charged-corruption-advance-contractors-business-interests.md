@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Corruption to Advance Contractors' Business Interests"
-permalink: "/press-room/press-releases/charged-corruption-advance-contractors-business-interests"
+permalink: /press-room/press-releases/charged-corruption-advance-contractors-business-interests/
 ---
 On 4 September 2020, two individuals were charged in court for allegedly committing the following offences sometime between 2017 and 2019:
 

@@ -1,7 +1,7 @@
 ---
 title: Company Director Convicted For Corruption
 date: 2021-07-15
-permalink: /press-room/press-releases/company-director-convicted-corruption
+permalink: /press-room/press-releases/company-director-convicted-corruption/
 layout: post
 ---
 

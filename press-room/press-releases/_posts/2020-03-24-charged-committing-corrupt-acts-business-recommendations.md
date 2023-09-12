@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Committing Corrupt Acts for Business Recommendations"
-permalink: "/press-room/press-releases/charged-committing-corrupt-acts-business-recommendations"
+permalink: /press-room/press-releases/charged-committing-corrupt-acts-business-recommendations/
 ---
 It is illegal to corruptly give or accept gratification to advance business interests. Individuals who resort to corrupt dealings for profit will have to face the consequences.  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced to 3 Weeks’ Jail for Bribe Offer of a Packet of Cigarettes"
-permalink: "/press-room/press-releases/sentenced-3-weeks’-jail-bribe-offer-packet-cigarettes"
+permalink: /press-room/press-releases/sentenced-3-weeks’-jail-bribe-offer-packet-cigarettes/
 ---
 On 13 March 2018, one Lam Kim Heng (“Lam”), a 68-year-old Singaporean, was sentenced to 3 weeks’ imprisonment for his attempt to bribe an Inspection Officer of CPG Facilities Management Pte Ltd.
 

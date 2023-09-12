@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Charged for Corruption Offences"
-permalink: "/press-room/press-releases/12-charged-corruption-offences"
+permalink: /press-room/press-releases/12-charged-corruption-offences/
 ---
 It is illegal to accept gratification for favours in business dealings. Employees should never accept bribes in return for advancing the business interests of others. 
 

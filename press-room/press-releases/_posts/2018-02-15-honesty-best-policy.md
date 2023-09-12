@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Honesty Is The Best Policy"
-permalink: "/press-room/press-releases/honesty-best-policy"
+permalink: /press-room/press-releases/honesty-best-policy/
 ---
 Under Singapore’s law, it is an offence for any person to knowingly give false or misleading information to law enforcement officers.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fuelling Business Interests through Corruption"
-permalink: "/press-room/press-releases/fuelling-business-interests-through-corruption"
+permalink: /press-room/press-releases/fuelling-business-interests-through-corruption/
 ---
 The giving of bribes to further business interests is an unfair and illegal practice. Individuals should never give, or agree to give gratification to gain business through such corrupt means.
 

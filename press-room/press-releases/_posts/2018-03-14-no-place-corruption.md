@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Place for Corruption"
-permalink: "/press-room/press-releases/no-place-corruption"
+permalink: /press-room/press-releases/no-place-corruption/
 ---
 Companies and employees are responsible for the lawful conduct of their businesses. Those who run afoul of laws and engage in corrupt practices will have to bear the full brunt of the law. 
 

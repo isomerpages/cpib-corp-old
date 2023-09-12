@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Matter The Amount, Bribery Will Not Be Tolerated"
-permalink: "/press-room/press-releases/no-matter-amount-bribery-will-not-be-tolerated"
+permalink: /press-room/press-releases/no-matter-amount-bribery-will-not-be-tolerated/
 ---
 On 7 September 2017, one Palaniappan Ramanathan, an Indian national, was sentenced to four weeks' imprisonment for his attempt to bribe an Auxiliary Police Officer.
 

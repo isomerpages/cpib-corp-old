@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No winner in unfair competitions"
-permalink: "/press-room/press-releases/no-winner-unfair-competitions"
+permalink: /press-room/press-releases/no-winner-unfair-competitions/
 ---
 When employees place their personal gains above the interest of their employer, no amount of good procurement systems can stop unfair advantages and corrupt practices.
 

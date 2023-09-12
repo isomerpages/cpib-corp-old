@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Police Officer and Man Charged For Alleged Corruption And Obstruction of Justice"
-permalink: "/press-room/press-releases/221122-Police-Officer"
+permalink: /press-room/press-releases/221122-police-officer/
 ---
 On 22 November 2022, Poo Tze Chiang (“Poo”) (符志强 , 45-year-old male Singaporean), a Police Officer of the Singapore Police Force at the material time, was charged in Court for allegedly committing corruption and obstruction of justice offences. Another individual, Ng Chuan Seng (“Ng”) (黄泉胜, 51-year-old male Singaporean) was also charged for allegedly committing an offence of abetment of corruption.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Convicted For Voluntarily Causing Hurt To Deter Public Servant From His Duty And Corruptly Offering Gratification To Enforcement Officers"
-permalink: "/press-room/press-releases/man-convicted-voluntarily-causing-hurt-deter-public-servant-his-duty-and"
+permalink: /press-room/press-releases/man-convicted-voluntarily-causing-hurt-deter-public-servant-his-duty-and/
 ---
 On 22 July 2020, **Liu Huibin (“Liu”)**, 刘会宾, was convicted and sentenced to two months and two weeks’ imprisonment for offences under the Penal Code and Prevention of Corruption Act.
 

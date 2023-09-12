@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Free Pass With Corruption"
-permalink: "/press-room/press-releases/no-free-pass-corruption"
+permalink: /press-room/press-releases/no-free-pass-corruption/
 ---
 The safety and security of a nation will be compromised if law enforcement officers accept bribes and disobey laws.
 

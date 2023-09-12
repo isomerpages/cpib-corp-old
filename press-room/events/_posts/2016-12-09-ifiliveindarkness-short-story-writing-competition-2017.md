@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#IfILiveInDarkness Short Story Writing Competition 2017"
-permalink: "/press-room/events/ifiliveindarkness-short-story-writing-competition-2017"
+permalink: /press-room/events/ifiliveindarkness-short-story-writing-competition-2017/
 ---
 
 ![website_0](https://user-images.githubusercontent.com/84945723/124100767-5076ad00-da91-11eb-9a1e-0f78a455847f.png)

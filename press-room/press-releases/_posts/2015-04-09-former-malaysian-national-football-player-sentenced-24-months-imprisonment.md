@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Malaysian national football player sentenced to 24 months imprisonment in match-fixing case"
-permalink: "/press-room/press-releases/former-malaysian-national-football-player-sentenced-24-months-imprisonment"
+permalink: /press-room/press-releases/former-malaysian-national-football-player-sentenced-24-months-imprisonment/
 ---
 The popularity of football and the lucrative business of football betting have made the matches susceptible to illegal practices including match-fixing. These practices must be eliminated to protect the integrity of the sport and to keep the local sports scene clean.
 

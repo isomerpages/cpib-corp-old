@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "14 arrested in crackdown on organised crime group dealing with corrupt sports activities (CPIB-SPF joint press statement)"
-permalink: "/press-room/press-releases/14-arrested-crackdown-organised-crime-group-dealing-corrupt-sports"
+permalink: /press-room/press-releases/14-arrested-crackdown-organised-crime-group-dealing-corrupt-sports/
 ---
 12 males and 2 females (aged between 38 and 60 years old) have been arrested on suspicion of being part of an organised crime group involved with match fixing activities.
 

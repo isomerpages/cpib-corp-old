@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Room For Under The Table Deals"
-permalink: "/press-room/press-releases/no-room-under-table-deals"
+permalink: /press-room/press-releases/no-room-under-table-deals/
 ---
 Accepting monies or gifts that were given with the intention to gain an unfair business advantage is unethical and can constitute an act of corruption. 
 

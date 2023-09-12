@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Shell Employees Charged For Corruption"
-permalink: "/press-room/press-releases/former-shell-employees-charged-corruption"
+permalink: /press-room/press-releases/former-shell-employees-charged-corruption/
 ---
 On 23 February 2021, three former employees of Shell Eastern Petroleum Pte Ltd (“Shell”), who were earlier charged by the Singapore Police Force for their alleged involvement in misappropriating fuel from Shell Bukom, were further charged in court for corruption offences. Between 2014 to 2017, they allegedly gave or conspired to give corrupt gratifications totalling about US$116,900 to employees of various surveying companies which were engaged by Shell to inspect vessels which Shell supplied fuel to. The three individuals are:
 

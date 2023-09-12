@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption in Singapore Remains Low"
-permalink: "/press-room/press-releases/corruption-singapore-remains-low"
+permalink: /press-room/press-releases/corruption-singapore-remains-low/
 ---
 Singapore is well known for its clean and incorrupt system. The Transparency International Corruption Perceptions Index 2017 has ranked Singapore as the 6th least corrupt country in the world. Singapore has also maintained its first-place in the 2017 Political and Economic Risk Consultancy (PERC) annual survey on corruption.
 

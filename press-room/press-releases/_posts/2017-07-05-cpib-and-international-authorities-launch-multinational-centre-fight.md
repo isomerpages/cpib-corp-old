@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB and International Authorities Launch Multinational Centre in Fight Against Global Grand Corruption"
-permalink: "/press-room/press-releases/cpib-and-international-authorities-launch-multinational-centre-fight"
+permalink: /press-room/press-releases/cpib-and-international-authorities-launch-multinational-centre-fight/
 ---
 Singapore’s Corrupt Practices Investigation Bureau (CPIB) joins law enforcement agencies from Australia, Canada, New Zealand, the United Kingdom (UK) and the United States of America (USA) in launching a new International Anti-Corruption Coordination Centre (IACCC) on 5 July 2017. The multinational centre is intended to coordinate law enforcement action against global grand corruption.
 

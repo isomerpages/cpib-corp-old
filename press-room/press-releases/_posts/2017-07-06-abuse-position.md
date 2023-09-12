@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Abuse Of Position"
-permalink: "/press-room/press-releases/abuse-position"
+permalink: /press-room/press-releases/abuse-position/
 ---
 It is against the law for individuals to abuse their position of authority and solicit gratification from those under their charge.
 

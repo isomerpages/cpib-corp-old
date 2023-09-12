@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Common Means To An Unlawful End"
-permalink: "/press-room/press-releases/common-means-unlawful-end"
+permalink: /press-room/press-releases/common-means-unlawful-end/
 ---
 Employees, who compromise their morals and work ethics by resorting to corrupt transactions as a means for personal gains, not only bring dishonor to themselves but also, bring far-reaching consequences to the community-at-large.
 
