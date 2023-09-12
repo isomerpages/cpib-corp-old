@@ -4,7 +4,7 @@ permalink: /about-corruption/prevention-and-corruption/singapores-corruption-con
 third_nav_title: Prevention & Education
 ---
 
-<img src="/images/abt-corruption_CCF.png" alt="Singapores Corruption Control Framework">
+<img src="/images/abt-corruption_ccf.png" alt="Singapores Corruption Control Framework">
 
 ### **Overview**
 

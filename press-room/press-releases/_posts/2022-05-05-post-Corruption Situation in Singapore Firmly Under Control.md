@@ -17,7 +17,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 
 3\.       In 2021, CPIB received 249 corruption-related reports, a 4% increase from the 239 corruption-related reports received in 2020. Of these, CPIB registered 83 reports as new cases for investigation in 2021. This constitutes 33% of the total number of corruption-related reports received in 2021 **(Figure 1)**. A report is registered for investigation if the information received is pursuable. This is determined by the quality of relevant information provided. Investigative enquiries and intelligence probes also helped to uncover further information that enabled reports to be registered for investigation.
 
-![Figure 1](/images/Figure1.png)
+![Figure 1](/images/figure1.png)
 
 4\.       CPIB treats all reports received seriously regardless of whether the complainant is named or anonymous. We will assess these reports objectively based on the merits of the information provided. Of the 83 cases registered for investigation in 2021, 16 (19%) were from anonymous sources.<sup>1 
 	
@@ -29,7 +29,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 	
 5\.       In 2021, the majority of cases registered for investigation **(Figure 2)** were from the private sector (89%, 74 cases) with 12% of these (9 cases) involving public sector employees rejecting bribes offered by private sector individuals.<sup>2</sup> Public sector cases accounted for 11% of all cases registered for investigation in 2021. The number of public sector cases registered remained low (9 cases).
 
-![FIgure 2](/images/Figure2.png)
+![FIgure 2](/images/figure2.png)
 
 <br>
 	
@@ -39,7 +39,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 	
 6\.       In 2021, 165 individuals were prosecuted in Court for offences investigated by CPIB. Of these, 93% (154) were private sector individuals while the remaining 7% (11) were public sector employees **(Figure 3)**.
 	
-![Figure 3](/images/Figure3.png)
+![Figure 3](/images/figure3.png)
 
 <br>	
 	
@@ -47,7 +47,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 	
 7\.       Despite workplace disruptions due to the COVID-19 pandemic, CPIB achieved a high clearance rate, <sup>3</sup> completing investigation into 87% of subjects investigated in 2021 **(Figure 4)**.
 	
-![Figure 4](/images/Figure4.png)
+![Figure 4](/images/figure4.png)
 
 <br>	
 	
@@ -55,7 +55,7 @@ The corruption situation in Singapore remains firmly under control. CPIB receive
 
 8\.       The conviction rate in 2021 stood at 98% **(Figure 5)**. The consistently high conviction rate is testament to the high quality of the Bureau’s investigation to be able to stand up to scrutiny in Court, as well as the working relationship between CPIB and the Attorney-General’s Chambers (AGC) in bringing corrupt offenders to task.
 
-![Figure 5](/images/Figure5.png)
+![Figure 5](/images/figure5.png)
 
 <br>	
 	
