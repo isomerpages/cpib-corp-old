@@ -1,5 +1,6 @@
 ---
 title: Informational Brochures
+permalink: /resources/info-brochures/
 ---
 
 <img src="/images/resource_info-brochures1.jpg" alt="Informational Brochures">

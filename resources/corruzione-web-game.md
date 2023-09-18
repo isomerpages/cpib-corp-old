@@ -1,5 +1,6 @@
 ---
 title: Corruzione Web Game
+permalink: /resources/corruzione-web-game/
 ---
 
 <img src="/images/corruzione.png" alt="Corruzione Web Game">

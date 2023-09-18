@@ -1,5 +1,6 @@
 ---
 title: Downloads
+permalink: /resources/downloads/
 ---
 
 <img src="/images/resource_downloads1.jpg" alt="Downloads">

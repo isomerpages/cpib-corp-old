@@ -1,5 +1,6 @@
 ---
 title: Virtual Tour
+permalink: /resources/virtual-tour/
 ---
 
 <img src="/images/resource_virtual-tour1.jpg" alt="Virtual Tour">
