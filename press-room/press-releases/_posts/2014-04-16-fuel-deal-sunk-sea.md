@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fuel Deal Sunk at Sea"
-permalink: "/press-room/press-releases/fuel-deal-sunk-sea"
+permalink: /press-room/press-releases/fuel-deal-sunk-sea/
 ---
 Bunkering is the process of supplying fuel to ships when they call at the ports. Singapore is the largest and most important bunkering port in the world. The country’s strategic port saw bunker sales volume hit more than 42 million tonnes in 2013. This industry presents many opportunities and temptations leading to lucrative deals but this particular deal is doomed to sink...
 

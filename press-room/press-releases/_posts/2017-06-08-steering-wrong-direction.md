@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steering In The Wrong Direction"
-permalink: "/press-room/press-releases/steering-wrong-direction"
+permalink: /press-room/press-releases/steering-wrong-direction/
 ---
 On 8 June 2017, one Yang Qiang (“Yang”), a Chinese national, was sentenced to three weeks’ imprisonment for attempting to bribe his way through his driving test.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Maintains High Score for Transparency International Corruption Perceptions Index 2019"
-permalink: "/press-room/press-releases/singapore-maintains-high-score-transparency-international-corruption"
+permalink: /press-room/press-releases/singapore-maintains-high-score-transparency-international-corruption/
 ---
 The Transparency International (TI) Corruption Perceptions Index (CPI) 2019 has ranked Singapore the 4th least corrupt country in the world out of 180 countries with a score of 85, a high score from the preceding TI-CPI 2018 which Singapore has successfully maintained. Singapore is again the only Asian country ranked in the top 10.
 

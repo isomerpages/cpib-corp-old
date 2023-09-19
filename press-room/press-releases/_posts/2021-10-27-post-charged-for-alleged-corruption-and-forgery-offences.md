@@ -1,7 +1,7 @@
 ---
 title: Charged for Alleged Corruption and Forgery Offences
 date: 2021-10-27
-permalink: /press-room/press-releases/271021-Chargedfor
+permalink: /press-room/press-releases/271021-chargedfor/
 layout: post
 ---
 On 27 October 2021, the following three individuals will be charged in Court for alleged corruption and forgery offences:

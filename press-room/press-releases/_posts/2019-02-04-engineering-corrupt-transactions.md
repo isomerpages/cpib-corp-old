@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Engineering Corrupt Transactions"
-permalink: "/press-room/press-releases/engineering-corrupt-transactions"
+permalink: /press-room/press-releases/engineering-corrupt-transactions/
 ---
 Companies and their employees operating in Singapore are expected to conduct business dealings in a fair and transparent manner, instead of turning to corrupt practices. 
 

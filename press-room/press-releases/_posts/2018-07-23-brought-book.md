@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brought To Book"
-permalink: "/press-room/press-releases/brought-book"
+permalink: /press-room/press-releases/brought-book/
 ---
 Individuals who engage in corrupt practices in return for gains and advantages will be brought to book.
 

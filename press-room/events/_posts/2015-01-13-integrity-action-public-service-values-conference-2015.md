@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Integrity in Action: Public Service Values Conference 2015"
-permalink: "/press-room/events/integrity-action-public-service-values-conference-2015"
+permalink: /press-room/events/integrity-action-public-service-values-conference-2015/
 ---
 ![Anchor_CSC Public Service Values Conference-1](https://user-images.githubusercontent.com/84945723/124112790-40fd6100-da9d-11eb-81ae-7f3240098cd8.jpg)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Shortcuts may shorten your life"
-permalink: "/press-room/press-releases/shortcuts-may-shorten-your-life"
+permalink: /press-room/press-releases/shortcuts-may-shorten-your-life/
 ---
 People take shortcuts so that they can complete deadlines and accomplish objectives in a faster or easier way. Shortcut is sometimes deemed as the more efficient way. However, shortcuts are never rewarding and they may endanger lives. Imagine taking shortcuts with workplace safety regulations and requirements. Accidents may happen, lives can be lost. Read on to find out how two individuals’ corrupted actions might have risked accidents and even lives when they attempted to take “shortcuts” in the arena of workplace safety…
 

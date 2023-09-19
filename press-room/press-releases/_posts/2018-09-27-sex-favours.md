@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sex For Favours"
-permalink: "/press-room/press-releases/sex-favours"
+permalink: /press-room/press-releases/sex-favours/
 ---
 It is a serious offence for public officers to act in their own interests and use their position to solicit corrupt benefits. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A little coffee money"
-permalink: "/press-room/press-releases/little-coffee-money"
+permalink: /press-room/press-releases/little-coffee-money/
 ---
 A little bit never hurt anyone – so the old saying goes... But it is not so when it comes to corruption. No amount of “coffee money”, no matter how small, will be overlooked.
 

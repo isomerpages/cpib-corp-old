@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Former Senior NParks Officers Charged For Corruption"
-permalink: "/press-room/press-releases/two-former-senior-nparks-officers-charged-corruption"
+permalink: /press-room/press-releases/two-former-senior-nparks-officers-charged-corruption/
 ---
 On 6 April 2021, two former senior National Parks Board (“NParks”) officers will be charged for alleged corruption:
 

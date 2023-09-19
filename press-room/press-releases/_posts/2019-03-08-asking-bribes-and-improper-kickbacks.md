@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Asking for Bribes and Improper Kickbacks"
-permalink: "/press-room/press-releases/asking-bribes-and-improper-kickbacks"
+permalink: /press-room/press-releases/asking-bribes-and-improper-kickbacks/
 ---
 Companies should not pay bribes to obtain business or to avoid complications in business dealings. If they encounter requests for bribe payments, they should report the matter to the Corrupt Practices Investigation Bureau (CPIB). 
 

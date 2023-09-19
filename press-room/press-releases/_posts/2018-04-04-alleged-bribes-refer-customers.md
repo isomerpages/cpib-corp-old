@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alleged Bribes to Refer Customers"
-permalink: "/press-room/press-releases/alleged-bribes-refer-customers"
+permalink: /press-room/press-releases/alleged-bribes-refer-customers/
 ---
 Accepting or making secret payments in exchange for job referrals may amount to corruption.
 

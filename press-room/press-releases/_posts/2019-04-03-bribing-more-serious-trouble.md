@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bribing into More Serious Trouble"
-permalink: "/press-room/press-releases/bribing-more-serious-trouble"
+permalink: /press-room/press-releases/bribing-more-serious-trouble/
 ---
 Drink-driving is a serious offence that poses serious threats to public safety. Any attempt to avoid arrest through bribery would only aggravate the wrongdoing.
 

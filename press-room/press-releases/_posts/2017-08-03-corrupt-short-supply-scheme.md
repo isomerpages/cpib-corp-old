@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Corrupt Short Supply Scheme"
-permalink: "/press-room/press-releases/corrupt-short-supply-scheme"
+permalink: /press-room/press-releases/corrupt-short-supply-scheme/
 ---
 Individuals and organisations must never strike up corrupt bargains to undersupply goods or services in exchange for gratification. Such corrupt agreements can inflate the true cost of doing business in Singapore.
 

@@ -7,6 +7,6 @@ permalink: /research-room/annual-statistics-report/
 
 The Corrupt Practices Investigation Bureau releases annual statistics on the corruption situation in Singapore.
 
-<a href="/files/research room_ Annual Corruption Stats 2020 Press Release.pdf" target="_blank">Corruption Statistics 2020 (pdf - 644KB)</a>
+<a href="/files/research room_ annual corruption stats 2020 press release.pdf" target="_blank">Corruption Statistics 2020 (pdf - 644KB)</a>
 
 

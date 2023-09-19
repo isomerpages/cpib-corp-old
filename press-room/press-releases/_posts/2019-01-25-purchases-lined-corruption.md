@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Purchases Lined With Corruption"
-permalink: "/press-room/press-releases/purchases-lined-corruption"
+permalink: /press-room/press-releases/purchases-lined-corruption/
 ---
 Employees should not resort to obtaining bribes as a way to line their pockets. All business transactions should be conducted fairly and transparently.
 

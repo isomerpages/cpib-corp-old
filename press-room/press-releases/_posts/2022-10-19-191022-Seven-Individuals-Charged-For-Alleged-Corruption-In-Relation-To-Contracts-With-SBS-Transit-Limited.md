@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven Individuals Charged For Alleged Corruption In Relation To Contracts With SBS Transit Limited"
-permalink: "/press-room/press-releases/191022-Seven-Individuals"
+permalink: /press-room/press-releases/191022-seven-individuals/
 ---
 On 19 October 2022, Tan Hoon Gee (“Tan”) ( 陳訓義 , 46-year-old male Singaporean), a Senior Engineer of SBS Transit Limited (“SBST”) at the material time, will be charged for allegedly obtaining gratifications amounting to at least S$35,655 from several individuals between 2020 and 2021. These gratifications were allegedly obtained as inducement or reward for advancing the business interests of the various companies with SBST. For his actions, Tan will face 14 charges for offences punishable under Section 6(a) of the Prevention of Corruption Act, of which three charges are amalgamated charges under Section 124(4) of the Criminal Procedure Code.
 

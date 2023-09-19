@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Attempting to Bribe a Driving Tester"
-permalink: "/press-room/press-releases/charged-attempting-bribe-driving-tester"
+permalink: /press-room/press-releases/charged-attempting-bribe-driving-tester/
 ---
 The rigour of driving tests helps to enhance public safety on roads. Those who attempt to corruptly undermine the integrity of such tests will have to face the consequences.      
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Singapore Customs officer jailed 5 years for corruption and abetting in GST tourist refund fraud (CPIB, IRAS and Singapore Customs joint press release)"
-permalink: "/press-room/press-releases/former-singapore-customs-officer-jailed-5-years-corruption-and-abetting"
+permalink: /press-room/press-releases/former-singapore-customs-officer-jailed-5-years-corruption-and-abetting/
 ---
 Mohamed Yusof Bin Abdul Rahman (“Yusof”), a 67-year old former Singapore Customs officer, has been sentenced to 5 years’ jail and ordered to pay a total penalty of $673,084.80 for corruption and abetting four Indian nationals to fraudulently claim Goods and Services Tax (GST) tourist refund.
 

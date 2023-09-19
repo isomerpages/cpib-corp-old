@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Weeks’ Imprisonment for Attempt to Bribe a Police Officer"
-permalink: "/press-room/press-releases/four-weeks’-imprisonment-attempt-bribe-police-officer"
+permalink: /press-room/press-releases/four-weeks’-imprisonment-attempt-bribe-police-officer/
 ---
 On 17 July 2017, one Yelena Kalugina, a Kazakhstan national, was sentenced to four weeks’ imprisonment for her attempt to bribe a Singapore Police Officer.
 

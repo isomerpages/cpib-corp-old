@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Weeks’ Imprisonment for Attempt to Bribe Traffic Police Officer"
-permalink: "/press-room/press-releases/four-weeks’-imprisonment-attempt-bribe-traffic-police-officer"
+permalink: /press-room/press-releases/four-weeks’-imprisonment-attempt-bribe-traffic-police-officer/
 ---
 On 4 May 2017, Sang Jia Weng (“Sang”), a Malaysian, was sentenced to four weeks’ imprisonment for attempting to bribe a Traffic Police Officer.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Putting the Brakes on Corruption"
-permalink: "/press-room/press-releases/putting-brakes-corruption"
+permalink: /press-room/press-releases/putting-brakes-corruption/
 ---
 Individuals who try to obtain confidential information from public officers through corrupt means will be stopped and dealt with by the law.
 

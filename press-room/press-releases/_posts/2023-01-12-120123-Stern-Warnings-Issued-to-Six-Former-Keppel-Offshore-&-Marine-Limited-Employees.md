@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Stern Warnings Issued to Six Former Keppel Offshore & Marine Limited Employees"
-permalink: "/press-room/press-releases/120123-Stern-Warnings"
+permalink: /press-room/press-releases/120123-stern-warnings/
 ---
 The Corrupt Practices Investigation Bureau (“CPIB”) has completed its investigations, and in consultation with the Attorney-General’s Chambers (“AGC”), issued stern warnings on 11 January 2023 to six individuals who were formerly senior management staff of Keppel Offshore & Marine Limited (“KOM”). 
 

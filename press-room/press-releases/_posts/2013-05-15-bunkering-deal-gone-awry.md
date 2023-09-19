@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A bunkering deal gone awry"
-permalink: "/press-room/press-releases/bunkering-deal-gone-awry"
+permalink: /press-room/press-releases/bunkering-deal-gone-awry/
 ---
 The bunkering industry in Singapore is a lucrative business with more than 65,000 bunkering operations taking place here every year. In 2012, Singapore was the world’s top bunkering port with bunker sales volume of more than 42 million metric tonnes (mt). With the present high bunker prices, there is a high temptation for opportunistic individuals to take advantage of the chances to reap large profits and pay-offs.
 

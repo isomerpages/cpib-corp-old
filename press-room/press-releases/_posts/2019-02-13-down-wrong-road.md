@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Down The Wrong Road"
-permalink: "/press-room/press-releases/down-wrong-road"
+permalink: /press-room/press-releases/down-wrong-road/
 ---
 On 13 February 2019, one Tang Joo Yong @ Peter Tang (“Peter Tang”) was sentenced to 14 months' and 10 weeks' imprisonment and a fine of $1,300 for corruption, using criminal force against a public servant and other traffic offences. He has also been disqualified from holding or obtaining all classes of driving licences for life with effect from 13 February 2019.
 

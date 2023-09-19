@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staying Clear Of Corruption"
-permalink: "/press-room/press-releases/staying-clear-corruption"
+permalink: /press-room/press-releases/staying-clear-corruption/
 ---
 Individuals are reminded to stay clear of corruption and not use it as a means to cover up prohibited activities. 
 

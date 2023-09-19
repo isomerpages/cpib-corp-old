@@ -1,7 +1,7 @@
 ---
 title: Two Charged with Alleged Corruption for Advancing Business Interests
 date: 2021-08-11
-permalink: /press-room/press-releases/110821-two-charged
+permalink: /press-room/press-releases/110821-two-charged/
 layout: post
 ---
 

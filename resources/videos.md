@@ -1,5 +1,6 @@
 ---
 title: Videos
+permalink: /resources/videos/
 ---
 
 <img src="/images/resource_videos1.jpg" alt="Videos">

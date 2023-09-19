@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged For Corruption"
-permalink: "/press-room/press-releases/two-charged-corruption"
+permalink: /press-room/press-releases/two-charged-corruption/
 ---
 On 17 March 2021, two individuals will be charged in court for alleged corruption involving a total sum of about S$121,000. They are:
 

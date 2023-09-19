@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "30 Months’ Imprisonment for Football Match-fixing Conspirator"
-permalink: "/press-room/press-releases/30-months’-imprisonment-football-match-fixing-conspirator"
+permalink: /press-room/press-releases/30-months’-imprisonment-football-match-fixing-conspirator/
 ---
 On 21 July 2015, Indonesian national Nasiruddin was sentenced to 30 months’ imprisonment for offences related to football match fixing activities at the 28th South East Asian (SEA) Games.
 

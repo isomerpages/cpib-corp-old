@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Corrupt Practices Investigation Assistant Charged for Cheating and Theft"
-permalink: "/press-room/press-releases/former-corrupt-practices-investigation-assistant-charged-cheating-and"
+permalink: /press-room/press-releases/former-corrupt-practices-investigation-assistant-charged-cheating-and/
 ---
 Christopher Gan Boon Khong, a former Corrupt Practices Investigation Assistant, resigned from the service on 4 July 2014.
 

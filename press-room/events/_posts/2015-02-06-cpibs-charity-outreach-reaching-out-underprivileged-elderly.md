@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB's Charity Outreach - Reaching Out to Underprivileged Elderly"
-permalink: "/press-room/events/cpibs-charity-outreach-reaching-out-underprivileged-elderly"
+permalink: /press-room/events/cpibs-charity-outreach-reaching-out-underprivileged-elderly/
 ---
 ![Anchor_Elderly](https://user-images.githubusercontent.com/84945723/124112318-c2a0bf00-da9c-11eb-8492-01003e161946.jpg)
 

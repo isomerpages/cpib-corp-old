@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Law Minister K Shanmugam at the Singapore Institute of International Affairs (SIIA) Conference on Governance and Anti-Corruption"
-permalink: "/press-room/speeches/speech-law-minister-k-shanmugam-singapore-institute-international-affairs-siia"
+permalink: /press-room/speeches/speech-law-minister-k-shanmugam-singapore-institute-international-affairs-siia/
 ---
 <p>Assoc Prof Simon Tay, Chairman, Singapore Institute of International Affairs,<br />Ambassadors and High Commissioners,<br />Distinguished Guests,<br />Sponsors,<br />Ladies and Gentlemen,</p>
 

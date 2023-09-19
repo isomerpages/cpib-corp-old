@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Former ST Marine Senior Executives Charged With Corruption"
-permalink: "/press-room/press-releases/two-former-st-marine-senior-executives-charged-corruption"
+permalink: /press-room/press-releases/two-former-st-marine-senior-executives-charged-corruption/
 ---
 On 1 July 2015, two former Singapore Technologies Marine Limited (ST Marine) senior executives will be charged in Court for the following offences:
 

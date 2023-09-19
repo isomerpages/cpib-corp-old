@@ -1,5 +1,6 @@
 ---
 title: The Corruption Casebook – Stories From Under The Table
+permalink: /resources/corruption-casebook/
 ---
 
 <img src="/images/resource_bft1.jpg" alt="The Corruption Casebook">

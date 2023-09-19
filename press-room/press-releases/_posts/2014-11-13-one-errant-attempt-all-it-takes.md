@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Errant Attempt Is All It Takes"
-permalink: "/press-room/press-releases/one-errant-attempt-all-it-takes"
+permalink: /press-room/press-releases/one-errant-attempt-all-it-takes/
 ---
 Law enforcement officers are vested with the authority to clamp down on illicit activities in Singapore. Any law enforcement officer who even attempts to abuse this authority for personal and corrupt gains will face severe consequences.
 

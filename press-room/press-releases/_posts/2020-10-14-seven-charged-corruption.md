@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Seven Charged With Corruption"
-permalink: "/press-room/press-releases/seven-charged-corruption"
+permalink: /press-room/press-releases/seven-charged-corruption/
 ---
 On 14 October 2020, seven individuals were charged in court for allegedly committing the following offences sometime between 2014 and 2017.
 

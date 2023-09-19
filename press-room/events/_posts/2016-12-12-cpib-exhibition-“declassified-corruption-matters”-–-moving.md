@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB Exhibition “Declassified - Corruption Matters” – Moving On"
-permalink: "/press-room/events/cpib-exhibition-“declassified-corruption-matters”-–-moving"
+permalink: /press-room/events/cpib-exhibition-“declassified-corruption-matters”-–-moving/
 ---
 ![Bishan Public Library_1](https://user-images.githubusercontent.com/84945723/124099796-76e81880-da90-11eb-9cfc-082c65bd9dc9.jpg)
 

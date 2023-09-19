@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Landing In Hot Water"
-permalink: "/press-room/press-releases/landing-hot-water"
+permalink: /press-room/press-releases/landing-hot-water/
 ---
 Using underhanded methods to deceive your employer in order to cover up your ill-gotten gains will eventually land you in hot water.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Syndicate leader sentenced to five years and eight months’ imprisonment and $30m fine for smuggling duty-unpaid cigarettes and bribing Certis CISCO senior protection officer"
-permalink: "/press-room/press-releases/syndicate-leader-sentenced-five-years-and-eight-months’-imprisonment-and"
+permalink: /press-room/press-releases/syndicate-leader-sentenced-five-years-and-eight-months’-imprisonment-and/
 ---
 The leader of a cigarette smuggling syndicate was sentenced by the State Courts on 22 March 2018 to five years and three months’ imprisonment and a fine of $30 million for masterminding a plan to smuggle duty-unpaid cigarettes out of the Jurong Port into Singapore, and another five months’ imprisonment for bribing a Certis CISCO senior protection officer.
 

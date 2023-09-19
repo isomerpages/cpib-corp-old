@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paying A Heavy Price For Corruption"
-permalink: "/press-room/press-releases/paying-heavy-price-corruption"
+permalink: /press-room/press-releases/paying-heavy-price-corruption/
 ---
 Corruption in the aviation industry can lead to serious and far reaching consequences. For instance, bribes to under-report the weight of flight baggage could lead to overloading and compromise flight safety.
 

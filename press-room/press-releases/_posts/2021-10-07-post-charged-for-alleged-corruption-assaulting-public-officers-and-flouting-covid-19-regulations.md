@@ -2,7 +2,7 @@
 title: Charged for Alleged Corruption, Assaulting Public Officers and Flouting
   COVID-19 Regulations
 date: 2021-10-07
-permalink: /press-room/press-releases/07102021-chargedassault
+permalink: /press-room/press-releases/07102021-chargedassault/
 layout: post
 ---
 On 7 October 2021, Chen Yuanyuan (“Chen”, 陈媛媛), a 28-year-old female Chinese National will be charged in court for allegedly attempting to bribe a police officer, assaulting two police officers and flouting COVID-19 regulations.

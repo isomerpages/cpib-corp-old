@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB’s 60th Anniversary"
-permalink: "/press-room/events/cpib’s-60th-anniversary"
+permalink: /press-room/events/cpib’s-60th-anniversary/
 ---
 ![Anchor_60thAnni](https://user-images.githubusercontent.com/84945723/124114826-9f2b4380-da9f-11eb-8ff4-9218e9443fd1.jpg)
 

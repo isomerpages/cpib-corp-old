@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Engineered Deception"
-permalink: "/press-room/press-releases/engineered-deception"
+permalink: /press-room/press-releases/engineered-deception/
 ---
 When individuals engage in a conspiracy to manipulate contracts and engineer a deception for their own gain, they may face corruption charges.
 

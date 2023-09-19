@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unite Against Corruption: You are the Solution"
-permalink: "/press-room/press-releases/unite-against-corruption-you-are-solution"
+permalink: /press-room/press-releases/unite-against-corruption-you-are-solution/
 ---
 The effects and consequences of corruption are sometimes far-reaching and damaging. Though it may remain unseen and you may not feel its effects now, it can impact you in the future and in more ways than one. By then, it might be too late. The fight against corruption is a constant one and we must always remain vigilant to make sure corruption does not take root in our society. We can all play a part in combating it, so let us stand united and do our part to stamp out corruption.
 

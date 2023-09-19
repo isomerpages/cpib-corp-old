@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Corrupt Loan Doesn’t Pay"
-permalink: "/press-room/press-releases/corrupt-loan-doesn’t-pay"
+permalink: /press-room/press-releases/corrupt-loan-doesn’t-pay/
 ---
 Managing Agents (“MA”) are engaged by the Management Corporation of a Strata Title development (“MCST”) to help with the day-to-day management and maintenance of the estate, which includes sourcing for and supervising the work of contractors. Officers of MAs who corruptly give unfair advantages to contractors will be dealt with under the law.
 

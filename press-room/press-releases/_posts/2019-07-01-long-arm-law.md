@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Long Arm of the Law"
-permalink: "/press-room/press-releases/long-arm-law"
+permalink: /press-room/press-releases/long-arm-law/
 ---
 Singapore citizens who engage in corrupt acts will be firmly dealt with even if the corrupt transactions were completed outside Singapore.  
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illegal Gratifications Can Take Different Forms"
-permalink: "/press-room/press-releases/illegal-gratifications-can-take-different-forms"
+permalink: /press-room/press-releases/illegal-gratifications-can-take-different-forms/
 ---
 Illegal gratifications can take many forms.  Individuals who resort to corrupt means to advance their business interests will have to face the full consequences of the law.
 

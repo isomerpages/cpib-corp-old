@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged For Alleged Corruption Involving $20,000"
-permalink: "/press-room/press-releases/two-charged-alleged-corruption-involving-20000"
+permalink: /press-room/press-releases/two-charged-alleged-corruption-involving-20000/
 ---
 On 30 April 2021, two individuals were charged in court for alleged corruption. They are:
 

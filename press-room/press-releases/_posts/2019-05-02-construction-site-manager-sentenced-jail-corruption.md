@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Construction Site Manager Sentenced to Jail for Corruption"
-permalink: "/press-room/press-releases/construction-site-manager-sentenced-jail-corruption"
+permalink: /press-room/press-releases/construction-site-manager-sentenced-jail-corruption/
 ---
 On 2 May 2019, Muthukaruppan Periyasamy, a Site Manager of Fenzhii Engineering Services Pte Ltd and Ramo Industries Pte Ltd was sentenced to six weeks’ imprisonment for offences under the Prevention of Corruption Act.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corrupt Acts and Illegal Favours"
-permalink: "/press-room/press-releases/corrupt-acts-and-illegal-favours"
+permalink: /press-room/press-releases/corrupt-acts-and-illegal-favours/
 ---
 Those who abuse their position to give favours and unauthorized information in return for gratification will face dire consequences.
 

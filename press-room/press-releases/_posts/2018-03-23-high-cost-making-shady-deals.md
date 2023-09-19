@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "High Cost Of Making Shady Deals"
-permalink: "/press-room/press-releases/high-cost-making-shady-deals"
+permalink: /press-room/press-releases/high-cost-making-shady-deals/
 ---
 It is illegal for employees to accept bribes as a reward for making deals that are not in their company’s best interests.  
 

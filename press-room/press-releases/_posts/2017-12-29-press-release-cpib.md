@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Press Release by CPIB"
-permalink: "/press-room/press-releases/press-release-cpib"
+permalink: /press-room/press-releases/press-release-cpib/
 ---
 It is an offence for employees to cheat their employers for their own personal gains and they will have to bear the full brunt of the law.
 

@@ -1,5 +1,6 @@
 ---
 title: Scrupulous, Thorough, Fearless - The CPIB Story
+permalink: /resources/cpib-history-book/
 ---
 
 ![CPIB History Book_](https://user-images.githubusercontent.com/84945723/196591162-d58a72e9-cde8-4e4e-8c4b-1ab705172e7c.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB turns 65! - Singaporeans take quiz on corruption"
-permalink: "/press-room/events/cpib-turns-65-singaporeans-take-quiz-corruption"
+permalink: /press-room/events/cpib-turns-65-singaporeans-take-quiz-corruption/
 ---
 ![65th vid banner](https://user-images.githubusercontent.com/84945723/124093246-41403100-da8a-11eb-91de-a530da09a070.jpg)
 

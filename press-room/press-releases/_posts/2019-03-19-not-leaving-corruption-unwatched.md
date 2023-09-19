@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Not Leaving Corruption Unwatched"
-permalink: "/press-room/press-releases/not-leaving-corruption-unwatched"
+permalink: /press-room/press-releases/not-leaving-corruption-unwatched/
 ---
 The conduct of business should be free from corruption and carried out in a fair and transparent manner. If left unwatched, corruption can cause uncompetitive behaviour and harm a company’s commercial interests.
 

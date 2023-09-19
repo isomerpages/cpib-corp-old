@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Response to forum letter - Govt should disclose status of probe into Keppel O&M corruption scandal, enact harsher penalties for bribery acts"
-permalink: "/press-room/press-releases/response-forum-letter-“govt-should-disclose-status-probe-keppel-om"
+permalink: /press-room/press-releases/response-forum-letter-“govt-should-disclose-status-probe-keppel-om/
 ---
 We refer to Mr Sattar Bawany’s letter, “Govt should disclose status of probe into Keppel O&M corruption scandal, enact harsher penalties for bribery acts” (TODAY, 20 January 2021).
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged For Allegedly Cheating PA And IMDA"
-permalink: "/press-room/press-releases/two-charged-allegedly-cheating-pa-and-imda"
+permalink: /press-room/press-releases/two-charged-allegedly-cheating-pa-and-imda/
 ---
 On 26 January 2021, two individuals will be charged in Court for conspiring to cheat and dishonestly induce People’s Association (“PA”) and the Infocomm Media Development Authority (“IMDA”) into making payments totalling more than S$77,500 to various companies. The two individuals are:
 

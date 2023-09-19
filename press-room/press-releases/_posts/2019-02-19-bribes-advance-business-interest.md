@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bribes to Advance Business Interest"
-permalink: "/press-room/press-releases/bribes-advance-business-interest"
+permalink: /press-room/press-releases/bribes-advance-business-interest/
 ---
 The giving or receiving of bribes to advance business interest is an unfair and illegal practice. Individuals should never give corrupt gratification to gain business.
 

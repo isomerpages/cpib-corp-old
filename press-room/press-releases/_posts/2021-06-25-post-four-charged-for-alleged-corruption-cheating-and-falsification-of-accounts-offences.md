@@ -2,7 +2,7 @@
 title: Four Charged For Alleged Corruption, Cheating and Falsification of
   Accounts Offences
 date: 2021-06-25
-permalink: /press-room/press-releases/four-charged-alleged-corruption-cheating-and-falsification-accounts
+permalink: /press-room/press-releases/four-charged-alleged-corruption-cheating-and-falsification-accounts/
 layout: post
 ---
 On 25 June 2021, four individuals were charged in Court for respective corruption, cheating and falsification of accounts offences. They are:

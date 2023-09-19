@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deceitful Transactions"
-permalink: "/press-room/press-releases/deceitful-transactions"
+permalink: /press-room/press-releases/deceitful-transactions/
 ---
 It is illegal for employees to intentionally deceive and mislead their employers with false or erroneous documents, receipts or accounts.  
 

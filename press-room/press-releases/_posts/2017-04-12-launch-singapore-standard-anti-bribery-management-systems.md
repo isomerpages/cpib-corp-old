@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Launch of Singapore Standard on Anti-Bribery Management Systems"
-permalink: "/press-room/press-releases/launch-singapore-standard-anti-bribery-management-systems"
+permalink: /press-room/press-releases/launch-singapore-standard-anti-bribery-management-systems/
 ---
 ***SPRING and CPIB launch SS ISO 37001 to help Singapore companies looking to internationalise manage corruption risk***
 

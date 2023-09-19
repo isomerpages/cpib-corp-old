@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bunkering Company and Staff Charged with Cheating and Disguising the Benefits of Criminal Conduct"
-permalink: "/press-room/press-releases/bunkering-company-and-staff-charged-cheating-and-disguising-benefits"
+permalink: /press-room/press-releases/bunkering-company-and-staff-charged-cheating-and-disguising-benefits/
 ---
 
 <style>

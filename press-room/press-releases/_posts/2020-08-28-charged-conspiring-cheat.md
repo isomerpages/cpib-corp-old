@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged for Conspiring to Cheat"
-permalink: "/press-room/press-releases/charged-conspiring-cheat"
+permalink: /press-room/press-releases/charged-conspiring-cheat/
 ---
 The Management Corporation of a Strata Title development (also known as MCST) elects a management council to oversee the operational matters involved in running the estate, which includes managing contracts with service providers. Any alleged attempts by council members to cheat the MCST may have to face the consequences of the law.
 

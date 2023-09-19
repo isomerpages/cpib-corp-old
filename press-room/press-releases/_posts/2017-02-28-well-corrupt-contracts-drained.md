@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Well of Corrupt Contracts Drained"
-permalink: "/press-room/press-releases/well-corrupt-contracts-drained"
+permalink: /press-room/press-releases/well-corrupt-contracts-drained/
 ---
 Individuals who obtain business contracts by corrupt means will have to face the consequences of their actions.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Escaping the Long Arm of the Law"
-permalink: "/press-room/press-releases/no-escaping-long-arm-law"
+permalink: /press-room/press-releases/no-escaping-long-arm-law/
 ---
 Hew Chong Wai (“Hew”), who fled Singapore in 1987 before charges could be served on him, has been produced in Court on 13 May 2017 to face those charges. 
 

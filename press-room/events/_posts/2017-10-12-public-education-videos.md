@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public Education Videos"
-permalink: "/press-room/events/public-education-videos"
+permalink: /press-room/events/public-education-videos/
 ---
 ![PEvidbanner](https://user-images.githubusercontent.com/84945723/124093548-8c5a4400-da8a-11eb-8d13-fec39f8ad515.jpg)
 

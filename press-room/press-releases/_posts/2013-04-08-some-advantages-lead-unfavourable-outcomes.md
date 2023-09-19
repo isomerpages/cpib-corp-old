@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some advantages lead to unfavourable outcomes"
-permalink: "/press-room/press-releases/some-advantages-lead-unfavourable-outcomes"
+permalink: /press-room/press-releases/some-advantages-lead-unfavourable-outcomes/
 ---
 People may take advantage of situations or opportunities for their own benefit. However, not all advantages will result in a favourable outcome. Some advantages are just not meant to be taken! Find out how a law enforcer took advantage of a female offender but fell into the hands of the law himself…
 

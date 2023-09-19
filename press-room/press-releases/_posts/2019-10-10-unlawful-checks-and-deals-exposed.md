@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlawful Checks And Deals Exposed"
-permalink: "/press-room/press-releases/unlawful-checks-and-deals-exposed"
+permalink: /press-room/press-releases/unlawful-checks-and-deals-exposed/
 ---
 On 10 October 2019, three individuals will be charged in Court with several offences after the Immigration & Checkpoints Authority (“ICA”) referred the case to the relevant authorities. The individuals include:
 

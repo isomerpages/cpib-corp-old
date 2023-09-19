@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged for Attempting to Bribe an Enforcement Officer"
-permalink: "/press-room/press-releases/charged-attempting-bribe-enforcement-officer"
+permalink: /press-room/press-releases/charged-attempting-bribe-enforcement-officer/
 ---
 Motorists should never try to bribe their way out of traffic offences. Any attempt to do so would only land one into more serious trouble with the law.
 

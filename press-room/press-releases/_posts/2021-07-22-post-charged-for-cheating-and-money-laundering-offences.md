@@ -1,7 +1,7 @@
 ---
 title: Charged for Cheating and Money Laundering Offences
 date: 2021-07-22
-permalink: /press-room/press-releases/charged-cheating-and-money-laundering-offences
+permalink: /press-room/press-releases/charged-cheating-and-money-laundering-offences/
 layout: post
 ---
 On 22 July 2021, two individuals were charged in Court for cheating and money laundering offences. They are:

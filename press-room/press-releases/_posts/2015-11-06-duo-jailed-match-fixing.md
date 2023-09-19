@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Duo Jailed For Match-Fixing"
-permalink: "/press-room/press-releases/duo-jailed-match-fixing"
+permalink: /press-room/press-releases/duo-jailed-match-fixing/
 ---
 On 6 November 2015, Timor Leste nationals Orlando Marques Henriques Mendes and Moisés Natalino De Jesus were sentenced to 24 months’ and 20 months’ imprisonment respectively for offences related to football match-fixing activities at the 28th South East Asian (SEA) Games. In addition, Orlando Marques Henriques Mendes was ordered by the Court to pay a penalty of $1,000.
 

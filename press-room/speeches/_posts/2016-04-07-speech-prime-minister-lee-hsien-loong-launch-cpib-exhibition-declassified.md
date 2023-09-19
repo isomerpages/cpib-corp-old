@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Speech by Prime Minister Lee Hsien Loong at launch of CPIB Exhibition Declassified: Corruption Matters"
-permalink: "/press-room/speeches/speech-prime-minister-lee-hsien-loong-launch-cpib-exhibition-declassified"
+permalink: /press-room/speeches/speech-prime-minister-lee-hsien-loong-launch-cpib-exhibition-declassified/
 ---
 <p>Distinguished Guests<br />Ladies and Gentlemen</p>
 

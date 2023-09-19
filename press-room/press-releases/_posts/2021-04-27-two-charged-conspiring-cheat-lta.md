@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged for Conspiring to Cheat the LTA"
-permalink: "/press-room/press-releases/two-charged-conspiring-cheat-lta"
+permalink: /press-room/press-releases/two-charged-conspiring-cheat-lta/
 ---
 
 On 27 April 2021, the following two individuals will be charged in Court for alleged cheating offences:

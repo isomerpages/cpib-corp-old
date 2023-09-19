@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fined Over Purchases Lined With Corruption"
-permalink: "/press-room/press-releases/fined-over-purchases-lined-corruption"
+permalink: /press-room/press-releases/fined-over-purchases-lined-corruption/
 ---
 It is illegal for employees to line their pockets with corrupt commissions obtained during the course of their work.  
 

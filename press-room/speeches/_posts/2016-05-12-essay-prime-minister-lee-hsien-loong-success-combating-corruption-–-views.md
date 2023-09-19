@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Essay by Prime Minister Lee Hsien Loong: Success in Combating Corruption – Views on the Singaporean Experience"
-permalink: "/press-room/speeches/essay-prime-minister-lee-hsien-loong-success-combating-corruption-–-views"
+permalink: /press-room/speeches/essay-prime-minister-lee-hsien-loong-success-combating-corruption-–-views/
 ---
 Corruption is a scourge that can never be tolerated. Countries have tried all ways to combat it. They create anti-corruption agencies. They pass strong laws. They promulgate codes of conduct for public officials. Companies pledge to conduct business cleanly. Yet often corruption remains endemic, a cancer in the society. How then has Singapore achieved some measure of success in eradicating corruption? I put it down to four factors.
 

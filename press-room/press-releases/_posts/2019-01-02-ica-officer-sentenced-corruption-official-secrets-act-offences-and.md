@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ICA Officer Sentenced for Corruption, Official Secrets Act Offences and Obstruction of Justice"
-permalink: "/press-room/press-releases/ica-officer-sentenced-corruption-official-secrets-act-offences-and"
+permalink: /press-room/press-releases/ica-officer-sentenced-corruption-official-secrets-act-offences-and/
 ---
 It is illegal for public officers to abuse their position to solicit corrupt benefits, such as sex, in exchange for favours.
 

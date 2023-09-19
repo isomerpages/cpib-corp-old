@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chinese national sentenced to 3 months imprisonment for attempting to bribe police officers"
-permalink: "/press-room/press-releases/chinese-national-sentenced-3-months-imprisonment-attempting-bribe-police"
+permalink: /press-room/press-releases/chinese-national-sentenced-3-months-imprisonment-attempting-bribe-police/
 ---
 No amount of bribe can ever tempt the public officers imbued with integrity. No attempts of bribery will ever succeed. Anyone who tries to do so, will have to pay the price.
 

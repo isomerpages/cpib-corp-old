@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Charged For Alleged Corruption And Obstructing The Course Of Justice"
-permalink: "/press-room/press-releases/221021-Three-charged"
+permalink: /press-room/press-releases/221021-three-charged/
 ---
 On 22 October 2021, Pai Keng Pheng (白敬平, 58-year-old male Singaporean), the former Managing Director of Sentek Marine and Trading Pte Limited (“Sentek”), was charged in court for corruption and obstructing the course of justice. Two other individuals, Pai Guat Mooi (白月梅, 53-year-old female Singaporean) and Wong Wai Seng (王伟成, “Wong”, 50-year-old male Singaporean) were also charged for corruption in connection with these alleged offences. Both Pai Keng Pheng and Pai Guat Mooi were earlier charged in court for their alleged involvement in a conspiracy to dishonestly receive marine gas oil (MGO) stolen from Shell Pulau Bukom.
 

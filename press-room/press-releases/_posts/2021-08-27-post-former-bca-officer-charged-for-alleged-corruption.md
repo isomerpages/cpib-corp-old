@@ -1,7 +1,7 @@
 ---
 title: Former BCA Officer Charged for Alleged Corruption
 date: 2021-08-27
-permalink: /press-releases/270821-former-bca
+permalink: /press-releases/270821-former-bca/
 layout: post
 ---
 

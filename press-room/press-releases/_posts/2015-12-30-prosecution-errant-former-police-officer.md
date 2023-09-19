@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Prosecution of Errant Former Police Officer"
-permalink: "/press-room/press-releases/prosecution-errant-former-police-officer"
+permalink: /press-room/press-releases/prosecution-errant-former-police-officer/
 ---
 Law enforcement officers are trusted to uphold and enforce the laws. They face serious consequences when they breach that trust and errantly act against those very laws which they are to protect. 
 

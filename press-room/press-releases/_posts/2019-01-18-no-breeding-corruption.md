@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Breeding of Corruption"
-permalink: "/press-room/press-releases/no-breeding-corruption"
+permalink: /press-room/press-releases/no-breeding-corruption/
 ---
 The giving or receiving of bribes is illegal. Employees should never give, receive, or solicit corrupt gratification.
 

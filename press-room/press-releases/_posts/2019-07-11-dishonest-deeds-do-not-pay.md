@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dishonest Deeds do not Pay"
-permalink: "/press-room/press-releases/dishonest-deeds-do-not-pay"
+permalink: /press-room/press-releases/dishonest-deeds-do-not-pay/
 ---
 CPIB and SPF jointly investigated and charged two Singaporeans, namely Tan You Jia, (陈宥佳, F/48-years-old) and Lee Beng Yong (李明榮, M/50-years-old) for 14 counts and 11 counts respectively of engaging in a conspiracy to cheat three banks in relation to the application of business loans of at least $1,728,000 between 2014 and 2015, and 5 counts each of corruptly giving gratifications totaling $10,500 to two bank officers.
 

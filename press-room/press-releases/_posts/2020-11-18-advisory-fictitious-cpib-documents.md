@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advisory on Fictitious CPIB Documents"
-permalink: "/press-room/press-releases/advisory-fictitious-cpib-documents"
+permalink: /press-room/press-releases/advisory-fictitious-cpib-documents/
 ---
 
 The Corrupt Practices Investigation Bureau (CPIB) is aware that some members of the public have recently received documents via WhatsApp purporting to come from CPIB. The documents indicate that certain bank accounts of individuals, companies and third parties will be frozen within 24 hours for investigation into suspected money laundering offences. They will then be asked to pay a fine. The documents feature images of CPIB’s logo and may also feature a sign-off by a CPIB officer. The CPIB has reviewed the documents and found them to be fictitious in nature. Some tell-tale signs in the documents include spelling and grammatical errors.

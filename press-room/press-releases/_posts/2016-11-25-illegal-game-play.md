@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illegal Game at Play"
-permalink: "/press-room/press-releases/illegal-game-play"
+permalink: /press-room/press-releases/illegal-game-play/
 ---
 Offering benefits in return for leniency is illegal.
 

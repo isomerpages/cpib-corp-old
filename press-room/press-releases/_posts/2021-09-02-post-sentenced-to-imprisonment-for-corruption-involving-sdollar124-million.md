@@ -1,7 +1,7 @@
 ---
 title: "Sentenced To Imprisonment For  Corruption Involving S$1.24 million "
 date: 2021-09-02
-permalink: /press-room/press-releases/020921-sentenced-to
+permalink: /press-room/press-releases/020921-sentenced-to/
 layout: post
 ---
 On 2 September 2021, Foo Yung Thye Henry (Fu Yongtai Henry) (符永泰, 47-year-old male Singaporean) [“Foo”], a former Deputy Group Director of the Land Transport Authority [“LTA”], was sentenced to 66 months' imprisonment  for corruption. A penalty order in the sum of S$1,156,250 (in default, 12 months’ imprisonment) was imposed.

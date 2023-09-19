@@ -1,6 +1,6 @@
 ---
 title: e-Booking for Public Education Talk
-permalink: /e-services/e-booking-for-public-education-talk
+permalink: /e-services/e-booking-for-public-education-talk/
 ---
 
 <img src="/images/book_public-edu-talk.jpg" alt="Public Education Talk">

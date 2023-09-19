@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Operations Staff of a Halfway House Convicted of Corruption Offences"
-permalink: "/press-room/press-releases/former-operations-staff-halfway-house-convicted-corruption-offences"
+permalink: /press-room/press-releases/former-operations-staff-halfway-house-convicted-corruption-offences/
 ---
 Individuals working in rehabilitation services play an important role in reintegrating inmates back into society and should maintain a high standard of integrity for both themselves and those under their charge. Those who seek corrupt gratification from residents in these institutions in exchange for being lenient in supervising them will face serious consequences.
 

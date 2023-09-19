@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "18 Weeks’ Imprisonment for Former Traffic Police Clerk"
-permalink: "/press-room/press-releases/18-weeks’-imprisonment-former-traffic-police-clerk"
+permalink: /press-room/press-releases/18-weeks’-imprisonment-former-traffic-police-clerk/
 ---
 On 27 July 2016, Khatijah Bte A. Manap, a Singaporean who had worked as a clerk for the Traffic Police, was sentenced to 18 weeks' imprisonment and ordered to pay a penalty of $2,500 for corruption, and offences under the Official Secrets Act.
 

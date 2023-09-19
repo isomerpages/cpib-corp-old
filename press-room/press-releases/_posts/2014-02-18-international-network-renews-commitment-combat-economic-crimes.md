@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International Network Renews Commitment to Combat Economic Crimes"
-permalink: "/press-room/press-releases/international-network-renews-commitment-combat-economic-crimes"
+permalink: /press-room/press-releases/international-network-renews-commitment-combat-economic-crimes/
 ---
 The Corrupt Practices Investigation Bureau (CPIB) will host the second Economic Crime Agencies Network (ECAN) meeting this week from 19 to 20 February 2014 at the Mandarin Orchard Hotel.
 

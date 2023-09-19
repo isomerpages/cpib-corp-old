@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore ranked 6th in Transparency International Corruption Perceptions Index"
-permalink: "/press-room/press-releases/singapore-ranked-6th-transparency-international-corruption-perceptions"
+permalink: /press-room/press-releases/singapore-ranked-6th-transparency-international-corruption-perceptions/
 ---
 According to Transparency International (TI) Corruption Perceptions Index (CPI) for 2017, Singapore has attained 6th position among 180 countries with a score of 84.
 

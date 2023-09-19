@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One Dollar Bribe Still An Offence"
-permalink: "/press-room/press-releases/one-dollar-bribe-still-offence"
+permalink: /press-room/press-releases/one-dollar-bribe-still-offence/
 ---
 Employees are expected to carry out their duties fairly instead of obtaining bribes in exchange for favours. Even if the bribe amount is as low as $1, they can be taken to task. Bribes of any amount or any kind will not be tolerated.
 

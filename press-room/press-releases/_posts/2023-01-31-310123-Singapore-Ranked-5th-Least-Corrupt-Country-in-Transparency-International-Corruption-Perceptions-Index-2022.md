@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singapore Ranked 5th Least Corrupt Country in Transparency International Corruption Perceptions Index 2022"
-permalink: "/press-room/press-releases/310123-Singapore-Ranked"
+permalink: /press-room/press-releases/310123-singapore-ranked/
 ---
 The Transparency International (TI) Corruption Perceptions Index (CPI) 2022 has ranked Singapore the 5th least corrupt country in the world out of 180 countries with a score of 83. Singapore continues to remain the only Asian country ranked in the top 10. 
 

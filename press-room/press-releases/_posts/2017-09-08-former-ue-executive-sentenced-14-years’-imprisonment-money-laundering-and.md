@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former UE Executive Sentenced to 14 years’ Imprisonment for Money Laundering and Cheating Offences"
-permalink: "/press-room/press-releases/former-ue-executive-sentenced-14-years’-imprisonment-money-laundering-and"
+permalink: /press-room/press-releases/former-ue-executive-sentenced-14-years’-imprisonment-money-laundering-and/
 ---
 On 8 September 2017, one Linda Lee was sentenced to 14 years’ imprisonment for money laundering and cheating offences. Linda Lee is the former Vice-President (Asset Management) of United Engineers Developments Pte Ltd, a subsidiary of United Engineers Limited (UEL).
 

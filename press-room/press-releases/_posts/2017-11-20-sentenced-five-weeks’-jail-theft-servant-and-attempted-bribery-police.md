@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced to Five Weeks’ Jail for Theft as a Servant and Attempted Bribery of a Police Officer"
-permalink: "/press-room/press-releases/sentenced-five-weeks’-jail-theft-servant-and-attempted-bribery-police"
+permalink: /press-room/press-releases/sentenced-five-weeks’-jail-theft-servant-and-attempted-bribery-police/
 ---
 On 20 November 2017, one Devika Maruvan, a Malaysian national, was sentenced to five weeks’ imprisonment for theft as a servant, as well as her attempt to bribe a Singapore Police Officer.
 

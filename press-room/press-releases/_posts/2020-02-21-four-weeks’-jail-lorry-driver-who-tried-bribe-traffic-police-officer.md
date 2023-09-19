@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Weeks’ Jail for Lorry Driver who tried to Bribe Traffic Police Officer"
-permalink: "/press-room/press-releases/four-weeks’-jail-lorry-driver-who-tried-bribe-traffic-police-officer"
+permalink: /press-room/press-releases/four-weeks’-jail-lorry-driver-who-tried-bribe-traffic-police-officer/
 ---
 Motorists must abide by traffic rules and will have to bear the consequences of any violation. Attempting to bribe one’s way out will result in more serious repercussion.         
 

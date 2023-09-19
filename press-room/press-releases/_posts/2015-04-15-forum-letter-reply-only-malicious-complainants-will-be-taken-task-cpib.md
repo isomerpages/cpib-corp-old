@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Forum letter reply - Only malicious complainants will be taken to task: CPIB"
-permalink: "/press-room/press-releases/forum-letter-reply-only-malicious-complainants-will-be-taken-task-cpib"
+permalink: /press-room/press-releases/forum-letter-reply-only-malicious-complainants-will-be-taken-task-cpib/
 ---
 We thank Mr Francis Cheng for his letter “CPIB rules of reporting may frighten away whistleblowers” (April 7). The Corrupt Practices Investigation Bureau (CPIB) appreciates all feedback and works with the public to safeguard Singapore’s integrity.
 

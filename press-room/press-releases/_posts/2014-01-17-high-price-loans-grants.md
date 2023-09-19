@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The High Price of Loans for Grants"
-permalink: "/press-room/press-releases/high-price-loans-grants"
+permalink: /press-room/press-releases/high-price-loans-grants/
 ---
 There are so many kinds of loans available out there for each and every purpose but when a loan is given, it is expected to be repaid, often with interest. However, in this case when a loan is given, there is more than meets the eye. Read on to find out more...
 

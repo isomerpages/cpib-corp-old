@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting Into Deep Water"
-permalink: "/press-room/press-releases/getting-deep-water"
+permalink: /press-room/press-releases/getting-deep-water/
 ---
 On 28 June 2018, Getax Ocean Trades Pte Ltd (Getax Ocean), a Singapore incorporated company, was fined $80,000 for corruption.
 

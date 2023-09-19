@@ -6,15 +6,15 @@ permalink: /advisory/
 
 The Corrupt Practices Investigation Bureau (CPIB) is aware of an impersonation scam involving the Bureau.
 
-2\. In a recent incident, a member of public has received a call purportedly from the CPIB. The caller had requested for his employer’s bank account details such as the PIN and internet banking password. CPIB will not request for confidential details such as bank credentials and passwords over the phone. 
+2\. In a recent incident,&nbsp;a member of public has received a letter purportedly from the&nbsp;CPIB via a Whatsapp message. The Whatsapp message accompanying the letter had requested for payment from the individual relating to suspected money laundering offences.
 
-3\. Members of the public are advised to adopt the following precautions if they receive such calls or unexpected requests which may be dubious in nature:
+3\. Members of the public are advised to take the following precautions if they receive such purported CPIB documents which may be dubious in nature:
 
-a) Call CPIB’s hotline at 1800-376-0000 for assistance to verify the authenticity of the calls purported to be from CPIB.
+a) Call CPIB’s hotline at 1800-376-0000 for assistance to verify the authenticity of the documents purported to be from CPIB.
 
-b) Do not remit or transfer any money for any transactions based on instructions which the calls are asking for.
+b) Do not remit or transfer any money for any transactions based on instructions which may be included in such documents.
 
-c) Refrain from providing personal information such as your One-Time Password (OTP) and bank credentials to the requestor. 
+c) Refrain from providing personal information such as your One-Time Password (OTP) and bank credentials to the requestor.
 
 4\. CPIB takes a serious view of the impersonation of public agencies for undesirable or scam purposes. If you have any information on suspected scams based on the impersonation of CPIB or its officers, please call the CPIB hotline at 1800-376-0000, the Police hotline at 1800-255-0000, or submit it online at <a href="https://www.police.gov.sg/iwitness">www.police.gov.sg/iwitness</a>. 
 

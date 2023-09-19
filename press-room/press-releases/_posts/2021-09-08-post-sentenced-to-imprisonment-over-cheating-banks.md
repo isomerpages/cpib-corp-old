@@ -1,7 +1,7 @@
 ---
 title: Sentenced To Imprisonment Over Cheating Banks
 date: 2021-09-08
-permalink: /press-room/press-releases/080921-sentenced-to
+permalink: /press-room/press-releases/080921-sentenced-to/
 layout: post
 ---
 On 8 September 2021, Koryagin Vadim (“Vadim”), a 53-year-old male Russian national, was sentenced to 4 weeks’ imprisonment for engaging in a conspiracy to cheat various banks. 

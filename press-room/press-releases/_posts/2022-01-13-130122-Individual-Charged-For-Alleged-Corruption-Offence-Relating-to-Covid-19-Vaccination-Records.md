@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Individual Charged For Alleged Corruption Offence Relating to Covid-19 Vaccination Records"
-permalink: "/press-room/press-releases/130122-Individual-Charged"
+permalink: /press-room/press-releases/130122-individual-charged/
 ---
 On 13 January 2022, Tan Li Ming Kelvin (“Tan”) (陳立明), a 34-year-old male Singaporean, will be charged in court for alleged corruption offence relating to Covid-19
 vaccination records.

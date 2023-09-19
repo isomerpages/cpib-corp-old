@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Custodial Sentence and Penalties for Committing Corruption Overseas"
-permalink: "/press-room/press-releases/custodial-sentence-and-penalties-committing-corruption-overseas"
+permalink: /press-room/press-releases/custodial-sentence-and-penalties-committing-corruption-overseas/
 ---
 Singaporeans overseas are expected to comply with both the Prevention of Corruption Act, which has an extra-territorial effect, as well as the laws of the countries where they are operating.
 

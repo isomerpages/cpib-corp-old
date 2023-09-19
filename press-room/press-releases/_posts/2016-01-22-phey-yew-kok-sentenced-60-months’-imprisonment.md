@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Phey Yew Kok Sentenced to 60 Months’ Imprisonment"
-permalink: "/press-room/press-releases/phey-yew-kok-sentenced-60-months’-imprisonment"
+permalink: /press-room/press-releases/phey-yew-kok-sentenced-60-months’-imprisonment/
 ---
 On 22 January 2016, former fugitive Phey Yew Kok was convicted and sentenced by the State Court to 60 months’ imprisonment. Phey faced a total of 34 charges. He pleaded guilty to 12 charges, with the remaining charges taken into consideration for purpose of sentencing. The 12 proceeded charges are as follows :
 

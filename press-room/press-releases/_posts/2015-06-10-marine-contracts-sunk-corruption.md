@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Marine Contracts Sunk In Corruption"
-permalink: "/press-room/press-releases/marine-contracts-sunk-corruption"
+permalink: /press-room/press-releases/marine-contracts-sunk-corruption/
 ---
 Marine vessels require regular repair and maintenance, and contracts usually involving large sums of money are agreed with shipyards to provide such services.
 

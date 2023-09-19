@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "12 Charged For Corruption In Connection to Shell Bukom Heist"
-permalink: "/press-room/press-releases/140422-12-Charged"
+permalink: /press-room/press-releases/140422-12-charged/
 ---
 On 14 April 2022, 12 individuals were charged in Court for corruption offences in connection to the conspiracy to misappropriate oil from Shell Eastern Petroleum’s (“Shell”) Pulau Bukom site. These 12 individuals were employees of surveying companies engaged by Shell to inspect the volume of oil loaded onto the vessels which Shell supplied oil to.
 

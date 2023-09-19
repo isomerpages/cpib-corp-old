@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sentenced for Accepting and Soliciting Bribes"
-permalink: "/press-room/press-releases/sentenced-accepting-and-soliciting-bribes"
+permalink: /press-room/press-releases/sentenced-accepting-and-soliciting-bribes/
 ---
 Individuals who engage in corrupt practices will face serious consequences and the full brunt of the law.
 

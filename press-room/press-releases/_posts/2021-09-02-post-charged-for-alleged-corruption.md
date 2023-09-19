@@ -1,7 +1,7 @@
 ---
 title: Charged for Alleged Corruption
 date: 2021-09-02
-permalink: /press-room/press-releases/020921-charged-for
+permalink: /press-room/press-releases/020921-charged-for/
 layout: post
 ---
 On 2 September 2021, Karu Jeyamani A/L Karrupiah (“Karu”) (43-year-old male Malaysian), a Senior Technical Specialist of Micron Semiconductor Asia Operations Pte Ltd (“Micron”) at the material time, will be charged in Court for alleged corruption. 

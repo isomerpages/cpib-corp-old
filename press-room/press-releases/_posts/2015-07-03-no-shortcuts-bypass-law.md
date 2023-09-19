@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "No Shortcuts To Bypass The Law"
-permalink: "/press-room/press-releases/no-shortcuts-bypass-law"
+permalink: /press-room/press-releases/no-shortcuts-bypass-law/
 ---
 Singapore’s law enforcement officers have been entrusted by the public to act with integrity, especially in their course of duty. Anyone who attempts to bribe them will be taken to task.
 

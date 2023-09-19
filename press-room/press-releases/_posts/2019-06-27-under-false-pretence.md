@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Under False Pretence"
-permalink: "/press-room/press-releases/under-false-pretence"
+permalink: /press-room/press-releases/under-false-pretence/
 ---
 False allegations of corruption against public officers unfairly undermine their integrity and can erode public trust in the public service. Perpetrators of such wrongful acts must be taken to task.
 

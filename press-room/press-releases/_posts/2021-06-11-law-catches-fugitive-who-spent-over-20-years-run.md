@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Law Catches Up with Fugitive Who Spent Over 20 Years On The Run"
-permalink: "/press-room/press-releases/law-catches-fugitive-who-spent-over-20-years-run"
+permalink: /press-room/press-releases/law-catches-fugitive-who-spent-over-20-years-run/
 ---
 
  On 4 March 2020, Siva Kumar S/O Ramachandram (“Siva”), a 46-year-old Malaysian, was arrested by the Corrupt Practices Investigation Bureau (“CPIB”) with the help of the Malaysian Anti-Corruption Commission (“MACC”). Siva who spent more than 20 years as a fugitive on the run, has been brought back to serve his sentence for immigration offences he committed in Singapore in 1999.

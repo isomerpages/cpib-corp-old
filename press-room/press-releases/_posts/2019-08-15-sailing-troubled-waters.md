@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Sailing Into Troubled Waters"
-permalink: "/press-room/press-releases/sailing-troubled-waters"
+permalink: /press-room/press-releases/sailing-troubled-waters/
 ---
 Individuals and companies which employ corrupt methods to acquire business deals will get into trouble with the law.
 

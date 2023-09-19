@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illegal Support for Business Deals"
-permalink: "/press-room/press-releases/illegal-support-business-deals"
+permalink: /press-room/press-releases/illegal-support-business-deals/
 ---
 Leveraging corrupt transactions to support business dealings is illegal and must not be tolerated. 
 

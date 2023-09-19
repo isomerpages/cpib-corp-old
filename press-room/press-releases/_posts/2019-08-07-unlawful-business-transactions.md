@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unlawful Business Transactions"
-permalink: "/press-room/press-releases/unlawful-business-transactions"
+permalink: /press-room/press-releases/unlawful-business-transactions/
 ---
 Employees should perform their duties honestly and act in the best interest of their companies. Those who conspire to gain business deals through corrupt means or cheat their companies will be firmly dealt with by the law. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Woman gets 2 months’ jail for attempting to bribe a police officer"
-permalink: "/press-room/press-releases/woman-gets-2-months’-jail-attempting-bribe-police-officer"
+permalink: /press-room/press-releases/woman-gets-2-months’-jail-attempting-bribe-police-officer/
 ---
 On 23 July 2015, South Korean national Hwang Eunmi was sentenced to 2 months’ jail for attempting to bribe a police officer to release her from police custody. Hwang’s sentence was backdated to 3 July 2015, the date she was first remanded.
 

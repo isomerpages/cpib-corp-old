@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Singapore Table Tennis Association President served with corruption charges"
-permalink: "/press-room/press-releases/former-singapore-table-tennis-association-president-served-corruption"
+permalink: /press-room/press-releases/former-singapore-table-tennis-association-president-served-corruption/
 ---
 The first accused, Choo Wee Khiang (Choo), was the President of the Singapore Table Tennis Association (STTA) at the time of the alleged offences.
 

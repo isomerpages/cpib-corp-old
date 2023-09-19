@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Slice of Apple Pie Gone Bad"
-permalink: "/press-room/press-releases/slice-apple-pie-gone-bad"
+permalink: /press-room/press-releases/slice-apple-pie-gone-bad/
 ---
 The launch of a new Apple product is always eagerly anticipated by millions around the world. With the immense popularity of Apple products, being a supplier to one of the most global and saleable brands can be profitable. There is always high temptation to have a slice of this Apple pie, and some will do whatever it takes to get a share.
 

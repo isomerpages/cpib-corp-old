@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jailed Over Small-Value Bribes"
-permalink: "/press-room/press-releases/jailed-over-small-value-bribes"
+permalink: /press-room/press-releases/jailed-over-small-value-bribes/
 ---
 A bribe, regardless of the amount, is illegal. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Heavy Price of Corruption"
-permalink: "/press-room/press-releases/heavy-price-corruption"
+permalink: /press-room/press-releases/heavy-price-corruption/
 ---
 The act of bribery can happen in many forms and value. We do not tolerate bribery even when the amount is small because some corrupt acts can possibly lead to the compromise of our public safety.
 

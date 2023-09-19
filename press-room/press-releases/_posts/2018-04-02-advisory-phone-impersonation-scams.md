@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Advisory on Phone Impersonation Scams"
-permalink: "/press-room/press-releases/advisory-phone-impersonation-scams"
+permalink: /press-room/press-releases/advisory-phone-impersonation-scams/
 ---
 We are aware that members of the public have recently received calls from the Corrupt Practices Investigation Bureau (CPIB) hotline relating to the collection of documents/parcel. The CPIB would like to clarify that these calls were not made by our officers.
 

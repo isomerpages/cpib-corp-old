@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Case on Former River Valley High School Principal"
-permalink: "/press-room/press-releases/case-former-river-valley-high-school-principal"
+permalink: /press-room/press-releases/case-former-river-valley-high-school-principal/
 ---
 In 2012, the Corrupt Practices Investigation Bureau (CPIB) was investigating Koh Yong Chiah, the former principal of River Valley High School, for a possible corruption offence involving a vendor whom he allegedly had an affair with.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Former Employees Of Keppel Fels Ltd And Another Individual Charged For Corruption"
-permalink: "/press-room/press-releases/060123-Two-Former"
+permalink: /press-room/press-releases/060123-two-former/
 ---
 On 6 January 2023, three individuals were charged in Court for allegedly committing offences under the Prevention of Corruption Act. They were:
 

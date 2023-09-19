@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two Charged with Cheating Offences"
-permalink: "/press-room/press-releases/two-charged-cheating-offences"
+permalink: /press-room/press-releases/two-charged-cheating-offences/
 ---
 On 30 April 2021, two individuals will be charged in Court for allegedly conspiring to cheat and dishonestly induce a Director of JCL Facility Services Pte Ltd (“JCL”) into making payments totalling S$150,490 between 2017 and 2019. They are:
 

@@ -1,7 +1,7 @@
 ---
 title: Two Former Prison Officers and One Inmate Charged for Various  Alleged Offences
 date: 2021-11-01
-permalink: /press-room/press-releases/011121-Two-Former
+permalink: /press-room/press-releases/011121-two-former/
 layout: post
 ---
 On 1 November 2021, two former prison officers and one inmate will be charged in Court for alleged respective offences under the Official Secrets Act, Penal Code and

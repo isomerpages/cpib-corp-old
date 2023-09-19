@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Employees of Pest Control Company Sentenced to Jail for Corruption"
-permalink: "/press-room/press-releases/former-employees-pest-control-company-sentenced-jail-corruption"
+permalink: /press-room/press-releases/former-employees-pest-control-company-sentenced-jail-corruption/
 ---
 On 18 March 2019, Tung Chee Keong (湯志强) and Chandran Jeganathan, former employees of Killem Pest Pte Ltd, were sentenced to jail for offences under the Prevention of Corruption Act. Tung was sentenced to a total of 11 weeks’ and five days’ imprisonment while Jeganathan was sentenced to a total of six weeks’ and three days’ imprisonment. Killem Pest Pte Ltd (Killem) is a contractor engaged by the National Environment Agency to conduct vector control.
 

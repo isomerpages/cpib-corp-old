@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bribe at Border Rejected"
-permalink: "/press-room/press-releases/bribe-border-rejected"
+permalink: /press-room/press-releases/bribe-border-rejected/
 ---
 Bribery of public officers is a serious offence and will be firmly dealt with. On 12 October 2017, Chinese National Lin Xiurong was sentenced to three months’ imprisonment for corruptly giving cash to an Immigration & Checkpoints Authority (ICA) officer.
 

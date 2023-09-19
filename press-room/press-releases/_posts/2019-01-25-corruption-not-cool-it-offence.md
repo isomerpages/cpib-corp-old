@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Is Not Cool, It Is An Offence"
-permalink: "/press-room/press-releases/corruption-not-cool-it-offence"
+permalink: /press-room/press-releases/corruption-not-cool-it-offence/
 ---
 Under the law, it is an offence to bribe another individual. This includes agreeing to give or accept bribes as well as attempting to obtain gratification.
 

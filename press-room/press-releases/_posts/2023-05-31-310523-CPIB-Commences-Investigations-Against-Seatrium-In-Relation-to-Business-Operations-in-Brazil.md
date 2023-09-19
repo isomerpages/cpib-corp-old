@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB Commences Investigations Against Seatrium In Relation to Business Operations in Brazil"
-permalink: "/press-room/press-releases/310523-CPIB-Commences-Investigations"
+permalink: /press-room/press-releases/310523-cpib-commences-investigations/
 ---
 Acting on information received, the Corrupt Practices Investigation Bureau (CPIB) commenced investigations against Seatrium Limited and individuals from Seatrium Limited on alleged corruption offences that occurred in Brazil.
 

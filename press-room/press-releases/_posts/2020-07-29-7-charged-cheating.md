@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "7 Charged With Cheating"
-permalink: "/press-room/press-releases/7-charged-cheating"
+permalink: /press-room/press-releases/7-charged-cheating/
 ---
 On 29 July 2020, seven individuals were charged in Court for allegedly cheating Kurihara Kogyo Co., Ltd (“Kurihara”) in two separate schemes.
 

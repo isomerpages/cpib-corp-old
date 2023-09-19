@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CPIB's Latest Recruit"
-permalink: "/press-room/events/cpibs-latest-recruit"
+permalink: /press-room/events/cpibs-latest-recruit/
 ---
 ![kopi2](https://user-images.githubusercontent.com/84945723/124094240-2ae6a500-da8b-11eb-8365-dce5e859ccb0.jpg)
 

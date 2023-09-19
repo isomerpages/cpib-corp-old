@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coming Face to Face with the Law"
-permalink: "/press-room/press-releases/coming-face-face-law"
+permalink: /press-room/press-releases/coming-face-face-law/
 ---
 Individuals who resort to corruption for their own benefit will have to face the full consequences of the law. 
 

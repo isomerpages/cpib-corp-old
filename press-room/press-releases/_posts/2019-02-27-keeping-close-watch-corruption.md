@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Keeping a Close Watch on Corruption"
-permalink: "/press-room/press-releases/keeping-close-watch-corruption"
+permalink: /press-room/press-releases/keeping-close-watch-corruption/
 ---
 Companies and their employees are expected to keep a close watch to ensure that business dealings are conducted in a fair and transparent manner, instead of turning to corrupt practices.
 

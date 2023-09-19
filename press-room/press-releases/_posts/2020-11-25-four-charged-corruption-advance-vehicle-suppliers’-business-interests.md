@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Charged with Corruption to Advance Vehicle Suppliers’ Business Interests"
-permalink: "/press-room/press-releases/four-charged-corruption-advance-vehicle-suppliers’-business-interests"
+permalink: /press-room/press-releases/four-charged-corruption-advance-vehicle-suppliers’-business-interests/
 ---
 On 25 November 2020, four individuals were charged in court for allegedly committing the following offences:
 

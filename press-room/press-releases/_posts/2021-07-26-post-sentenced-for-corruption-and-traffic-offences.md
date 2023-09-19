@@ -1,7 +1,7 @@
 ---
 title: Sentenced For Corruption And Traffic Offences
 date: 2021-07-26
-permalink: /press-room/press-releases/sentenced-for-corruption-and-traffic-offences
+permalink: /press-room/press-releases/sentenced-for-corruption-and-traffic-offences/
 layout: post
 ---
 On 26 July 2021, Leow Khoon Chye (“Leow”)(“廖坤财”), a 58-year-old Singaporean man, was convicted and sentenced to 14 weeks’ imprisonment for corruptly offering a bribe to a Traffic Police Officer and various traffic offences. Additionally, Leow was disqualified from driving and holding or obtaining a driving licence for all classes of vehicles for 8 years.

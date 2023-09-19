@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illegal Exchanges Exposed"
-permalink: "/press-room/press-releases/illegal-exchanges-exposed"
+permalink: /press-room/press-releases/illegal-exchanges-exposed/
 ---
 Employees who ignore company guidelines in exchange for illicit benefits will have to face the consequences of their actions. On 30 August 2016, six former employees of Micro 2000 Technology Pte Ltd faced the consequences when they were charged for corruption offences and were subsequently sentenced on 15 September 2016.
 

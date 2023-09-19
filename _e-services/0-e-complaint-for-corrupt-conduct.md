@@ -1,6 +1,6 @@
 ---
 title: e-Complaint for Corrupt Conduct
-permalink: /e-services/e-complaint-for-corrupt-conduct
+permalink: /e-services/e-complaint-for-corrupt-conduct/
 ---
 
 <style>
@@ -26,7 +26,7 @@ Where possible, users should include the following information in their corrupti
 * Who was involved and what were their roles?
 * What was the bribe given and the favour shown?
 
-The FAQs for Lodging of Corruption Complaints can be found <a href="/faq/lodge-corruption-complaints/">here</a>. For complaints not related to corruption, please refer to this <a href="/files/Cases%20under%20Public%20Agencies%20(CPIB).pdf/">list</a> of functions handled by other government agencies which may be able to assist you with your queries.
+The FAQs for Lodging of Corruption Complaints can be found <a href="/faq/lodge-corruption-complaints/">here</a>. For complaints not related to corruption, please refer to this <a href="/files/cases%20under%20public%20agencies%20(cpib).pdf">list</a> of functions handled by other government agencies which may be able to assist you with your queries.
 
 The e-Complaint will require 5-10 minutes to complete. Once submitted, your e-Complaint will be processed within 10 working days.
 

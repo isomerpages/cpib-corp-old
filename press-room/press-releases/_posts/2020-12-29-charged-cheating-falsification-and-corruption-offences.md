@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged For Cheating, Falsification And Corruption Offences"
-permalink: "/press-room/press-releases/charged-cheating-falsification-and-corruption-offences"
+permalink: /press-room/press-releases/charged-cheating-falsification-and-corruption-offences/
 ---
 On 29 December 2020, three individuals will be charged in Court for respective cheating, falsification and corruption offences.
 

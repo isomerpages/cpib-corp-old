@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Corruption Reporting & Heritage Centre Officially Opened by Prime Minister Lee Hsien Loong"
-permalink: "/press-room/press-releases/corruption-reporting-heritage-centre-officially-opened-prime-minister-lee"
+permalink: /press-room/press-releases/corruption-reporting-heritage-centre-officially-opened-prime-minister-lee/
 ---
 The Corrupt Practices Investigation Bureau (CPIB) Corruption Reporting & Heritage Centre (CRHC) was officially opened by Guest of Honour Prime Minister Lee Hsien Loong on 6 June 2017.
 

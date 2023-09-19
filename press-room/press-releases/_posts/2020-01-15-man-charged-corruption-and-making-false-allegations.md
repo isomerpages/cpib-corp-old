@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Charged For Corruption And Making False Allegations"
-permalink: "/press-room/press-releases/man-charged-corruption-and-making-false-allegations"
+permalink: /press-room/press-releases/man-charged-corruption-and-making-false-allegations/
 ---
 The criminal justice system in Singapore is in place to protect the sanctity of the laws and its citizens. Individuals who are shown to have engaged in corrupt acts or made false allegations will have to bear the full brunt of the law.
 

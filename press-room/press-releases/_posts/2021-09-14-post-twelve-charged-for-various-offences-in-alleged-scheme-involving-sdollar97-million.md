@@ -1,7 +1,7 @@
 ---
 title: Twelve Charged For Various Offences in Alleged Scheme involving S$9.7 Million
 date: 2021-09-14
-permalink: /press-room/press-releases/140921-twelve-charged
+permalink: /press-room/press-releases/140921-twelve-charged/
 layout: post
 ---
 On 14 September 2021, twelve individuals were charged in Court for various offences. The scheme was allegedly hatched by the following five individuals to cheat Civil Tech Pte Ltd (“CTPL”) of about S$9.7 million. Four of these individuals were CTPL employees at the material time.

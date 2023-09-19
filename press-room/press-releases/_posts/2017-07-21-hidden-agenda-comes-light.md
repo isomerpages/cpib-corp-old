@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Hidden Agenda Comes To Light"
-permalink: "/press-room/press-releases/hidden-agenda-comes-light"
+permalink: /press-room/press-releases/hidden-agenda-comes-light/
 ---
 Employees should not have official dealings with companies that they have a personal or vested interest in or use corrupt means to obtain confidential information for competitive advantage.
 

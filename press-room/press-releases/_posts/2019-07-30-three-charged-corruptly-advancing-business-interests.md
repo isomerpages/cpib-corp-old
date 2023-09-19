@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three Charged with Corruptly Advancing Business Interests"
-permalink: "/press-room/press-releases/three-charged-corruptly-advancing-business-interests"
+permalink: /press-room/press-releases/three-charged-corruptly-advancing-business-interests/
 ---
 It is illegal to accept or give bribes as inducement to advance business interests. Engaging in such corrupt practices can lead to prosecution in a court of law. 
 

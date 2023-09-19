@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wheel of misfortune"
-permalink: "/press-room/press-releases/wheel-misfortune"
+permalink: /press-room/press-releases/wheel-misfortune/
 ---
 The clanking of slot machines, the shuffling sounds of poker cards or the jubilant shouts of the lucky winners are all too familiar when we step into a casino. Gambling to many is a game of luck and chance, and we all hope for the best odds to win. But when manipulation takes place, the game’s outcome is thwarted. Read on to find out what happens when bribery happens in the casino…
 

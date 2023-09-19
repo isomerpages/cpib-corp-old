@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Attempting to Bribe a Police Officer to Avoid COVID-19 Enforcement Action"
-permalink: "/press-room/press-releases/charged-attempting-bribe-police-officer-avoid-covid-19-enforcement-action"
+permalink: /press-room/press-releases/charged-attempting-bribe-police-officer-avoid-covid-19-enforcement-action/
 ---
 As part of enhanced measures introduced by the Multi-Ministry Taskforce to break the COVID-19 transmission chain, everyone must wear a mask over their nose and mouth when outside of their homes unless exempted under the law<sup>1</sup>. Under the COVID-19 (Temporary Measures) Act 2020, anyone caught not wearing a mask as mandated when they leave their residence faces a fine of S$300 for the first offence and S$1,000 for repeat offenders. Those caught trying to bribe their way out of COVID-19 related offences will land themselves in more serious trouble with the law.
 

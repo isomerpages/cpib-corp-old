@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Charged with Corruption involving $1.24 million"
-permalink: "/press-room/press-releases/charged-corruption-involving-124-million"
+permalink: /press-room/press-releases/charged-corruption-involving-124-million/
 ---
 On 24 July 2020, **Foo Yung Thye Henry (Fu Yongtai Henry)** (符永泰, 46-year-old male Singaporean) [“Foo”], a former Deputy Group Director of the Land Transport Authority (LTA), was charged in Court with the following offences:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Do Your Part To Stamp Out Corruption Poster-Slogan Competition and Roadshow cum Exhibition"
-permalink: "/press-room/events/do-your-part-stamp-out-corruption-poster-slogan-competition-and-roadshow-cum"
+permalink: /press-room/events/do-your-part-stamp-out-corruption-poster-slogan-competition-and-roadshow-cum/
 ---
 ![Anchor_Exhibition](https://user-images.githubusercontent.com/84945723/124114116-c2a1be80-da9e-11eb-80cd-9d8a54973f90.jpg)
 

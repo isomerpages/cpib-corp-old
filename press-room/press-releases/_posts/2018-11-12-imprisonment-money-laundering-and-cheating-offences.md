@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Imprisonment for Money Laundering and Cheating Offences"
-permalink: "/press-room/press-releases/imprisonment-money-laundering-and-cheating-offences"
+permalink: /press-room/press-releases/imprisonment-money-laundering-and-cheating-offences/
 ---
 It is an offence for individuals to intentionally launder their ill-gotten gains, either by removing it from the jurisdiction or converting the monies into other assets. Under the law, enforcement agencies like the Corrupt Practices Investigation Bureau (CPIB) are vested with the powers to investigate and charge individuals for such offences and recover the illegally obtained benefits.     
 

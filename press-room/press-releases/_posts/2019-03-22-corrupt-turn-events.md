@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Corrupt Turn Of Events"
-permalink: "/press-room/press-releases/corrupt-turn-events"
+permalink: /press-room/press-releases/corrupt-turn-events/
 ---
 When found flouting traffic rules, motorists should not turn to corruption as a way to get out of trouble with the law. 
 

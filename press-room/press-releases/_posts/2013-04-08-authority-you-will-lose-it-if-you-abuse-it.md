@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Authority - you will lose it if you abuse it"
-permalink: "/press-room/press-releases/authority-you-will-lose-it-if-you-abuse-it"
+permalink: /press-room/press-releases/authority-you-will-lose-it-if-you-abuse-it/
 ---
 Law Enforcers are rarely disobeyed as they are empowered to ensure laws are abided and order is maintained. Nevertheless, they sometimes may be tempted to ‘close one eye’ or abuse their power for personal gains. The consequences however, are predictable, if they abuse their authority, they would be severely dealt with.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attempt to Evade the Law Thwarted"
-permalink: "/press-room/press-releases/attempt-evade-law-thwarted"
+permalink: /press-room/press-releases/attempt-evade-law-thwarted/
 ---
 Attempts to bribe law enforcement officers will be firmly dealt with by the law.
 

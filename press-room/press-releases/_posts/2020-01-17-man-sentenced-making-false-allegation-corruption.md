@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Man Sentenced For Making False Allegation of Corruption"
-permalink: "/press-room/press-releases/man-sentenced-making-false-allegation-corruption"
+permalink: /press-room/press-releases/man-sentenced-making-false-allegation-corruption/
 ---
 Corrupt offenders will face the full brunt of the law. Similarly, those found guilty of making false allegations of corruption will also be appropriately dealt with.
 

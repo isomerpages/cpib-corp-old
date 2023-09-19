@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Three CNB Officers Jailed For Obstruction of Justice"
-permalink: "/press-room/press-releases/241122-Three-CNB"
+permalink: /press-room/press-releases/241122-three-cnb/
 ---
 Three Central Narcotics Bureau (“CNB”) officers have been sentenced to imprisonment for intentionally obstructing the course of justice, after they conspired to tamper with the urine sample belonging to a person who was suspected of consuming controlled drugs, at Woodlands Checkpoint in 2018. The officers are: 
 

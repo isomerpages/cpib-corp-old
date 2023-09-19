@@ -1,6 +1,6 @@
 ---
 title: Two Jailed For Bribe to Give False Evidence
-permalink: /press-room/press-releases/260722-Two-Jailed
+permalink: /press-room/press-releases/260722-two-jailed/
 date: 2022-07-26
 layout: post
 description: ""

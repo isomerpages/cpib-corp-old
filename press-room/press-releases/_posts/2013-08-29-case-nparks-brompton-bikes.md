@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Case on NParks Brompton bikes"
-permalink: "/press-room/press-releases/case-nparks-brompton-bikes"
+permalink: /press-room/press-releases/case-nparks-brompton-bikes/
 ---
 In July 2012, Ministry of National Development (MND) had referred to the Corrupt Practices Investigation Bureau (CPIB) the findings of their internal audit of the procurement of the 26 Brompton bicycles by National Parks Board (NParks) and requested CPIB to look into whether there were any criminal wrong doings in relation to the purchase.
 

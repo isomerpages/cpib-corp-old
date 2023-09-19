@@ -1,7 +1,7 @@
 ---
 title: Charged for Allegedly Attempting to Bribe a Police Officer
 date: 2021-09-16
-permalink: /press-room/press-releases/160921-bribe-police
+permalink: /press-room/press-releases/160921-bribe-police/
 layout: post
 ---
 On 16 September 2021, Xu Shoupei (“Xu”) (许守培) (29-year-old male People’s Republic of China national), will be charged in Court for allegedly attempting to bribe a police officer.

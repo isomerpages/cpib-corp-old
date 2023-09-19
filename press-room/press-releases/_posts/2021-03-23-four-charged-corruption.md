@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Charged with Corruption"
-permalink: "/press-room/press-releases/four-charged-corruption"
+permalink: /press-room/press-releases/four-charged-corruption/
 ---
 On 23 March 2021, four individuals will be charged in court for alleged corruption involving a total sum of about S$472,000. They are:
 

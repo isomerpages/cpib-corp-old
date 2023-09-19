@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four Men Fined and Sentenced to Jail for Fraudulent GST Tourist Refund Claims"
-permalink: "/press-room/press-releases/four-men-fined-and-sentenced-jail-fraudulent-gst-tourist-refund-claims"
+permalink: /press-room/press-releases/four-men-fined-and-sentenced-jail-fraudulent-gst-tourist-refund-claims/
 ---
 Four Indian nationals - Sundar Panneer Selvam (age 46), Baskaran Uthirapathy (age 28), Pounraj Natarajan (age 25), and Gobi Raman (age 31) - were convicted of offences that include fraudulent Goods and Services Tax (GST) tourist refund claims and corruption. They were also found guilty of money laundering by removing monies gained from the fraudulent GST refunds from Singapore.
 

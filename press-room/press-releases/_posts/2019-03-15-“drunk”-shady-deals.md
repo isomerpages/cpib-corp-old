@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Drunk on Shady Deals"
-permalink: "/press-room/press-releases/“drunk”-shady-deals"
+permalink: /press-room/press-releases/“drunk”-shady-deals/
 ---
 Resorting to bribery to further business interests is unfair and illegal. Individuals should never conspire to conduct business dealings through corrupt means. 
 

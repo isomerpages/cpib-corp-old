@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Illegal and Indecent Actions Exposed"
-permalink: "/press-room/press-releases/illegal-and-indecent-actions-exposed"
+permalink: /press-room/press-releases/illegal-and-indecent-actions-exposed/
 ---
 Law enforcement officers have the duty to maintain law and order, and conduct themselves with integrity and discipline. Those who abuse their position to obtain or solicit any form of gratification in the course of their duties must bear the full brunt of the law. 
 

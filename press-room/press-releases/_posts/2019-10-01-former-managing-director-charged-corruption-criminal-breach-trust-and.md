@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Former Managing Director Charged with Corruption, Criminal Breach of Trust and Transferring Benefits from Criminal Conduct"
-permalink: "/press-room/press-releases/former-managing-director-charged-corruption-criminal-breach-trust-and"
+permalink: /press-room/press-releases/former-managing-director-charged-corruption-criminal-breach-trust-and/
 ---
 Individuals who resort to corrupt practices for profit will be taken to task.
 

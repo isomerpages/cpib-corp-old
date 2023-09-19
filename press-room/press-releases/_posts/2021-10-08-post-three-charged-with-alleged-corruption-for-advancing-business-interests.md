@@ -1,7 +1,7 @@
 ---
 title: Three Charged with Alleged Corruption for Advancing Business Interests
 date: 2021-10-08
-permalink: /press-room/press-releases/081021-three-charged
+permalink: /press-room/press-releases/081021-three-charged/
 layout: post
 ---
 On 8 October 2021, three individuals will be charged in Court for alleged corruption offences, where the accused persons allegedly sought to advance the business interests of Honfoong Plastic Industries Pte Ltd (“Honfoong”) with JMS Singapore Pte Ltd (“JMS”). They are:

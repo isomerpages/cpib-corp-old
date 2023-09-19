@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singaporeans Charged for Corrupt Acts Committed Overseas"
-permalink: "/press-room/press-releases/singaporeans-charged-corrupt-acts-committed-overseas"
+permalink: /press-room/press-releases/singaporeans-charged-corrupt-acts-committed-overseas/
 ---
 Singaporeans who commit corrupt acts overseas can be taken to task by the authorities in Singapore under the Prevention of Corruption Act which has provisions for extra-territorial powers over a Singapore citizen.
 
