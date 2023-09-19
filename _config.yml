@@ -59,3 +59,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
+staging: https://staging.d1245ocz2hd2ms.amplifyapp.com
+prod: https://master.d1245ocz2hd2ms.amplifyapp.com
