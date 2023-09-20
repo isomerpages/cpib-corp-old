@@ -1,7 +1,10 @@
 ---
 layout: post
-title: Corruption Reporting & Heritage Centre"
-permalink: /press-room/events/corruption-reporting-heritage-centrecpib-commendation-ceremony-2019/
+title: Corruption Reporting & Heritage Centre
+permalink: /press-room/events/corruption-reporting-heritage-centre/
+date: 2017-01-09
+description: ""
+image: ""
 ---
 ![crhc_0](https://user-images.githubusercontent.com/84945723/124097771-79497300-da8e-11eb-9d55-0fb0ecfe1bf7.jpg)
 
