@@ -1,0 +1,7 @@
+collections:
+  faq:
+    output: true
+    order:
+      - general-enquiries.md
+      - lodging-of-corruption-complaints.md
+      - corruption-related.md

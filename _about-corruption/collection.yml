@@ -1,0 +1,20 @@
+collections:
+  about-corruption:
+    output: true
+    order:
+      - Prevention & Education/.keep
+      - Prevention & Education/definition-of-corruption.md
+      - Prevention & Education/singapore-s-corruption-control-framework.md
+      - Prevention & Education/prevention-of-corruption.md
+      - Prevention & Education/management-of-corruption-complaints.md
+      - Prevention & Education/reporting-of-corruption-complaints.md
+      - Prevention & Education/resources.md
+      - Legislation & Enforcement/.keep
+      - Legislation & Enforcement/introduction.md
+      - Legislation & Enforcement/prevention-of-corruption-act.md
+      - Legislation & Enforcement/corruption-drug-trafficking-and-other-serious-crimes-confiscation-of-benefits-act.md
+      - Case Studies/.keep
+      - Case Studies/public-sector.md
+      - Case Studies/private-sector.md
+      - Case Studies/stories-of-integrity.md
+      - resources.md
