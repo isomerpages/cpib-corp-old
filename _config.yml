@@ -19,19 +19,6 @@ colors:
       color: '#4d4d4d'
 
 
-collections:
-  who-we-are:
-    output: true
-  about-corruption:
-    output: true
-  research-room:
-    output: true
-  careers:
-    output: true
-  e-services:
-    output: true
-  faq:
-    output: true
 resources_name: press-room
 
 description: An Isomer site of the Singapore Government
@@ -54,10 +41,11 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+staging: https://staging.d1245ocz2hd2ms.amplifyapp.com
+prod: https://master.d1245ocz2hd2ms.amplifyapp.com
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-staging: https://staging.d1245ocz2hd2ms.amplifyapp.com
-prod: https://master.d1245ocz2hd2ms.amplifyapp.com
+  - jekyll-remote-theme

@@ -1,0 +1,12 @@
+collections:
+  research-room:
+    output: true
+    order:
+      - International Rankings/.keep
+      - International Rankings/transparency-international.md
+      - International Rankings/political-and-economic-risk-consultancy-limited.md
+      - International Rankings/the-world-bank.md
+      - Publications/.keep
+      - Publications/ss-iso-37001.md
+      - Publications/anti-corruption-guide-for-businesses.md
+      - annual-statistics-report.md
