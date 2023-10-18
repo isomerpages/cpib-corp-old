@@ -30,6 +30,7 @@ contacts:
     - other: <b>3. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
     - other: <b>4. EMAIL US</b><br>
     - email: report@cpib.gov.sg<br><br>
+    - other: <b>5. WRITE TO US</b><br>2 Lengkok Bahru, Singapore 159047<br><br>
     - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to this <a href="/files/cases%20under%20public%20agencies%20(cpib).pdf">list</a> of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
   - title: GENERAL ENQUIRIES<br><br>
     content:
