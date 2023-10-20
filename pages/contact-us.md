@@ -25,12 +25,11 @@ locations:
 contacts:
   - title: REPORTING OF CORRUPTION COMPLAINTS<br><br>
     content:
-    - other: <b>1. VISIT US</b><br>We are located at 2 Lengkok Bahru, Singapore 159047<br><br>
-    - other: <b>2. CALL OUR DUTY OFFICER</b><br>Local &nbsp 1800-376-0000<br>Overseas &nbsp (+65) 6376-0000<br><br><i>If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.</i><br><br>
-    - other: <b>3. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
-    - other: <b>4. EMAIL US</b><br>
+    - other: <b>1. CALL OUR DUTY OFFICER</b><br>Local &nbsp 1800-376-0000<br>Overseas &nbsp (+65) 6376-0000<br><br><i>If you reach out to our duty officer between 10pm to 6am, please leave a voice message for us to return your call.<br><br> An appointment may be scheduled with the Duty Officer where required.</i><br><br> 
+    - other: <b>2. LODGE AN <a href="/e-services/e-complaint-for-corrupt-conduct/">E-COMPLAINT</a></b><br><br>
+    - other: <b>3. EMAIL US</b><br>
     - email: report@cpib.gov.sg<br><br>
-    - other: <b>5. WRITE TO US</b><br>2 Lengkok Bahru, Singapore 159047<br><br>
+    - other: <b>4. WRITE TO US</b><br>2 Lengkok Bahru, Singapore 159047<br><br>
     - other: <i>For complaints <b>not</b> related to corruption, you may wish to refer to this <a href="/files/cases%20under%20public%20agencies%20(cpib).pdf">list</a> of functions handled by other government agencies which may be able to assist with your queries.</i><br><br>
   - title: GENERAL ENQUIRIES<br><br>
     content:

@@ -56,7 +56,7 @@ input:checked + label + .accordion-content {
 	<input type="checkbox" id="title1"  /><label for="title1">How do I make a corruption report?</label>
 	<div class="accordion-content">
     <p>The CPIB takes a serious view of any corrupt practices in Singapore and will not hesitate to take action against any parties involved in corrupt practices. We strongly encourage those with information about corruption to use the following channels to reach us:</p>
-    <p>a) Come down personally or write to us at 2 Lengkok Bahru, Singapore 159047<br>
+    <p>a) Write to us at 2 Lengkok Bahru, Singapore 159047<br>
 b) Call CPIB Duty Officer at 1800-376-0000<br>
 c) Lodge an <a href="/e-services/e-complaint-for-corrupt-conduct/">e-complaint</a><br>
 d) Email us at: <a href = "mailto: report@cpib.gov.sg">report@cpib.gov.sg</a><br>
@@ -76,17 +76,6 @@ e) Fax to us at: 6270 0320</p>
 	<input type="checkbox" id="title3"  /><label for="title3">Is it compulsory to provide my name and particulars when I lodge a corruption complaint with the CPIB?</label>
 	<div class="accordion-content">
     <p>No. You may remain anonymous if you so wish. The CPIB looks into all corruption complaints, including anonymous ones.</p>
-	</div>
-
-	<input type="checkbox" id="title4"  /><label for="title4">If I choose to visit the Bureau to lodge the corruption complaint, do I need to make an appointment with the Duty Officer?</label>
-	<div class="accordion-content">
-    <p>No appointment is required. You can visit us during office hours from Monday to Thursday between 8.30 am to 6 pm, and for Friday, 8.30 am to 5.30 pm</p>
-	</div>
-
-	<input type="checkbox" id="title5"  /><label for="title5">Who should I approach when I arrive at the CPIB?</label>
-	<div class="accordion-content">
-    <p>Please approach the Guard Room upon arrival at the CPIB. Advise the security officer at the Guard Room that you are here to lodge a corruption complaint, and he will direct you accordingly.</p>
-    <p>You will be required to produce your National Registration Identity Card (NRIC) or any identification pass for registration.</p>
 	</div>
 
 	<input type="checkbox" id="title6"  /><label for="title6">If I choose to call the CPIB Duty Officer hotline to lodge the corruption complaint, what time can I make the call?</label>
