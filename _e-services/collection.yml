@@ -1,0 +1,8 @@
+collections:
+  e-services:
+    output: true
+    order:
+      - e-complaint-for-corrupt-conduct.md
+      - e-booking-for-public-education-talk.md
+      - e-booking-for-learning-journey.md
+      - e-application-for-extension-of-bail-bond.md

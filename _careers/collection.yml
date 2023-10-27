@@ -1,0 +1,12 @@
+collections:
+  careers:
+    output: true
+    order:
+      - employee-value-proposition.md
+      - corrupt-practices-investigation-officer-cpio.md
+      - corrupt-practices-investigation-assistant-cpia.md
+      - management-executive.md
+      - Behind The Scenes/.keep
+      - Behind The Scenes/a-game-of-chess.md
+      - Behind The Scenes/the-human-touch.md
+      - Behind The Scenes/respect-is-earned.md

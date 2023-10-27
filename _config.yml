@@ -1,0 +1,51 @@
+title: Corrupt Practices Investigation Bureau
+url: "http://www.cpib.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+favicon: /images/cpib_favicon.ico
+
+# Site colors
+colors:
+  primary-color: '#343366'
+  secondary-color: '#343366'
+  media-colors:
+    - title: media-color-one
+      color: '#4d4d4d'
+    - title: media-color-two
+      color: '#4d4d4d'
+    - title: media-color-three
+      color: '#4d4d4d'
+    - title: media-color-four
+      color: '#4d4d4d'
+    - title: media-color-five
+      color: '#4d4d4d'
+
+
+resources_name: press-room
+
+description: An Isomer site of the Singapore Government
+
+##################################################################################################################
+# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
+##################################################################################################################
+permalink: none
+baseurl: ""
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+include: [_redirects]
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+# Custom CSS file path
+custom_css_path: "/misc/custom.css"
+custom_print_css_path: "/assets/css/print.css"
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+staging: https://staging.d1245ocz2hd2ms.amplifyapp.com
+prod: https://master.d1245ocz2hd2ms.amplifyapp.com
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
