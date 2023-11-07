@@ -21,12 +21,14 @@ b)	Liong Ah Chye (“Liong”) (梁亞财, 61-year-old male Singaporean), Direct
 4\.	Singapore adopts a strict zero-tolerance approach towards corruption. Any person who is convicted of a corruption offence under Section 6 of the Prevention of Corruption Act can be fined up to S$100,000 or sentenced to imprisonment of up to five years or to both.
 
 5\. CPIB looks into all corruption-related complaints and reports, including anonymous ones, and can be reached via the following channels:
+
 a) Lodge an [e-Complaint](https://www.cpib.gov.sg/e-services/e-complaint-for-corrupt-conduct);  
 b) Email us at [report@cpib.gov.sg](mailto:report@cpib.gov.sg);  
 c) Call the Duty Officer at 1800-376-0000; or  
 d) Write to us at the CPIB Headquarters @ 2 Lengkok Bahru, S159047.
 
 6\. Where possible, the report should include the following information:  
+
 a) Where, when and how did the alleged corrupt act happen?  
 b) Who was involved and what were their roles?  
 c) What was the bribe given and the favour shown?
