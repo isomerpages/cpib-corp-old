@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-On 3 November 2023, the following four individuals was charged in Court for allegedly committing corruption and criminal breach of trust offences: 
+On 3 November 2023, the following four individuals were charged in Court for allegedly committing corruption and criminal breach of trust offences: 
 
 a) Thiru Murugan Shanmugam (“Thiru”) (30-year-old male, Malaysian), a former Certis Cisco Auxiliary Police Officer (“APO”) attached to the Singapore Police Force (“SPF”) at the material time; 
 
