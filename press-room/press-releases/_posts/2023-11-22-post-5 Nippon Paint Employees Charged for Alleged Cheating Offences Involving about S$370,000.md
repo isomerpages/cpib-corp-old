@@ -23,3 +23,5 @@ e)    Er Sok Tin (“Er”) (余協珍, 57-year-old female Singaporean), Trai
 2\. Between April 2021 to February 2022, Er, Lee, Ong, Ng and Chua were alleged to have conspired on 11 occasions to abet an offence of cheating Nippon Paint into believing that they had no vested interest in a company \[“TLC Painting & Construction Pte Ltd” (“TLC”)\] that Nippon Paint was purchasing painting services from. As such, they deceived Nippon Paint into issuing 11 cheques with a total value of about S$370,000, sometime between 22 July 2021 and 24 December 2021 to TLC as payment for painting services. For their alleged actions, they each face one charge for an offence punishable under Section 420 read with Section 109 of the _Penal Code_ (Cap 224, 2008 Rev Ed), which charge is amalgamated under Section 124(4) of the _Criminal Procedure Code_ 2010.
 
 3\. Any person who is convicted of cheating and dishonestly inducing delivery of property under Section 420 of the Penal Code can be sentenced to imprisonment for a term which may extend to 10 years, and also be liable for a fine.
+
+**Corrupt Practices Investigation Bureau**
