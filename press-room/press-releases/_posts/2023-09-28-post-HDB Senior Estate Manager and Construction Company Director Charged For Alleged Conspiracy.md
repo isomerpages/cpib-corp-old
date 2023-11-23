@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-On 28 September 2023, the following two individuals will be charged in Court for allegedly committing offences under the Prevention of Corruption Act:
+On 28 September 2023, the following two individuals were charged in Court for allegedly committing offences under the Prevention of Corruption Act:
 
 a)	Tan Siam Chua (“Tan”) (陳森泉, 60-year-old male Singaporean), a Senior Estate Manager of the Housing & Development Board (“HDB”) at the material time; and
 
