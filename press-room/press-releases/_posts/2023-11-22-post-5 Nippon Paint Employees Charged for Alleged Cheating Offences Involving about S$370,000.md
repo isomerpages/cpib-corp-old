@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-On 22 November 2023, the following five Nippon Paint (Singapore) Pte Ltd (“Nippon Paint”) employees will be charged in Court for allegedly committing cheating offences:
+On 22 November 2023, the following five Nippon Paint (Singapore) Pte Ltd (“Nippon Paint”) employees were charged in Court for allegedly committing cheating offences:
 
 a)    Ong Min Khim (“Ong”) (58-year-old male Singaporean), General Manager of Nippon Paint at the material time;
 
