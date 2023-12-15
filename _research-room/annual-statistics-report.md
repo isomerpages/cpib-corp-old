@@ -1,12 +1,6 @@
 ---
 title: Annual Statistics Report
 permalink: /research-room/annual-statistics-report/
+variant: tiptap
 ---
-
-<img src="/images/research-rm_cpib-buildings-sg.jpg" alt="Annual Statistics Report">
-
-The Corrupt Practices Investigation Bureau releases annual statistics on the corruption situation in Singapore.
-
-<a href="/files/research room_ annual corruption stats 2020 press release.pdf" target="_blank">Corruption Statistics 2020 (pdf - 644KB)</a>
-
-
+<div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Annual Statistics Report" src="/images/research-rm_cpib-buildings-sg.jpg"></div><p>The Corrupt Practices Investigation Bureau releases annual statistics on the corruption situation in Singapore. Click to find out the <a href="/press-room/press-releases/280423-public-vigilance-critical-in-fighting-corruption/" rel="noopener noreferrer nofollow" target="_blank">latest annual statistics</a>.</p><p></p>
