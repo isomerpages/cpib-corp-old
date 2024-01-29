@@ -21,8 +21,7 @@ Moove Media Pte Ltd at the material time (2 Charges).</p>
 <p>2. In the course of corruption investigations into the above three individuals,
 CPIB discovered additional corruption and cheating offences involving 13
 more individuals in relation to advertisement and servicing contracts.
-These 13 individuals will also be charged in Court on 29 January 2024.
-They are:</p>
+These 13 individuals were charged in Court on 29 January 2024. They are:</p>
 <p>d) Lee Lian Hiang (李良贤, 55-year-old male, Singaporean), Director of BuildCool
 Engineering Pte Ltd at the material time (19 Charges);</p>
 <p>e) Lee Kok Keong (李各强, 50-year-old male, Singaporean), Director of Resources
@@ -405,7 +404,7 @@ imprisonment of up to three years or both.</p>
 <p>17. Companies are strongly advised to put in place robust procedures in
 areas such as procurement and internal audit to prevent falling victim
 to corrupt acts by their employees. Guidance for companies on measures
-to prevent corruption can be found in <a rel="noopener noreferrer nofollow" target="_blank">PACT: A  Practical Anti-Corruption Guide for Businesses in Singapore</a>,
+to prevent corruption can be found in <a rel="noopener noreferrer nofollow" target="_blank">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</a>,
 which is available on CPIB’s website. Companies are also strongly encouraged
 to obtain certification under the <a href="Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems" rel="noopener noreferrer nofollow" target="_blank">Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems</a>,
 which is designed to help companies implement or enhance an anti-bribery
@@ -414,7 +413,7 @@ management system to reduce corporate risk and costs related to bribery.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>PACT: <a href="https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/" rel="noopener noreferrer nofollow" target="_blank">https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/ </a> 
+<p>PACT: <a href="https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/" rel="noopener noreferrer nofollow" target="_blank">https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/</a>
 </p>
 </li>
 <li>
