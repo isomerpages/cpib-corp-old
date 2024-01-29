@@ -71,8 +71,7 @@ Management Singapore Pte Ltd:</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Accepted gratification</p>
-<p>from:</p>
+<p>Accepted gratification from:</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>Gratification accepted:</p>
@@ -84,16 +83,13 @@ Pacific Retail Management Singapore Pte Ltd:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Zhiping in conspiracy with</p>
-<p>Hong Hoe Chun Jane</p>
+<p>Xu Zhiping in conspiracy with Hong Hoe Chun Jane</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$216,440.20 in the form</p>
-<p>of cash</p>
+<p>S$216,440.20 in the form of cash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Channelbytes Pte Ltd</p>
-<p>and/or Channelink Pte Ltd.</p>
+<p>Channelbytes Pte Ltd and/or Channelink Pte Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -104,8 +100,7 @@ Pacific Retail Management Singapore Pte Ltd:</p>
 <p>S$26,459 in the form of loan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Channelbytes Pte Ltd</p>
-<p>and/or Channelink Pte Ltd.</p>
+<p>Channelbytes Pte Ltd and/or Channelink Pte Ltd.</p>
 </td>
 </tr>
 <tr>
