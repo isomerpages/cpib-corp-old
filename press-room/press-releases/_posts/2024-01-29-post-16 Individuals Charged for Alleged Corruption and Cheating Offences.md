@@ -122,8 +122,8 @@ Pacific Retail Management Singapore Pte Ltd:</p>
 <p>S$212,096.14 in the form of cash or loan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ChannelWerkz Pte Ltd</p>
-<p>and/or Channelbytes Pte Ltd and/or Channelink Pte Ltd.</p>
+<p>ChannelWerkz Pte Ltd and/or Channelbytes Pte Ltd and/or Channelink Pte
+Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -134,9 +134,7 @@ Pacific Retail Management Singapore Pte Ltd:</p>
 <p>S$16,500 in the form of cash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Channelbytes Pte Ltd</p>
-<p>and/or Channelink</p>
-<p>Pte Ltd.</p>
+<p>Channelbytes Pte Ltd and/or Channelink Pte Ltd.</p>
 </td>
 </tr>
 <tr>
@@ -155,8 +153,7 @@ Pacific Retail Management Singapore Pte Ltd:</p>
 <p>Tan Han Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$9,112 in the form of</p>
-<p>loan</p>
+<p>S$9,112 in the form of loan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secured Retail Solutions Pte Ltd.</p>
@@ -193,8 +190,7 @@ Asia Pte Ltd:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Xu Zhiping in conspiracy with</p>
-<p>Hong Hoe Chun Jane</p>
+<p>Xu Zhiping in conspiracy with Hong Hoe Chun Jane</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>S$15,668 in the form of cash</p>
@@ -326,8 +322,7 @@ Retail</p>
 <p>S$4,526.95 in the form of cash</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fei Siong Food</p>
-<p>Management Pte Ltd</p>
+<p>Fei Siong Food Management Pte Ltd</p>
 </td>
 </tr>
 <tr>
