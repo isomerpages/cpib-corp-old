@@ -59,8 +59,9 @@ was alleged to have accepted gratifications amounting to S$160,000 in the
 form of cash loans from Xu Zhiping, who conspired with Hong Hoe Chun Jane
 to advance the business interests of Channelbytes Pte Ltd and/or Channelink
 Pte Ltd with Moove Media Pte Ltd and/or ComfortDelGro Corporation Ltd.</p>
-<p>(ii) Alleged Corruption and Cheating Offences Involving an Employee of
-Pan Pacific Retail Management Singapore Pte Ltd</p>
+<p></p>
+<p><strong>(ii) Alleged Corruption and Cheating Offences Involving an Employee of Pan Pacific Retail Management Singapore Pte Ltd</strong>
+</p>
 <p>5. From March 2019 to January 2022, Muhammadd Fauzi bin Abdul Rahman was
 alleged to have accepted gratifications amounting to S$506,107.34 in the
 form of cash and/or loans from the following individuals to advance the
