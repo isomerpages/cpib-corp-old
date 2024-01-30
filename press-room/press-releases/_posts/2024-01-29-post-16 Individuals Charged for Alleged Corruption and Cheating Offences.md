@@ -215,8 +215,7 @@ Asia Pte Ltd:</p>
 <p>Lee Lian Hiang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$1,150 in the form of</p>
-<p>cash</p>
+<p>S$1,150 in the form of cash</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>BuildCool Engineering Pte Ltd.</p>
@@ -227,8 +226,7 @@ Asia Pte Ltd:</p>
 <p>Tan Han Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S$1,000 in the form of</p>
-<p>cash</p>
+<p>S$1,000 in the form of cash</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Secured Retail Solutions Pte Ltd.</p>
