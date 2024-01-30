@@ -38,5 +38,5 @@ a serious view of all reports and information that may disclose a corruption
 offence, whether the informant is known or anonymous. Together, we will
 continue to ensure that incorruptibility remains a key part of the Singaporean
 DNA.</p>
-<p><strong>Corrupt Practices Investigations Bureau</strong>
+<p><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
