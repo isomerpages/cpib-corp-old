@@ -308,8 +308,7 @@ interests of Secured Retail Solutions Pte Ltd with their respective companies:</
 </th>
 <th rowspan="1" colspan="1">
 <p>Advancing the business interests of the respective companies with Secured
-Retail</p>
-<p>Solutions Pte Ltd:</p>
+Retail Solutions Pte Ltd:</p>
 </th>
 </tr>
 <tr>
