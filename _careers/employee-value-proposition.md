@@ -12,8 +12,7 @@ For an overview, you can watch our corporate video below.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/MzUAm9foAxw?si=q6I-J5z0JkLaYi3Y"></iframe>
 </div>
-<p><strong>Fight against corruption – Our Calling and Dedication&nbsp;</strong>
-</p>
+<h4><strong>Fight against corruption – Our Calling and Dedication&nbsp;</strong></h4>
 <p><strong><em>Inspiring careers&nbsp;</em></strong>
 </p>
 <p>Join us on the frontline of our anti-corruption mission, where your career
