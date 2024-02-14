@@ -4,7 +4,7 @@ permalink: /careers/corrupt-practices-investigation-officer/
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kopi_IO.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/kopi_IO.png">
 </div>
 <h2><strong>Career as a Corrupt Practices Investigation Officer (CPIO)</strong></h2>
 <p><strong>Embark on a meaningful career investigating corruption in both the public and private sectors, where you can make an impact to safeguard interests of Singapore and Singaporeans!</strong> You
@@ -29,7 +29,7 @@ investigations.</p>
 <p>From complex financial trials to intricate webs of deception, each investigation
 is a testament to our resolve.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
 </div>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Training and Peer Support Network</em></strong>
