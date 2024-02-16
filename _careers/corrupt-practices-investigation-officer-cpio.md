@@ -135,6 +135,6 @@ environment; and</p>
 on <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website.
 Applications can only be submitted through the <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website during the Bureau’s
 recruitment exercises. If you wish to be notified of future recruitment
-exercise for CPIO, you can join our mailing list at <a href="https://go.gov.sg/cpiomailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
+exercise for CPIO, you can join our mailing list at <a href="go.gov.sg/cpiomailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
 </p>
 <p></p>
