@@ -29,7 +29,7 @@ investigations.</p>
 <p>From complex financial trials to intricate webs of deception, each investigation
 is a testament to our resolve.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
 </div>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Training and Peer Support Network</em></strong>
@@ -135,6 +135,6 @@ environment; and</p>
 on <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website.
 Applications can only be submitted through the <a href="https://www.careers.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Careers@Gov</a> website during the Bureau’s
 recruitment exercises. If you wish to be notified of future recruitment
-exercise for CPIO, you can join our mailing list at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
+exercise for CPIO, you can join our mailing list at <a href="https://go.gov.sg/cpiomailinglist" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cpiomailinglist</a>
 </p>
 <p></p>
