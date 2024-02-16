@@ -29,7 +29,7 @@ investigations.</p>
 <p>From complex financial trials to intricate webs of deception, each investigation
 is a testament to our resolve.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/kopi_detective.png">
 </div>
 <h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Training and Peer Support Network</em></strong>
