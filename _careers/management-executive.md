@@ -19,7 +19,7 @@ and new policies/programmes in various functional areas including legislations,
 international relations, data analytics, strategic planning and corporate
 relations. You will also manage policy reviews and line operations in human
 resource, finance, internal audit and corporate services.</p>
-<h3><strong>What awaits you after you join?</strong></h3>
+<h4><strong>What awaits you after you join?</strong></h4>
 <p><strong><em>Mentorship and Peer Support Network</em></strong>
 </p>
 <p>You will be assigned a buddy, who will orientate and familiarize you with
@@ -43,7 +43,7 @@ horizons and enrich experiences, CPIB also offers overseas and local attachment
 opportunities. This initiative allows our officers to gain insights from
 our partner organisation, bringing back learnings that enrich our collective
 expertise.</p>
-<h3><strong>Renumeration Package and Benefits&nbsp;</strong></h3>
+<h4><strong>Renumeration Package and Benefits&nbsp;</strong></h4>
 <ul data-tight="true" class="tight">
 <li>
 <p>Professional learning and development opportunities</p>
