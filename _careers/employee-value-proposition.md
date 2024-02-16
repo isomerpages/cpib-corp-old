@@ -23,7 +23,7 @@ all that we do. We are looking for individuals who share the same excitement
 and passion about the anti-corruption cause!</p>
 <p>CPIB is where purpose meets profession – come, be part of something bigger!</p>
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Orchid_signature.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Orchid_signature.png">
 </div>
 <p><strong><em>Grow with CPIB</em></strong>
 </p>
