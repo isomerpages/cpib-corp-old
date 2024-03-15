@@ -10,10 +10,10 @@ variant: tiptap
 ---
 <p>On 8 February 2024, Chiew Collin (“Chiew”) (56-year-old male Singaporean),
 former Chief Executive Officer of AON Risk Solutions, Singapore (“AON Singapore”)
-and later a Director of Corporate Solutions Agency of AIA Company Limited
-in Hong Kong (“AIA Hong Kong”), was charged with corruption and money laundering
-offences. Chiew was earlier charged on 7 December 2023 with one count of
-corruptly obtaining gratification.</p>
+and a former Director of Corporate Solutions of AIA Company Limited in
+Hong Kong, was charged with corruption and money laundering offences. Chiew
+was earlier charged on 7 December 2023 with one count of corruptly obtaining
+gratification.</p>
 <p>2.The following three individuals were also charged with allegedly giving
 gratification to Chiew and falsifying accounts:</p>
 <p>a) Chan Pai Sheng, Daniel (Zeng Baisheng, Daniel) (“Chan”) (曾百胜, 50-year-old
@@ -35,14 +35,14 @@ punishable under Section 6(a) of the <em>Prevention of Corruption Act</em>.
 Chan, Tan and Sin will each face four counts of conspiring to corruptly
 give gratification to Chiew, punishable under Section 6(b) read with Section
 29(a) of the <em>Prevention of Corruption Act</em>.</p>
-<p>4. In 2019, as a Director of AIA Hong Kong, Chiew allegedly obtained gratification
-of S$320,000 from Chan, over four occasions, as inducements to advance
-the business interests of FHG with AIA Hong Kong. For this, Chiew faces
-one count of corruptly obtaining gratification punishable under Section
-6(a) of the <em>Prevention of Corruption Act</em> and under Section 124(8)(a)(ii)
-of the <em>Criminal Procedure Code</em>, whilst Chan and Sin each face one
-count of conspiring to corruptly give gratification to Chiew, punishable
-under Section 6(b) read with Section 29(a) of the <em>Prevention of Corruption Act</em> and
+<p>4. In 2019, as a Director of AIA Company Limited, Chiew allegedly obtained
+gratification of S$320,000 from Chan, over four occasions, as inducements
+to advance the business interests of FHG with AIA Company Limited. For
+this, Chiew faces one count of corruptly obtaining gratification punishable
+under Section 6(a) of the <em>Prevention of Corruption Act</em> and under
+Section 124(8)(a)(ii) of the <em>Criminal Procedure Code</em>, whilst Chan
+and Sin each face one count of conspiring to corruptly give gratification
+to Chiew, punishable under Section 6(b) read with Section 29(a) of the <em>Prevention of Corruption Act</em> and
 under Section 124(8)(a)(ii) of the <em>Criminal Procedure Code</em>.</p>
 <p><em>Money Laundering Charge</em>
 </p>
