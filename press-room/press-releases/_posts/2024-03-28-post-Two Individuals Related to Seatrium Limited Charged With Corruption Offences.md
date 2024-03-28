@@ -108,7 +108,7 @@ five years and/or fined up to S$100,000. Any person convicted of an offence
 of obstruction of justice can be imprisoned for up to seven years and/or
 fined.</p>
 <p></p>
-<p><strong>Attorney-General's Chambers</strong>
+<p><strong>Attorney-General's Chambers</strong> 
 <br><strong>Corrupt Practices Investigation Bureau</strong>
 </p>
 <p></p>
