@@ -9,7 +9,7 @@ CPIB partnered with students from the Singapore Polytechnic Media, Arts & Design
 
 Download at the link below:
 
-<a href="/files/Corruption_Casebook_2.pdf" target="_blank">The Corruption Casebook 2 - Hidden Victims of Corruption</a>
+<a href="/files/the-corruption-casebook-2.pdf"target="_blank">The Corruption Casebook 2 - Hidden Victims of Corruption</a>
 
 <hr>
 
