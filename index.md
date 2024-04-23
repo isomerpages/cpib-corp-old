@@ -40,13 +40,13 @@ sections:
         image: /images/cpib history book.jpg
         alt: Scrupulous, Thorough, Fearless - The CPIB Story
     - infopic:
-        title: The Corruption Casebook 2 – Hidden Victims of Corruption
+        title: The Corruption Casebook – Stories From Under The Table
         subtitle: Resources
-        description: CPIB has published a second book for teenagers entitled The Corruption Casebook 2: Hidden Victims of Corruption with stories that aim to educate our youth that corruption is not a victimless crime.
+        description: Corruption has far-reaching consequences in various aspects of society. As part of CPIB’s prevention and outreach efforts, the CPIB has developed an e-Book titled "<B>The Corruption Casebook - Stories From Under The Table</b>" featuring stories on past cases of corruption.
         button: LEARN MORE
         url: /resources/corruption-casebook/
-        image: /images/Corruption Casebook 2 Cover.png
-        alt: The Corruption Casebook 2 – Hidden Victims of Corruption
+        image: /images/img_corruption_handbk.jpg
+        alt: The Corruption Casebook – Stories From Under The Table
     - infopic:
         title: PACT- A Practical Anti-Corruption Guide for Businesses in Singapore
         subtitle: Resources
