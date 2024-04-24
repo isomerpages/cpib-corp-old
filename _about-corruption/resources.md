@@ -126,7 +126,7 @@ ALYSSA: END OF Resources PAGE CARDS FLEXBOX LAYOUT AND STYLES
 <!--        </a>   -->
 <!--    </div><!-- .card -->
     <div class="card">
-        <a href="/resources/corruption-casebook">
+        <a href="/resources/corruption-casebook-2">
                 <img src="/images/Corruption Casebook 2 Cover 10.png">
             <div class="card-content">
                 <h6>Corruption Casebook 2 – Hidden Victims of Corruption</h6>
