@@ -45,7 +45,7 @@ sections:
         description: CPIB has published a second book for teenagers entitled "<B>The Corruption Casebook 2 - Hidden Victims of Corruption</b>" with stories that aim to educate our youth that corruption is not a victimless crime.
         button: LEARN MORE
         url: /resources/corruption-casebook/
-        image: /images/Corruption Casebook 2 Cover 8.png
+        image: /images/Corruption Casebook 2 Cover 9.png
         alt: The Corruption Casebook 2 – Hidden Victims of Corruption
     - infopic:
         title: PACT- A Practical Anti-Corruption Guide for Businesses in Singapore
