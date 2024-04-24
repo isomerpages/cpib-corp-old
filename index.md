@@ -44,7 +44,7 @@ sections:
         subtitle: Resources
         description: CPIB has published a second book for teenagers entitled "<B>The Corruption Casebook 2 - Hidden Victims of Corruption</b>" that features real-life cases and interactive activities which aim to educate youth that corruption is not a victimless crime.
         button: LEARN MORE
-        url: /resources/corruption-casebook/
+        url: /resources/corruption-casebook-2/
         image: /images/Corruption Casebook 2 Cover.png
         alt: The Corruption Casebook 2 – Hidden Victims of Corruption
     - infopic:
