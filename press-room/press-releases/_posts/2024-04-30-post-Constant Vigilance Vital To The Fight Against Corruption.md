@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>Corruption Situation in Singapore Remains Firmly Under Control </strong>
+<p><strong>Corruption Situation in Singapore Remains Firmly Under Control</strong>
 </p>
 <p>The corruption situation in Singapore remains firmly under control. The
 number of corruption-related reports received by CPIB, as well as the number
