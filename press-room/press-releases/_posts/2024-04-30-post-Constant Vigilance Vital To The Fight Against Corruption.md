@@ -219,7 +219,7 @@ treatment given to the Ministers and their spouses, no disclosure of privileged
 information in the rental process, and no evidence to suggest any abuse
 of position by the Ministers for personal gain.</p>
 <p>CPIB however discovered that there was a lack of precision in the determination
-of “Guide Rent” by Singapore Land Authority’s (SLA) for the rentals, which
+of “Guide Rent” by Singapore Land Authority (SLA) for the rentals, which
 led to an error in SLA’s public statement on 12 May 2023 which stated that
 Minister Shanmugam had paid above the guide rent when the monthly rental
 paid was in fact equal to the correct guide rent. While this has no bearing
