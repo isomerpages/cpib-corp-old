@@ -67,7 +67,12 @@ alleged to have accepted gratifications amounting to S$506,107.34 in the
 form of cash and/or loans from the following individuals to advance the
 business interests of their respective companies with Pan Pacific Retail
 Management Singapore Pte Ltd:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -174,7 +179,12 @@ when there was no such actual requirement.</p>
 in the form of cash amounting to S$32,518 and a used Microsoft surface
 laptop from the following individuals to advance the business interests
 of their respective companies with Sephora Asia Pte Ltd:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -252,7 +262,12 @@ Asia Pte Ltd:</p>
 have accepted gratifications amounting to S$100,300 in the form of cash
 from the following individuals to advance the business interests of their
 respective companies with The British Council:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -297,7 +312,12 @@ British Council:</p>
 conspired with Moh Jun Hao to give gratifications amounting to S$4,976.95
 in the form of cash to the following individuals to advance the business
 interests of Secured Retail Solutions Pte Ltd with their respective companies:</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -392,9 +412,9 @@ imprisonment of up to three years or both.</p>
 <p>17. Companies are strongly advised to put in place robust procedures in
 areas such as procurement and internal audit to prevent falling victim
 to corrupt acts by their employees. Guidance for companies on measures
-to prevent corruption can be found in <a rel="noopener noreferrer nofollow" target="_blank">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</a>,
+to prevent corruption can be found in <a href="https://www.cpib.gov.sg/research-room/publications/anti-corruption-guide-for-businesses/" rel="noopener noreferrer nofollow" target="_blank">PACT: A Practical Anti-Corruption Guide for Businesses in Singapore</a>,
 which is available on CPIB’s website. Companies are also strongly encouraged
-to obtain certification under the <a href="Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems" rel="noopener noreferrer nofollow" target="_blank">Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems</a>,
+to obtain certification under the <a href="https://www.cpib.gov.sg/research-room/publications/ss-iso-37001/" rel="noopener noreferrer nofollow" target="_blank">Singapore Standard (SS) ISO 37001 – Anti-Bribery Management Systems</a>,
 which is designed to help companies implement or enhance an anti-bribery
 management system to reduce corporate risk and costs related to bribery.</p>
 <p><em>Reference Links:</em>
