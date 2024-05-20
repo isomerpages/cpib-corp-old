@@ -1,10 +1,10 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
+feedback: ""
 faq: /faq/gen-enquiries/
 social_media:
-    facebook: https://www.facebook.com/pages/Corrupt-Practices-Investigation-Bureau-Singapore/338166923018158?sk=timeline
-    twitter: https://twitter.com/CPIBsg
-    youtube: http://www.youtube.com/channel/UCpvRQUO1IcQcCJyVwl3sqjg
-    instagram: 
-    linkedin: 
+  facebook: https://www.facebook.com/pages/Corrupt-Practices-Investigation-Bureau-Singapore/338166923018158?sk=timeline
+  twitter: https://twitter.com/CPIBsg
+  youtube: http://www.youtube.com/channel/UCpvRQUO1IcQcCJyVwl3sqjg
+  instagram: null
+  linkedin: null
